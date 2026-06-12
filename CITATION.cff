@@ -8,11 +8,11 @@ authors:
     affiliation: "Electric Power Research Institute (EPRI)"
     email: jmanoharan@epri.com
     orcid: "https://orcid.org/0009-0009-7765-9165"
-version: 1.0.0
-date-released: "2026-06-11"
+version: 1.0.1
+date-released: "2026-06-12"
 license: Apache-2.0
 repository-code: "https://github.com/jmanoharan/cgmes-graphrag-bench"
-doi: 10.5281/zenodo.PLACEHOLDER
+doi: 10.5281/zenodo.20671115
 preferred-citation:
   type: conference-paper
   title: "Trustworthy Knowledge Graphs for Grid Digitalization: Standards-Native CIM/CGMES vs. LLM-Extracted Graphs in Power-System GraphRAG"

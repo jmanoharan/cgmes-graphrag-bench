@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - 2026-06-12
+
+### Changed
+- Added Zenodo concept DOI (10.5281/zenodo.20671115) to citation metadata and README.
+
 ## [1.0.0] - 2026-06-11
 
 ### Added

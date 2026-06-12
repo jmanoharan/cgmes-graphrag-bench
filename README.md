@@ -7,7 +7,7 @@ Official artifact repository (CGMES GraphRAG Bench) for the paper.
 ![Python](https://img.shields.io/badge/python-%3E%3D3.10-blue)
 ![License](https://img.shields.io/badge/license-Apache--2.0-green)
 ![Data License](https://img.shields.io/badge/data-CC--BY--4.0-lightgrey)
-![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.PLACEHOLDER-blue)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20671115.svg)](https://doi.org/10.5281/zenodo.20671115)
 
 ## What this is
 
