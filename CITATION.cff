@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+type: software
+title: "CGMES GraphRAG Bench: artifact for 'Trustworthy Knowledge Graphs for Grid Digitalization: Standards-Native CIM/CGMES vs. LLM-Extracted Graphs in Power-System GraphRAG'"
+message: "If you use this software or data, please cite it using the metadata below."
+authors:
+  - family-names: Manoharan
+    given-names: Jayakumar
+    affiliation: "Electric Power Research Institute (EPRI)"
+    email: jmanoharan@epri.com
+    orcid: "https://orcid.org/0009-0009-7765-9165"
+version: 1.0.0
+date-released: "2026-06-11"
+license: Apache-2.0
+repository-code: "https://github.com/jmanoharan/cgmes-graphrag-bench"
+doi: 10.5281/zenodo.PLACEHOLDER
+preferred-citation:
+  type: conference-paper
+  title: "Trustworthy Knowledge Graphs for Grid Digitalization: Standards-Native CIM/CGMES vs. LLM-Extracted Graphs in Power-System GraphRAG"
+  authors:
+    - family-names: Manoharan
+      given-names: Jayakumar
+      affiliation: "Electric Power Research Institute (EPRI)"
+      orcid: "https://orcid.org/0009-0009-7765-9165"
+  year: 2026
+  status: submitted

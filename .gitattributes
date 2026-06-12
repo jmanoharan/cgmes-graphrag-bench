@@ -1,0 +1,10 @@
+* text=auto
+*.pdf binary
+*.graphml binary
+*.svg text
+*.xml text
+*.json text
+*.tex text
+*.bib text
+*.py text
+*.sh text eol=lf

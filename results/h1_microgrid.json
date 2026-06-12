@@ -1,0 +1,28 @@
+{
+  "total_llm_edges": 190,
+  "total_llm_entities": 149,
+  "aligned_entities": 120,
+  "entity_alignment_rate": 0.8054,
+  "edge_classes": {
+    "MATCH": 146,
+    "TYPE_A": 2,
+    "TYPE_B": 1,
+    "TYPE_C": 0,
+    "UNALIGNED": 41
+  },
+  "h1_denominator_aligned_scored": 148,
+  "h1_error_rate": 0.0135,
+  "h1_match_rate": 0.9865,
+  "label_fidelity_among_matches": 1.0,
+  "topological_recall": 0.5336,
+  "recall_universe_pairs": 298,
+  "recall_recovered_pairs": 159,
+  "alignment_report": {
+    "exact": 73,
+    "prefix_stripped": 47,
+    "fuzzy": 0,
+    "ambiguous": 1,
+    "no_match": 28
+  },
+  "notes": "MATCH requires CGMES support for the endpoint pair; label mismatch alone is NOT an error (reported as label_fidelity). TYPE_B excluded from denominator per frozen protocol."
+}

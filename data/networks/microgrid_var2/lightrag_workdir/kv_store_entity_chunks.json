@@ -1,0 +1,1554 @@
+{
+  "BE-TR2_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 2,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-TR2_3"
+  },
+  "Winding 2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Winding 2"
+  },
+  "NL-TR2_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 2,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-TR2_1"
+  },
+  "PP_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 7,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "PP_Amsterdam"
+  },
+  "Winding 1 Of NL-TR2_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Winding 1 Of NL-TR2_1"
+  },
+  "N1230992195": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 5,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "N1230992195"
+  },
+  "Winding 2 Of NL-TR2_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Winding 2 Of NL-TR2_1"
+  },
+  "NL-Busbar_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 3,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-Busbar_2"
+  },
+  "NL-TR2_1 Tap Changer": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-TR2_1 Tap Changer"
+  },
+  "Voltage Level 15.8": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 2,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Voltage Level 15.8"
+  },
+  "N1230822413": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 3,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "N1230822413"
+  },
+  "NL-G3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-G3"
+  },
+  "Gen-12908": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Gen-12908"
+  },
+  "Operating Case NL-G3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Operating Case NL-G3"
+  },
+  "NL-G2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-G2"
+  },
+  "Gen-12910": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Gen-12910"
+  },
+  "Operating Case NL-G2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Operating Case NL-G2"
+  },
+  "BE-G1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-G1"
+  },
+  "Voltage Level 10.5": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 3,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Voltage Level 10.5"
+  },
+  "PP_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 7,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "PP_Brussels"
+  },
+  "BE-Busbar_4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 4,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Busbar_4"
+  },
+  "Gen-1229753060": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Gen-1229753060"
+  },
+  "Winding 2 Of BE-TR2_3 Transformer": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Winding 2 Of BE-TR2_3 Transformer"
+  },
+  "Studied Operating Case": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Studied Operating Case"
+  },
+  "NL_TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL_TR2_2"
+  },
+  "NL_TR2_2 Winding 1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL_TR2_2 Winding 1"
+  },
+  "NL_TR2_2 Winding 2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL_TR2_2 Winding 2"
+  },
+  "NL_TR2_2 Ratio Tap Changer": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL_TR2_2 Ratio Tap Changer"
+  },
+  "NL_Busbar__4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 4,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL_Busbar__4"
+  },
+  "NL_TR2_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL_TR2_3"
+  },
+  "NL_TR2_3 Winding 1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL_TR2_3 Winding 1"
+  },
+  "NL_TR2_3 Winding 2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL_TR2_3 Winding 2"
+  },
+  "NL_TR2_3 Ratio Tap Changer": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL_TR2_3 Ratio Tap Changer"
+  },
+  "NL_TR_BUS2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 3,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL_TR_BUS2"
+  },
+  "BE-TR3_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-TR3_1"
+  },
+  "BE-TR3_1 Winding 1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-TR3_1 Winding 1"
+  },
+  "BE-TR3_1 Winding 2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-TR3_1 Winding 2"
+  },
+  "BE-TR3_1 Winding 3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-TR3_1 Winding 3"
+  },
+  "BE-TR3_1 Ratio Tap Changer": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-TR3_1 Ratio Tap Changer"
+  },
+  "BE_TR_BUS2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 6,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE_TR_BUS2"
+  },
+  "BE_TR_BUS4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 5,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE_TR_BUS4"
+  },
+  "BE-Busbar_5": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 2,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Busbar_5"
+  },
+  "BE-TR2_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 2,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-TR2_1"
+  },
+  "BE-TR2_1 Winding 1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-TR2_1 Winding 1"
+  },
+  "Unspecified Equipment At NL_Busbar__4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Unspecified Equipment At NL_Busbar__4"
+  },
+  "Machine BE-G1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Machine BE-G1"
+  },
+  "Generating Unit Gen-1229753060": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Generating Unit Gen-1229753060"
+  },
+  "Machine BE-G2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Machine BE-G2"
+  },
+  "Generating Unit Gen-1229753024": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Generating Unit Gen-1229753024"
+  },
+  "Machine NL-G1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Machine NL-G1"
+  },
+  "Generating Unit Gen-12923": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Generating Unit Gen-12923"
+  },
+  "Anvers": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 3,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Anvers"
+  },
+  "Energy Consumer BE-Load_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Energy Consumer BE-Load_2"
+  },
+  "Energy Consumer NL-Load_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Energy Consumer NL-Load_2"
+  },
+  "Energy Consumer NL-Load_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Energy Consumer NL-Load_1"
+  },
+  "Energy Consumer L-1230804819": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Energy Consumer L-1230804819"
+  },
+  "Maximum Operating Power": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Maximum Operating Power"
+  },
+  "Minimum Operating Power": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Minimum Operating Power"
+  },
+  "Active Power Injection": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Active Power Injection"
+  },
+  "Reactive Power Injection": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Reactive Power Injection"
+  },
+  "Active Power Consumption": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Active Power Consumption"
+  },
+  "Reactive Power Consumption": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Reactive Power Consumption"
+  },
+  "Busbar_4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Busbar_4"
+  },
+  "Machine BE-G1 Active Power 90 MW": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Machine BE-G1 Active Power 90 MW"
+  },
+  "Machine BE-G1 Reactive Power 100.256 MVAr": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Machine BE-G1 Reactive Power 100.256 MVAr"
+  },
+  "Machine BE-G2 Active Power 118 MW": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Machine BE-G2 Active Power 118 MW"
+  },
+  "Machine BE-G2 Reactive Power 18.7203 MVAr": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Machine BE-G2 Reactive Power 18.7203 MVAr"
+  },
+  "Machine NL-G1 Active Power 600.493 MW": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Machine NL-G1 Active Power 600.493 MW"
+  },
+  "Machine NL-G1 Reactive Power 386.923 MVAr": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Machine NL-G1 Reactive Power 386.923 MVAr"
+  },
+  "BE-Load_2 Active Power 200 MW": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Load_2 Active Power 200 MW"
+  },
+  "BE-Load_2 Reactive Power 50 MVAr": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Load_2 Reactive Power 50 MVAr"
+  },
+  "NL-Load_2 Active Power 10 MW": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-Load_2 Active Power 10 MW"
+  },
+  "NL-Load_2 Reactive Power 10 MVAr": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-Load_2 Reactive Power 10 MVAr"
+  },
+  "NL-Load_1 Active Power 90 MW": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-Load_1 Active Power 90 MW"
+  },
+  "NL-Load_1 Reactive Power 280 MVAr": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-Load_1 Reactive Power 280 MVAr"
+  },
+  "L-1230804819 Active Power 1 MW": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "L-1230804819 Active Power 1 MW"
+  },
+  "L-1230804819 Reactive Power 0 MVAr": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "L-1230804819 Reactive Power 0 MVAr"
+  },
+  "Entso-E Cgmes Microgrid Test Configuration": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Entso-E Cgmes Microgrid Test Configuration"
+  },
+  "Transmission Network": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Transmission Network"
+  },
+  "Be Region": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Be Region"
+  },
+  "Eu Region": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Eu Region"
+  },
+  "Nl Region": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Nl Region"
+  },
+  "Substation Pp_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Substation Pp_Brussels"
+  },
+  "Substation Anvers": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Substation Anvers"
+  },
+  "Substation Pp_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Substation Pp_Amsterdam"
+  },
+  "Voltage Level 380.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 2,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Voltage Level 380.0"
+  },
+  "Voltage Level 225.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Voltage Level 225.0"
+  },
+  "Voltage Level 110.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 2,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Voltage Level 110.0"
+  },
+  "Voltage Level 21.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Voltage Level 21.0"
+  },
+  "Voltage Level 220.0 Anvers": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Voltage Level 220.0 Anvers"
+  },
+  "Voltage Level 400.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 2,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Voltage Level 400.0"
+  },
+  "Voltage Level 220.0 Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Voltage Level 220.0 Amsterdam"
+  },
+  "Busbar Section N1230822396": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Busbar Section N1230822396"
+  },
+  "Busbar Section Nl-Busbar_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Busbar Section Nl-Busbar_2"
+  },
+  "Busbar Section Be-Busbar_6": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Busbar Section Be-Busbar_6"
+  },
+  "Topological Node Nl_Busbar__4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Topological Node Nl_Busbar__4"
+  },
+  "Topological Node Nl-Busbar_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Topological Node Nl-Busbar_2"
+  },
+  "Topological Node Be-Busbar_6": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Topological Node Be-Busbar_6"
+  },
+  "Be": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Be"
+  },
+  "Eu": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Eu"
+  },
+  "Nl": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Nl"
+  },
+  "Ac Line Segment": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Ac Line Segment"
+  },
+  "Power Transformer": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Power Transformer"
+  },
+  "Synchronous Machine": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Synchronous Machine"
+  },
+  "Energy Consumer": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Energy Consumer"
+  },
+  "Busbar Section Nl-Busbar_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Busbar Section Nl-Busbar_3"
+  },
+  "Station Anvers": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Station Anvers"
+  },
+  "BE-Busbar_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 4,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Busbar_2"
+  },
+  "BE-Line_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Line_1"
+  },
+  "BE-Line_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Line_3"
+  },
+  "NL-Line_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-Line_1"
+  },
+  "NL-Line_4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-Line_4"
+  },
+  "BE-Line_7": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Line_7"
+  },
+  "NL-Line_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-Line_3"
+  },
+  "BE-Line_5": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Line_5"
+  },
+  "TN_Border_ST23": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "TN_Border_ST23"
+  },
+  "TN_Border_AL11": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "TN_Border_AL11"
+  },
+  "TN_Border_ST24": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "TN_Border_ST24"
+  },
+  "TN_Border_GY11": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "TN_Border_GY11"
+  },
+  "Usbar_6": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Usbar_6"
+  },
+  "BE-Busbar_6": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 3,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Busbar_6"
+  },
+  "NL-Busbar_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-Busbar_3"
+  },
+  "BE-Busbar_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Busbar_3"
+  },
+  "N1230992288": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "N1230992288"
+  },
+  "BE-Busbar_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Busbar_1"
+  },
+  "N1230992411": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "N1230992411"
+  },
+  "N1230992291": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "N1230992291"
+  },
+  "N1230992414": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "N1230992414"
+  },
+  "NL-Busbar_5": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-Busbar_5"
+  },
+  "BE-TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-TR2_2"
+  },
+  "Winding 1 Of BE-TR2_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Winding 1 Of BE-TR2_1"
+  },
+  "Winding 2 Of BE-TR2_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Winding 2 Of BE-TR2_1"
+  },
+  "Winding 1 Of BE-TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Winding 1 Of BE-TR2_2"
+  },
+  "Winding 2 Of BE-TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Winding 2 Of BE-TR2_2"
+  },
+  "Winding 1 Of BE-TR2_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Winding 1 Of BE-TR2_3"
+  },
+  "Winding 2 Of BE-TR2_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Winding 2 Of BE-TR2_3"
+  },
+  "Phase Tap Changer BE-TR2_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Phase Tap Changer BE-TR2_1"
+  },
+  "Ratio Tap Changer BE-TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Ratio Tap Changer BE-TR2_2"
+  },
+  "Ratio Tap Changer BE-TR2_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Ratio Tap Changer BE-TR2_3"
+  },
+  "Rated Voltage 400 kV": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Rated Voltage 400 kV"
+  },
+  "Rated Voltage 220 kV": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Rated Voltage 220 kV"
+  },
+  "Rated Voltage 110.344 kV": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Rated Voltage 110.344 kV"
+  },
+  "Rated Voltage 110 kV": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Rated Voltage 110 kV"
+  },
+  "Rated Voltage 10.5 kV": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Rated Voltage 10.5 kV"
+  },
+  "Rated Apparent Power 650 MVA": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Rated Apparent Power 650 MVA"
+  },
+  "Rated Apparent Power 250 MVA": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Rated Apparent Power 250 MVA"
+  },
+  "Tap Steps 1 To 25 Neutral 13": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Tap Steps 1 To 25 Neutral 13"
+  },
+  "Tap Steps 1 To 33 Neutral 17": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Tap Steps 1 To 33 Neutral 17"
+  },
+  "L-1230804819": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "L-1230804819"
+  },
+  "NL-Load_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-Load_3"
+  },
+  "BE-Load_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Load_1"
+  },
+  "BE_S2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE_S2"
+  },
+  "BE_S1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE_S1"
+  },
+  "NL-S1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-S1"
+  },
+  "B1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "B1"
+  },
+  "Voltage Level 220.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Voltage Level 220.0"
+  },
+  "BE-Line_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Line_2"
+  },
+  "NL-Line_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-Line_2"
+  },
+  "TN_Border_MA11": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "TN_Border_MA11"
+  },
+  "NL-Line_5": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "NL-Line_5"
+  },
+  "BE-Line_4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Line_4"
+  },
+  "BE-Line_6": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "BE-Line_6"
+  },
+  "Power Transformers": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Power Transformers"
+  },
+  "Winding 1 of NL_TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Winding 1 of NL_TR2_2"
+  },
+  "Winding 2 of NL_TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "Winding 2 of NL_TR2_2"
+  },
+  "N": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781190013,
+    "update_time": 1781190013,
+    "_id": "N"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "method": "LightRAG 1.5.1 (Azure gpt-5.1 builder + local MiniLM embeddings)",
+  "wall_sec": 78.24288153648376,
+  "llm_calls": 18,
+  "prompt_tokens": 65256,
+  "completion_tokens": 22706,
+  "total_tokens": 87962,
+  "corpus_words": 2299,
+  "nodes": 149,
+  "edges": 190
+}

@@ -1,0 +1,3601 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Be-Tr2_3">
+      <data key="d0">Be-Tr2_3</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Be-Tr2_3 is a ratio tap changer installed on winding 2, with tap steps from 1 to 33 and neutral step 17.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 2">
+      <data key="d0">Winding 2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 2 is a transformer winding on which the ratio tap changer Be-Tr2_3 is installed.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Nl-Tr2_1">
+      <data key="d0">Nl-Tr2_1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Nl-Tr2_1 is a 2-winding power transformer installed in substation PP_Amsterdam and equipped with a ratio tap changer on winding 1.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Pp_Amsterdam">
+      <data key="d0">Pp_Amsterdam</data>
+      <data key="d1">location</data>
+      <data key="d2">Pp_Amsterdam is a substation where transformer Nl-Tr2_1 and synchronous machines Nl-G3 and Nl-G2 operate.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 1">
+      <data key="d0">Winding 1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 1 is a transformer winding of Nl-Tr2_1 with a rated voltage of 400 kV and a rated apparent power of 320 MVA, connected to topological node N1230992195.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="N1230992195">
+      <data key="d0">N1230992195</data>
+      <data key="d1">artifact</data>
+      <data key="d2">N1230992195 is a topological node in the power network connected to multiple AC line segments.&lt;SEP&gt;N1230992195 is a topological node that connects to AC line segment NL-Line_1.&lt;SEP&gt;N1230992195 is a topological node connected to substation PP_Amsterdam and hosting a linear shunt compensator.&lt;SEP&gt;N1230992195 is a topological node to which winding 1 of transformer Nl-Tr2_1 is connected.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-002&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-008&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Nl-Busbar_2">
+      <data key="d0">Nl-Busbar_2</data>
+      <data key="d1">location</data>
+      <data key="d2">Nl-Busbar_2 is a topological node acting as a busbar to which winding 2 of transformer Nl-Tr2_1 is connected.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Nl-Tr2_1 (Tap Changer)">
+      <data key="d0">Nl-Tr2_1 (Tap Changer)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Nl-Tr2_1 (Tap Changer) is a ratio tap changer on winding 1 of transformer Nl-Tr2_1, with steps from -20 to 20 and neutral step 0.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Nl-G3">
+      <data key="d0">Nl-G3</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Nl-G3 is a synchronous machine with rated apparent power 0 MVA, operating in voltage level 15.8 of substation Pp_Amsterdam and connected to node N1230822413.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 15.8">
+      <data key="d0">Voltage Level 15.8</data>
+      <data key="d1">other</data>
+      <data key="d2">Voltage Level 15.8 is a voltage level at substation PP_Amsterdam associated with busbar sections NL-Busbar_3 and NL-Busbar_5 and has a nominal voltage of 15.75 kV.&gt;&lt;SEP&gt;Voltage Level 15.8 is an electrical voltage level at which synchronous machines Nl-G3 and Nl-G2 operate within substation Pp_Amsterdam.&gt;&lt;SEP&gt;Voltage Level 15.8 is a voltage level value associated with substation PP_Amsterdam.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-007&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="N1230822413">
+      <data key="d0">N1230822413</data>
+      <data key="d1">location</data>
+      <data key="d2">N1230822413 is a topological node to which Winding 2 Of NL_TR2_2 is connected.&lt;SEP&gt;N1230822413 is a topological node corresponding to busbar section NL-Busbar_3.&gt;&lt;SEP&gt;N1230822413 is a topological node to which synchronous machines Nl-G3 and Nl-G2 are connected.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-004&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Gen-12908">
+      <data key="d0">Gen-12908</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Gen-12908 is a generating unit with maximum operating power of 250 MW and minimum operating power of 130 MW, to which machine Nl-G3 belongs.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Gen-12910">
+      <data key="d0">Gen-12910</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Gen-12910 is a generating unit with maximum operating power of 250 MW and minimum operating power of 130 MW, to which machine Nl-G2 belongs.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Nl-G2">
+      <data key="d0">Nl-G2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Nl-G2 is a synchronous machine with rated apparent power 0 MVA, operating in voltage level 15.8 of substation Pp_Amsterdam and connected to node N1230822413.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Be-G1">
+      <data key="d0">Be-G1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Be-G1 is a synchronous machine with rated apparent power 0 MVA, operating in voltage level 10.5 of substation Pp_Brussels and connected to node Be-Busbar_4.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 10.5">
+      <data key="d0">Voltage Level 10.5</data>
+      <data key="d1">other</data>
+      <data key="d2">Voltage Level 10.5 is a voltage level at substation PP_Brussels associated with busbar section BE-Busbar_4 and has a nominal voltage of 10.5 kV.&gt;&lt;SEP&gt;Voltage Level 10.5 is an electrical voltage level at which synchronous machine Be-G1 operates within substation Pp_Brussels.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Pp_Brussels">
+      <data key="d0">Pp_Brussels</data>
+      <data key="d1">location</data>
+      <data key="d2">Pp_Brussels is a substation where synchronous machine Be-G1 operates.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Be-Busbar_4">
+      <data key="d0">Be-Busbar_4</data>
+      <data key="d1">location</data>
+      <data key="d2">Be-Busbar_4 is a topological node acting as a busbar to which synchronous machine Be-G1 is connected.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Maximum Operating Power 250 Mw">
+      <data key="d0">Maximum Operating Power 250 Mw</data>
+      <data key="d1">data</data>
+      <data key="d2">Maximum Operating Power 250 Mw is the maximum operating power value associated with generating units Gen-12908 and Gen-12910.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Minimum Operating Power 130 Mw">
+      <data key="d0">Minimum Operating Power 130 Mw</data>
+      <data key="d1">data</data>
+      <data key="d2">Minimum Operating Power 130 Mw is the minimum operating power value associated with generating units Gen-12908 and Gen-12910.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Maximum Operating Power 200 Mw">
+      <data key="d0">Maximum Operating Power 200 Mw</data>
+      <data key="d1">data</data>
+      <data key="d2">Maximum Operating Power 200 Mw is the maximum operating power value associated with generating unit Gen-1229753060.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Minimum Operating Power 50 Mw">
+      <data key="d0">Minimum Operating Power 50 Mw</data>
+      <data key="d1">data</data>
+      <data key="d2">Minimum Operating Power 50 Mw is the minimum operating power value associated with generating unit Gen-1229753060.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Gen-1229753060">
+      <data key="d0">Gen-1229753060</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Gen-1229753060 is a generating unit with maximum operating power of 200 MW and minimum operating power of 50 MW, to which machine Be-G1 belongs.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-TR2_3">
+      <data key="d0">BE-TR2_3</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-TR2_3 is a 2-winding power transformer installed in substation PP_Brussels.&lt;SEP&gt;BE-TR2_3 is a ratio tap changer installed on winding 2 of a transformer, with tap steps from 1 to 33 and neutral step 17.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-TR2_1">
+      <data key="d0">NL-TR2_1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL-TR2_1 is a power transformer installed in substation PP_Amsterdam.&lt;SEP&gt;NL-TR2_1 is a 2-winding power transformer installed in substation PP_Amsterdam and equipped with a ratio tap changer on winding 1.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-TR2_1 Tap Changer">
+      <data key="d0">NL-TR2_1 Tap Changer</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL-TR2_1 Tap Changer is a ratio tap changer on winding 1 of transformer NL-TR2_1, with steps from -20 to 20 and neutral step 0.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="PP_Amsterdam">
+      <data key="d0">PP_Amsterdam</data>
+      <data key="d1">location</data>
+      <data key="d2">PP_Amsterdam is a substation where power transformer NL_TR2_2 is installed.&lt;SEP&gt;PP_Amsterdam is a substation where power transformer NL_TR2_3 is installed.&lt;SEP&gt;PP_Amsterdam is a substation that contains busbar sections such as NL-Busbar_3 and NL-Busbar_5 at voltage level 15.8.&gt;&lt;SEP&gt;PP_Amsterdam is a substation where power transformer NL-TR2_1 is installed.&lt;SEP&gt;PP_Amsterdam is a substation mentioned as hosting energy consumers, linear shunt compensators, and breakers at various voltage levels.&lt;SEP&gt;PP_Amsterdam is a substation where transformer NL-TR2_1 and synchronous machines NL-G3 and NL-G2 operate.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-004&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-001&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-005&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-008&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="PP_Brussels">
+      <data key="d0">PP_Brussels</data>
+      <data key="d1">location</data>
+      <data key="d2">PP_Brussels is a substation where power transformers BE-TR3_1 and BE-TR2_1 are installed.&lt;SEP&gt;PP_Brussels is a substation that contains multiple busbar sections at different voltage levels including 110.0, 225.0, 380.0, and 10.5.&gt;&lt;SEP&gt;PP_Brussels is a substation where multiple power transformers are installed.&lt;SEP&gt;PP_Brussels is a substation that hosts busbar section BE-Busbar_4 at voltage level 10.5 and operates at a nominal voltage of 10.5 kV.&lt;SEP&gt;PP_Brussels is a substation that hosts energy consumers and linear shunt compensators at multiple voltage levels.&lt;SEP&gt;PP_Brussels is a substation where synchronous machine BE-G1 operates.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-004&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-002&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-001&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-005&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-G3 Active Power 150 MW">
+      <data key="d0">NL-G3 Active Power 150 MW</data>
+      <data key="d1">data</data>
+      <data key="d2">NL-G3 Active Power 150 MW is the active power value of 150 MW injected by synchronous machine NL-G3 into the network in the studied operating case.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-G3 Reactive Power 83.296 MVAr">
+      <data key="d0">NL-G3 Reactive Power 83.296 MVAr</data>
+      <data key="d1">data</data>
+      <data key="d2">NL-G3 Reactive Power 83.296 MVAr is the reactive power value of 83.296 MVAr injected by synchronous machine NL-G3 into the network in the studied operating case.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-G2 Active Power 140 MW">
+      <data key="d0">NL-G2 Active Power 140 MW</data>
+      <data key="d1">data</data>
+      <data key="d2">NL-G2 Active Power 140 MW is the active power value of 140 MW injected by synchronous machine NL-G2 into the network in the studied operating case.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-G2 Reactive Power 77.743 MVAr">
+      <data key="d0">NL-G2 Reactive Power 77.743 MVAr</data>
+      <data key="d1">data</data>
+      <data key="d2">NL-G2 Reactive Power 77.743 MVAr is the reactive power value of 77.743 MVAr injected by synchronous machine NL-G2 into the network in the studied operating case.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-G1 Active Power 90 MW">
+      <data key="d0">BE-G1 Active Power 90 MW</data>
+      <data key="d1">data</data>
+      <data key="d2">BE-G1 Active Power 90 MW is the active power value of 90 MW injected by synchronous machine BE-G1 into the network in the studied operating case.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL_TR2_2">
+      <data key="d0">NL_TR2_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL_TR2_2 is a 2-winding power transformer installed in substation PP_Amsterdam.&lt;SEP&gt;NL_TR2_2 is a power transformer with at least two windings, equipped with a ratio tap changer on winding 1 and associated with a rated apparent power of 1260 MVA on at least winding 2.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL_TR2_3">
+      <data key="d0">NL_TR2_3</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL_TR2_3 is a 2-winding power transformer installed in substation PP_Amsterdam, with both windings rated at 1260 MVA and equipped with a ratio tap changer on winding 1.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-TR3_1">
+      <data key="d0">BE-TR3_1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-TR3_1 is a 3-winding power transformer installed in substation PP_Brussels, with each winding rated at 650 MVA and equipped with a ratio tap changer on winding 2.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-TR2_1">
+      <data key="d0">BE-TR2_1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-TR2_1 is a 2-winding power transformer installed in substation PP_Brussels, whose winding 1 has a rated voltage of 400 kV and a rated apparent power of 650 MVA.&lt;SEP&gt;BE-TR2_1 is a 2-winding power transformer installed in substation PP_Brussels.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 1 Of NL_TR2_2">
+      <data key="d0">Winding 1 Of NL_TR2_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 1 Of NL_TR2_2 is the first winding of transformer NL_TR2_2 and is equipped with a ratio tap changer named NL_TR2_2.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 2 Of NL_TR2_2">
+      <data key="d0">Winding 2 Of NL_TR2_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 2 Of NL_TR2_2 is the second winding of transformer NL_TR2_2, with a rated voltage of 15.75 kV and a rated apparent power of 1260 MVA, connected to topological node N1230822413.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 1 Of NL_TR2_3">
+      <data key="d0">Winding 1 Of NL_TR2_3</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 1 Of NL_TR2_3 is the first winding of transformer NL_TR2_3, with a rated voltage of 220 kV and a rated apparent power of 1260 MVA, connected to topological node NL-Busbar_2 and equipped with a ratio tap changer named NL_TR2_3.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 2 Of NL_TR2_3">
+      <data key="d0">Winding 2 Of NL_TR2_3</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 2 Of NL_TR2_3 is the second winding of transformer NL_TR2_3, with a rated voltage of 15.75 kV and a rated apparent power of 1260 MVA, connected to topological node NL_TR_BUS2.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 1 Of BE-TR3_1">
+      <data key="d0">Winding 1 Of BE-TR3_1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 1 Of BE-TR3_1 is the first winding of transformer BE-TR3_1, with a rated voltage of 400 kV and a rated apparent power of 650 MVA, connected to topological node BE_TR_BUS2.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 2 Of BE-TR3_1">
+      <data key="d0">Winding 2 Of BE-TR3_1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 2 Of BE-TR3_1 is the second winding of transformer BE-TR3_1, with a rated voltage of 220 kV and a rated apparent power of 650 MVA, connected to topological node BE_TR_BUS4 and equipped with a ratio tap changer named BE-TR3_1.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 3 Of BE-TR3_1">
+      <data key="d0">Winding 3 Of BE-TR3_1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 3 Of BE-TR3_1 is the third winding of transformer BE-TR3_1, with a rated voltage of 21 kV and a rated apparent power of 650 MVA, connected to topological node BE-Busbar_5.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 1 Of BE-TR2_1">
+      <data key="d0">Winding 1 Of BE-TR2_1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 1 Of BE-TR2_1 is the first winding of transformer BE-TR2_1, with a rated voltage of 400 kV and a rated apparent power of 650 MVA.&lt;SEP&gt;Winding 1 of transformer BE-TR2_1 has a rated voltage of 400 kV, a rated apparent power of 650 MVA, and is connected to topological node BE_TR_BUS2.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL_TR2_2 Ratio Tap Changer">
+      <data key="d0">NL_TR2_2 Ratio Tap Changer</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL_TR2_2 Ratio Tap Changer is a ratio tap changer installed on winding 1 of transformer NL_TR2_2, with steps from 0 to 33 and neutral step 17.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL_TR2_3 Ratio Tap Changer">
+      <data key="d0">NL_TR2_3 Ratio Tap Changer</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL_TR2_3 Ratio Tap Changer is a ratio tap changer installed on winding 1 of transformer NL_TR2_3, with steps from -15 to 15 and neutral step 0.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-TR3_1 Ratio Tap Changer">
+      <data key="d0">BE-TR3_1 Ratio Tap Changer</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-TR3_1 Ratio Tap Changer is a ratio tap changer installed on winding 2 of transformer BE-TR3_1, with steps from 1 to 33 and neutral step 17.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL_Busbar__4">
+      <data key="d0">NL_Busbar__4</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL_Busbar__4 is a topological node serving as a busbar connected to Winding 1 of transformer NL_TR2_2.&lt;SEP&gt;NL_Busbar__4 is a topological node connected to a transformer winding with a rated apparent power of 1260 MVA.&lt;SEP&gt;NL_Busbar__4 is a topological node that connects to AC line segments NL-Line_4 and NL-Line_3.&lt;SEP&gt;NL_Busbar__4 is a topological node that is connected to NL-Busbar_2 via breaker B1.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-002&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-008&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-Busbar_2">
+      <data key="d0">NL-Busbar_2</data>
+      <data key="d1">location</data>
+      <data key="d2">NL-Busbar_2 is a topological node to which Winding 1 Of NL_TR2_3 is connected.&lt;SEP&gt;NL-Busbar_2 is a topological node to which the energy consumer NL-Load_3 is connected and that is linked by breaker B1.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL_TR_BUS2">
+      <data key="d0">NL_TR_BUS2</data>
+      <data key="d1">location</data>
+      <data key="d2">NL_TR_BUS2 is a topological node to which Winding 2 Of NL_TR2_3 is connected.&lt;SEP&gt;NL_TR_BUS2 is a topological node corresponding to busbar section NL-Busbar_5.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE_TR_BUS2">
+      <data key="d0">BE_TR_BUS2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE_TR_BUS2 is a topological node connected to AC line segments in the power network.&lt;SEP&gt;BE_TR_BUS2 is a topological node to which Winding 1 Of BE-TR3_1 is connected.&lt;SEP&gt;BE_TR_BUS2 is a topological node corresponding to busbar section BE-Busbar_1.&gt;&lt;SEP&gt;BE_TR_BUS2 is a topological node to which a transformer winding is connected.&lt;SEP&gt;BE_TR_BUS2 is a topological node that connects to AC line segments BE-Line_3 and BE-Line_5.&lt;SEP&gt;BE_TR_BUS2 is a topological node in substation PP_Brussels where linear shunt compensator BE_S2 is installed.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-002&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-001&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-005&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-008&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE_TR_BUS4">
+      <data key="d0">BE_TR_BUS4</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE_TR_BUS4 is a topological node connected to AC line segments in the power network.&lt;SEP&gt;BE_TR_BUS4 is a topological node to which Winding 2 Of BE-TR3_1 is connected.&lt;SEP&gt;BE_TR_BUS4 is a topological node corresponding to multiple busbar sections including BE-Busbar_3, N1230992288, and N1230992291.&gt;&lt;SEP&gt;BE_TR_BUS4 is a topological node to which a transformer winding is connected.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-001&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-005&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-Busbar_5">
+      <data key="d0">BE-Busbar_5</data>
+      <data key="d1">location</data>
+      <data key="d2">BE-Busbar_5 is a topological node to which Winding 3 Of BE-TR3_1 is connected.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 2 Of BE-TR2_1">
+      <data key="d0">Winding 2 Of BE-TR2_1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 2 Of BE-TR2_1 is the second winding of transformer BE-TR2_1, implied by BE-TR2_1 being a 2-winding transformer, with no specific electrical parameters stated.&lt;SEP&gt;Winding 2 of transformer BE-TR2_1 has a rated voltage of 110 kV, a rated apparent power of 650 MVA, and is connected to topological node BE-Busbar_6.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-TR2_1 Ratio Tap Changer">
+      <data key="d0">BE-TR2_1 Ratio Tap Changer</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-TR2_1 Ratio Tap Changer is a ratio tap changer associated with transformer BE-TR2_1, implied by the pattern of other transformers, though no detailed step information is provided.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Busbar_4">
+      <data key="d0">Busbar_4</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Busbar_4 is a busbar referenced as part of the electrical network topology.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Machine BE-G1">
+      <data key="d0">Machine BE-G1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Machine BE-G1 is an electrical machine that belongs to a generating unit and injects active and reactive power into the network.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Generating Unit Gen-1229753060">
+      <data key="d0">Generating Unit Gen-1229753060</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Generating Unit Gen-1229753060 is a generating unit with a maximum operating power of 200 MW and a minimum operating power of 50 MW.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Network">
+      <data key="d0">Network</data>
+      <data key="d1">artifact</data>
+      <data key="d2">The network is the electrical power system into which machines inject power.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Synchronous Machine BE-G2">
+      <data key="d0">Synchronous Machine BE-G2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Synchronous Machine BE-G2 is an electrical machine with a rated apparent power of 0 MVA operating in a specific voltage level and connected to a topological node.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 21.0">
+      <data key="d0">Voltage Level 21.0</data>
+      <data key="d1">data</data>
+      <data key="d2">Voltage Level 21.0 is a voltage level value associated with substation PP_Brussels.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Substation PP_Brussels">
+      <data key="d0">Substation PP_Brussels</data>
+      <data key="d1">location</data>
+      <data key="d2">Substation PP_Brussels is an electrical substation that contains specified voltage levels and hosts machines and loads.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Topological Node BE-Busbar_5">
+      <data key="d0">Topological Node BE-Busbar_5</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Topological Node BE-Busbar_5 is a network node to which Synchronous Machine BE-G2 is connected.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Generating Unit Gen-1229753024">
+      <data key="d0">Generating Unit Gen-1229753024</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Generating Unit Gen-1229753024 is a generating unit with a maximum operating power of 200 MW and a minimum operating power of 50 MW.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Synchronous Machine NL-G1">
+      <data key="d0">Synchronous Machine NL-G1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Synchronous Machine NL-G1 is an electrical machine with a rated apparent power of 0 MVA operating in a specified voltage level and connected to a topological node.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Substation PP_Amsterdam">
+      <data key="d0">Substation PP_Amsterdam</data>
+      <data key="d1">location</data>
+      <data key="d2">Substation PP_Amsterdam is an electrical substation that contains specified voltage levels and hosts machines and loads.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Topological Node NL_TR_BUS2">
+      <data key="d0">Topological Node NL_TR_BUS2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Topological Node NL_TR_BUS2 is a network node to which Synchronous Machine NL-G1 is connected.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Generating Unit Gen-12923">
+      <data key="d0">Generating Unit Gen-12923</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Generating Unit Gen-12923 is a generating unit with a maximum operating power of 1000 MW and a minimum operating power of 300 MW.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Energy Consumer BE-Load_2">
+      <data key="d0">Energy Consumer BE-Load_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Energy Consumer BE-Load_2 is an electrical load that draws active and reactive power and is connected at a specified voltage level and node in substation PP_Brussels.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 225.0">
+      <data key="d0">Voltage Level 225.0</data>
+      <data key="d1">data</data>
+      <data key="d2">Voltage Level 225.0 is a voltage level value associated with substation PP_Brussels.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Topological Node BE_TR_BUS4">
+      <data key="d0">Topological Node BE_TR_BUS4</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Topological Node BE_TR_BUS4 is a network node to which Energy Consumer BE-Load_2 is connected.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Energy Consumer NL-Load_2">
+      <data key="d0">Energy Consumer NL-Load_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Energy Consumer NL-Load_2 is an electrical load that draws active and reactive power and is connected at a specified voltage level and node in substation PP_Amsterdam.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Energy Consumer NL-Load_1">
+      <data key="d0">Energy Consumer NL-Load_1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Energy Consumer NL-Load_1 is an electrical load that draws active and reactive power and is connected at a specified voltage level and node in substation PP_Amsterdam.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 400.0">
+      <data key="d0">Voltage Level 400.0</data>
+      <data key="d1">data</data>
+      <data key="d2">Voltage Level 400.0 is an electrical voltage level at which linear shunt compensator NL-S1 is installed in substation PP_Amsterdam.&lt;SEP&gt;Voltage Level 400.0 is a voltage level value associated with substation PP_Amsterdam.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Topological Node N1230992195">
+      <data key="d0">Topological Node N1230992195</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Topological Node N1230992195 is a network node to which Energy Consumer NL-Load_2 and Energy Consumer NL-Load_1 are connected.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Energy Consumer L-1230804819">
+      <data key="d0">Energy Consumer L-1230804819</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Energy Consumer L-1230804819 is an electrical load that draws active and reactive power and is connected at a specified voltage level in substation Anvers.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 220.0">
+      <data key="d0">Voltage Level 220.0</data>
+      <data key="d1">data</data>
+      <data key="d2">Voltage Level 220.0 is a voltage level at substation Anvers associated with busbar sections N1230992411, N1230992414, and BE-Busbar_2 and has a nominal voltage of 225 kV.&gt;&lt;SEP&gt;Voltage Level 220.0 is an electrical voltage level at which certain energy consumers and breaker B1 are located in the substations Anvers and PP_Amsterdam.&lt;SEP&gt;Voltage Level 220.0 is a voltage level value associated with substation Anvers.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-001&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Substation Anvers">
+      <data key="d0">Substation Anvers</data>
+      <data key="d1">location</data>
+      <data key="d2">A substation located in the BE region containing a 220.0 voltage level with a nominal voltage of 225 kV.&lt;SEP&gt;Substation Anvers is an electrical substation that contains a specified voltage level and hosts Energy Consumer L-1230804819.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Active Power 90 MW (BE-G1)">
+      <data key="d0">Active Power 90 MW (BE-G1)</data>
+      <data key="d1">data</data>
+      <data key="d2">Active Power 90 MW (BE-G1) is the active power injected into the network by Machine BE-G1 in the studied operating case.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Reactive Power 100.256 MVAr (BE-G1)">
+      <data key="d0">Reactive Power 100.256 MVAr (BE-G1)</data>
+      <data key="d1">data</data>
+      <data key="d2">Reactive Power 100.256 MVAr (BE-G1) is the reactive power injected into the network by Machine BE-G1 in the studied operating case.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Active Power 118 MW (BE-G2)">
+      <data key="d0">Active Power 118 MW (BE-G2)</data>
+      <data key="d1">data</data>
+      <data key="d2">Active Power 118 MW (BE-G2) is the active power injected into the network by Synchronous Machine BE-G2 in the studied operating case.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Reactive Power 18.7203 MVAr (BE-G2)">
+      <data key="d0">Reactive Power 18.7203 MVAr (BE-G2)</data>
+      <data key="d1">data</data>
+      <data key="d2">Reactive Power 18.7203 MVAr (BE-G2) is the reactive power injected into the network by Synchronous Machine BE-G2 in the studied operating case.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Active Power 600.493 MW (NL-G1)">
+      <data key="d0">Active Power 600.493 MW (NL-G1)</data>
+      <data key="d1">data</data>
+      <data key="d2">Active Power 600.493 MW (NL-G1) is the active power injected into the network by Synchronous Machine NL-G1 in the studied operating case.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Reactive Power 386.923 MVAr (NL-G1)">
+      <data key="d0">Reactive Power 386.923 MVAr (NL-G1)</data>
+      <data key="d1">data</data>
+      <data key="d2">Reactive Power 386.923 MVAr (NL-G1) is the reactive power injected into the network by Synchronous Machine NL-G1 in the studied operating case.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Active Power 200 MW (BE-Load_2)">
+      <data key="d0">Active Power 200 MW (BE-Load_2)</data>
+      <data key="d1">data</data>
+      <data key="d2">Active Power 200 MW (BE-Load_2) is the active power drawn by Energy Consumer BE-Load_2.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Reactive Power 50 MVAr (BE-Load_2)">
+      <data key="d0">Reactive Power 50 MVAr (BE-Load_2)</data>
+      <data key="d1">data</data>
+      <data key="d2">Reactive Power 50 MVAr (BE-Load_2) is the reactive power drawn by Energy Consumer BE-Load_2.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Active Power 10 MW (NL-Load_2)">
+      <data key="d0">Active Power 10 MW (NL-Load_2)</data>
+      <data key="d1">data</data>
+      <data key="d2">Active Power 10 MW (NL-Load_2) is the active power drawn by Energy Consumer NL-Load_2.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Reactive Power 10 MVAr (NL-Load_2)">
+      <data key="d0">Reactive Power 10 MVAr (NL-Load_2)</data>
+      <data key="d1">data</data>
+      <data key="d2">Reactive Power 10 MVAr (NL-Load_2) is the reactive power drawn by Energy Consumer NL-Load_2.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Active Power 90 MW (NL-Load_1)">
+      <data key="d0">Active Power 90 MW (NL-Load_1)</data>
+      <data key="d1">data</data>
+      <data key="d2">Active Power 90 MW (NL-Load_1) is the active power drawn by Energy Consumer NL-Load_1.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Reactive Power 280 MVAr (NL-Load_1)">
+      <data key="d0">Reactive Power 280 MVAr (NL-Load_1)</data>
+      <data key="d1">data</data>
+      <data key="d2">Reactive Power 280 MVAr (NL-Load_1) is the reactive power drawn by Energy Consumer NL-Load_1.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Active Power 1 MW (L-1230804819)">
+      <data key="d0">Active Power 1 MW (L-1230804819)</data>
+      <data key="d1">data</data>
+      <data key="d2">Active Power 1 MW (L-1230804819) is the active power drawn by Energy Consumer L-1230804819.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Reactive Power 0 MVAr (L-1230804819)">
+      <data key="d0">Reactive Power 0 MVAr (L-1230804819)</data>
+      <data key="d1">data</data>
+      <data key="d2">Reactive Power 0 MVAr (L-1230804819) is the reactive power drawn by Energy Consumer L-1230804819.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Entso-E Cgmes Microgrid Test Configuration - Network Operations Description">
+      <data key="d0">Entso-E Cgmes Microgrid Test Configuration - Network Operations Description</data>
+      <data key="d1">content</data>
+      <data key="d2">A document describing an interconnected transmission network with substations, lines, transformers, machines, and consumers.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Be Region">
+      <data key="d0">Be Region</data>
+      <data key="d1">location</data>
+      <data key="d2">A geographical region labeled BE in the described interconnected transmission network.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Eu Region">
+      <data key="d0">Eu Region</data>
+      <data key="d1">location</data>
+      <data key="d2">A geographical region labeled EU in the described interconnected transmission network.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Nl Region">
+      <data key="d0">Nl Region</data>
+      <data key="d1">location</data>
+      <data key="d2">A geographical region labeled NL in the described interconnected transmission network.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Substation Pp_Brussels">
+      <data key="d0">Substation Pp_Brussels</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A substation located in the BE region containing multiple voltage levels including 380.0, 225.0, 110.0, 21.0, and 10.5 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Substation Pp_Amsterdam">
+      <data key="d0">Substation Pp_Amsterdam</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A substation located in the NL region containing voltage levels 400.0, 220.0, and 15.8 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 380.0 (Pp_Brussels)">
+      <data key="d0">Voltage Level 380.0 (Pp_Brussels)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A voltage level of 380.0 at substation PP_Brussels with a nominal voltage of 380 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 225.0 (Pp_Brussels)">
+      <data key="d0">Voltage Level 225.0 (Pp_Brussels)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A voltage level of 225.0 at substation PP_Brussels with a nominal voltage of 225 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 110.0 (Pp_Brussels)">
+      <data key="d0">Voltage Level 110.0 (Pp_Brussels)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A voltage level of 110.0 at substation PP_Brussels with a nominal voltage of 110 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 21.0 (Pp_Brussels)">
+      <data key="d0">Voltage Level 21.0 (Pp_Brussels)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A voltage level of 21.0 at substation PP_Brussels with a nominal voltage of 21 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 10.5 (Pp_Brussels)">
+      <data key="d0">Voltage Level 10.5 (Pp_Brussels)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A voltage level of 10.5 at substation PP_Brussels with a nominal voltage of 10.5 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 220.0 (Anvers)">
+      <data key="d0">Voltage Level 220.0 (Anvers)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A voltage level of 220.0 at substation Anvers with a nominal voltage of 225 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 400.0 (Pp_Amsterdam)">
+      <data key="d0">Voltage Level 400.0 (Pp_Amsterdam)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A voltage level of 400.0 at substation PP_Amsterdam with a nominal voltage of 400 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 220.0 (Pp_Amsterdam)">
+      <data key="d0">Voltage Level 220.0 (Pp_Amsterdam)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A voltage level of 220.0 at substation PP_Amsterdam with a nominal voltage of 220 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 15.8 (Pp_Amsterdam)">
+      <data key="d0">Voltage Level 15.8 (Pp_Amsterdam)</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A voltage level of 15.8 at substation PP_Amsterdam with a nominal voltage of 15.75 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Busbar Section N1230822396">
+      <data key="d0">Busbar Section N1230822396</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A busbar section installed in voltage level 220.0 of substation PP_Amsterdam operating at 220 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Busbar Section Nl-Busbar_2">
+      <data key="d0">Busbar Section Nl-Busbar_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A busbar section installed in voltage level 220.0 of substation PP_Amsterdam operating at 220 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Busbar Section Be-Busbar_6">
+      <data key="d0">Busbar Section Be-Busbar_6</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A busbar section installed in voltage level 110.0 of substation PP_Brussels operating at 110 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Topological Node Nl_Busbar__4">
+      <data key="d0">Topological Node Nl_Busbar__4</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A topological node corresponding to busbar section N1230822396.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Topological Node Nl-Busbar_2">
+      <data key="d0">Topological Node Nl-Busbar_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A topological node corresponding to busbar section NL-Busbar_2.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Topological Node Be-Busbar_6">
+      <data key="d0">Topological Node Be-Busbar_6</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A topological node corresponding to busbar section BE-Busbar_6.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Nl-Busbar_3">
+      <data key="d0">Nl-Busbar_3</data>
+      <data key="d1">artifact</data>
+      <data key="d2">A busbar section installed in voltage level 15.8 in the described network.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Anvers">
+      <data key="d0">Anvers</data>
+      <data key="d1">location</data>
+      <data key="d2">Anvers is a substation that contains multiple busbar sections at voltage level 220.0 operating at a nominal voltage of 225 kV.&gt;&lt;SEP&gt;Anvers is a station that operates at a nominal voltage of 225 kV and corresponds to topological node BE-Busbar_2.&lt;SEP&gt;Anvers is a substation that contains the energy consumer L-1230804819 at voltage level 220.0.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-001&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-Busbar_2">
+      <data key="d0">BE-Busbar_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-Busbar_2 is a topological node serving as a busbar in the power network.&lt;SEP&gt;BE-Busbar_2 is a busbar section installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV and is also the name of the corresponding topological node.&gt;&lt;SEP&gt;BE-Busbar_2 is a busbar or busbar section that operates at a nominal voltage of 225 kV at station Anvers and corresponds to a topological node.&lt;SEP&gt;BE-Busbar_2 is a topological node in a substation, to which the energy consumer L-1230804819 is connected.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-001&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-008&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-Busbar_4">
+      <data key="d0">BE-Busbar_4</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-Busbar_4 is a busbar section installed in voltage level 10.5 of substation PP_Brussels and operates at a nominal voltage of 10.5.&gt;&lt;SEP&gt;BE-Busbar_4 is a topological node to which a transformer winding is connected.&lt;SEP&gt;BE-Busbar_4 is a busbar section installed in voltage level 10.5 of substation PP_Brussels and operates at a nominal voltage of 10.5 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-001&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="TN_Border_ST23">
+      <data key="d0">TN_Border_ST23</data>
+      <data key="d1">artifact</data>
+      <data key="d2">TN_Border_ST23 is a topological node that forms one terminal of several AC line segments.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="TN_Border_AL11">
+      <data key="d0">TN_Border_AL11</data>
+      <data key="d1">artifact</data>
+      <data key="d2">TN_Border_AL11 is a topological node that forms one terminal of several AC line segments.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="TN_Border_ST24">
+      <data key="d0">TN_Border_ST24</data>
+      <data key="d1">artifact</data>
+      <data key="d2">TN_Border_ST24 is a topological node that forms one terminal of several AC line segments.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="TN_Border_GY11">
+      <data key="d0">TN_Border_GY11</data>
+      <data key="d1">artifact</data>
+      <data key="d2">TN_Border_GY11 is a topological node at a border location in the power network.&lt;SEP&gt;TN_Border_GY11 is a topological node that forms one terminal of AC line segment BE-Line_5.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-Line_1">
+      <data key="d0">BE-Line_1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-Line_1 is an AC line segment that connects BE-Busbar_2 to TN_Border_ST23 with specified electrical parameters and operates at 220 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-Line_3">
+      <data key="d0">BE-Line_3</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-Line_3 is an AC line segment that connects BE_TR_BUS2 to TN_Border_AL11 with specified electrical parameters and operates at 380 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-Line_1">
+      <data key="d0">NL-Line_1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL-Line_1 is an AC line segment that connects N1230992195 to TN_Border_AL11 with specified electrical parameters and operates at 400 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-Line_4">
+      <data key="d0">NL-Line_4</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL-Line_4 is an AC line segment that connects NL_Busbar__4 to TN_Border_ST23 with specified electrical parameters and operates at 220 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-Line_7">
+      <data key="d0">BE-Line_7</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-Line_7 is an AC line segment that connects BE-Busbar_2 to TN_Border_ST24 with specified electrical parameters and operates at 220 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-Line_3">
+      <data key="d0">NL-Line_3</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL-Line_3 is an AC line segment that connects NL_Busbar__4 to TN_Border_ST24 with specified electrical parameters and operates at 220 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-Line_5">
+      <data key="d0">BE-Line_5</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-Line_5 is an AC line segment with a length of 35 km, a resistance of 0.42 ohm, a reactance of 6.3 ohm, and operates at 380 kV.&lt;SEP&gt;BE-Line_5 is an AC line segment that connects BE_TR_BUS2 to TN_Border_GY11 with specified electrical parameters and a length of 35 km.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Usbar_6">
+      <data key="d0">Usbar_6</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Usbar_6 is a busbar section installed in voltage level 110.0 of substation PP_Brussels and operates at a nominal voltage of 110 kV.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-Busbar_6">
+      <data key="d0">BE-Busbar_6</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-Busbar_6 is a topological node corresponding to busbar section Usbar_6.&gt;&lt;SEP&gt;BE-Busbar_6 is a topological node to which several transformer windings are connected.&lt;SEP&gt;BE-Busbar_6 is a topological node in substation PP_Brussels to which the energy consumer BE-Load_1 and linear shunt compensator BE_S1 are connected.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-005&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-Busbar_3">
+      <data key="d0">NL-Busbar_3</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL-Busbar_3 is a busbar section installed in voltage level 15.8 of substation PP_Amsterdam and operates at a nominal voltage of 15.75 kV.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-Busbar_3">
+      <data key="d0">BE-Busbar_3</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-Busbar_3 is a busbar section installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="N1230992288">
+      <data key="d0">N1230992288</data>
+      <data key="d1">artifact</data>
+      <data key="d2">N1230992288 is a busbar section installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV and corresponds to topological node BE_TR_BUS4.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-Busbar_1">
+      <data key="d0">BE-Busbar_1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-Busbar_1 is a busbar section installed in voltage level 380.0 of substation PP_Brussels and operates at a nominal voltage of 380 kV.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="N1230992411">
+      <data key="d0">N1230992411</data>
+      <data key="d1">artifact</data>
+      <data key="d2">N1230992411 is a busbar section installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV and corresponds to topological node BE-Busbar_2.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="N1230992291">
+      <data key="d0">N1230992291</data>
+      <data key="d1">artifact</data>
+      <data key="d2">N1230992291 is a busbar section installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV and corresponds to topological node BE_TR_BUS4.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="N1230992414">
+      <data key="d0">N1230992414</data>
+      <data key="d1">artifact</data>
+      <data key="d2">N1230992414 is a busbar section installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV and corresponds to topological node BE-Busbar_2.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-Busbar_5">
+      <data key="d0">NL-Busbar_5</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL-Busbar_5 is a busbar section installed in voltage level 15.8 of substation PP_Amsterdam and operates at a nominal voltage of 15.75 kV.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 110.0">
+      <data key="d0">Voltage Level 110.0</data>
+      <data key="d1">concept</data>
+      <data key="d2">Voltage Level 110.0 is a voltage level at substation PP_Brussels associated with busbar section Usbar_6 and has a nominal voltage of 110 kV.&gt;&lt;SEP&gt;Voltage Level 110.0 is an electrical voltage level at which energy consumer BE-Load_1 and linear shunt compensator BE_S1 are located in substation PP_Brussels.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 225.0 (PP_Brussels)">
+      <data key="d0">Voltage Level 225.0 (PP_Brussels)</data>
+      <data key="d1">concept</data>
+      <data key="d2">Voltage Level 225.0 at substation PP_Brussels is associated with busbar sections BE-Busbar_3, N1230992288, and N1230992291 and has a nominal voltage of 225 kV.&gt;</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Voltage Level 380.0">
+      <data key="d0">Voltage Level 380.0</data>
+      <data key="d1">concept</data>
+      <data key="d2">Voltage Level 380.0 is a voltage level at substation PP_Brussels associated with busbar section BE-Busbar_1 and has a nominal voltage of 380 kV.&gt;&lt;SEP&gt;Voltage Level 380.0 is an electrical voltage level at which linear shunt compensator BE_S2 is installed in substation PP_Brussels.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-TR2_2">
+      <data key="d0">BE-TR2_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-TR2_2 is a 2-winding power transformer installed in substation PP_Brussels.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 1 Of BE-TR2_2">
+      <data key="d0">Winding 1 Of BE-TR2_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 1 of transformer BE-TR2_2 has a rated voltage of 220 kV, a rated apparent power of 650 MVA, and is connected to topological node BE_TR_BUS4.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 2 Of BE-TR2_2">
+      <data key="d0">Winding 2 Of BE-TR2_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 2 of transformer BE-TR2_2 has a rated voltage of 110 kV, a rated apparent power of 650 MVA, and is connected to topological node BE-Busbar_6.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 1 Of BE-TR2_3">
+      <data key="d0">Winding 1 Of BE-TR2_3</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 1 of transformer BE-TR2_3 has a rated voltage of 110.344 kV, a rated apparent power of 250 MVA, and is connected to topological node BE-Busbar_6.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 2 Of BE-TR2_3">
+      <data key="d0">Winding 2 Of BE-TR2_3</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 2 of transformer BE-TR2_3 has a rated voltage of 10.5 kV, a rated apparent power of 250 MVA, and is connected to topological node BE-Busbar_4.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Phase Tap Changer BE-TR2_1">
+      <data key="d0">Phase Tap Changer BE-TR2_1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Phase Tap Changer BE-TR2_1 is an asymmetrical phase tap changer on winding 1 of transformer BE-TR2_1 with steps from 1 to 25 and neutral step 13.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Ratio Tap Changer BE-TR2_2">
+      <data key="d0">Ratio Tap Changer BE-TR2_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Ratio Tap Changer BE-TR2_2 is a ratio tap changer on winding 1 of transformer BE-TR2_2 with steps from 1 to 25 and neutral step 13.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Ratio Tap Changer BE-TR2_3">
+      <data key="d0">Ratio Tap Changer BE-TR2_3</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Ratio Tap Changer BE-TR2_3 is a ratio tap changer on winding 2 of transformer BE-TR2_3 with steps from 1 to 33 and neutral step 17.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="L-1230804819">
+      <data key="d0">L-1230804819</data>
+      <data key="d1">artifact</data>
+      <data key="d2">L-1230804819 is an energy consumer that draws 1 MW active power and 0 MVAr reactive power in voltage level 220.0 at substation Anvers.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-Load_3">
+      <data key="d0">NL-Load_3</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL-Load_3 is an energy consumer that draws 486 MW active power and 230 MVAr reactive power in voltage level 220.0 at substation PP_Amsterdam.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-Load_1">
+      <data key="d0">BE-Load_1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-Load_1 is an energy consumer that draws 200 MW active power and 90 MVAr reactive power in voltage level 110.0 at substation PP_Brussels.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE_S2">
+      <data key="d0">BE_S2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE_S2 is a linear shunt compensator installed in voltage level 380.0 of substation PP_Brussels at topological node BE_TR_BUS2, with susceptance per section 0.000346 S and 1 energized section.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE_S1">
+      <data key="d0">BE_S1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE_S1 is a linear shunt compensator installed in voltage level 110.0 of substation PP_Brussels at topological node BE-Busbar_6, with susceptance per section 0.024793 S and 1 energized section.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-S1">
+      <data key="d0">NL-S1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL-S1 is a linear shunt compensator installed in voltage level 400.0 of substation PP_Amsterdam at topological node N1230992195, with susceptance per section 0.000313 S and 1 energized section.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="B1">
+      <data key="d0">B1</data>
+      <data key="d1">artifact</data>
+      <data key="d2">B1 is a breaker in voltage level 220.0 of substation PP_Amsterdam that is currently closed and connects topological nodes NL-Busbar_2 and NL_Busbar__4.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-Line_2">
+      <data key="d0">BE-Line_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-Line_2 is an AC line segment with a length of 45 km, a resistance of 1.935 ohm, a reactance of 34.2 ohm, and operates at 225 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-Line_2">
+      <data key="d0">NL-Line_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL-Line_2 is an AC line segment with a length of 40 km, a resistance of 2.32 ohm, a reactance of 20.24 ohm, and operates at 400 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="TN_Border_MA11">
+      <data key="d0">TN_Border_MA11</data>
+      <data key="d1">artifact</data>
+      <data key="d2">TN_Border_MA11 is a topological node at a border location in the power network.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-Line_5">
+      <data key="d0">NL-Line_5</data>
+      <data key="d1">artifact</data>
+      <data key="d2">NL-Line_5 is an AC line segment with a length of 35 km, a resistance of 0.42 ohm, a reactance of 6.3 ohm, and operates at 400 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-Line_4">
+      <data key="d0">BE-Line_4</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-Line_4 is an AC line segment with a length of 40 km, a resistance of 0.24 ohm, a reactance of 2 ohm, and operates at 380 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-Line_6">
+      <data key="d0">BE-Line_6</data>
+      <data key="d1">artifact</data>
+      <data key="d2">BE-Line_6 is an AC line segment with a length of 100 km, a resistance of 5.203 ohm, a reactance of 71 ohm, and operates at 225 kV.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Power Transformers">
+      <data key="d0">Power Transformers</data>
+      <data key="d1">concept</data>
+      <data key="d2">Power Transformers refers to the general category of transformers used to transfer electrical energy between circuits in the power network.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 1 of NL_TR2_2">
+      <data key="d0">Winding 1 of NL_TR2_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 1 of NL_TR2_2 is a transformer winding with a rated voltage of 220 kV, a rated apparent power of 1260 MVA, and is connected to topological node NL_Busbar__4.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Winding 2 of NL_TR2_2">
+      <data key="d0">Winding 2 of NL_TR2_2</data>
+      <data key="d1">artifact</data>
+      <data key="d2">Winding 2 of NL_TR2_2 is a transformer winding with a rated voltage of 15.75 kV and a rated apparent power of 1260 MVA, connected to an unspecified topological node.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="AC Line Segment">
+      <data key="d0">AC Line Segment</data>
+      <data key="d1">concept</data>
+      <data key="d2">AC Line Segment refers to a type of power network component that connects two topological nodes and is characterized by parameters such as length, resistance, reactance, and operating voltage.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="Power Transformer">
+      <data key="d0">Power Transformer</data>
+      <data key="d1">concept</data>
+      <data key="d2">Power Transformer refers to a transformer used in the power network to transfer electrical energy between circuits, typically with specified windings, rated voltages, and apparent powers.</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-G3">
+      <data key="d0">NL-G3</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d2">Synchronous machine NL-G3 injects an active power of 150 MW into the network in the studied operating case.&gt;</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="NL-G2">
+      <data key="d0">NL-G2</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d2">Synchronous machine NL-G2 injects an active power of 140 MW into the network in the studied operating case.&gt;</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <node id="BE-G1">
+      <data key="d0">BE-G1</data>
+      <data key="d3">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d2">Synchronous machine BE-G1 injects an active power of 90 MW into the network in the studied operating case.&gt;</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1781189876</data>
+      <data key="d6" />
+    </node>
+    <edge source="Be-Tr2_3" target="Winding 2">
+      <data key="d7">1.0</data>
+      <data key="d8">The ratio tap changer Be-Tr2_3 is installed on winding 2 and controls its tap ratio.&gt;</data>
+      <data key="d9">controls tap ratio,installed on</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Winding 2" target="Nl-Busbar_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 2 of transformer Nl-Tr2_1 is connected to topological node Nl-Busbar_2.&gt;</data>
+      <data key="d9">connected to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Winding 2" target="Nl-Tr2_1">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 2 is a part of transformer Nl-Tr2_1.&gt;</data>
+      <data key="d9">belongs to,part of</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nl-Tr2_1" target="Pp_Amsterdam">
+      <data key="d7">1.0</data>
+      <data key="d8">The power transformer Nl-Tr2_1 is installed in substation Pp_Amsterdam.&gt;</data>
+      <data key="d9">installed in,located in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nl-Tr2_1" target="Winding 1">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 1 is a part of transformer Nl-Tr2_1.&gt;</data>
+      <data key="d9">belongs to,part of</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Pp_Amsterdam" target="Nl-G3">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous machine Nl-G3 operates within substation Pp_Amsterdam.&gt;</data>
+      <data key="d9">located in,operates in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Pp_Amsterdam" target="Nl-G2">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous machine Nl-G2 operates within substation Pp_Amsterdam.&gt;</data>
+      <data key="d9">located in,operates in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Winding 1" target="N1230992195">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 1 of transformer Nl-Tr2_1 is connected to topological node N1230992195.&gt;</data>
+      <data key="d9">connected to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Winding 1" target="Nl-Tr2_1 (Tap Changer)">
+      <data key="d7">1.0</data>
+      <data key="d8">The ratio tap changer Nl-Tr2_1 (Tap Changer) is installed on winding 1 and controls its tap ratio.&gt;</data>
+      <data key="d9">controls tap ratio,installed on</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="N1230992195" target="NL-Line_1">
+      <data key="d7">1.0</data>
+      <data key="d8">AC line segment NL-Line_1 connects to topological node N1230992195.</data>
+      <data key="d9">connects_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="N1230992195" target="TN_Border_AL11">
+      <data key="d7">1.0</data>
+      <data key="d8">Topological node N1230992195 is electrically connected to topological node TN_Border_AL11 via AC line segment NL-Line_1.</data>
+      <data key="d9">ac_line_path,connected_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="N1230992195" target="PP_Amsterdam">
+      <data key="d7">1.0</data>
+      <data key="d8">Substation PP_Amsterdam is connected to topological node N1230992195.</data>
+      <data key="d9">connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="N1230992195" target="NL-S1">
+      <data key="d7">1.0</data>
+      <data key="d8">Linear shunt compensator NL-S1 is installed at topological node N1230992195.</data>
+      <data key="d9">connection,installation</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="N1230992195" target="NL-Line_2">
+      <data key="d7">1.0</data>
+      <data key="d8">NL-Line_2 is an AC line segment that connects to topological node N1230992195.</data>
+      <data key="d9">AC line segment,connects</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="N1230992195" target="NL-Line_5">
+      <data key="d7">1.0</data>
+      <data key="d8">NL-Line_5 is an AC line segment that connects to topological node N1230992195.</data>
+      <data key="d9">AC line segment,connects</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nl-G3" target="Voltage Level 15.8">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous machine Nl-G3 operates at voltage level 15.8.&gt;</data>
+      <data key="d9">operates at</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nl-G3" target="N1230822413">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous machine Nl-G3 is connected to topological node N1230822413.&gt;</data>
+      <data key="d9">connected to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nl-G3" target="Gen-12908">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine Nl-G3 belongs to generating unit Gen-12908.&gt;</data>
+      <data key="d9">belongs to,member of</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 15.8" target="Nl-G2">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous machine Nl-G2 operates at voltage level 15.8.&gt;</data>
+      <data key="d9">operates at</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 15.8" target="Synchronous Machine NL-G1">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous Machine NL-G1 operates in Voltage Level 15.8.</data>
+      <data key="d9">operation_voltage</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 15.8" target="NL-Busbar_3">
+      <data key="d7">1.0</data>
+      <data key="d8">NL-Busbar_3 is installed in voltage level 15.8 and operates at a nominal voltage of 15.75 kV at this level.&gt;</data>
+      <data key="d9">installed in,operates at</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 15.8" target="NL-Busbar_5">
+      <data key="d7">1.0</data>
+      <data key="d8">NL-Busbar_5 is installed in voltage level 15.8 and operates at a nominal voltage of 15.75 kV at this level.&gt;</data>
+      <data key="d9">installed in,operates at</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="N1230822413" target="Nl-G2">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous machine Nl-G2 is connected to topological node N1230822413.&gt;</data>
+      <data key="d9">connected to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="N1230822413" target="Winding 2 Of NL_TR2_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 2 Of NL_TR2_2 is connected to topological node N1230822413.</data>
+      <data key="d9">connected to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="N1230822413" target="NL-Busbar_3">
+      <data key="d7">1.0</data>
+      <data key="d8">NL-Busbar_3 corresponds to topological node N1230822413.&gt;</data>
+      <data key="d9">corresponds to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gen-12908" target="Maximum Operating Power 250 Mw">
+      <data key="d7">1.0</data>
+      <data key="d8">Generating unit Gen-12908 has a maximum operating power of 250 MW.&gt;</data>
+      <data key="d9">has parameter</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gen-12908" target="Minimum Operating Power 130 Mw">
+      <data key="d7">1.0</data>
+      <data key="d8">Generating unit Gen-12908 has a minimum operating power of 130 MW.&gt;</data>
+      <data key="d9">has parameter</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gen-12910" target="Nl-G2">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine Nl-G2 belongs to generating unit Gen-12910.&gt;</data>
+      <data key="d9">belongs to,member of</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gen-12910" target="Maximum Operating Power 250 Mw">
+      <data key="d7">1.0</data>
+      <data key="d8">Generating unit Gen-12910 has a maximum operating power of 250 MW.&gt;</data>
+      <data key="d9">has parameter</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Gen-12910" target="Minimum Operating Power 130 Mw">
+      <data key="d7">1.0</data>
+      <data key="d8">Generating unit Gen-12910 has a minimum operating power of 130 MW.&gt;</data>
+      <data key="d9">has parameter</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Be-G1" target="Pp_Brussels">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous machine Be-G1 operates within substation Pp_Brussels.&gt;</data>
+      <data key="d9">located in,operates in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Be-G1" target="Voltage Level 10.5">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous machine Be-G1 operates at voltage level 10.5.&gt;</data>
+      <data key="d9">operates at</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Be-G1" target="Be-Busbar_4">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous machine Be-G1 is connected to topological node Be-Busbar_4.&gt;</data>
+      <data key="d9">connected to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Be-G1" target="Gen-1229753060">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine Be-G1 belongs to generating unit Gen-1229753060.&gt;</data>
+      <data key="d9">belongs to,member of</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 10.5" target="BE-Busbar_4">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Busbar_4 is installed in voltage level 10.5 and operates at a nominal voltage of 10.5 at this level.&gt;</data>
+      <data key="d9">installed in,operates at</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Maximum Operating Power 200 Mw" target="Gen-1229753060">
+      <data key="d7">1.0</data>
+      <data key="d8">Generating unit Gen-1229753060 has a maximum operating power of 200 MW.&gt;</data>
+      <data key="d9">has parameter</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Minimum Operating Power 50 Mw" target="Gen-1229753060">
+      <data key="d7">1.0</data>
+      <data key="d8">Generating unit Gen-1229753060 has a minimum operating power of 50 MW.&gt;</data>
+      <data key="d9">has parameter</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-TR2_3" target="PP_Brussels">
+      <data key="d7">1.0</data>
+      <data key="d8">Power transformer BE-TR2_3 is installed in substation PP_Brussels.</data>
+      <data key="d9">installation_location</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-TR2_3" target="Winding 1 Of BE-TR2_3">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 1 Of BE-TR2_3 is a component of transformer BE-TR2_3.</data>
+      <data key="d9">component_of</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-TR2_3" target="Winding 2 Of BE-TR2_3">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 2 Of BE-TR2_3 is a component of transformer BE-TR2_3.</data>
+      <data key="d9">component_of</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-TR2_3" target="Ratio Tap Changer BE-TR2_3">
+      <data key="d7">1.0</data>
+      <data key="d8">Ratio Tap Changer BE-TR2_3 is installed on and is a component of transformer BE-TR2_3.</data>
+      <data key="d9">component_of,installed_on</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL-TR2_1" target="PP_Amsterdam">
+      <data key="d7">2.0</data>
+      <data key="d8">Power transformer NL-TR2_1 is installed in substation PP_Amsterdam.&lt;SEP&gt;The power transformer NL-TR2_1 is installed in substation PP_Amsterdam.&gt;</data>
+      <data key="d9">installation_location,installed in,located in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL-TR2_1" target="NL-TR2_1 Tap Changer">
+      <data key="d7">1.0</data>
+      <data key="d8">The ratio tap changer NL-TR2_1 Tap Changer is installed on transformer NL-TR2_1.&gt;</data>
+      <data key="d9">associated with,installed on</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Amsterdam" target="NL_TR2_3">
+      <data key="d7">1.0</data>
+      <data key="d8">NL_TR2_3 is installed in substation PP_Amsterdam.</data>
+      <data key="d9">installed in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Amsterdam" target="NL-Busbar_3">
+      <data key="d7">1.0</data>
+      <data key="d8">NL-Busbar_3 is installed in substation PP_Amsterdam.&gt;</data>
+      <data key="d9">installed in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Amsterdam" target="NL-Busbar_5">
+      <data key="d7">1.0</data>
+      <data key="d8">NL-Busbar_5 is installed in substation PP_Amsterdam.&gt;</data>
+      <data key="d9">installed in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Amsterdam" target="NL-Load_3">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy consumer NL-Load_3 is located in voltage level 220.0 of substation PP_Amsterdam.</data>
+      <data key="d9">location,voltage level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Amsterdam" target="NL-S1">
+      <data key="d7">1.0</data>
+      <data key="d8">Linear shunt compensator NL-S1 is installed in voltage level 400.0 of substation PP_Amsterdam.</data>
+      <data key="d9">installation,voltage level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Amsterdam" target="B1">
+      <data key="d7">1.0</data>
+      <data key="d8">Breaker B1 is located in voltage level 220.0 of substation PP_Amsterdam.</data>
+      <data key="d9">location,voltage level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Amsterdam" target="NL_TR2_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Power transformer NL_TR2_2 is installed in substation PP_Amsterdam.</data>
+      <data key="d9">installed in,location</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Brussels" target="BE-TR2_1">
+      <data key="d7">2.0</data>
+      <data key="d8">BE-TR2_1 is installed in substation PP_Brussels.&lt;SEP&gt;Power transformer BE-TR2_1 is installed in substation PP_Brussels.</data>
+      <data key="d9">installation_location,installed in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Brussels" target="BE-TR3_1">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-TR3_1 is installed in substation PP_Brussels.</data>
+      <data key="d9">installed in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Brussels" target="BE-Busbar_4">
+      <data key="d7">2.0</data>
+      <data key="d8">BE-Busbar_4 is installed in substation PP_Brussels.&gt;&lt;SEP&gt;Busbar section BE-Busbar_4 is installed in substation PP_Brussels at voltage level 10.5 kV.</data>
+      <data key="d9">installed in,installed_in,location_of</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Brussels" target="Usbar_6">
+      <data key="d7">1.0</data>
+      <data key="d8">Usbar_6 is installed in substation PP_Brussels.&gt;</data>
+      <data key="d9">installed in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Brussels" target="BE-Busbar_3">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Busbar_3 is installed in substation PP_Brussels.&gt;</data>
+      <data key="d9">installed in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Brussels" target="N1230992288">
+      <data key="d7">1.0</data>
+      <data key="d8">N1230992288 is installed in substation PP_Brussels.&gt;</data>
+      <data key="d9">installed in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Brussels" target="BE-Busbar_1">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Busbar_1 is installed in substation PP_Brussels.&gt;</data>
+      <data key="d9">installed in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Brussels" target="N1230992291">
+      <data key="d7">1.0</data>
+      <data key="d8">N1230992291 is installed in substation PP_Brussels.&gt;</data>
+      <data key="d9">installed in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Brussels" target="BE-TR2_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Power transformer BE-TR2_2 is installed in substation PP_Brussels.</data>
+      <data key="d9">installation_location</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Brussels" target="BE-Load_1">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy consumer BE-Load_1 is located in voltage level 110.0 of substation PP_Brussels.</data>
+      <data key="d9">location,voltage level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Brussels" target="BE_S2">
+      <data key="d7">1.0</data>
+      <data key="d8">Linear shunt compensator BE_S2 is installed in voltage level 380.0 of substation PP_Brussels.</data>
+      <data key="d9">installation,voltage level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="PP_Brussels" target="BE_S1">
+      <data key="d7">1.0</data>
+      <data key="d8">Linear shunt compensator BE_S1 is installed in voltage level 110.0 of substation PP_Brussels.</data>
+      <data key="d9">installation,voltage level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL-G3 Active Power 150 MW" target="NL-G3">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous machine NL-G3 injects an active power of 150 MW into the network in the studied operating case.&gt;</data>
+      <data key="d9">has parameter,injects</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL-G3 Reactive Power 83.296 MVAr" target="NL-G3">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous machine NL-G3 injects a reactive power of 83.296 MVAr into the network in the studied operating case.&gt;</data>
+      <data key="d9">has parameter,injects</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL-G2 Active Power 140 MW" target="NL-G2">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous machine NL-G2 injects an active power of 140 MW into the network in the studied operating case.&gt;</data>
+      <data key="d9">has parameter,injects</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL-G2 Reactive Power 77.743 MVAr" target="NL-G2">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous machine NL-G2 injects a reactive power of 77.743 MVAr into the network in the studied operating case.&gt;</data>
+      <data key="d9">has parameter,injects</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-G1 Active Power 90 MW" target="BE-G1">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous machine BE-G1 injects an active power of 90 MW into the network in the studied operating case.&gt;</data>
+      <data key="d9">has parameter,injects</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-006</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_TR2_2" target="Winding 1 Of NL_TR2_2">
+      <data key="d7">1.0</data>
+      <data key="d8">NL_TR2_2 includes Winding 1 Of NL_TR2_2 as one of its windings.</data>
+      <data key="d9">has part</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_TR2_2" target="Winding 2 Of NL_TR2_2">
+      <data key="d7">1.0</data>
+      <data key="d8">NL_TR2_2 includes Winding 2 Of NL_TR2_2 as one of its windings.</data>
+      <data key="d9">has part</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_TR2_2" target="NL_TR2_2 Ratio Tap Changer">
+      <data key="d7">1.0</data>
+      <data key="d8">NL_TR2_2 is equipped with NL_TR2_2 Ratio Tap Changer on winding 1.</data>
+      <data key="d9">equipped with</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_TR2_2" target="Winding 1 of NL_TR2_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Power transformer NL_TR2_2 includes Winding 1 of NL_TR2_2 as one of its windings.</data>
+      <data key="d9">has part,winding</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_TR2_2" target="Winding 2 of NL_TR2_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Power transformer NL_TR2_2 includes Winding 2 of NL_TR2_2 as one of its windings.</data>
+      <data key="d9">has part,winding</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_TR2_2" target="Power Transformer">
+      <data key="d7">1.0</data>
+      <data key="d8">NL_TR2_2 is an instance of the Power Transformer concept.</data>
+      <data key="d9">instance of,type</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_TR2_3" target="Winding 1 Of NL_TR2_3">
+      <data key="d7">1.0</data>
+      <data key="d8">NL_TR2_3 includes Winding 1 Of NL_TR2_3 as one of its windings.</data>
+      <data key="d9">has part</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_TR2_3" target="Winding 2 Of NL_TR2_3">
+      <data key="d7">1.0</data>
+      <data key="d8">NL_TR2_3 includes Winding 2 Of NL_TR2_3 as one of its windings.</data>
+      <data key="d9">has part</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_TR2_3" target="NL_TR2_3 Ratio Tap Changer">
+      <data key="d7">1.0</data>
+      <data key="d8">NL_TR2_3 is equipped with NL_TR2_3 Ratio Tap Changer on winding 1.</data>
+      <data key="d9">equipped with</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-TR3_1" target="Winding 1 Of BE-TR3_1">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-TR3_1 includes Winding 1 Of BE-TR3_1 as one of its windings.</data>
+      <data key="d9">has part</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-TR3_1" target="Winding 2 Of BE-TR3_1">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-TR3_1 includes Winding 2 Of BE-TR3_1 as one of its windings.</data>
+      <data key="d9">has part</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-TR3_1" target="Winding 3 Of BE-TR3_1">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-TR3_1 includes Winding 3 Of BE-TR3_1 as one of its windings.</data>
+      <data key="d9">has part</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-TR3_1" target="BE-TR3_1 Ratio Tap Changer">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-TR3_1 is equipped with BE-TR3_1 Ratio Tap Changer on winding 2.</data>
+      <data key="d9">equipped with</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-TR2_1" target="Winding 1 Of BE-TR2_1">
+      <data key="d7">2.0</data>
+      <data key="d8">BE-TR2_1 includes Winding 1 Of BE-TR2_1 as one of its windings.&lt;SEP&gt;Winding 1 Of BE-TR2_1 is a component of transformer BE-TR2_1.</data>
+      <data key="d9">component_of,has part</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-TR2_1" target="Winding 2 Of BE-TR2_1">
+      <data key="d7">2.0</data>
+      <data key="d8">BE-TR2_1 includes Winding 2 Of BE-TR2_1 as one of its two windings.&lt;SEP&gt;Winding 2 Of BE-TR2_1 is a component of transformer BE-TR2_1.</data>
+      <data key="d9">component_of,has part</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-TR2_1" target="BE-TR2_1 Ratio Tap Changer">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-TR2_1 is associated with BE-TR2_1 Ratio Tap Changer, by analogy with other power transformers in the same description.</data>
+      <data key="d9">equipped with</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-TR2_1" target="Phase Tap Changer BE-TR2_1">
+      <data key="d7">1.0</data>
+      <data key="d8">Phase Tap Changer BE-TR2_1 is installed on and is a component of transformer BE-TR2_1.</data>
+      <data key="d9">component_of,installed_on</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Winding 1 Of NL_TR2_3" target="NL-Busbar_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 1 Of NL_TR2_3 is connected to topological node NL-Busbar_2.</data>
+      <data key="d9">connected to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Winding 2 Of NL_TR2_3" target="NL_TR_BUS2">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 2 Of NL_TR2_3 is connected to topological node NL_TR_BUS2.</data>
+      <data key="d9">connected to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Winding 1 Of BE-TR3_1" target="BE_TR_BUS2">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 1 Of BE-TR3_1 is connected to topological node BE_TR_BUS2.</data>
+      <data key="d9">connected to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Winding 2 Of BE-TR3_1" target="BE_TR_BUS4">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 2 Of BE-TR3_1 is connected to topological node BE_TR_BUS4.</data>
+      <data key="d9">connected to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Winding 3 Of BE-TR3_1" target="BE-Busbar_5">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 3 Of BE-TR3_1 is connected to topological node BE-Busbar_5.</data>
+      <data key="d9">connected to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-004</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Winding 1 Of BE-TR2_1" target="BE_TR_BUS2">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 1 Of BE-TR2_1 is electrically connected to topological node BE_TR_BUS2.</data>
+      <data key="d9">electrical_connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Winding 1 Of BE-TR2_1" target="Phase Tap Changer BE-TR2_1">
+      <data key="d7">1.0</data>
+      <data key="d8">Phase Tap Changer BE-TR2_1 is installed on and associated with Winding 1 Of BE-TR2_1.</data>
+      <data key="d9">associated_with,installed_on</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_Busbar__4" target="NL-Line_4">
+      <data key="d7">1.0</data>
+      <data key="d8">AC line segment NL-Line_4 connects to topological node NL_Busbar__4.</data>
+      <data key="d9">connects_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_Busbar__4" target="NL-Line_3">
+      <data key="d7">1.0</data>
+      <data key="d8">AC line segment NL-Line_3 connects to topological node NL_Busbar__4.</data>
+      <data key="d9">connects_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_Busbar__4" target="TN_Border_ST23">
+      <data key="d7">1.0</data>
+      <data key="d8">Topological node NL_Busbar__4 is electrically connected to topological node TN_Border_ST23 via AC line segment NL-Line_4.</data>
+      <data key="d9">ac_line_path,connected_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_Busbar__4" target="TN_Border_ST24">
+      <data key="d7">1.0</data>
+      <data key="d8">Topological node NL_Busbar__4 is electrically connected to topological node TN_Border_ST24 via AC line segment NL-Line_3.</data>
+      <data key="d9">ac_line_path,connected_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_Busbar__4" target="B1">
+      <data key="d7">1.0</data>
+      <data key="d8">Breaker B1 connects to topological node NL_Busbar__4.</data>
+      <data key="d9">connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_Busbar__4" target="Winding 1 of NL_TR2_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 1 of NL_TR2_2 is connected to topological node NL_Busbar__4.</data>
+      <data key="d9">connects,transformer winding</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL-Busbar_2" target="NL-Load_3">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy consumer NL-Load_3 is connected to topological node NL-Busbar_2.</data>
+      <data key="d9">connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL-Busbar_2" target="B1">
+      <data key="d7">1.0</data>
+      <data key="d8">Breaker B1 connects to topological node NL-Busbar_2.</data>
+      <data key="d9">connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL_TR_BUS2" target="NL-Busbar_5">
+      <data key="d7">1.0</data>
+      <data key="d8">NL-Busbar_5 corresponds to topological node NL_TR_BUS2.&gt;</data>
+      <data key="d9">corresponds to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE_TR_BUS2" target="BE-Line_3">
+      <data key="d7">1.0</data>
+      <data key="d8">AC line segment BE-Line_3 connects to topological node BE_TR_BUS2.</data>
+      <data key="d9">connects_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE_TR_BUS2" target="BE-Line_5">
+      <data key="d7">2.0</data>
+      <data key="d8">BE-Line_5 is an AC line segment that connects to topological node BE_TR_BUS2.&lt;SEP&gt;AC line segment BE-Line_5 connects to topological node BE_TR_BUS2.</data>
+      <data key="d9">AC line segment,connects,connects_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE_TR_BUS2" target="TN_Border_AL11">
+      <data key="d7">1.0</data>
+      <data key="d8">Topological node BE_TR_BUS2 is electrically connected to topological node TN_Border_AL11 via AC line segment BE-Line_3.</data>
+      <data key="d9">ac_line_path,connected_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE_TR_BUS2" target="TN_Border_GY11">
+      <data key="d7">1.0</data>
+      <data key="d8">Topological node BE_TR_BUS2 is electrically connected to topological node TN_Border_GY11 via AC line segment BE-Line_5.</data>
+      <data key="d9">ac_line_path,connected_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE_TR_BUS2" target="BE-Busbar_1">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Busbar_1 corresponds to topological node BE_TR_BUS2.&gt;</data>
+      <data key="d9">corresponds to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE_TR_BUS2" target="BE_S2">
+      <data key="d7">1.0</data>
+      <data key="d8">Linear shunt compensator BE_S2 is installed at topological node BE_TR_BUS2.</data>
+      <data key="d9">connection,installation</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE_TR_BUS2" target="BE-Line_4">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Line_4 is an AC line segment that connects to topological node BE_TR_BUS2.</data>
+      <data key="d9">AC line segment,connects</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE_TR_BUS4" target="N1230992288">
+      <data key="d7">1.0</data>
+      <data key="d8">N1230992288 corresponds to topological node BE_TR_BUS4.&gt;</data>
+      <data key="d9">corresponds to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE_TR_BUS4" target="BE-Busbar_3">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Busbar_3 corresponds to topological node BE_TR_BUS4.&gt;</data>
+      <data key="d9">corresponds to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE_TR_BUS4" target="N1230992291">
+      <data key="d7">1.0</data>
+      <data key="d8">N1230992291 corresponds to topological node BE_TR_BUS4.&gt;</data>
+      <data key="d9">corresponds to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE_TR_BUS4" target="Winding 1 Of BE-TR2_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 1 Of BE-TR2_2 is electrically connected to topological node BE_TR_BUS4.</data>
+      <data key="d9">electrical_connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE_TR_BUS4" target="BE-Line_2">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Line_2 is an AC line segment that connects to topological node BE_TR_BUS4.</data>
+      <data key="d9">AC line segment,connects</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE_TR_BUS4" target="BE-Line_6">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Line_6 is an AC line segment that connects to topological node BE_TR_BUS4.</data>
+      <data key="d9">AC line segment,connects</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Winding 2 Of BE-TR2_1" target="BE-Busbar_6">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 2 Of BE-TR2_1 is electrically connected to topological node BE-Busbar_6.</data>
+      <data key="d9">electrical_connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine BE-G1" target="Generating Unit Gen-1229753060">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine BE-G1 belongs to Generating Unit Gen-1229753060.</data>
+      <data key="d9">association,membership</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine BE-G1" target="Network">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine BE-G1 injects active and reactive power into the Network.</data>
+      <data key="d9">power_injection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine BE-G1" target="Active Power 90 MW (BE-G1)">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine BE-G1 injects Active Power 90 MW (BE-G1) into the network in the studied operating case.</data>
+      <data key="d9">power_injection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Machine BE-G1" target="Reactive Power 100.256 MVAr (BE-G1)">
+      <data key="d7">1.0</data>
+      <data key="d8">Machine BE-G1 injects Reactive Power 100.256 MVAr (BE-G1) into the network in the studied operating case.</data>
+      <data key="d9">power_injection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Network" target="Synchronous Machine BE-G2">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous Machine BE-G2 injects active and reactive power into the Network.</data>
+      <data key="d9">power_injection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Network" target="Synchronous Machine NL-G1">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous Machine NL-G1 injects active and reactive power into the Network.</data>
+      <data key="d9">power_injection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Synchronous Machine BE-G2" target="Substation PP_Brussels">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous Machine BE-G2 operates in Substation PP_Brussels at Voltage Level 21.0.</data>
+      <data key="d9">location,operation_voltage</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Synchronous Machine BE-G2" target="Voltage Level 21.0">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous Machine BE-G2 operates in Voltage Level 21.0.</data>
+      <data key="d9">operation_voltage</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Synchronous Machine BE-G2" target="Topological Node BE-Busbar_5">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous Machine BE-G2 is connected to Topological Node BE-Busbar_5.</data>
+      <data key="d9">connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Synchronous Machine BE-G2" target="Generating Unit Gen-1229753024">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous Machine BE-G2 belongs to Generating Unit Gen-1229753024.</data>
+      <data key="d9">association,membership</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Synchronous Machine BE-G2" target="Active Power 118 MW (BE-G2)">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous Machine BE-G2 injects Active Power 118 MW (BE-G2) into the network in the studied operating case.</data>
+      <data key="d9">power_injection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Synchronous Machine BE-G2" target="Reactive Power 18.7203 MVAr (BE-G2)">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous Machine BE-G2 injects Reactive Power 18.7203 MVAr (BE-G2) into the network in the studied operating case.</data>
+      <data key="d9">power_injection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Substation PP_Brussels" target="Energy Consumer BE-Load_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer BE-Load_2 is located in Substation PP_Brussels at Voltage Level 225.0.</data>
+      <data key="d9">location,operation_voltage</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Synchronous Machine NL-G1" target="Substation PP_Amsterdam">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous Machine NL-G1 operates in Substation PP_Amsterdam at Voltage Level 15.8.</data>
+      <data key="d9">location,operation_voltage</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Synchronous Machine NL-G1" target="Topological Node NL_TR_BUS2">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous Machine NL-G1 is connected to Topological Node NL_TR_BUS2.</data>
+      <data key="d9">connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Synchronous Machine NL-G1" target="Generating Unit Gen-12923">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous Machine NL-G1 belongs to Generating Unit Gen-12923.</data>
+      <data key="d9">association,membership</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Synchronous Machine NL-G1" target="Active Power 600.493 MW (NL-G1)">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous Machine NL-G1 injects Active Power 600.493 MW (NL-G1) into the network in the studied operating case.</data>
+      <data key="d9">power_injection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Synchronous Machine NL-G1" target="Reactive Power 386.923 MVAr (NL-G1)">
+      <data key="d7">1.0</data>
+      <data key="d8">Synchronous Machine NL-G1 injects Reactive Power 386.923 MVAr (NL-G1) into the network in the studied operating case.</data>
+      <data key="d9">power_injection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Substation PP_Amsterdam" target="Energy Consumer NL-Load_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer NL-Load_2 is located in Substation PP_Amsterdam at Voltage Level 400.0.</data>
+      <data key="d9">location,operation_voltage</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Substation PP_Amsterdam" target="Energy Consumer NL-Load_1">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer NL-Load_1 is located in Substation PP_Amsterdam at Voltage Level 400.0.</data>
+      <data key="d9">location,operation_voltage</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer BE-Load_2" target="Voltage Level 225.0">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer BE-Load_2 operates in Voltage Level 225.0.</data>
+      <data key="d9">operation_voltage</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer BE-Load_2" target="Topological Node BE_TR_BUS4">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer BE-Load_2 is connected to Topological Node BE_TR_BUS4.</data>
+      <data key="d9">connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer BE-Load_2" target="Active Power 200 MW (BE-Load_2)">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer BE-Load_2 draws Active Power 200 MW (BE-Load_2).</data>
+      <data key="d9">power_consumption</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer BE-Load_2" target="Reactive Power 50 MVAr (BE-Load_2)">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer BE-Load_2 draws Reactive Power 50 MVAr (BE-Load_2).</data>
+      <data key="d9">power_consumption</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer NL-Load_2" target="Voltage Level 400.0">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer NL-Load_2 operates in Voltage Level 400.0.</data>
+      <data key="d9">operation_voltage</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer NL-Load_2" target="Topological Node N1230992195">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer NL-Load_2 is connected to Topological Node N1230992195.</data>
+      <data key="d9">connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer NL-Load_2" target="Active Power 10 MW (NL-Load_2)">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer NL-Load_2 draws Active Power 10 MW (NL-Load_2).</data>
+      <data key="d9">power_consumption</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer NL-Load_2" target="Reactive Power 10 MVAr (NL-Load_2)">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer NL-Load_2 draws Reactive Power 10 MVAr (NL-Load_2).</data>
+      <data key="d9">power_consumption</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer NL-Load_1" target="Voltage Level 400.0">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer NL-Load_1 operates in Voltage Level 400.0.</data>
+      <data key="d9">operation_voltage</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer NL-Load_1" target="Topological Node N1230992195">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer NL-Load_1 is connected to Topological Node N1230992195.</data>
+      <data key="d9">connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer NL-Load_1" target="Active Power 90 MW (NL-Load_1)">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer NL-Load_1 draws Active Power 90 MW (NL-Load_1).</data>
+      <data key="d9">power_consumption</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer NL-Load_1" target="Reactive Power 280 MVAr (NL-Load_1)">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer NL-Load_1 draws Reactive Power 280 MVAr (NL-Load_1).</data>
+      <data key="d9">power_consumption</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 400.0" target="NL-S1">
+      <data key="d7">1.0</data>
+      <data key="d8">Linear shunt compensator NL-S1 is installed at voltage level 400.0.</data>
+      <data key="d9">installation,voltage level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer L-1230804819" target="Substation Anvers">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer L-1230804819 is located in Substation Anvers at Voltage Level 220.0.</data>
+      <data key="d9">location,operation_voltage</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer L-1230804819" target="Voltage Level 220.0">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer L-1230804819 operates in Voltage Level 220.0.</data>
+      <data key="d9">operation_voltage</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer L-1230804819" target="Active Power 1 MW (L-1230804819)">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer L-1230804819 draws Active Power 1 MW (L-1230804819).</data>
+      <data key="d9">power_consumption</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Energy Consumer L-1230804819" target="Reactive Power 0 MVAr (L-1230804819)">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy Consumer L-1230804819 draws Reactive Power 0 MVAr (L-1230804819).</data>
+      <data key="d9">power_consumption</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-007</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 220.0" target="N1230992411">
+      <data key="d7">1.0</data>
+      <data key="d8">N1230992411 is installed in voltage level 220.0 and operates at a nominal voltage of 225 kV at this level.&gt;</data>
+      <data key="d9">installed in,operates at</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 220.0" target="N1230992414">
+      <data key="d7">1.0</data>
+      <data key="d8">N1230992414 is installed in voltage level 220.0 and operates at a nominal voltage of 225 kV at this level.&gt;</data>
+      <data key="d9">installed in,operates at</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 220.0" target="BE-Busbar_2">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Busbar_2 is installed in voltage level 220.0 and operates at a nominal voltage of 225 kV at this level.&gt;</data>
+      <data key="d9">installed in,operates at</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 220.0" target="L-1230804819">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy consumer L-1230804819 is located at voltage level 220.0.</data>
+      <data key="d9">location,voltage level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 220.0" target="NL-Load_3">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy consumer NL-Load_3 is located at voltage level 220.0.</data>
+      <data key="d9">location,voltage level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 220.0" target="B1">
+      <data key="d7">1.0</data>
+      <data key="d8">Breaker B1 is located at voltage level 220.0.</data>
+      <data key="d9">location,voltage level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Substation Anvers" target="Be Region">
+      <data key="d7">1.0</data>
+      <data key="d8">Substation Anvers is located in the BE region.</data>
+      <data key="d9">located_in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Substation Anvers" target="Voltage Level 220.0 (Anvers)">
+      <data key="d7">1.0</data>
+      <data key="d8">Substation Anvers contains voltage level 220.0.</data>
+      <data key="d9">contains,has_voltage_level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Entso-E Cgmes Microgrid Test Configuration - Network Operations Description" target="Be Region">
+      <data key="d7">1.0</data>
+      <data key="d8">The document describes an interconnected transmission network that spans the BE region.</data>
+      <data key="d9">describes,includes</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Entso-E Cgmes Microgrid Test Configuration - Network Operations Description" target="Eu Region">
+      <data key="d7">1.0</data>
+      <data key="d8">The document describes an interconnected transmission network that spans the EU region.</data>
+      <data key="d9">describes,includes</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Entso-E Cgmes Microgrid Test Configuration - Network Operations Description" target="Nl Region">
+      <data key="d7">1.0</data>
+      <data key="d8">The document describes an interconnected transmission network that spans the NL region.</data>
+      <data key="d9">describes,includes</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Be Region" target="Substation Pp_Brussels">
+      <data key="d7">1.0</data>
+      <data key="d8">Substation PP_Brussels is located in the BE region.</data>
+      <data key="d9">located_in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Nl Region" target="Substation Pp_Amsterdam">
+      <data key="d7">1.0</data>
+      <data key="d8">Substation PP_Amsterdam is located in the NL region.</data>
+      <data key="d9">located_in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Substation Pp_Brussels" target="Voltage Level 380.0 (Pp_Brussels)">
+      <data key="d7">1.0</data>
+      <data key="d8">Substation PP_Brussels contains voltage level 380.0.</data>
+      <data key="d9">contains,has_voltage_level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Substation Pp_Brussels" target="Voltage Level 225.0 (Pp_Brussels)">
+      <data key="d7">1.0</data>
+      <data key="d8">Substation PP_Brussels contains voltage level 225.0.</data>
+      <data key="d9">contains,has_voltage_level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Substation Pp_Brussels" target="Voltage Level 110.0 (Pp_Brussels)">
+      <data key="d7">1.0</data>
+      <data key="d8">Substation PP_Brussels contains voltage level 110.0.</data>
+      <data key="d9">contains,has_voltage_level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Substation Pp_Brussels" target="Voltage Level 21.0 (Pp_Brussels)">
+      <data key="d7">1.0</data>
+      <data key="d8">Substation PP_Brussels contains voltage level 21.0.</data>
+      <data key="d9">contains,has_voltage_level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Substation Pp_Brussels" target="Voltage Level 10.5 (Pp_Brussels)">
+      <data key="d7">1.0</data>
+      <data key="d8">Substation PP_Brussels contains voltage level 10.5.</data>
+      <data key="d9">contains,has_voltage_level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Substation Pp_Amsterdam" target="Voltage Level 400.0 (Pp_Amsterdam)">
+      <data key="d7">1.0</data>
+      <data key="d8">Substation PP_Amsterdam contains voltage level 400.0.</data>
+      <data key="d9">contains,has_voltage_level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Substation Pp_Amsterdam" target="Voltage Level 220.0 (Pp_Amsterdam)">
+      <data key="d7">1.0</data>
+      <data key="d8">Substation PP_Amsterdam contains voltage level 220.0.</data>
+      <data key="d9">contains,has_voltage_level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Substation Pp_Amsterdam" target="Voltage Level 15.8 (Pp_Amsterdam)">
+      <data key="d7">1.0</data>
+      <data key="d8">Substation PP_Amsterdam contains voltage level 15.8.</data>
+      <data key="d9">contains,has_voltage_level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 110.0 (Pp_Brussels)" target="Busbar Section Be-Busbar_6">
+      <data key="d7">1.0</data>
+      <data key="d8">Busbar section BE-Busbar_6 is installed in voltage level 110.0 of substation PP_Brussels.</data>
+      <data key="d9">installed_in,operates_at_voltage_level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 220.0 (Pp_Amsterdam)" target="Busbar Section N1230822396">
+      <data key="d7">1.0</data>
+      <data key="d8">Busbar section N1230822396 is installed in voltage level 220.0 of substation PP_Amsterdam.</data>
+      <data key="d9">installed_in,operates_at_voltage_level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 220.0 (Pp_Amsterdam)" target="Busbar Section Nl-Busbar_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Busbar section NL-Busbar_2 is installed in voltage level 220.0 of substation PP_Amsterdam.</data>
+      <data key="d9">installed_in,operates_at_voltage_level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Busbar Section N1230822396" target="Topological Node Nl_Busbar__4">
+      <data key="d7">1.0</data>
+      <data key="d8">Busbar section N1230822396 corresponds to topological node NL_Busbar__4.</data>
+      <data key="d9">corresponds_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Busbar Section Nl-Busbar_2" target="Topological Node Nl-Busbar_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Busbar section NL-Busbar_2 corresponds to topological node NL-Busbar_2.</data>
+      <data key="d9">corresponds_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Busbar Section Be-Busbar_6" target="Topological Node Be-Busbar_6">
+      <data key="d7">1.0</data>
+      <data key="d8">Busbar section BE-Busbar_6 corresponds to topological node BE-Busbar_6.</data>
+      <data key="d9">corresponds_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-000</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Anvers" target="BE-Busbar_2">
+      <data key="d7">2.0</data>
+      <data key="d8">BE-Busbar_2 is installed in substation Anvers.&gt;&lt;SEP&gt;Station Anvers hosts busbar BE-Busbar_2, which operates there at a nominal voltage of 225 kV.</data>
+      <data key="d9">hosts,installed in,location_of</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Anvers" target="N1230992411">
+      <data key="d7">1.0</data>
+      <data key="d8">N1230992411 is installed in substation Anvers.&gt;</data>
+      <data key="d9">installed in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Anvers" target="N1230992414">
+      <data key="d7">1.0</data>
+      <data key="d8">N1230992414 is installed in substation Anvers.&gt;</data>
+      <data key="d9">installed in</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Anvers" target="L-1230804819">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy consumer L-1230804819 is located in voltage level 220.0 of substation Anvers.</data>
+      <data key="d9">location,voltage level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_2" target="TN_Border_ST23">
+      <data key="d7">1.0</data>
+      <data key="d8">Topological node BE-Busbar_2 is electrically connected to topological node TN_Border_ST23 via AC line segment BE-Line_1.</data>
+      <data key="d9">ac_line_path,connected_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_2" target="TN_Border_ST24">
+      <data key="d7">1.0</data>
+      <data key="d8">Topological node BE-Busbar_2 is electrically connected to topological node TN_Border_ST24 via AC line segment BE-Line_7.</data>
+      <data key="d9">ac_line_path,connected_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_2" target="BE-Line_1">
+      <data key="d7">1.0</data>
+      <data key="d8">AC line segment BE-Line_1 connects to topological node BE-Busbar_2.</data>
+      <data key="d9">connects_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_2" target="BE-Line_7">
+      <data key="d7">1.0</data>
+      <data key="d8">AC line segment BE-Line_7 connects to topological node BE-Busbar_2.</data>
+      <data key="d9">connects_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_2" target="N1230992411">
+      <data key="d7">1.0</data>
+      <data key="d8">N1230992411 corresponds to topological node BE-Busbar_2.&gt;</data>
+      <data key="d9">corresponds to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_2" target="N1230992414">
+      <data key="d7">1.0</data>
+      <data key="d8">N1230992414 corresponds to topological node BE-Busbar_2.&gt;</data>
+      <data key="d9">corresponds to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_2" target="L-1230804819">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy consumer L-1230804819 is connected to topological node BE-Busbar_2.</data>
+      <data key="d9">connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_2" target="BE-Line_2">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Line_2 is an AC line segment that connects to topological node BE-Busbar_2.</data>
+      <data key="d9">AC line segment,connects</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_2" target="BE-Line_6">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Line_6 is an AC line segment that connects to topological node BE-Busbar_2.</data>
+      <data key="d9">AC line segment,connects</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_4" target="Winding 2 Of BE-TR2_3">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 2 Of BE-TR2_3 is electrically connected to topological node BE-Busbar_4.</data>
+      <data key="d9">electrical_connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="TN_Border_ST23" target="BE-Line_1">
+      <data key="d7">1.0</data>
+      <data key="d8">AC line segment BE-Line_1 connects to topological node TN_Border_ST23.</data>
+      <data key="d9">connects_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="TN_Border_ST23" target="NL-Line_4">
+      <data key="d7">1.0</data>
+      <data key="d8">AC line segment NL-Line_4 connects to topological node TN_Border_ST23.</data>
+      <data key="d9">connects_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="TN_Border_AL11" target="BE-Line_3">
+      <data key="d7">1.0</data>
+      <data key="d8">AC line segment BE-Line_3 connects to topological node TN_Border_AL11.</data>
+      <data key="d9">connects_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="TN_Border_AL11" target="NL-Line_1">
+      <data key="d7">1.0</data>
+      <data key="d8">AC line segment NL-Line_1 connects to topological node TN_Border_AL11.</data>
+      <data key="d9">connects_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="TN_Border_ST24" target="BE-Line_7">
+      <data key="d7">1.0</data>
+      <data key="d8">AC line segment BE-Line_7 connects to topological node TN_Border_ST24.</data>
+      <data key="d9">connects_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="TN_Border_ST24" target="NL-Line_3">
+      <data key="d7">1.0</data>
+      <data key="d8">AC line segment NL-Line_3 connects to topological node TN_Border_ST24.</data>
+      <data key="d9">connects_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="TN_Border_GY11" target="BE-Line_5">
+      <data key="d7">2.0</data>
+      <data key="d8">BE-Line_5 is an AC line segment that connects to topological node TN_Border_GY11.&lt;SEP&gt;AC line segment BE-Line_5 connects to topological node TN_Border_GY11.</data>
+      <data key="d9">AC line segment,connects,connects_to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-002&lt;SEP&gt;doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="TN_Border_GY11" target="NL-Line_5">
+      <data key="d7">1.0</data>
+      <data key="d8">NL-Line_5 is an AC line segment that connects to topological node TN_Border_GY11.</data>
+      <data key="d9">AC line segment,connects</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Line_5" target="AC Line Segment">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Line_5 is an instance of the AC Line Segment concept.</data>
+      <data key="d9">instance of,type</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Usbar_6" target="BE-Busbar_6">
+      <data key="d7">1.0</data>
+      <data key="d8">Usbar_6 corresponds to topological node BE-Busbar_6.&gt;</data>
+      <data key="d9">corresponds to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Usbar_6" target="Voltage Level 110.0">
+      <data key="d7">1.0</data>
+      <data key="d8">Usbar_6 is installed in voltage level 110.0 and operates at a nominal voltage of 110 kV at this level.&gt;</data>
+      <data key="d9">installed in,operates at</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_6" target="Winding 2 Of BE-TR2_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 2 Of BE-TR2_2 is electrically connected to topological node BE-Busbar_6.</data>
+      <data key="d9">electrical_connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_6" target="Winding 1 Of BE-TR2_3">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 1 Of BE-TR2_3 is electrically connected to topological node BE-Busbar_6.</data>
+      <data key="d9">electrical_connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_6" target="BE-Load_1">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy consumer BE-Load_1 is connected to topological node BE-Busbar_6.</data>
+      <data key="d9">connection</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_6" target="BE_S1">
+      <data key="d7">1.0</data>
+      <data key="d8">Linear shunt compensator BE_S1 is installed at topological node BE-Busbar_6.</data>
+      <data key="d9">connection,installation</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_3" target="Voltage Level 225.0 (PP_Brussels)">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Busbar_3 is installed in voltage level 225.0 at substation PP_Brussels and operates at a nominal voltage of 225 kV.&gt;</data>
+      <data key="d9">installed in,operates at</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="N1230992288" target="Voltage Level 225.0 (PP_Brussels)">
+      <data key="d7">1.0</data>
+      <data key="d8">N1230992288 is installed in voltage level 225.0 at substation PP_Brussels and operates at a nominal voltage of 225 kV.&gt;</data>
+      <data key="d9">installed in,operates at</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Busbar_1" target="Voltage Level 380.0">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Busbar_1 is installed in voltage level 380.0 and operates at a nominal voltage of 380 kV at this level.&gt;</data>
+      <data key="d9">installed in,operates at</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="N1230992291" target="Voltage Level 225.0 (PP_Brussels)">
+      <data key="d7">1.0</data>
+      <data key="d8">N1230992291 is installed in voltage level 225.0 at substation PP_Brussels and operates at a nominal voltage of 225 kV.&gt;</data>
+      <data key="d9">installed in,operates at</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-001</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 110.0" target="BE-Load_1">
+      <data key="d7">1.0</data>
+      <data key="d8">Energy consumer BE-Load_1 is located at voltage level 110.0.</data>
+      <data key="d9">location,voltage level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 110.0" target="BE_S1">
+      <data key="d7">1.0</data>
+      <data key="d8">Linear shunt compensator BE_S1 is installed at voltage level 110.0.</data>
+      <data key="d9">installation,voltage level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Voltage Level 380.0" target="BE_S2">
+      <data key="d7">1.0</data>
+      <data key="d8">Linear shunt compensator BE_S2 is installed at voltage level 380.0.</data>
+      <data key="d9">installation,voltage level</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-008</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-TR2_2" target="Winding 1 Of BE-TR2_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 1 Of BE-TR2_2 is a component of transformer BE-TR2_2.</data>
+      <data key="d9">component_of</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-TR2_2" target="Winding 2 Of BE-TR2_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Winding 2 Of BE-TR2_2 is a component of transformer BE-TR2_2.</data>
+      <data key="d9">component_of</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-TR2_2" target="Ratio Tap Changer BE-TR2_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Ratio Tap Changer BE-TR2_2 is installed on and is a component of transformer BE-TR2_2.</data>
+      <data key="d9">component_of,installed_on</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Winding 1 Of BE-TR2_2" target="Ratio Tap Changer BE-TR2_2">
+      <data key="d7">1.0</data>
+      <data key="d8">Ratio Tap Changer BE-TR2_2 is installed on and associated with Winding 1 Of BE-TR2_2.</data>
+      <data key="d9">associated_with,installed_on</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Winding 2 Of BE-TR2_3" target="Ratio Tap Changer BE-TR2_3">
+      <data key="d7">1.0</data>
+      <data key="d8">Ratio Tap Changer BE-TR2_3 is installed on and associated with Winding 2 Of BE-TR2_3.</data>
+      <data key="d9">associated_with,installed_on</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-005</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Line_2" target="AC Line Segment">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Line_2 is an instance of the AC Line Segment concept.</data>
+      <data key="d9">instance of,type</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL-Line_2" target="TN_Border_MA11">
+      <data key="d7">1.0</data>
+      <data key="d8">NL-Line_2 is an AC line segment that connects to topological node TN_Border_MA11.</data>
+      <data key="d9">AC line segment,connects</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL-Line_2" target="AC Line Segment">
+      <data key="d7">1.0</data>
+      <data key="d8">NL-Line_2 is an instance of the AC Line Segment concept.</data>
+      <data key="d9">instance of,type</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="TN_Border_MA11" target="BE-Line_4">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Line_4 is an AC line segment that connects to topological node TN_Border_MA11.</data>
+      <data key="d9">AC line segment,connects</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="NL-Line_5" target="AC Line Segment">
+      <data key="d7">1.0</data>
+      <data key="d8">NL-Line_5 is an instance of the AC Line Segment concept.</data>
+      <data key="d9">instance of,type</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Line_4" target="AC Line Segment">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Line_4 is an instance of the AC Line Segment concept.</data>
+      <data key="d9">instance of,type</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="BE-Line_6" target="AC Line Segment">
+      <data key="d7">1.0</data>
+      <data key="d8">BE-Line_6 is an instance of the AC Line Segment concept.</data>
+      <data key="d9">instance of,type</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Power Transformers" target="Power Transformer">
+      <data key="d7">1.0</data>
+      <data key="d8">Power Transformers is a heading that refers to the general concept of Power Transformer.</data>
+      <data key="d9">generalization,refers to</data>
+      <data key="d10">doc-be0add59cbaa36750f7e1a8365dca728-chunk-003</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1781189876</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

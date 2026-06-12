@@ -1,0 +1,9 @@
+# SPDX-License-Identifier: Apache-2.0
+lxml~=5.2
+networkx~=3.3
+scipy~=1.13
+numpy~=1.26
+matplotlib~=3.9
+sentence-transformers~=3.0
+lightrag-hku~=1.5
+openai~=1.30

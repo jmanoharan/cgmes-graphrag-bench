@@ -1,0 +1,832 @@
+[
+  {
+    "id": "BE-TR2_3",
+    "type": "artifact",
+    "description": "BE-TR2_3 is a 2-winding power transformer installed in substation PP_Brussels.<SEP>BE-TR2_3 is a ratio tap changer installed on transformer winding 2, with steps from 1 to 33 and neutral step 17.>"
+  },
+  {
+    "id": "Winding 2",
+    "type": "artifact",
+    "description": "Winding 2 is the second winding of a power transformer on which the ratio tap changer BE-TR2_3 is installed.>"
+  },
+  {
+    "id": "NL-TR2_1",
+    "type": "artifact",
+    "description": "NL-TR2_1 is a 2-winding power transformer installed in substation PP_Amsterdam.<SEP>NL-TR2_1 is a 2-winding power transformer installed in substation PP_Amsterdam.>"
+  },
+  {
+    "id": "PP_Amsterdam",
+    "type": "location",
+    "description": "PP_Amsterdam is a substation location where power transformer NL_TR2_2 is installed.<SEP>PP_Amsterdam is a substation that contains busbar sections NL-Busbar_3 and NL-Busbar_5.><SEP>PP_Amsterdam is a substation location where power transformer NL-TR2_1 is installed.<SEP>PP_Amsterdam is a substation where power transformer NL_TR2_3 is installed.><SEP>PP_Amsterdam is a substation that contains voltage levels including 15.8 and 400.0 and hosts equipment such as machine NL-G1 and multiple energy consumers.<SEP>PP_Amsterdam is a substation where transformer NL-TR2_1 and synchronous machines NL-G3 and NL-G2 are installed.><SEP>PP_Amsterdam is a substation that includes multiple voltage levels and is connected to several topological nodes and devices."
+  },
+  {
+    "id": "Winding 1 Of NL-TR2_1",
+    "type": "artifact",
+    "description": "Winding 1 Of NL-TR2_1 is the first winding of transformer NL-TR2_1, rated at 400 kV and 320 MVA, connected to topological node N1230992195, and equipped with a ratio tap changer.>"
+  },
+  {
+    "id": "N1230992195",
+    "type": "artifact",
+    "description": "N1230992195 is a topological node that serves as one terminal of AC line segments NL-Line_2 and NL-Line_5.<SEP>N1230992195 is a topological node connected to AC line segment NL-Line_1.><SEP>N1230992195 is a topological node in the network to which energy consumers NL-Load_2 and NL-Load_1 are connected.<SEP>N1230992195 is a topological node to which winding 1 of transformer NL-TR2_1 is connected.><SEP>N1230992195 is a topological node associated with substation PP_Amsterdam and hosts installations such as linear shunt compensators."
+  },
+  {
+    "id": "Winding 2 Of NL-TR2_1",
+    "type": "artifact",
+    "description": "Winding 2 Of NL-TR2_1 is the second winding of transformer NL-TR2_1, rated at 220 kV and 320 MVA, connected to topological node NL-Busbar_2.>"
+  },
+  {
+    "id": "NL-Busbar_2",
+    "type": "location",
+    "description": "NL-Busbar_2 is a topological node connected to winding 1 of transformer NL_TR2_3.><SEP>NL-Busbar_2 is a topological node to which winding 2 of transformer NL-TR2_1 is connected.><SEP>NL-Busbar_2 is a topological node within substation PP_Amsterdam that connects energy consumer NL-Load_3 and breaker B1."
+  },
+  {
+    "id": "NL-TR2_1 Tap Changer",
+    "type": "artifact",
+    "description": "NL-TR2_1 Tap Changer is a ratio tap changer installed on winding 1 of transformer NL-TR2_1, with steps from -20 to 20 and neutral step 0.>"
+  },
+  {
+    "id": "Voltage Level 15.8",
+    "type": "concept",
+    "description": "Voltage Level 15.8 is a voltage level within Substation Pp_Amsterdam that operates at a nominal voltage of 15.75 kV.<SEP>Voltage Level 15.8 is an operating voltage level at substation PP_Amsterdam for synchronous machines NL-G3 and NL-G2.>"
+  },
+  {
+    "id": "N1230822413",
+    "type": "artifact",
+    "description": "N1230822413 is a topological node corresponding to the busbar section NL-Busbar_3.><SEP>N1230822413 is a topological node connected to winding 2 of transformer NL_TR2_2.><SEP>N1230822413 is a topological node to which synchronous machines NL-G3 and NL-G2 are connected.>"
+  },
+  {
+    "id": "NL-G3",
+    "type": "artifact",
+    "description": "NL-G3 is a synchronous machine with rated apparent power 0 MVA, operating in voltage level 15.8 at substation PP_Amsterdam and connected to topological node N1230822413.>"
+  },
+  {
+    "id": "Gen-12908",
+    "type": "artifact",
+    "description": "Gen-12908 is a generating unit associated with machine NL-G3, with maximum operating power 250 MW and minimum operating power 130 MW.>"
+  },
+  {
+    "id": "Operating Case NL-G3",
+    "type": "event",
+    "description": "Operating Case NL-G3 is the studied operating case in which machine NL-G3 injects 150 MW active power and 83.296 MVAr reactive power into the network.>"
+  },
+  {
+    "id": "NL-G2",
+    "type": "artifact",
+    "description": "NL-G2 is a synchronous machine with rated apparent power 0 MVA, operating in voltage level 15.8 at substation PP_Amsterdam and connected to topological node N1230822413.>"
+  },
+  {
+    "id": "Gen-12910",
+    "type": "artifact",
+    "description": "Gen-12910 is a generating unit associated with machine NL-G2, with maximum operating power 250 MW and minimum operating power 130 MW.>"
+  },
+  {
+    "id": "Operating Case NL-G2",
+    "type": "event",
+    "description": "Operating Case NL-G2 is the studied operating case in which machine NL-G2 injects 140 MW active power and 77.743 MVAr reactive power into the network.>"
+  },
+  {
+    "id": "BE-G1",
+    "type": "artifact",
+    "description": "BE-G1 is a synchronous machine with rated apparent power 0 MVA, operating in voltage level 10.5 at substation PP_Brussels and connected to topological node BE-Busbar_4.>"
+  },
+  {
+    "id": "Voltage Level 10.5",
+    "type": "concept",
+    "description": "Voltage Level 10.5 is a voltage level within substation PP_Brussels where busbar section BE-Busbar_4 is installed and operates at 10.5 kV.><SEP>Voltage Level 10.5 is a voltage level within Substation Pp_Brussels that operates at a nominal voltage of 10.5 kV.<SEP>Voltage Level 10.5 is an operating voltage level at substation PP_Brussels for synchronous machine BE-G1.>"
+  },
+  {
+    "id": "PP_Brussels",
+    "type": "location",
+    "description": "PP_Brussels is a substation that contains multiple busbar sections including Usbar_6, BE-Busbar_3, N1230992288, BE-Busbar_1, and N1230992291.><SEP>PP_Brussels is a substation that contains voltage level 10.5 where busbar section BE-Busbar_4 is installed.><SEP>PP_Brussels is a substation location where several power transformers are installed.<SEP>PP_Brussels is a substation where power transformers BE-TR3_1 and BE-TR2_1 are installed.><SEP>PP_Brussels is a substation that contains voltage levels including 21.0 and 225.0 and hosts equipment such as machine BE-G2 and energy consumer BE-Load_2.<SEP>PP_Brussels is a substation where synchronous machine BE-G1 operates.><SEP>PP_Brussels is a substation that includes voltage levels 380.0 and 110.0 and hosts linear shunt compensators and energy consumers."
+  },
+  {
+    "id": "BE-Busbar_4",
+    "type": "artifact",
+    "description": "BE-Busbar_4 is a busbar section installed in voltage level 10.5 of substation PP_Brussels and operates at a nominal voltage of 10.5 kV, corresponding to topological node BE-Busbar_4.><SEP>BE-Busbar_4 is a busbar section installed in voltage level 10.5 of substation PP_Brussels and operates at a nominal voltage of 10.5 kV.><SEP>BE-Busbar_4 is a topological node to which Winding 2 of transformer BE-TR2_3 is connected.<SEP>BE-Busbar_4 is a topological node to which synchronous machine BE-G1 is connected.>"
+  },
+  {
+    "id": "Gen-1229753060",
+    "type": "artifact",
+    "description": "Gen-1229753060 is a generating unit associated with machine BE-G1, with maximum operating power 200 MW and minimum operating power 50 MW.>"
+  },
+  {
+    "id": "Winding 2 Of BE-TR2_3 Transformer",
+    "type": "artifact",
+    "description": "Winding 2 Of BE-TR2_3 Transformer is the second winding of a power transformer on which the ratio tap changer BE-TR2_3 is installed.>"
+  },
+  {
+    "id": "Studied Operating Case",
+    "type": "event",
+    "description": "Studied Operating Case is the network operating scenario in which synchronous machines NL-G3, NL-G2, and BE-G1 inject active and reactive power into the network.>"
+  },
+  {
+    "id": "NL_TR2_2",
+    "type": "artifact",
+    "description": "NL_TR2_2 is a 2-winding power transformer installed in substation PP_Amsterdam.<SEP>NL_TR2_2 is a power transformer with at least two windings and a rated apparent power of 1260 MVA on winding 2.>"
+  },
+  {
+    "id": "NL_TR2_2 Winding 1",
+    "type": "artifact",
+    "description": "NL_TR2_2 Winding 1 is the first winding of transformer NL_TR2_2 and is equipped with a ratio tap changer named NL_TR2_2.>"
+  },
+  {
+    "id": "NL_TR2_2 Winding 2",
+    "type": "artifact",
+    "description": "NL_TR2_2 Winding 2 is the second winding of transformer NL_TR2_2 with a rated voltage of 15.75 kV and a rated apparent power of 1260 MVA, connected to topological node N1230822413.>"
+  },
+  {
+    "id": "NL_TR2_2 Ratio Tap Changer",
+    "type": "artifact",
+    "description": "NL_TR2_2 Ratio Tap Changer is a tap changer installed on winding 1 of transformer NL_TR2_2 with steps from 0 to 33 and neutral step 17.>"
+  },
+  {
+    "id": "NL_Busbar__4",
+    "type": "artifact",
+    "description": "NL_Busbar__4 is a topological node connected to winding 1 of transformer NL_TR2_2.<SEP>NL_Busbar__4 is a topological node connected to AC line segments NL-Line_4 and NL-Line_3.><SEP>NL_Busbar__4 is a topological node to which equipment with a power of 1260 MVA is connected.><SEP>NL_Busbar__4 is a topological node connected by breaker B1 within substation PP_Amsterdam."
+  },
+  {
+    "id": "NL_TR2_3",
+    "type": "artifact",
+    "description": "NL_TR2_3 is a power transformer with two windings, installed in substation PP_Amsterdam.>"
+  },
+  {
+    "id": "NL_TR2_3 Winding 1",
+    "type": "artifact",
+    "description": "NL_TR2_3 Winding 1 is the first winding of transformer NL_TR2_3 with a rated voltage of 220 kV and a rated apparent power of 1260 MVA, connected to topological node NL-Busbar_2, and equipped with a ratio tap changer.>"
+  },
+  {
+    "id": "NL_TR2_3 Winding 2",
+    "type": "artifact",
+    "description": "NL_TR2_3 Winding 2 is the second winding of transformer NL_TR2_3 with a rated voltage of 15.75 kV and a rated apparent power of 1260 MVA, connected to topological node NL_TR_BUS2.>"
+  },
+  {
+    "id": "NL_TR2_3 Ratio Tap Changer",
+    "type": "artifact",
+    "description": "NL_TR2_3 Ratio Tap Changer is a tap changer installed on winding 1 of transformer NL_TR2_3 with steps from -15 to 15 and neutral step 0.>"
+  },
+  {
+    "id": "NL_TR_BUS2",
+    "type": "artifact",
+    "description": "NL_TR_BUS2 is a topological node corresponding to the busbar section NL-Busbar_5.><SEP>NL_TR_BUS2 is a topological node connected to winding 2 of transformer NL_TR2_3.><SEP>NL_TR_BUS2 is a topological node in the network to which machine NL-G1 is connected."
+  },
+  {
+    "id": "BE-TR3_1",
+    "type": "artifact",
+    "description": "BE-TR3_1 is a power transformer with three windings, installed in substation PP_Brussels.>"
+  },
+  {
+    "id": "BE-TR3_1 Winding 1",
+    "type": "artifact",
+    "description": "BE-TR3_1 Winding 1 is the first winding of transformer BE-TR3_1 with a rated voltage of 400 kV and a rated apparent power of 650 MVA, connected to topological node BE_TR_BUS2.>"
+  },
+  {
+    "id": "BE-TR3_1 Winding 2",
+    "type": "artifact",
+    "description": "BE-TR3_1 Winding 2 is the second winding of transformer BE-TR3_1 with a rated voltage of 220 kV and a rated apparent power of 650 MVA, connected to topological node BE_TR_BUS4, and equipped with a ratio tap changer.>"
+  },
+  {
+    "id": "BE-TR3_1 Winding 3",
+    "type": "artifact",
+    "description": "BE-TR3_1 Winding 3 is the third winding of transformer BE-TR3_1 with a rated voltage of 21 kV and a rated apparent power of 650 MVA, connected to topological node BE-Busbar_5.>"
+  },
+  {
+    "id": "BE-TR3_1 Ratio Tap Changer",
+    "type": "artifact",
+    "description": "BE-TR3_1 Ratio Tap Changer is a tap changer installed on winding 2 of transformer BE-TR3_1 with steps from 1 to 33 and neutral step 17.>"
+  },
+  {
+    "id": "BE_TR_BUS2",
+    "type": "artifact",
+    "description": "BE_TR_BUS2 is a topological node that serves as one terminal of AC line segment BE-Line_5 and BE-Line_4.<SEP>BE_TR_BUS2 is a topological node connected to AC line segments BE-Line_3 and BE-Line_5.><SEP>BE_TR_BUS2 is a topological node corresponding to the busbar section BE-Busbar_1.><SEP>BE_TR_BUS2 is a topological node to which Winding 1 of transformer BE-TR2_1 is connected.<SEP>BE_TR_BUS2 is a topological node connected to winding 1 of transformer BE-TR3_1.><SEP>BE_TR_BUS2 is a topological node in substation PP_Brussels where linear shunt compensator BE_S2 is installed."
+  },
+  {
+    "id": "BE_TR_BUS4",
+    "type": "artifact",
+    "description": "BE_TR_BUS4 is a topological node that serves as one terminal of AC line segments BE-Line_2 and BE-Line_6.<SEP>BE_TR_BUS4 is a topological node corresponding to multiple busbar sections including BE-Busbar_3, N1230992288, and N1230992291.><SEP>BE_TR_BUS4 is a topological node to which Winding 1 of transformer BE-TR2_2 is connected.<SEP>BE_TR_BUS4 is a topological node connected to winding 2 of transformer BE-TR3_1.><SEP>BE_TR_BUS4 is a topological node in the network to which energy consumer BE-Load_2 is connected."
+  },
+  {
+    "id": "BE-Busbar_5",
+    "type": "artifact",
+    "description": "BE-Busbar_5 is a topological node connected to winding 3 of transformer BE-TR3_1.><SEP>BE-Busbar_5 is a topological node in the network to which machine BE-G2 is connected."
+  },
+  {
+    "id": "BE-TR2_1",
+    "type": "artifact",
+    "description": "BE-TR2_1 is a 2-winding power transformer installed in substation PP_Brussels.<SEP>BE-TR2_1 is a power transformer with two windings, installed in substation PP_Brussels, and has a winding 1 rated at 400 kV and 650 MVA.>"
+  },
+  {
+    "id": "BE-TR2_1 Winding 1",
+    "type": "artifact",
+    "description": "BE-TR2_1 Winding 1 is the first winding of transformer BE-TR2_1 with a rated voltage of 400 kV and a rated apparent power of 650 MVA.>"
+  },
+  {
+    "id": "Unspecified Equipment At NL_Busbar__4",
+    "type": "artifact",
+    "description": "Unspecified Equipment At NL_Busbar__4 is an electrical equipment item with a power of 1260 MVA connected to topological node NL_Busbar__4.>"
+  },
+  {
+    "id": "Machine BE-G1",
+    "type": "artifact",
+    "description": "Machine BE-G1 is a synchronous generating machine that belongs to generating unit Gen-1229753060 and injects active and reactive power into the network in the studied operating case."
+  },
+  {
+    "id": "Generating Unit Gen-1229753060",
+    "type": "artifact",
+    "description": "Generating Unit Gen-1229753060 is a power generating unit to which machine BE-G1 belongs, characterized by a maximum operating power of 200 MW and a minimum operating power of 50 MW."
+  },
+  {
+    "id": "Machine BE-G2",
+    "type": "artifact",
+    "description": "Machine BE-G2 is a synchronous generating machine with rated apparent power 0 MVA, operating in voltage level 21.0 of substation PP_Brussels, connected to topological node BE-Busbar_5, and belonging to generating unit Gen-1229753024."
+  },
+  {
+    "id": "Generating Unit Gen-1229753024",
+    "type": "artifact",
+    "description": "Generating Unit Gen-1229753024 is a power generating unit to which machine BE-G2 belongs, characterized by a maximum operating power of 200 MW and a minimum operating power of 50 MW."
+  },
+  {
+    "id": "Machine NL-G1",
+    "type": "artifact",
+    "description": "Machine NL-G1 is a synchronous generating machine with rated apparent power 0 MVA, operating in voltage level 15.8 of substation PP_Amsterdam, connected to topological node NL_TR_BUS2, and belonging to generating unit Gen-12923."
+  },
+  {
+    "id": "Generating Unit Gen-12923",
+    "type": "artifact",
+    "description": "Generating Unit Gen-12923 is a power generating unit to which machine NL-G1 belongs, characterized by a maximum operating power of 1000 MW and a minimum operating power of 300 MW."
+  },
+  {
+    "id": "Anvers",
+    "type": "location",
+    "description": "Anvers is a substation that contains busbar sections N1230992411, N1230992414, and BE-Busbar_2.><SEP>Anvers is a substation at voltage level 220.0 that hosts energy consumer L-1230804819.<SEP>Anvers is a substation that includes a voltage level 220.0 where energy consumer L-1230804819 is located."
+  },
+  {
+    "id": "Energy Consumer BE-Load_2",
+    "type": "artifact",
+    "description": "Energy Consumer BE-Load_2 is a load that draws 200 MW active power and 50 MVAr reactive power at voltage level 225.0 of substation PP_Brussels and is connected to topological node BE_TR_BUS4."
+  },
+  {
+    "id": "Energy Consumer NL-Load_2",
+    "type": "artifact",
+    "description": "Energy Consumer NL-Load_2 is a load that draws 10 MW active power and 10 MVAr reactive power at voltage level 400.0 of substation PP_Amsterdam and is connected to topological node N1230992195."
+  },
+  {
+    "id": "Energy Consumer NL-Load_1",
+    "type": "artifact",
+    "description": "Energy Consumer NL-Load_1 is a load that draws 90 MW active power and 280 MVAr reactive power at voltage level 400.0 of substation PP_Amsterdam and is connected to topological node N1230992195."
+  },
+  {
+    "id": "Energy Consumer L-1230804819",
+    "type": "artifact",
+    "description": "Energy Consumer L-1230804819 is a load that draws 1 MW active power and 0 MVAr reactive power at voltage level 220.0 of substation Anvers and is connected to an unspecified topological node."
+  },
+  {
+    "id": "Maximum Operating Power",
+    "type": "data",
+    "description": "Maximum Operating Power is a quantitative attribute specifying the upper power output limit in MW for generating units such as Gen-1229753060, Gen-1229753024, and Gen-12923."
+  },
+  {
+    "id": "Minimum Operating Power",
+    "type": "data",
+    "description": "Minimum Operating Power is a quantitative attribute specifying the lower power output limit in MW for generating units such as Gen-1229753060, Gen-1229753024, and Gen-12923."
+  },
+  {
+    "id": "Active Power Injection",
+    "type": "data",
+    "description": "Active Power Injection is the amount of real power in MW that generating machines inject into the network in the studied operating case."
+  },
+  {
+    "id": "Reactive Power Injection",
+    "type": "data",
+    "description": "Reactive Power Injection is the amount of reactive power in MVAr that generating machines inject into the network in the studied operating case."
+  },
+  {
+    "id": "Active Power Consumption",
+    "type": "data",
+    "description": "Active Power Consumption is the amount of real power in MW that energy consumers draw from the network."
+  },
+  {
+    "id": "Reactive Power Consumption",
+    "type": "data",
+    "description": "Reactive Power Consumption is the amount of reactive power in MVAr that energy consumers draw from the network."
+  },
+  {
+    "id": "Busbar_4",
+    "type": "artifact",
+    "description": "Busbar_4 is a topological node in the network referenced at the beginning of the description but without further detail in the provided text."
+  },
+  {
+    "id": "Machine BE-G1 Active Power 90 MW",
+    "type": "data",
+    "description": "Machine BE-G1 Active Power 90 MW is the specific active power quantity injected by machine BE-G1 into the network in the studied operating case."
+  },
+  {
+    "id": "Machine BE-G1 Reactive Power 100.256 MVAr",
+    "type": "data",
+    "description": "Machine BE-G1 Reactive Power 100.256 MVAr is the specific reactive power quantity injected by machine BE-G1 into the network in the studied operating case."
+  },
+  {
+    "id": "Machine BE-G2 Active Power 118 MW",
+    "type": "data",
+    "description": "Machine BE-G2 Active Power 118 MW is the specific active power quantity injected by machine BE-G2 into the network in the studied operating case."
+  },
+  {
+    "id": "Machine BE-G2 Reactive Power 18.7203 MVAr",
+    "type": "data",
+    "description": "Machine BE-G2 Reactive Power 18.7203 MVAr is the specific reactive power quantity injected by machine BE-G2 into the network in the studied operating case."
+  },
+  {
+    "id": "Machine NL-G1 Active Power 600.493 MW",
+    "type": "data",
+    "description": "Machine NL-G1 Active Power 600.493 MW is the specific active power quantity injected by machine NL-G1 into the network in the studied operating case."
+  },
+  {
+    "id": "Machine NL-G1 Reactive Power 386.923 MVAr",
+    "type": "data",
+    "description": "Machine NL-G1 Reactive Power 386.923 MVAr is the specific reactive power quantity injected by machine NL-G1 into the network in the studied operating case."
+  },
+  {
+    "id": "BE-Load_2 Active Power 200 MW",
+    "type": "data",
+    "description": "BE-Load_2 Active Power 200 MW is the specific active power quantity drawn by energy consumer BE-Load_2 from the network."
+  },
+  {
+    "id": "BE-Load_2 Reactive Power 50 MVAr",
+    "type": "data",
+    "description": "BE-Load_2 Reactive Power 50 MVAr is the specific reactive power quantity drawn by energy consumer BE-Load_2 from the network."
+  },
+  {
+    "id": "NL-Load_2 Active Power 10 MW",
+    "type": "data",
+    "description": "NL-Load_2 Active Power 10 MW is the specific active power quantity drawn by energy consumer NL-Load_2 from the network."
+  },
+  {
+    "id": "NL-Load_2 Reactive Power 10 MVAr",
+    "type": "data",
+    "description": "NL-Load_2 Reactive Power 10 MVAr is the specific reactive power quantity drawn by energy consumer NL-Load_2 from the network."
+  },
+  {
+    "id": "NL-Load_1 Active Power 90 MW",
+    "type": "data",
+    "description": "NL-Load_1 Active Power 90 MW is the specific active power quantity drawn by energy consumer NL-Load_1 from the network."
+  },
+  {
+    "id": "NL-Load_1 Reactive Power 280 MVAr",
+    "type": "data",
+    "description": "NL-Load_1 Reactive Power 280 MVAr is the specific reactive power quantity drawn by energy consumer NL-Load_1 from the network."
+  },
+  {
+    "id": "L-1230804819 Active Power 1 MW",
+    "type": "data",
+    "description": "L-1230804819 Active Power 1 MW is the specific active power quantity drawn by energy consumer L-1230804819 from the network."
+  },
+  {
+    "id": "L-1230804819 Reactive Power 0 MVAr",
+    "type": "data",
+    "description": "L-1230804819 Reactive Power 0 MVAr is the specific reactive power quantity drawn by energy consumer L-1230804819 from the network."
+  },
+  {
+    "id": "Entso-E Cgmes Microgrid Test Configuration",
+    "type": "content",
+    "description": "Entso-E Cgmes Microgrid Test Configuration is a document describing an interconnected transmission network used as a microgrid test configuration."
+  },
+  {
+    "id": "Transmission Network",
+    "type": "other",
+    "description": "Transmission Network is an interconnected transmission system spanning multiple geographical regions and containing substations, AC line segments, power transformers, synchronous machines, and energy consumers."
+  },
+  {
+    "id": "Be Region",
+    "type": "location",
+    "description": "Be Region is a geographical region identified by the code BE in the described transmission network."
+  },
+  {
+    "id": "Eu Region",
+    "type": "location",
+    "description": "Eu Region is a geographical region identified by the code EU in the described transmission network."
+  },
+  {
+    "id": "Nl Region",
+    "type": "location",
+    "description": "Nl Region is a geographical region identified by the code NL in the described transmission network."
+  },
+  {
+    "id": "Substation Pp_Brussels",
+    "type": "artifact",
+    "description": "Substation Pp_Brussels is a substation located in the BE region that contains multiple voltage levels ranging from 10.5 kV to 380 kV."
+  },
+  {
+    "id": "Substation Anvers",
+    "type": "artifact",
+    "description": "Substation Anvers is a substation located in the BE region with a voltage level of 220.0 and a nominal voltage of 225 kV."
+  },
+  {
+    "id": "Substation Pp_Amsterdam",
+    "type": "artifact",
+    "description": "Substation Pp_Amsterdam is a substation located in the NL region that contains voltage levels at 400 kV, 220 kV, and 15.75 kV."
+  },
+  {
+    "id": "Voltage Level 380.0",
+    "type": "other",
+    "description": "Voltage Level 380.0 is a voltage level within Substation Pp_Brussels that operates at a nominal voltage of 380 kV.<SEP>Voltage Level 380.0 is an electrical voltage level in substation PP_Brussels where shunt compensator BE_S2 is installed."
+  },
+  {
+    "id": "Voltage Level 225.0",
+    "type": "other",
+    "description": "Voltage Level 225.0 is a voltage level within Substation Pp_Brussels that operates at a nominal voltage of 225 kV."
+  },
+  {
+    "id": "Voltage Level 110.0",
+    "type": "other",
+    "description": "Voltage Level 110.0 is a voltage level within Substation Pp_Brussels that operates at a nominal voltage of 110 kV.<SEP>Voltage Level 110.0 is an electrical voltage level used in substation PP_Brussels for energy consumers and shunt compensators."
+  },
+  {
+    "id": "Voltage Level 21.0",
+    "type": "other",
+    "description": "Voltage Level 21.0 is a voltage level within Substation Pp_Brussels that operates at a nominal voltage of 21 kV."
+  },
+  {
+    "id": "Voltage Level 220.0 Anvers",
+    "type": "other",
+    "description": "Voltage Level 220.0 Anvers is a voltage level within Substation Anvers that operates with a nominal voltage of 225 kV."
+  },
+  {
+    "id": "Voltage Level 400.0",
+    "type": "other",
+    "description": "Voltage Level 400.0 is a voltage level within Substation Pp_Amsterdam that operates at a nominal voltage of 400 kV.<SEP>Voltage Level 400.0 is an electrical voltage level in substation PP_Amsterdam where shunt compensator NL-S1 is installed."
+  },
+  {
+    "id": "Voltage Level 220.0 Amsterdam",
+    "type": "other",
+    "description": "Voltage Level 220.0 Amsterdam is a voltage level within Substation Pp_Amsterdam that operates at a nominal voltage of 220 kV."
+  },
+  {
+    "id": "Busbar Section N1230822396",
+    "type": "artifact",
+    "description": "Busbar Section N1230822396 is a busbar section installed in the 220.0 kV voltage level of Substation Pp_Amsterdam and corresponds to topological node Nl_Busbar__4."
+  },
+  {
+    "id": "Busbar Section Nl-Busbar_2",
+    "type": "artifact",
+    "description": "Busbar Section Nl-Busbar_2 is a busbar section installed in the 220.0 kV voltage level of Substation Pp_Amsterdam and corresponds to topological node Nl-Busbar_2."
+  },
+  {
+    "id": "Busbar Section Be-Busbar_6",
+    "type": "artifact",
+    "description": "Busbar Section Be-Busbar_6 is a busbar section installed in the 110.0 kV voltage level of Substation Pp_Brussels and corresponds to topological node Be-Busbar_6."
+  },
+  {
+    "id": "Topological Node Nl_Busbar__4",
+    "type": "other",
+    "description": "Topological Node Nl_Busbar__4 is a topological node corresponding to Busbar Section N1230822396 in the transmission network."
+  },
+  {
+    "id": "Topological Node Nl-Busbar_2",
+    "type": "other",
+    "description": "Topological Node Nl-Busbar_2 is a topological node corresponding to Busbar Section Nl-Busbar_2 in the transmission network."
+  },
+  {
+    "id": "Topological Node Be-Busbar_6",
+    "type": "other",
+    "description": "Topological Node Be-Busbar_6 is a topological node corresponding to Busbar Section Be-Busbar_6 in the transmission network."
+  },
+  {
+    "id": "Be",
+    "type": "location",
+    "description": "Be is a geographical region code representing the BE region in the described transmission network."
+  },
+  {
+    "id": "Eu",
+    "type": "location",
+    "description": "Eu is a geographical region code representing the EU region in the described transmission network."
+  },
+  {
+    "id": "Nl",
+    "type": "location",
+    "description": "Nl is a geographical region code representing the NL region in the described transmission network."
+  },
+  {
+    "id": "Ac Line Segment",
+    "type": "artifact",
+    "description": "Ac Line Segment refers to one of the twelve alternating current line segments in the interconnected transmission network."
+  },
+  {
+    "id": "Power Transformer",
+    "type": "artifact",
+    "description": "Power Transformer refers to one of the seven power transformers in the interconnected transmission network."
+  },
+  {
+    "id": "Synchronous Machine",
+    "type": "artifact",
+    "description": "Synchronous Machine refers to one of the five synchronous machines in the interconnected transmission network."
+  },
+  {
+    "id": "Energy Consumer",
+    "type": "artifact",
+    "description": "Energy Consumer refers to one of the six energy consumers connected to the interconnected transmission network."
+  },
+  {
+    "id": "Busbar Section Nl-Busbar_3",
+    "type": "artifact",
+    "description": "Busbar Section Nl-Busbar_3 is a busbar section installed in voltage level 15.8 of the transmission network, with the statement truncated before giving its full description."
+  },
+  {
+    "id": "Station Anvers",
+    "type": "location",
+    "description": "Station Anvers is a station that operates at a nominal voltage of 225 kV and is associated with a busbar section and topological node.>"
+  },
+  {
+    "id": "BE-Busbar_2",
+    "type": "artifact",
+    "description": "BE-Busbar_2 is a topological node that serves as one terminal of AC line segments BE-Line_2 and BE-Line_6.<SEP>BE-Busbar_2 is a busbar section installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV, and it is also used as a topological node identifier.><SEP>BE-Busbar_2 is a busbar section in station Anvers that operates at a nominal voltage of 225 kV and corresponds to a topological node named BE-Busbar_2.><SEP>BE-Busbar_2 is a topological node that connects energy consumer L-1230804819 within substation Anvers."
+  },
+  {
+    "id": "BE-Line_1",
+    "type": "artifact",
+    "description": "BE-Line_1 is an AC line segment that connects topological node BE-Busbar_2 to topological node TN_Border_ST23, with length 22 km, resistance 2.2 ohm, reactance 68.2 ohm, and operating voltage 220 kV.>"
+  },
+  {
+    "id": "BE-Line_3",
+    "type": "artifact",
+    "description": "BE-Line_3 is an AC line segment that connects topological node BE_TR_BUS2 to topological node TN_Border_AL11, with length 30 km, resistance 1.05 ohm, reactance 12 ohm, and operating voltage 380 kV.>"
+  },
+  {
+    "id": "NL-Line_1",
+    "type": "artifact",
+    "description": "NL-Line_1 is an AC line segment with an impedance of 69 ohm and operates at 220 kV; other parameters are not specified in the given text.<SEP>NL-Line_1 is an AC line segment that connects topological node N1230992195 to topological node TN_Border_AL11, with length 30 km, resistance 1.02 ohm, reactance 12 ohm, and operating voltage 400 kV.>"
+  },
+  {
+    "id": "NL-Line_4",
+    "type": "artifact",
+    "description": "NL-Line_4 is an AC line segment that connects topological node NL_Busbar__4 to topological node TN_Border_ST23, with length 22 km, resistance 2.2 ohm, reactance 66 ohm, and operating voltage 220 kV.>"
+  },
+  {
+    "id": "BE-Line_7",
+    "type": "artifact",
+    "description": "BE-Line_7 is an AC line segment that connects topological node BE-Busbar_2 to topological node TN_Border_ST24, with length 23 km, resistance 4.6 ohm, reactance 69 ohm, and operating voltage 220 kV.>"
+  },
+  {
+    "id": "NL-Line_3",
+    "type": "artifact",
+    "description": "NL-Line_3 is an AC line segment that connects topological node NL_Busbar__4 to topological node TN_Border_ST24, with length 23 km, resistance 5.06 ohm, reactance 69 ohm, and operating voltage 220 kV.>"
+  },
+  {
+    "id": "BE-Line_5",
+    "type": "artifact",
+    "description": "BE-Line_5 is an AC line segment with a length of 35 km, a resistance of 0.42 ohm, a reactance of 6.3 ohm, operating at 380 kV.<SEP>BE-Line_5 is an AC line segment that connects topological node BE_TR_BUS2 to topological node TN_Border_GY11, with a length of 35 km and a resistance of 0.42 ohm.>"
+  },
+  {
+    "id": "TN_Border_ST23",
+    "type": "artifact",
+    "description": "TN_Border_ST23 is a topological node that is connected by AC line segments BE-Line_1 and NL-Line_4.>"
+  },
+  {
+    "id": "TN_Border_AL11",
+    "type": "artifact",
+    "description": "TN_Border_AL11 is a topological node that is connected by AC line segments BE-Line_3 and NL-Line_1.>"
+  },
+  {
+    "id": "TN_Border_ST24",
+    "type": "artifact",
+    "description": "TN_Border_ST24 is a topological node that is connected by AC line segments BE-Line_7 and NL-Line_3.>"
+  },
+  {
+    "id": "TN_Border_GY11",
+    "type": "artifact",
+    "description": "TN_Border_GY11 is a topological node that serves as one terminal of AC line segment BE-Line_5 and NL-Line_5.<SEP>TN_Border_GY11 is a topological node that is connected by AC line segment BE-Line_5.>"
+  },
+  {
+    "id": "Usbar_6",
+    "type": "artifact",
+    "description": "Usbar_6 is a busbar section installed in voltage level 110.0 of substation PP_Brussels and operates at a nominal voltage of 110 kV.>"
+  },
+  {
+    "id": "BE-Busbar_6",
+    "type": "artifact",
+    "description": "BE-Busbar_6 is a topological node corresponding to the busbar section Usbar_6.><SEP>BE-Busbar_6 is a topological node to which several transformer windings are connected.<SEP>BE-Busbar_6 is a topological node in substation PP_Brussels connecting energy consumer BE-Load_1 and linear shunt compensator BE_S1."
+  },
+  {
+    "id": "NL-Busbar_3",
+    "type": "artifact",
+    "description": "NL-Busbar_3 is a busbar section installed in voltage level 15.8 of substation PP_Amsterdam and operates at a nominal voltage of 15.75 kV.>"
+  },
+  {
+    "id": "BE-Busbar_3",
+    "type": "artifact",
+    "description": "BE-Busbar_3 is a busbar section installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV.>"
+  },
+  {
+    "id": "N1230992288",
+    "type": "artifact",
+    "description": "N1230992288 is a busbar section installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV.>"
+  },
+  {
+    "id": "BE-Busbar_1",
+    "type": "artifact",
+    "description": "BE-Busbar_1 is a busbar section installed in voltage level 380.0 of substation PP_Brussels and operates at a nominal voltage of 380 kV.>"
+  },
+  {
+    "id": "N1230992411",
+    "type": "artifact",
+    "description": "N1230992411 is a busbar section installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV.>"
+  },
+  {
+    "id": "N1230992291",
+    "type": "artifact",
+    "description": "N1230992291 is a busbar section installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV.>"
+  },
+  {
+    "id": "N1230992414",
+    "type": "artifact",
+    "description": "N1230992414 is a busbar section installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV.>"
+  },
+  {
+    "id": "NL-Busbar_5",
+    "type": "artifact",
+    "description": "NL-Busbar_5 is a busbar section installed in voltage level 15.8 of substation PP_Amsterdam and operates at a nominal voltage of 15.75 kV.>"
+  },
+  {
+    "id": "BE-TR2_2",
+    "type": "artifact",
+    "description": "BE-TR2_2 is a 2-winding power transformer installed in substation PP_Brussels."
+  },
+  {
+    "id": "Winding 1 Of BE-TR2_1",
+    "type": "artifact",
+    "description": "Winding 1 of transformer BE-TR2_1 is a transformer winding rated at 400 kV and 650 MVA."
+  },
+  {
+    "id": "Winding 2 Of BE-TR2_1",
+    "type": "artifact",
+    "description": "Winding 2 of transformer BE-TR2_1 is a transformer winding rated at 110 kV and 650 MVA."
+  },
+  {
+    "id": "Winding 1 Of BE-TR2_2",
+    "type": "artifact",
+    "description": "Winding 1 of transformer BE-TR2_2 is a transformer winding rated at 220 kV and 650 MVA."
+  },
+  {
+    "id": "Winding 2 Of BE-TR2_2",
+    "type": "artifact",
+    "description": "Winding 2 of transformer BE-TR2_2 is a transformer winding rated at 110 kV and 650 MVA."
+  },
+  {
+    "id": "Winding 1 Of BE-TR2_3",
+    "type": "artifact",
+    "description": "Winding 1 of transformer BE-TR2_3 is a transformer winding rated at 110.344 kV and 250 MVA."
+  },
+  {
+    "id": "Winding 2 Of BE-TR2_3",
+    "type": "artifact",
+    "description": "Winding 2 of transformer BE-TR2_3 is a transformer winding rated at 10.5 kV and 250 MVA."
+  },
+  {
+    "id": "Phase Tap Changer BE-TR2_1",
+    "type": "artifact",
+    "description": "Phase Tap Changer BE-TR2_1 is an asymmetrical phase tap changer on winding 1 of transformer BE-TR2_1 with steps from 1 to 25 and neutral step 13."
+  },
+  {
+    "id": "Ratio Tap Changer BE-TR2_2",
+    "type": "artifact",
+    "description": "Ratio Tap Changer BE-TR2_2 is a ratio tap changer on winding 1 of transformer BE-TR2_2 with steps from 1 to 25 and neutral step 13."
+  },
+  {
+    "id": "Ratio Tap Changer BE-TR2_3",
+    "type": "artifact",
+    "description": "Ratio Tap Changer BE-TR2_3 is a ratio tap changer on winding 2 of transformer BE-TR2_3 with steps from 1 to 33 and neutral step 17."
+  },
+  {
+    "id": "Rated Voltage 400 kV",
+    "type": "data",
+    "description": "Rated Voltage 400 kV is the voltage rating of Winding 1 of transformer BE-TR2_1."
+  },
+  {
+    "id": "Rated Voltage 220 kV",
+    "type": "data",
+    "description": "Rated Voltage 220 kV is the voltage rating of Winding 1 of transformer BE-TR2_2."
+  },
+  {
+    "id": "Rated Voltage 110.344 kV",
+    "type": "data",
+    "description": "Rated Voltage 110.344 kV is the voltage rating of Winding 1 of transformer BE-TR2_3."
+  },
+  {
+    "id": "Rated Voltage 110 kV",
+    "type": "data",
+    "description": "Rated Voltage 110 kV is the voltage rating of Winding 2 of transformers BE-TR2_1 and BE-TR2_2."
+  },
+  {
+    "id": "Rated Voltage 10.5 kV",
+    "type": "data",
+    "description": "Rated Voltage 10.5 kV is the voltage rating of Winding 2 of transformer BE-TR2_3."
+  },
+  {
+    "id": "Rated Apparent Power 650 MVA",
+    "type": "data",
+    "description": "Rated Apparent Power 650 MVA is the apparent power rating of the windings of transformers BE-TR2_1 and BE-TR2_2."
+  },
+  {
+    "id": "Rated Apparent Power 250 MVA",
+    "type": "data",
+    "description": "Rated Apparent Power 250 MVA is the apparent power rating of the windings of transformer BE-TR2_3."
+  },
+  {
+    "id": "Tap Steps 1 To 25 Neutral 13",
+    "type": "data",
+    "description": "Tap Steps 1 To 25 Neutral 13 describes a tap changer range from step 1 to 25 with neutral step 13."
+  },
+  {
+    "id": "Tap Steps 1 To 33 Neutral 17",
+    "type": "data",
+    "description": "Tap Steps 1 To 33 Neutral 17 describes a tap changer range from step 1 to 33 with neutral step 17."
+  },
+  {
+    "id": "L-1230804819",
+    "type": "artifact",
+    "description": "L-1230804819 is an energy consumer drawing active and reactive power and is associated with a specific voltage level and substation."
+  },
+  {
+    "id": "NL-Load_3",
+    "type": "artifact",
+    "description": "NL-Load_3 is an energy consumer that draws significant active and reactive power and is associated with substation PP_Amsterdam."
+  },
+  {
+    "id": "BE-Load_1",
+    "type": "artifact",
+    "description": "BE-Load_1 is an energy consumer drawing active and reactive power and is located in a 110.0 voltage level of substation PP_Brussels."
+  },
+  {
+    "id": "BE_S2",
+    "type": "artifact",
+    "description": "BE_S2 is a linear shunt compensator installed at voltage level 380.0 in substation PP_Brussels with a specified susceptance and energized sections."
+  },
+  {
+    "id": "BE_S1",
+    "type": "artifact",
+    "description": "BE_S1 is a linear shunt compensator installed at voltage level 110.0 in substation PP_Brussels with a given susceptance and energized sections."
+  },
+  {
+    "id": "NL-S1",
+    "type": "artifact",
+    "description": "NL-S1 is a linear shunt compensator installed at voltage level 400.0 in substation PP_Amsterdam with a specified susceptance and energized sections."
+  },
+  {
+    "id": "B1",
+    "type": "artifact",
+    "description": "B1 is a breaker in voltage level 220.0 of substation PP_Amsterdam that connects two topological nodes and is currently closed."
+  },
+  {
+    "id": "Voltage Level 220.0",
+    "type": "concept",
+    "description": "Voltage Level 220.0 is an electrical voltage level at which several energy consumers and a breaker operate in different substations."
+  },
+  {
+    "id": "BE-Line_2",
+    "type": "artifact",
+    "description": "BE-Line_2 is an AC line segment with a length of 45 km, a resistance of 1.935 ohm, a reactance of 34.2 ohm, operating at 225 kV."
+  },
+  {
+    "id": "NL-Line_2",
+    "type": "artifact",
+    "description": "NL-Line_2 is an AC line segment with a length of 40 km, a resistance of 2.32 ohm, a reactance of 20.24 ohm, operating at 400 kV."
+  },
+  {
+    "id": "TN_Border_MA11",
+    "type": "artifact",
+    "description": "TN_Border_MA11 is a topological node that serves as one terminal of AC line segments NL-Line_2 and BE-Line_4."
+  },
+  {
+    "id": "NL-Line_5",
+    "type": "artifact",
+    "description": "NL-Line_5 is an AC line segment with a length of 35 km, a resistance of 0.42 ohm, a reactance of 6.3 ohm, operating at 400 kV."
+  },
+  {
+    "id": "BE-Line_4",
+    "type": "artifact",
+    "description": "BE-Line_4 is an AC line segment with a length of 40 km, a resistance of 0.24 ohm, a reactance of 2 ohm, operating at 380 kV."
+  },
+  {
+    "id": "BE-Line_6",
+    "type": "artifact",
+    "description": "BE-Line_6 is an AC line segment with a length of 100 km, a resistance of 5.203 ohm, a reactance of 71 ohm, operating at 225 kV."
+  },
+  {
+    "id": "Power Transformers",
+    "type": "concept",
+    "description": "Power Transformers refers to a section describing power transformer assets in the network."
+  },
+  {
+    "id": "Winding 1 of NL_TR2_2",
+    "type": "artifact",
+    "description": "Winding 1 of NL_TR2_2 is the first winding of transformer NL_TR2_2, rated at 220 kV and 1260 MVA, connected to topological node NL_Busbar__4."
+  },
+  {
+    "id": "Winding 2 of NL_TR2_2",
+    "type": "artifact",
+    "description": "Winding 2 of NL_TR2_2 is the second winding of transformer NL_TR2_2, rated at 15.75 kV and 1260 MVA, with an unspecified connected topological node."
+  },
+  {
+    "id": "N",
+    "type": "artifact",
+    "description": "N is a partially specified topological node to which winding 2 of transformer NL_TR2_2 is connected."
+  }
+]

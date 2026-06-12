@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "cgmes-graphrag-bench"
+version = "1.0.0"
+description = "Standards-native vs LLM-extracted knowledge graphs for CIM/CGMES power-system GraphRAG"
+readme = "README.md"
+license = {text = "Apache-2.0"}
+requires-python = ">=3.10"
+authors = [
+  {name = "Jayakumar Manoharan", email = "jmanoharan@epri.com"},
+]
+dependencies = [
+    "lxml~=5.2",
+    "networkx~=3.3",
+    "scipy~=1.13",
+    "numpy~=1.26",
+    "matplotlib~=3.9",
+    "sentence-transformers~=3.0",
+    "lightrag-hku~=1.5",
+    "openai~=1.30",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]

@@ -1,0 +1,770 @@
+{
+  "doc-be0add59cbaa36750f7e1a8365dca728": {
+    "relation_pairs": [
+      [
+        "150 MW",
+        "NL-G3"
+      ],
+      [
+        "Busbar Section N1230822396",
+        "Substation PP_Amsterdam"
+      ],
+      [
+        "BE-Busbar_2",
+        "BE-Line_7"
+      ],
+      [
+        "BE-Busbar_2",
+        "BE-Line_6"
+      ],
+      [
+        "N1230992195",
+        "NL-S1"
+      ],
+      [
+        "Interconnected Transmission Network",
+        "Substation PP_Amsterdam"
+      ],
+      [
+        "Substation PP_Brussels",
+        "Voltage Level 225.0 (PP_Brussels)"
+      ],
+      [
+        "250 MW",
+        "Gen-12910"
+      ],
+      [
+        "BE-TR2_1",
+        "PP_Brussels"
+      ],
+      [
+        "NL_TR2_2",
+        "NL_TR2_2 Ratio Tap Changer"
+      ],
+      [
+        "N1230992195",
+        "NL-Line_1"
+      ],
+      [
+        "BE-Busbar_3",
+        "BE_TR_BUS4"
+      ],
+      [
+        "AC Line Segment",
+        "Interconnected Transmission Network"
+      ],
+      [
+        "BE-Busbar_6",
+        "Usbar_6"
+      ],
+      [
+        "NL-Line_3",
+        "NL_Busbar__4"
+      ],
+      [
+        "Anvers",
+        "L-1230804819"
+      ],
+      [
+        "Busbar Section BE-Busbar_6",
+        "Topological Node BE-Busbar_6"
+      ],
+      [
+        "NL_Tr2_3",
+        "Nl_Tr2_3 Winding 1"
+      ],
+      [
+        "Energy Consumer NL-Load_1",
+        "PP_Amsterdam"
+      ],
+      [
+        "Machine BE-G2",
+        "PP_Brussels"
+      ],
+      [
+        "BE-Busbar_2",
+        "L-1230804819"
+      ],
+      [
+        "Interconnected Transmission Network",
+        "Substation PP_Brussels"
+      ],
+      [
+        "Gen-1229753060",
+        "Machine BE-G1"
+      ],
+      [
+        "NL-TR2_1",
+        "Winding 1 Of NL-TR2_1"
+      ],
+      [
+        "NL_TR2_2",
+        "Winding 1 of NL_TR2_2"
+      ],
+      [
+        "Machine NL-G1",
+        "NL_TR_BUS2"
+      ],
+      [
+        "BE-Line_3",
+        "TN_Border_AL11"
+      ],
+      [
+        "250 MW",
+        "Gen-12908"
+      ],
+      [
+        "Busbar Section BE-Busbar_6",
+        "Substation PP_Brussels"
+      ],
+      [
+        "NL-Busbar_5",
+        "NL_TR_BUS2"
+      ],
+      [
+        "BE-TR2_1",
+        "BE-TR2_1 Winding 1"
+      ],
+      [
+        "N",
+        "Winding 2 of NL_TR2_2"
+      ],
+      [
+        "NL-TR2_1 Tap Changer",
+        "Winding 1 Of NL-TR2_1"
+      ],
+      [
+        "130 MW",
+        "Gen-12910"
+      ],
+      [
+        "Substation PP_Amsterdam",
+        "Voltage Level 400.0 (PP_Amsterdam)"
+      ],
+      [
+        "BE-TR2_2",
+        "BE-TR2_2 Winding 1"
+      ],
+      [
+        "BE_S2",
+        "BE_TR_BUS2"
+      ],
+      [
+        "Nl-Busbar_2",
+        "Nl_Tr2_3 Winding 1"
+      ],
+      [
+        "BE-TR2_3 Tap Changer",
+        "BE-TR2_3 Winding 2"
+      ],
+      [
+        "Busbar Section N1230822396",
+        "Topological Node NL_Busbar__4"
+      ],
+      [
+        "BE_S1",
+        "PP_Brussels"
+      ],
+      [
+        "BE-TR2_1",
+        "BE-TR2_1 Winding 2"
+      ],
+      [
+        "N1230822413",
+        "NL-G3"
+      ],
+      [
+        "BE-TR2_2 Winding 1",
+        "BE_TR_BUS4"
+      ],
+      [
+        "BE-Busbar_2",
+        "N1230992411"
+      ],
+      [
+        "NL-Line_2",
+        "TN_Border_MA11"
+      ],
+      [
+        "Be-Tr3_1",
+        "Pp_Brussels"
+      ],
+      [
+        "BE-Line_5",
+        "BE_TR_BUS2"
+      ],
+      [
+        "Gen-12923",
+        "Machine NL-G1"
+      ],
+      [
+        "BE-TR2_1 Winding 1",
+        "BE_TR_BUS2"
+      ],
+      [
+        "Anvers",
+        "N1230992414"
+      ],
+      [
+        "NL_TR2_3",
+        "NL_TR2_3 Ratio Tap Changer"
+      ],
+      [
+        "NL_TR2_2 Ratio Tap Changer",
+        "NL_TR2_2 Winding 1"
+      ],
+      [
+        "NL_Tr2_3",
+        "Pp_Amsterdam"
+      ],
+      [
+        "NL-TR2_1",
+        "Winding 2 Of NL-TR2_1"
+      ],
+      [
+        "Gen-12910",
+        "NL-G2"
+      ],
+      [
+        "BE-TR2_3",
+        "BE-TR2_3 Winding 2"
+      ],
+      [
+        "NL-Line_3",
+        "TN_Border_ST24"
+      ],
+      [
+        "NL-Line_5",
+        "TN_Border_GY11"
+      ],
+      [
+        "130 MW",
+        "Gen-12908"
+      ],
+      [
+        "Be-Tr3_1 Winding 2",
+        "Be_Tr_Bus4"
+      ],
+      [
+        "PP_Brussels",
+        "Usbar_6"
+      ],
+      [
+        "BE_TR_BUS2",
+        "PP_Brussels"
+      ],
+      [
+        "BE_TR_BUS4",
+        "N1230992291"
+      ],
+      [
+        "NL_Tr2_3",
+        "Nl_Tr2_3 Winding 2"
+      ],
+      [
+        "BE-Busbar_6",
+        "BE-TR2_3 Winding 1"
+      ],
+      [
+        "N1230822413",
+        "NL-Busbar_3"
+      ],
+      [
+        "BE-Busbar_6",
+        "PP_Brussels"
+      ],
+      [
+        "BE-Line_5",
+        "TN_Border_GY11"
+      ],
+      [
+        "77.743 MVAr",
+        "NL-G2"
+      ],
+      [
+        "NL_Busbar__4",
+        "NL_TR2_2"
+      ],
+      [
+        "B1",
+        "PP_Amsterdam"
+      ],
+      [
+        "Machine BE-G1",
+        "PP_Brussels"
+      ],
+      [
+        "Substation PP_Amsterdam",
+        "Voltage Level 15.8 (PP_Amsterdam)"
+      ],
+      [
+        "Be-Tr3_1",
+        "Be-Tr3_1 Winding 2"
+      ],
+      [
+        "BE-Busbar_4",
+        "PP_Brussels"
+      ],
+      [
+        "BE-Busbar_5",
+        "Machine BE-G2"
+      ],
+      [
+        "BE_S2",
+        "PP_Brussels"
+      ],
+      [
+        "N1230822413",
+        "Nl_Tr2_2 Winding 2"
+      ],
+      [
+        "140 MW",
+        "NL-G2"
+      ],
+      [
+        "BE Region",
+        "Interconnected Transmission Network"
+      ],
+      [
+        "Busbar Section NL-Busbar_2",
+        "Substation PP_Amsterdam"
+      ],
+      [
+        "Substation PP_Brussels",
+        "Voltage Level 21.0 (PP_Brussels)"
+      ],
+      [
+        "NL_Tr2_3",
+        "Nl_Tr2_3 Ratio Tap Changer"
+      ],
+      [
+        "Be-Tr3_1 Winding 1",
+        "Be_Tr_Bus2"
+      ],
+      [
+        "NL_Tr2_2",
+        "Nl_Tr2_2 Ratio Tap Changer"
+      ],
+      [
+        "Interconnected Transmission Network",
+        "Synchronous Machine"
+      ],
+      [
+        "NL-Line_4",
+        "NL_Busbar__4"
+      ],
+      [
+        "Energy Consumer BE-Load_2",
+        "PP_Brussels"
+      ],
+      [
+        "B1",
+        "NL_Busbar__4"
+      ],
+      [
+        "BE-TR2_2",
+        "BE-TR2_2 Winding 2"
+      ],
+      [
+        "Energy Consumer NL-Load_2",
+        "N1230992195"
+      ],
+      [
+        "BE-TR2_2 Tap Changer",
+        "BE-TR2_2 Winding 1"
+      ],
+      [
+        "NL-Busbar_2",
+        "Winding 2 Of NL-TR2_1"
+      ],
+      [
+        "NL_Busbar__4",
+        "Winding 1 of NL_TR2_2"
+      ],
+      [
+        "BE-Line_3",
+        "BE_TR_BUS2"
+      ],
+      [
+        "BE Region",
+        "Substation Anvers"
+      ],
+      [
+        "NL-Load_3",
+        "PP_Amsterdam"
+      ],
+      [
+        "BE-Busbar_2",
+        "N1230992414"
+      ],
+      [
+        "Substation PP_Amsterdam",
+        "Voltage Level 220.0 (PP_Amsterdam)"
+      ],
+      [
+        "Energy Consumer NL-Load_2",
+        "PP_Amsterdam"
+      ],
+      [
+        "BE-TR2_3",
+        "Winding 2 Of NL-TR2_1"
+      ],
+      [
+        "NL-G2",
+        "PP_Amsterdam"
+      ],
+      [
+        "N1230992288",
+        "PP_Brussels"
+      ],
+      [
+        "Substation PP_Brussels",
+        "Voltage Level 380.0 (PP_Brussels)"
+      ],
+      [
+        "BE-Busbar_6",
+        "BE-Load_1"
+      ],
+      [
+        "Ratio Tap Changer Named BE-TR2_3",
+        "Winding 2 Of NL-TR2_1"
+      ],
+      [
+        "Be-Tr3_1",
+        "Be-Tr3_1 Winding 3"
+      ],
+      [
+        "NL-Busbar_2",
+        "NL-Load_3"
+      ],
+      [
+        "N1230992291",
+        "PP_Brussels"
+      ],
+      [
+        "Anvers",
+        "Energy Consumer L-1230804819"
+      ],
+      [
+        "Busbar Section N1230822396",
+        "Voltage Level 220.0 (PP_Amsterdam)"
+      ],
+      [
+        "Be-Tr3_1",
+        "Be-Tr3_1 Ratio Tap Changer"
+      ],
+      [
+        "200 MW",
+        "Gen-1229753060"
+      ],
+      [
+        "NL-Busbar_3",
+        "PP_Amsterdam"
+      ],
+      [
+        "Machine NL-G1",
+        "PP_Amsterdam"
+      ],
+      [
+        "BE-TR2_3",
+        "BE-TR2_3 Winding 1"
+      ],
+      [
+        "N1230992195",
+        "NL-Line_2"
+      ],
+      [
+        "Be-Tr3_1",
+        "Be-Tr3_1 Winding 1"
+      ],
+      [
+        "Be-Tr2_1",
+        "Pp_Brussels"
+      ],
+      [
+        "BE_TR_BUS4",
+        "Energy Consumer BE-Load_2"
+      ],
+      [
+        "NL_TR2_2",
+        "NL_TR2_2 Winding 1"
+      ],
+      [
+        "Interconnected Transmission Network",
+        "Substation Anvers"
+      ],
+      [
+        "NL-Busbar_5",
+        "PP_Amsterdam"
+      ],
+      [
+        "NL-TR2_1",
+        "PP_Amsterdam"
+      ],
+      [
+        "EU Region",
+        "Interconnected Transmission Network"
+      ],
+      [
+        "N1230992195",
+        "Winding 1 Of NL-TR2_1"
+      ],
+      [
+        "BE-G1",
+        "PP_Brussels"
+      ],
+      [
+        "N1230992195",
+        "NL-Line_5"
+      ],
+      [
+        "B1",
+        "NL-Busbar_2"
+      ],
+      [
+        "BE-Busbar_4",
+        "BE-TR2_3 Winding 2"
+      ],
+      [
+        "Busbar_4",
+        "Machine BE-G1"
+      ],
+      [
+        "BE-Busbar_6",
+        "BE_S1"
+      ],
+      [
+        "BE-Busbar_3",
+        "PP_Brussels"
+      ],
+      [
+        "BE-Busbar_2",
+        "BE-Line_2"
+      ],
+      [
+        "NL_Tr2_2",
+        "Nl_Tr2_2 Winding 2"
+      ],
+      [
+        "Energy Consumer",
+        "Interconnected Transmission Network"
+      ],
+      [
+        "NL Region",
+        "Substation PP_Amsterdam"
+      ],
+      [
+        "Gen-12908",
+        "NL-G3"
+      ],
+      [
+        "BE-Line_4",
+        "BE_TR_BUS2"
+      ],
+      [
+        "NL_TR2_2",
+        "PP_Amsterdam"
+      ],
+      [
+        "BE-Busbar_6",
+        "BE-TR2_1 Winding 2"
+      ],
+      [
+        "Busbar Section BE-Busbar_6",
+        "Voltage Level 110.0 (PP_Brussels)"
+      ],
+      [
+        "Energy Consumer NL-Load_1",
+        "N1230992195"
+      ],
+      [
+        "Busbar Section NL-Busbar_2",
+        "Topological Node NL-Busbar_2"
+      ],
+      [
+        "Substation PP_Brussels",
+        "Voltage Level 10.5 (PP_Brussels)"
+      ],
+      [
+        "BE-Busbar_1",
+        "BE_TR_BUS2"
+      ],
+      [
+        "BE_TR_BUS4",
+        "N1230992288"
+      ],
+      [
+        "BE-Line_6",
+        "BE_TR_BUS4"
+      ],
+      [
+        "Interconnected Transmission Network",
+        "NL Region"
+      ],
+      [
+        "NL-Line_4",
+        "TN_Border_ST23"
+      ],
+      [
+        "BE-Line_7",
+        "TN_Border_ST24"
+      ],
+      [
+        "BE-Busbar_2",
+        "BE-Line_1"
+      ],
+      [
+        "BE-TR3_1",
+        "BE-TR3_1 Ratio Tap Changer"
+      ],
+      [
+        "Be-Busbar_5",
+        "Be-Tr3_1 Winding 3"
+      ],
+      [
+        "NL-Line_1",
+        "TN_Border_AL11"
+      ],
+      [
+        "BE-TR2_2",
+        "PP_Brussels"
+      ],
+      [
+        "Ratio Tap Changer Named NL-TR2_1",
+        "Winding 1 Of NL-TR2_1"
+      ],
+      [
+        "Gen-1229753024",
+        "Machine BE-G2"
+      ],
+      [
+        "Entso-E Cgmes Microgrid Test Configuration - Network Operations Description",
+        "Interconnected Transmission Network"
+      ],
+      [
+        "BE-Line_2",
+        "BE_TR_BUS4"
+      ],
+      [
+        "N1230822413",
+        "NL-G2"
+      ],
+      [
+        "NL_TR2_2",
+        "Winding 2 of NL_TR2_2"
+      ],
+      [
+        "Busbar Section NL-Busbar_3",
+        "Voltage Level 15.8 (PP_Amsterdam)"
+      ],
+      [
+        "BE-G1",
+        "Gen-1229753060"
+      ],
+      [
+        "83.296 MVAr",
+        "NL-G3"
+      ],
+      [
+        "NL-Busbar_2",
+        "PP_Amsterdam"
+      ],
+      [
+        "BE-TR2_1 Tap Changer",
+        "BE-TR2_1 Winding 1"
+      ],
+      [
+        "Anvers",
+        "BE-Busbar_2"
+      ],
+      [
+        "50 MW",
+        "Gen-1229753060"
+      ],
+      [
+        "BE Region",
+        "Substation PP_Brussels"
+      ],
+      [
+        "BE-TR2_3",
+        "PP_Brussels"
+      ],
+      [
+        "Nl_Tr2_3 Winding 2",
+        "Nl_Tr_Bus2"
+      ],
+      [
+        "Interconnected Transmission Network",
+        "Power Transformer"
+      ],
+      [
+        "BE-Busbar_1",
+        "PP_Brussels"
+      ],
+      [
+        "Anvers",
+        "N1230992411"
+      ],
+      [
+        "BE-Busbar_6",
+        "BE-TR2_2 Winding 2"
+      ],
+      [
+        "Substation PP_Brussels",
+        "Voltage Level 110.0 (PP_Brussels)"
+      ],
+      [
+        "Substation Anvers",
+        "Voltage Level 220.0 (Anvers)"
+      ],
+      [
+        "NL-G3",
+        "PP_Amsterdam"
+      ],
+      [
+        "BE-Load_1",
+        "PP_Brussels"
+      ],
+      [
+        "N1230992195",
+        "PP_Amsterdam"
+      ],
+      [
+        "Be-Tr2_1",
+        "Be-Tr2_1 Winding 1"
+      ],
+      [
+        "Busbar Section NL-Busbar_2",
+        "Voltage Level 220.0 (PP_Amsterdam)"
+      ],
+      [
+        "BE-Busbar_4",
+        "BE-G1"
+      ],
+      [
+        "BE-Line_1",
+        "TN_Border_ST23"
+      ],
+      [
+        "NL-Busbar_2",
+        "NL_Busbar__4"
+      ],
+      [
+        "NL-S1",
+        "PP_Amsterdam"
+      ],
+      [
+        "BE-Line_4",
+        "TN_Border_MA11"
+      ],
+      [
+        "NL_Busbar__4",
+        "NL_TR2_2 Winding 1"
+      ]
+    ],
+    "count": 190,
+    "create_time": 1781186510,
+    "update_time": 1781186510,
+    "_id": "doc-be0add59cbaa36750f7e1a8365dca728"
+  }
+}

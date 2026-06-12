@@ -1,0 +1,9 @@
+{
+  "method": "Direct CGMES RDF/XML parse (ENTSO-E MicroGrid BC Assembled, CGMES v2.4.15)",
+  "wall_sec": 0.0773773193359375,
+  "llm_calls": 0,
+  "llm_tokens": 0,
+  "nodes": 1398,
+  "edges": 2184,
+  "source": "ENTSO-E CGMES Conformity Assessment test configuration (via powsybl-core mirror)"
+}

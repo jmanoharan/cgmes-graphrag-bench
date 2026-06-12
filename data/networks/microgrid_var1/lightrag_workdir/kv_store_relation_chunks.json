@@ -1,0 +1,2053 @@
+{
+  "Be-Tr2_3<SEP>Winding 2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Be-Tr2_3<SEP>Winding 2"
+  },
+  "Nl-Tr2_1<SEP>Pp_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Nl-Tr2_1<SEP>Pp_Amsterdam"
+  },
+  "N1230992195<SEP>Winding 1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230992195<SEP>Winding 1"
+  },
+  "Nl-Busbar_2<SEP>Winding 2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Nl-Busbar_2<SEP>Winding 2"
+  },
+  "Nl-G3<SEP>Pp_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Nl-G3<SEP>Pp_Amsterdam"
+  },
+  "Nl-Tr2_1 (Tap Changer)<SEP>Winding 1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Nl-Tr2_1 (Tap Changer)<SEP>Winding 1"
+  },
+  "Nl-G3<SEP>Voltage Level 15.8": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Nl-G3<SEP>Voltage Level 15.8"
+  },
+  "Nl-Tr2_1<SEP>Winding 1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Nl-Tr2_1<SEP>Winding 1"
+  },
+  "Nl-G2<SEP>Pp_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Nl-G2<SEP>Pp_Amsterdam"
+  },
+  "N1230822413<SEP>Nl-G3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230822413<SEP>Nl-G3"
+  },
+  "Nl-Tr2_1<SEP>Winding 2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Nl-Tr2_1<SEP>Winding 2"
+  },
+  "Nl-G2<SEP>Voltage Level 15.8": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Nl-G2<SEP>Voltage Level 15.8"
+  },
+  "Gen-12908<SEP>Nl-G3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Gen-12908<SEP>Nl-G3"
+  },
+  "Gen-12910<SEP>Nl-G2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Gen-12910<SEP>Nl-G2"
+  },
+  "Be-G1<SEP>Pp_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Be-G1<SEP>Pp_Brussels"
+  },
+  "Gen-12908<SEP>Maximum Operating Power 250 Mw": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Gen-12908<SEP>Maximum Operating Power 250 Mw"
+  },
+  "N1230822413<SEP>Nl-G2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230822413<SEP>Nl-G2"
+  },
+  "Be-G1<SEP>Voltage Level 10.5": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Be-G1<SEP>Voltage Level 10.5"
+  },
+  "Gen-12910<SEP>Maximum Operating Power 250 Mw": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Gen-12910<SEP>Maximum Operating Power 250 Mw"
+  },
+  "Gen-12908<SEP>Minimum Operating Power 130 Mw": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Gen-12908<SEP>Minimum Operating Power 130 Mw"
+  },
+  "Gen-1229753060<SEP>Maximum Operating Power 200 Mw": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Gen-1229753060<SEP>Maximum Operating Power 200 Mw"
+  },
+  "Be-Busbar_4<SEP>Be-G1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Be-Busbar_4<SEP>Be-G1"
+  },
+  "NL-TR2_1<SEP>PP_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 2,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-TR2_1<SEP>PP_Amsterdam"
+  },
+  "Gen-12910<SEP>Minimum Operating Power 130 Mw": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Gen-12910<SEP>Minimum Operating Power 130 Mw"
+  },
+  "Gen-1229753060<SEP>Minimum Operating Power 50 Mw": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Gen-1229753060<SEP>Minimum Operating Power 50 Mw"
+  },
+  "NL-G3<SEP>NL-G3 Active Power 150 MW": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-G3<SEP>NL-G3 Active Power 150 MW"
+  },
+  "NL-TR2_1<SEP>NL-TR2_1 Tap Changer": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-TR2_1<SEP>NL-TR2_1 Tap Changer"
+  },
+  "NL-G2<SEP>NL-G2 Active Power 140 MW": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-G2<SEP>NL-G2 Active Power 140 MW"
+  },
+  "BE-G1<SEP>BE-G1 Active Power 90 MW": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-G1<SEP>BE-G1 Active Power 90 MW"
+  },
+  "Be-G1<SEP>Gen-1229753060": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Be-G1<SEP>Gen-1229753060"
+  },
+  "NL_TR2_2<SEP>Winding 1 Of NL_TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL_TR2_2<SEP>Winding 1 Of NL_TR2_2"
+  },
+  "NL-G3<SEP>NL-G3 Reactive Power 83.296 MVAr": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-G3<SEP>NL-G3 Reactive Power 83.296 MVAr"
+  },
+  "NL_TR2_3<SEP>Winding 1 Of NL_TR2_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL_TR2_3<SEP>Winding 1 Of NL_TR2_3"
+  },
+  "NL-G2<SEP>NL-G2 Reactive Power 77.743 MVAr": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-G2<SEP>NL-G2 Reactive Power 77.743 MVAr"
+  },
+  "BE-TR3_1<SEP>Winding 1 Of BE-TR3_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR3_1<SEP>Winding 1 Of BE-TR3_1"
+  },
+  "NL_TR2_2<SEP>Winding 2 Of NL_TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL_TR2_2<SEP>Winding 2 Of NL_TR2_2"
+  },
+  "NL_TR2_3<SEP>Winding 2 Of NL_TR2_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL_TR2_3<SEP>Winding 2 Of NL_TR2_3"
+  },
+  "BE-TR2_1<SEP>Winding 1 Of BE-TR2_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 2,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR2_1<SEP>Winding 1 Of BE-TR2_1"
+  },
+  "BE-TR3_1<SEP>Winding 2 Of BE-TR3_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR3_1<SEP>Winding 2 Of BE-TR3_1"
+  },
+  "NL_TR2_2<SEP>NL_TR2_2 Ratio Tap Changer": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL_TR2_2<SEP>NL_TR2_2 Ratio Tap Changer"
+  },
+  "NL_TR2_3<SEP>NL_TR2_3 Ratio Tap Changer": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL_TR2_3<SEP>NL_TR2_3 Ratio Tap Changer"
+  },
+  "BE-TR2_1<SEP>PP_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 2,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR2_1<SEP>PP_Brussels"
+  },
+  "BE-TR3_1<SEP>Winding 3 Of BE-TR3_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR3_1<SEP>Winding 3 Of BE-TR3_1"
+  },
+  "N1230822413<SEP>Winding 2 Of NL_TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230822413<SEP>Winding 2 Of NL_TR2_2"
+  },
+  "NL-Busbar_2<SEP>Winding 1 Of NL_TR2_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Busbar_2<SEP>Winding 1 Of NL_TR2_3"
+  },
+  "NL_TR2_3<SEP>PP_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL_TR2_3<SEP>PP_Amsterdam"
+  },
+  "NL_TR_BUS2<SEP>Winding 2 Of NL_TR2_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL_TR_BUS2<SEP>Winding 2 Of NL_TR2_3"
+  },
+  "BE_TR_BUS2<SEP>Winding 1 Of BE-TR3_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE_TR_BUS2<SEP>Winding 1 Of BE-TR3_1"
+  },
+  "BE-TR3_1<SEP>BE-TR3_1 Ratio Tap Changer": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR3_1<SEP>BE-TR3_1 Ratio Tap Changer"
+  },
+  "BE_TR_BUS4<SEP>Winding 2 Of BE-TR3_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE_TR_BUS4<SEP>Winding 2 Of BE-TR3_1"
+  },
+  "BE-Busbar_5<SEP>Winding 3 Of BE-TR3_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_5<SEP>Winding 3 Of BE-TR3_1"
+  },
+  "BE-TR2_1<SEP>Winding 2 Of BE-TR2_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 2,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR2_1<SEP>Winding 2 Of BE-TR2_1"
+  },
+  "Generating Unit Gen-1229753060<SEP>Machine BE-G1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Generating Unit Gen-1229753060<SEP>Machine BE-G1"
+  },
+  "BE-TR3_1<SEP>PP_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR3_1<SEP>PP_Brussels"
+  },
+  "Substation PP_Brussels<SEP>Synchronous Machine BE-G2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Substation PP_Brussels<SEP>Synchronous Machine BE-G2"
+  },
+  "BE-TR2_1<SEP>BE-TR2_1 Ratio Tap Changer": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR2_1<SEP>BE-TR2_1 Ratio Tap Changer"
+  },
+  "Machine BE-G1<SEP>Network": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Machine BE-G1<SEP>Network"
+  },
+  "Synchronous Machine BE-G2<SEP>Voltage Level 21.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Synchronous Machine BE-G2<SEP>Voltage Level 21.0"
+  },
+  "Substation PP_Amsterdam<SEP>Synchronous Machine NL-G1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Substation PP_Amsterdam<SEP>Synchronous Machine NL-G1"
+  },
+  "Synchronous Machine BE-G2<SEP>Topological Node BE-Busbar_5": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Synchronous Machine BE-G2<SEP>Topological Node BE-Busbar_5"
+  },
+  "Synchronous Machine NL-G1<SEP>Voltage Level 15.8": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Synchronous Machine NL-G1<SEP>Voltage Level 15.8"
+  },
+  "Energy Consumer BE-Load_2<SEP>Substation PP_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Energy Consumer BE-Load_2<SEP>Substation PP_Brussels"
+  },
+  "Generating Unit Gen-1229753024<SEP>Synchronous Machine BE-G2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Generating Unit Gen-1229753024<SEP>Synchronous Machine BE-G2"
+  },
+  "Synchronous Machine NL-G1<SEP>Topological Node NL_TR_BUS2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Synchronous Machine NL-G1<SEP>Topological Node NL_TR_BUS2"
+  },
+  "Energy Consumer BE-Load_2<SEP>Voltage Level 225.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Energy Consumer BE-Load_2<SEP>Voltage Level 225.0"
+  },
+  "Energy Consumer NL-Load_2<SEP>Substation PP_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Energy Consumer NL-Load_2<SEP>Substation PP_Amsterdam"
+  },
+  "Network<SEP>Synchronous Machine BE-G2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Network<SEP>Synchronous Machine BE-G2"
+  },
+  "Generating Unit Gen-12923<SEP>Synchronous Machine NL-G1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Generating Unit Gen-12923<SEP>Synchronous Machine NL-G1"
+  },
+  "Energy Consumer BE-Load_2<SEP>Topological Node BE_TR_BUS4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Energy Consumer BE-Load_2<SEP>Topological Node BE_TR_BUS4"
+  },
+  "Energy Consumer NL-Load_2<SEP>Voltage Level 400.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Energy Consumer NL-Load_2<SEP>Voltage Level 400.0"
+  },
+  "Energy Consumer NL-Load_1<SEP>Substation PP_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Energy Consumer NL-Load_1<SEP>Substation PP_Amsterdam"
+  },
+  "Network<SEP>Synchronous Machine NL-G1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Network<SEP>Synchronous Machine NL-G1"
+  },
+  "Energy Consumer L-1230804819<SEP>Substation Anvers": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Energy Consumer L-1230804819<SEP>Substation Anvers"
+  },
+  "Energy Consumer NL-Load_2<SEP>Topological Node N1230992195": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Energy Consumer NL-Load_2<SEP>Topological Node N1230992195"
+  },
+  "Energy Consumer NL-Load_1<SEP>Voltage Level 400.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Energy Consumer NL-Load_1<SEP>Voltage Level 400.0"
+  },
+  "Active Power 90 MW (BE-G1)<SEP>Machine BE-G1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Active Power 90 MW (BE-G1)<SEP>Machine BE-G1"
+  },
+  "Active Power 118 MW (BE-G2)<SEP>Synchronous Machine BE-G2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Active Power 118 MW (BE-G2)<SEP>Synchronous Machine BE-G2"
+  },
+  "Energy Consumer L-1230804819<SEP>Voltage Level 220.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Energy Consumer L-1230804819<SEP>Voltage Level 220.0"
+  },
+  "Energy Consumer NL-Load_1<SEP>Topological Node N1230992195": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Energy Consumer NL-Load_1<SEP>Topological Node N1230992195"
+  },
+  "Machine BE-G1<SEP>Reactive Power 100.256 MVAr (BE-G1)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Machine BE-G1<SEP>Reactive Power 100.256 MVAr (BE-G1)"
+  },
+  "Active Power 600.493 MW (NL-G1)<SEP>Synchronous Machine NL-G1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Active Power 600.493 MW (NL-G1)<SEP>Synchronous Machine NL-G1"
+  },
+  "Active Power 200 MW (BE-Load_2)<SEP>Energy Consumer BE-Load_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Active Power 200 MW (BE-Load_2)<SEP>Energy Consumer BE-Load_2"
+  },
+  "Reactive Power 18.7203 MVAr (BE-G2)<SEP>Synchronous Machine BE-G2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Reactive Power 18.7203 MVAr (BE-G2)<SEP>Synchronous Machine BE-G2"
+  },
+  "Active Power 10 MW (NL-Load_2)<SEP>Energy Consumer NL-Load_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Active Power 10 MW (NL-Load_2)<SEP>Energy Consumer NL-Load_2"
+  },
+  "Reactive Power 386.923 MVAr (NL-G1)<SEP>Synchronous Machine NL-G1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Reactive Power 386.923 MVAr (NL-G1)<SEP>Synchronous Machine NL-G1"
+  },
+  "Energy Consumer BE-Load_2<SEP>Reactive Power 50 MVAr (BE-Load_2)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Energy Consumer BE-Load_2<SEP>Reactive Power 50 MVAr (BE-Load_2)"
+  },
+  "Active Power 90 MW (NL-Load_1)<SEP>Energy Consumer NL-Load_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Active Power 90 MW (NL-Load_1)<SEP>Energy Consumer NL-Load_1"
+  },
+  "Active Power 1 MW (L-1230804819)<SEP>Energy Consumer L-1230804819": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Active Power 1 MW (L-1230804819)<SEP>Energy Consumer L-1230804819"
+  },
+  "Energy Consumer NL-Load_2<SEP>Reactive Power 10 MVAr (NL-Load_2)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Energy Consumer NL-Load_2<SEP>Reactive Power 10 MVAr (NL-Load_2)"
+  },
+  "Be Region<SEP>Entso-E Cgmes Microgrid Test Configuration - Network Operations Description": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Be Region<SEP>Entso-E Cgmes Microgrid Test Configuration - Network Operations Description"
+  },
+  "Energy Consumer NL-Load_1<SEP>Reactive Power 280 MVAr (NL-Load_1)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Energy Consumer NL-Load_1<SEP>Reactive Power 280 MVAr (NL-Load_1)"
+  },
+  "Energy Consumer L-1230804819<SEP>Reactive Power 0 MVAr (L-1230804819)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Energy Consumer L-1230804819<SEP>Reactive Power 0 MVAr (L-1230804819)"
+  },
+  "Nl Region<SEP>Substation Pp_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Nl Region<SEP>Substation Pp_Amsterdam"
+  },
+  "Entso-E Cgmes Microgrid Test Configuration - Network Operations Description<SEP>Eu Region": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Entso-E Cgmes Microgrid Test Configuration - Network Operations Description<SEP>Eu Region"
+  },
+  "Be Region<SEP>Substation Pp_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Be Region<SEP>Substation Pp_Brussels"
+  },
+  "Entso-E Cgmes Microgrid Test Configuration - Network Operations Description<SEP>Nl Region": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Entso-E Cgmes Microgrid Test Configuration - Network Operations Description<SEP>Nl Region"
+  },
+  "Substation Pp_Brussels<SEP>Voltage Level 380.0 (Pp_Brussels)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Substation Pp_Brussels<SEP>Voltage Level 380.0 (Pp_Brussels)"
+  },
+  "Be Region<SEP>Substation Anvers": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Be Region<SEP>Substation Anvers"
+  },
+  "Substation Pp_Brussels<SEP>Voltage Level 225.0 (Pp_Brussels)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Substation Pp_Brussels<SEP>Voltage Level 225.0 (Pp_Brussels)"
+  },
+  "Substation Anvers<SEP>Voltage Level 220.0 (Anvers)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Substation Anvers<SEP>Voltage Level 220.0 (Anvers)"
+  },
+  "Substation Pp_Amsterdam<SEP>Voltage Level 400.0 (Pp_Amsterdam)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Substation Pp_Amsterdam<SEP>Voltage Level 400.0 (Pp_Amsterdam)"
+  },
+  "Substation Pp_Brussels<SEP>Voltage Level 110.0 (Pp_Brussels)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Substation Pp_Brussels<SEP>Voltage Level 110.0 (Pp_Brussels)"
+  },
+  "Substation Pp_Amsterdam<SEP>Voltage Level 220.0 (Pp_Amsterdam)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Substation Pp_Amsterdam<SEP>Voltage Level 220.0 (Pp_Amsterdam)"
+  },
+  "Busbar Section Be-Busbar_6<SEP>Voltage Level 110.0 (Pp_Brussels)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Busbar Section Be-Busbar_6<SEP>Voltage Level 110.0 (Pp_Brussels)"
+  },
+  "Substation Pp_Brussels<SEP>Voltage Level 21.0 (Pp_Brussels)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Substation Pp_Brussels<SEP>Voltage Level 21.0 (Pp_Brussels)"
+  },
+  "Busbar Section N1230822396<SEP>Voltage Level 220.0 (Pp_Amsterdam)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Busbar Section N1230822396<SEP>Voltage Level 220.0 (Pp_Amsterdam)"
+  },
+  "Substation Pp_Amsterdam<SEP>Voltage Level 15.8 (Pp_Amsterdam)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Substation Pp_Amsterdam<SEP>Voltage Level 15.8 (Pp_Amsterdam)"
+  },
+  "Substation Pp_Brussels<SEP>Voltage Level 10.5 (Pp_Brussels)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Substation Pp_Brussels<SEP>Voltage Level 10.5 (Pp_Brussels)"
+  },
+  "Busbar Section Be-Busbar_6<SEP>Topological Node Be-Busbar_6": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Busbar Section Be-Busbar_6<SEP>Topological Node Be-Busbar_6"
+  },
+  "Busbar Section Nl-Busbar_2<SEP>Voltage Level 220.0 (Pp_Amsterdam)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Busbar Section Nl-Busbar_2<SEP>Voltage Level 220.0 (Pp_Amsterdam)"
+  },
+  "Busbar Section N1230822396<SEP>Topological Node Nl_Busbar__4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Busbar Section N1230822396<SEP>Topological Node Nl_Busbar__4"
+  },
+  "Anvers<SEP>BE-Busbar_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Anvers<SEP>BE-Busbar_2"
+  },
+  "BE-Busbar_4<SEP>PP_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 2,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_4<SEP>PP_Brussels"
+  },
+  "Busbar Section Nl-Busbar_2<SEP>Topological Node Nl-Busbar_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Busbar Section Nl-Busbar_2<SEP>Topological Node Nl-Busbar_2"
+  },
+  "BE-Busbar_2<SEP>TN_Border_ST23": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_2<SEP>TN_Border_ST23"
+  },
+  "BE-Line_3<SEP>BE_TR_BUS2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Line_3<SEP>BE_TR_BUS2"
+  },
+  "N1230992195<SEP>NL-Line_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230992195<SEP>NL-Line_1"
+  },
+  "BE-Line_1<SEP>TN_Border_ST23": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Line_1<SEP>TN_Border_ST23"
+  },
+  "BE-Busbar_2<SEP>TN_Border_ST24": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_2<SEP>TN_Border_ST24"
+  },
+  "BE-Line_3<SEP>TN_Border_AL11": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Line_3<SEP>TN_Border_AL11"
+  },
+  "NL-Line_4<SEP>NL_Busbar__4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Line_4<SEP>NL_Busbar__4"
+  },
+  "BE-Busbar_2<SEP>BE-Line_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_2<SEP>BE-Line_1"
+  },
+  "BE-Line_7<SEP>TN_Border_ST24": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Line_7<SEP>TN_Border_ST24"
+  },
+  "NL-Line_1<SEP>TN_Border_AL11": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Line_1<SEP>TN_Border_AL11"
+  },
+  "NL-Line_4<SEP>TN_Border_ST23": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Line_4<SEP>TN_Border_ST23"
+  },
+  "NL-Line_3<SEP>NL_Busbar__4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Line_3<SEP>NL_Busbar__4"
+  },
+  "BE-Line_5<SEP>BE_TR_BUS2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Line_5<SEP>BE_TR_BUS2"
+  },
+  "BE-Busbar_2<SEP>BE-Line_7": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_2<SEP>BE-Line_7"
+  },
+  "NL-Line_3<SEP>TN_Border_ST24": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Line_3<SEP>TN_Border_ST24"
+  },
+  "BE_TR_BUS2<SEP>TN_Border_AL11": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE_TR_BUS2<SEP>TN_Border_AL11"
+  },
+  "BE-Line_5<SEP>TN_Border_GY11": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002",
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Line_5<SEP>TN_Border_GY11"
+  },
+  "NL_Busbar__4<SEP>TN_Border_ST23": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL_Busbar__4<SEP>TN_Border_ST23"
+  },
+  "PP_Brussels<SEP>Usbar_6": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "PP_Brussels<SEP>Usbar_6"
+  },
+  "N1230992195<SEP>TN_Border_AL11": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230992195<SEP>TN_Border_AL11"
+  },
+  "BE_TR_BUS2<SEP>TN_Border_GY11": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE_TR_BUS2<SEP>TN_Border_GY11"
+  },
+  "NL_Busbar__4<SEP>TN_Border_ST24": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL_Busbar__4<SEP>TN_Border_ST24"
+  },
+  "NL-Busbar_3<SEP>PP_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Busbar_3<SEP>PP_Amsterdam"
+  },
+  "BE-Busbar_6<SEP>Usbar_6": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_6<SEP>Usbar_6"
+  },
+  "BE-Busbar_3<SEP>PP_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_3<SEP>PP_Brussels"
+  },
+  "N1230822413<SEP>NL-Busbar_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230822413<SEP>NL-Busbar_3"
+  },
+  "N1230992288<SEP>PP_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230992288<SEP>PP_Brussels"
+  },
+  "Anvers<SEP>N1230992411": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Anvers<SEP>N1230992411"
+  },
+  "BE-Busbar_1<SEP>PP_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_1<SEP>PP_Brussels"
+  },
+  "BE_TR_BUS4<SEP>N1230992288": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE_TR_BUS4<SEP>N1230992288"
+  },
+  "BE-Busbar_2<SEP>N1230992411": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_2<SEP>N1230992411"
+  },
+  "Anvers<SEP>N1230992414": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Anvers<SEP>N1230992414"
+  },
+  "N1230992291<SEP>PP_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230992291<SEP>PP_Brussels"
+  },
+  "BE-Busbar_1<SEP>BE_TR_BUS2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_1<SEP>BE_TR_BUS2"
+  },
+  "BE-Busbar_3<SEP>BE_TR_BUS4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_3<SEP>BE_TR_BUS4"
+  },
+  "BE-Busbar_2<SEP>N1230992414": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_2<SEP>N1230992414"
+  },
+  "NL-Busbar_5<SEP>PP_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Busbar_5<SEP>PP_Amsterdam"
+  },
+  "Usbar_6<SEP>Voltage Level 110.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Usbar_6<SEP>Voltage Level 110.0"
+  },
+  "NL-Busbar_3<SEP>Voltage Level 15.8": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Busbar_3<SEP>Voltage Level 15.8"
+  },
+  "BE_TR_BUS4<SEP>N1230992291": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE_TR_BUS4<SEP>N1230992291"
+  },
+  "BE-Busbar_3<SEP>Voltage Level 225.0 (PP_Brussels)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_3<SEP>Voltage Level 225.0 (PP_Brussels)"
+  },
+  "NL-Busbar_5<SEP>NL_TR_BUS2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Busbar_5<SEP>NL_TR_BUS2"
+  },
+  "BE-Busbar_1<SEP>Voltage Level 380.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_1<SEP>Voltage Level 380.0"
+  },
+  "N1230992411<SEP>Voltage Level 220.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230992411<SEP>Voltage Level 220.0"
+  },
+  "N1230992288<SEP>Voltage Level 225.0 (PP_Brussels)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230992288<SEP>Voltage Level 225.0 (PP_Brussels)"
+  },
+  "NL-Busbar_5<SEP>Voltage Level 15.8": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Busbar_5<SEP>Voltage Level 15.8"
+  },
+  "N1230992414<SEP>Voltage Level 220.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230992414<SEP>Voltage Level 220.0"
+  },
+  "BE-Busbar_4<SEP>Voltage Level 10.5": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_4<SEP>Voltage Level 10.5"
+  },
+  "BE-TR2_2<SEP>PP_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR2_2<SEP>PP_Brussels"
+  },
+  "N1230992291<SEP>Voltage Level 225.0 (PP_Brussels)": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230992291<SEP>Voltage Level 225.0 (PP_Brussels)"
+  },
+  "BE-Busbar_2<SEP>Voltage Level 220.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_2<SEP>Voltage Level 220.0"
+  },
+  "BE-TR2_3<SEP>PP_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR2_3<SEP>PP_Brussels"
+  },
+  "BE-TR2_2<SEP>Winding 1 Of BE-TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR2_2<SEP>Winding 1 Of BE-TR2_2"
+  },
+  "BE_TR_BUS2<SEP>Winding 1 Of BE-TR2_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE_TR_BUS2<SEP>Winding 1 Of BE-TR2_1"
+  },
+  "BE-Busbar_6<SEP>Winding 2 Of BE-TR2_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_6<SEP>Winding 2 Of BE-TR2_1"
+  },
+  "BE-TR2_3<SEP>Winding 1 Of BE-TR2_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR2_3<SEP>Winding 1 Of BE-TR2_3"
+  },
+  "BE_TR_BUS4<SEP>Winding 1 Of BE-TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE_TR_BUS4<SEP>Winding 1 Of BE-TR2_2"
+  },
+  "BE-TR2_2<SEP>Winding 2 Of BE-TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR2_2<SEP>Winding 2 Of BE-TR2_2"
+  },
+  "BE-Busbar_4<SEP>Winding 2 Of BE-TR2_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_4<SEP>Winding 2 Of BE-TR2_3"
+  },
+  "BE-TR2_1<SEP>Phase Tap Changer BE-TR2_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR2_1<SEP>Phase Tap Changer BE-TR2_1"
+  },
+  "BE-Busbar_6<SEP>Winding 2 Of BE-TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_6<SEP>Winding 2 Of BE-TR2_2"
+  },
+  "BE-TR2_2<SEP>Ratio Tap Changer BE-TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR2_2<SEP>Ratio Tap Changer BE-TR2_2"
+  },
+  "BE-TR2_3<SEP>Winding 2 Of BE-TR2_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR2_3<SEP>Winding 2 Of BE-TR2_3"
+  },
+  "Phase Tap Changer BE-TR2_1<SEP>Winding 1 Of BE-TR2_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Phase Tap Changer BE-TR2_1<SEP>Winding 1 Of BE-TR2_1"
+  },
+  "BE-Busbar_6<SEP>Winding 1 Of BE-TR2_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_6<SEP>Winding 1 Of BE-TR2_3"
+  },
+  "Ratio Tap Changer BE-TR2_2<SEP>Winding 1 Of BE-TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Ratio Tap Changer BE-TR2_2<SEP>Winding 1 Of BE-TR2_2"
+  },
+  "Ratio Tap Changer BE-TR2_3<SEP>Winding 2 Of BE-TR2_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Ratio Tap Changer BE-TR2_3<SEP>Winding 2 Of BE-TR2_3"
+  },
+  "N1230992195<SEP>PP_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230992195<SEP>PP_Amsterdam"
+  },
+  "Anvers<SEP>L-1230804819": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Anvers<SEP>L-1230804819"
+  },
+  "BE-TR2_3<SEP>Ratio Tap Changer BE-TR2_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-TR2_3<SEP>Ratio Tap Changer BE-TR2_3"
+  },
+  "BE-Load_1<SEP>PP_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Load_1<SEP>PP_Brussels"
+  },
+  "NL-Load_3<SEP>PP_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Load_3<SEP>PP_Amsterdam"
+  },
+  "BE-Busbar_2<SEP>L-1230804819": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_2<SEP>L-1230804819"
+  },
+  "BE_S2<SEP>PP_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE_S2<SEP>PP_Brussels"
+  },
+  "BE-Busbar_6<SEP>BE-Load_1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_6<SEP>BE-Load_1"
+  },
+  "NL-Busbar_2<SEP>NL-Load_3": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Busbar_2<SEP>NL-Load_3"
+  },
+  "NL-S1<SEP>PP_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-S1<SEP>PP_Amsterdam"
+  },
+  "BE_S1<SEP>PP_Brussels": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE_S1<SEP>PP_Brussels"
+  },
+  "BE_S2<SEP>BE_TR_BUS2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE_S2<SEP>BE_TR_BUS2"
+  },
+  "B1<SEP>PP_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "B1<SEP>PP_Amsterdam"
+  },
+  "N1230992195<SEP>NL-S1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230992195<SEP>NL-S1"
+  },
+  "L-1230804819<SEP>Voltage Level 220.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "L-1230804819<SEP>Voltage Level 220.0"
+  },
+  "BE-Busbar_6<SEP>BE_S1": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_6<SEP>BE_S1"
+  },
+  "BE-Load_1<SEP>Voltage Level 110.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Load_1<SEP>Voltage Level 110.0"
+  },
+  "B1<SEP>NL-Busbar_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "B1<SEP>NL-Busbar_2"
+  },
+  "NL-Load_3<SEP>Voltage Level 220.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Load_3<SEP>Voltage Level 220.0"
+  },
+  "BE_S2<SEP>Voltage Level 380.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE_S2<SEP>Voltage Level 380.0"
+  },
+  "NL-S1<SEP>Voltage Level 400.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-S1<SEP>Voltage Level 400.0"
+  },
+  "BE_S1<SEP>Voltage Level 110.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE_S1<SEP>Voltage Level 110.0"
+  },
+  "BE-Busbar_2<SEP>BE-Line_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_2<SEP>BE-Line_2"
+  },
+  "B1<SEP>NL_Busbar__4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "B1<SEP>NL_Busbar__4"
+  },
+  "N1230992195<SEP>NL-Line_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230992195<SEP>NL-Line_2"
+  },
+  "NL-Line_5<SEP>TN_Border_GY11": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Line_5<SEP>TN_Border_GY11"
+  },
+  "BE-Line_2<SEP>BE_TR_BUS4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Line_2<SEP>BE_TR_BUS4"
+  },
+  "B1<SEP>Voltage Level 220.0": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "B1<SEP>Voltage Level 220.0"
+  },
+  "BE-Line_4<SEP>BE_TR_BUS2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Line_4<SEP>BE_TR_BUS2"
+  },
+  "NL-Line_2<SEP>TN_Border_MA11": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL-Line_2<SEP>TN_Border_MA11"
+  },
+  "BE-Busbar_2<SEP>BE-Line_6": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Busbar_2<SEP>BE-Line_6"
+  },
+  "N1230992195<SEP>NL-Line_5": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "N1230992195<SEP>NL-Line_5"
+  },
+  "NL_TR2_2<SEP>PP_Amsterdam": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL_TR2_2<SEP>PP_Amsterdam"
+  },
+  "BE-Line_4<SEP>TN_Border_MA11": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Line_4<SEP>TN_Border_MA11"
+  },
+  "BE-Line_6<SEP>BE_TR_BUS4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "BE-Line_6<SEP>BE_TR_BUS4"
+  },
+  "NL_Busbar__4<SEP>Winding 1 of NL_TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL_Busbar__4<SEP>Winding 1 of NL_TR2_2"
+  },
+  "AC Line Segment<SEP>BE-Line_5": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "AC Line Segment<SEP>BE-Line_5"
+  },
+  "NL_TR2_2<SEP>Winding 1 of NL_TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL_TR2_2<SEP>Winding 1 of NL_TR2_2"
+  },
+  "AC Line Segment<SEP>BE-Line_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "AC Line Segment<SEP>BE-Line_2"
+  },
+  "NL_TR2_2<SEP>Winding 2 of NL_TR2_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL_TR2_2<SEP>Winding 2 of NL_TR2_2"
+  },
+  "Power Transformer<SEP>Power Transformers": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "Power Transformer<SEP>Power Transformers"
+  },
+  "AC Line Segment<SEP>NL-Line_2": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "AC Line Segment<SEP>NL-Line_2"
+  },
+  "NL_TR2_2<SEP>Power Transformer": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "NL_TR2_2<SEP>Power Transformer"
+  },
+  "AC Line Segment<SEP>NL-Line_5": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "AC Line Segment<SEP>NL-Line_5"
+  },
+  "AC Line Segment<SEP>BE-Line_4": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "AC Line Segment<SEP>BE-Line_4"
+  },
+  "AC Line Segment<SEP>BE-Line_6": {
+    "chunk_ids": [
+      "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+    ],
+    "count": 1,
+    "create_time": 1781189876,
+    "update_time": 1781189876,
+    "_id": "AC Line Segment<SEP>BE-Line_6"
+  }
+}

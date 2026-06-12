@@ -1,0 +1,29 @@
+[
+  {
+    "kg": "std",
+    "n": 50,
+    "det_acc_all": 0.82,
+    "det_acc_s1": 0.96,
+    "det_acc_s2": 0.68,
+    "gpt51_acc_all": 0.82,
+    "claude_haiku_acc_all": 0.82
+  },
+  {
+    "kg": "llm",
+    "n": 50,
+    "det_acc_all": 0.82,
+    "det_acc_s1": 0.8,
+    "det_acc_s2": 0.84,
+    "gpt51_acc_all": 0.8,
+    "claude_haiku_acc_all": 0.8
+  },
+  {
+    "kg": "hyb",
+    "n": 50,
+    "det_acc_all": 0.74,
+    "det_acc_s1": 0.84,
+    "det_acc_s2": 0.64,
+    "gpt51_acc_all": 0.72,
+    "claude_haiku_acc_all": 0.72
+  }
+]

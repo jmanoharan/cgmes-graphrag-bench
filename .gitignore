@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# LaTeX aux files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.idx
+*.ind
+*.ilg
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Env
+.env
+.env.*
+
+
+# Private audit/tooling artifacts: never publish
+.aris/
+paper/PAPER_CLAIM_AUDIT.md
+paper/PAPER_CLAIM_AUDIT.json
+paper/CITATION_AUDIT.md
+paper/CITATION_AUDIT.json
+
+# LaTeX build outputs (canonical PDFs are paper/paper.pdf and paper/paper_conference.pdf)
+paper/sources/main.pdf
+paper/sources_conference/main.pdf
+
+# Paper LaTeX sources are kept local (needed for arXiv/IEEE submission), not published
+paper/sources/
+paper/sources_conference/
+
+# Not published: journal pre-print PDF and paper figures (conference PDF only)
+paper/paper.pdf
+figures/

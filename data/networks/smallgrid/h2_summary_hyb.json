@@ -1,0 +1,11 @@
+[
+  {
+    "kg": "hyb",
+    "n": 50,
+    "det_acc_all": 0.54,
+    "det_acc_s1": 0.96,
+    "det_acc_s2": 0.12,
+    "gpt51_acc_all": 0.54,
+    "claude_haiku_acc_all": 0.54
+  }
+]

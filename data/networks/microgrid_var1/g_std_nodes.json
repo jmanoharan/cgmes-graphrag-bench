@@ -1,0 +1,2389 @@
+[
+  {
+    "mrid": "002b0a40-3957-46db-b84a-30420083558f",
+    "id": "_002b0a40-3957-46db-b84a-30420083558f",
+    "class": "LinearShuntCompensator",
+    "name": "BE_S2",
+    "attrs": {
+      "name": "BE_S2",
+      "description": "another shunt",
+      "bPerSection": 0.000346,
+      "nomU": 380.0,
+      "sections": 1.0
+    }
+  },
+  {
+    "mrid": "00b17311-075f-48f6-a79b-597f42af4694",
+    "id": "_00b17311-075f-48f6-a79b-597f42af4694",
+    "class": "BaseVoltage",
+    "name": "110.00 kV",
+    "attrs": {
+      "nominalVoltage": 110.0,
+      "description": "Base Voltage Level",
+      "name": "110.00 kV"
+    }
+  },
+  {
+    "mrid": "00faa2b5-cb42-4c43-9c9a-2a09dd9c52f5",
+    "id": "_00faa2b5-cb42-4c43-9c9a-2a09dd9c52f5",
+    "class": "Line",
+    "name": "container of NL-Line_2",
+    "attrs": {
+      "name": "container of NL-Line_2"
+    }
+  },
+  {
+    "mrid": "02a244ca-8bcb-4e25-8613-e948b8ba1f22",
+    "id": "_02a244ca-8bcb-4e25-8613-e948b8ba1f22",
+    "class": "Terminal",
+    "name": "BE-Line_5 - T2",
+    "attrs": {
+      "name": "BE-Line_5 - T2"
+    }
+  },
+  {
+    "mrid": "049438a6-780a-44fe-a788-ebe385d98e25",
+    "id": "_049438a6-780a-44fe-a788-ebe385d98e25",
+    "class": "GeneratingUnit",
+    "name": "Gen-12923",
+    "attrs": {
+      "name": "Gen-12923",
+      "description": "Machine",
+      "initialP": 600.492701,
+      "nominalP": 990.0,
+      "maxOperatingP": 1000.0,
+      "minOperatingP": 300.0
+    }
+  },
+  {
+    "mrid": "051d49ba-4360-4372-86bf-50eb8cf29778",
+    "id": "_051d49ba-4360-4372-86bf-50eb8cf29778",
+    "class": "Terminal",
+    "name": "BE-Line_5 - T1",
+    "attrs": {
+      "name": "BE-Line_5 - T1"
+    }
+  },
+  {
+    "mrid": "05a17350-55f5-4a00-9a50-8c0048a25495",
+    "id": "_05a17350-55f5-4a00-9a50-8c0048a25495",
+    "class": "Terminal",
+    "name": "BE-Line_6 - T1",
+    "attrs": {
+      "name": "BE-Line_6 - T1"
+    }
+  },
+  {
+    "mrid": "0f199d49-0093-4b51-b357-70371424d174",
+    "id": "_0f199d49-0093-4b51-b357-70371424d174",
+    "class": "Terminal",
+    "name": "NL-Busbar_3_Busbar_Section",
+    "attrs": {
+      "name": "NL-Busbar_3_Busbar_Section",
+      "description": "Busbar Section"
+    }
+  },
+  {
+    "mrid": "1098b1c9-dc85-40ce-b65c-39ae02a3afaa",
+    "id": "_1098b1c9-dc85-40ce-b65c-39ae02a3afaa",
+    "class": "TopologicalNode",
+    "name": "Border_HVDC-AC",
+    "attrs": {
+      "description": "HVDC-AC; 220 kV; OHL",
+      "name": "Border_HVDC-AC"
+    }
+  },
+  {
+    "mrid": "1128e664-0653-448a-9068-e37f1a097c05",
+    "id": "_1128e664-0653-448a-9068-e37f1a097c05",
+    "class": "Terminal",
+    "name": "NL_TR2_2 - T1",
+    "attrs": {
+      "name": "NL_TR2_2 - T1"
+    }
+  },
+  {
+    "mrid": "1182d878-2eaa-4eec-91be-ce7b2b1e7f9a",
+    "id": "_1182d878-2eaa-4eec-91be-ce7b2b1e7f9a",
+    "class": "Terminal",
+    "name": "BE-TR2_3 - T2",
+    "attrs": {
+      "name": "BE-TR2_3 - T2"
+    }
+  },
+  {
+    "mrid": "12733133-1f34-44f3-a020-f5b33cede919",
+    "id": "_12733133-1f34-44f3-a020-f5b33cede919",
+    "class": "BusbarSection",
+    "name": "N1230822396",
+    "attrs": {
+      "name": "N1230822396"
+    }
+  },
+  {
+    "mrid": "12baa3f3-23b1-44e0-956f-d331e1527f37",
+    "id": "_12baa3f3-23b1-44e0-956f-d331e1527f37",
+    "class": "EquivalentInjection",
+    "name": "NL-Inj-XZE_ST23",
+    "attrs": {
+      "name": "NL-Inj-XZE_ST23",
+      "description": "Eq_Injection",
+      "p": 27.365225,
+      "q": -0.425626
+    }
+  },
+  {
+    "mrid": "143aa0b1-2cd4-4e58-98d4-b0438bd5a39a",
+    "id": "_143aa0b1-2cd4-4e58-98d4-b0438bd5a39a",
+    "class": "BusbarSection",
+    "name": "NL-Busbar_2",
+    "attrs": {
+      "name": "NL-Busbar_2"
+    }
+  },
+  {
+    "mrid": "14b352cb-5574-40c5-bf83-0ed3574554a3",
+    "id": "_14b352cb-5574-40c5-bf83-0ed3574554a3",
+    "class": "EquivalentInjection",
+    "name": "BE-Inj-XKA_MA11",
+    "attrs": {
+      "name": "BE-Inj-XKA_MA11",
+      "description": "Eq_Injection",
+      "p": -43.687227,
+      "q": 84.876604
+    }
+  },
+  {
+    "mrid": "17086487-56ba-4979-b8de-064025a6b4da",
+    "id": "_17086487-56ba-4979-b8de-064025a6b4da",
+    "class": "ACLineSegment",
+    "name": "BE-Line_1",
+    "attrs": {
+      "name": "BE-Line_1",
+      "description": "10T-AT-DE-000061",
+      "r": 2.2,
+      "x": 68.2,
+      "length": 22.0
+    }
+  },
+  {
+    "mrid": "185273ba-a4e8-4754-8038-3b33eb76132e",
+    "id": "_185273ba-a4e8-4754-8038-3b33eb76132e",
+    "class": "Line",
+    "name": "container of BE-Line_3",
+    "attrs": {
+      "name": "container of BE-Line_3"
+    }
+  },
+  {
+    "mrid": "18993b11-2966-4bce-bab9-d86103f83b53",
+    "id": "_18993b11-2966-4bce-bab9-d86103f83b53",
+    "class": "GeneratingUnit",
+    "name": "Gen-1229753060",
+    "attrs": {
+      "name": "Gen-1229753060",
+      "description": "Machine",
+      "initialP": 90.0,
+      "nominalP": 255.0,
+      "maxOperatingP": 200.0,
+      "minOperatingP": 50.0
+    }
+  },
+  {
+    "mrid": "1912224a-9e98-41aa-84cf-00875bce7264",
+    "id": "_1912224a-9e98-41aa-84cf-00875bce7264",
+    "class": "PowerTransformerEnd",
+    "name": "BE-TR2_1",
+    "attrs": {
+      "name": "BE-TR2_1",
+      "ratedS": 650.0,
+      "ratedU": 110.0,
+      "endNumber": 2.0
+    }
+  },
+  {
+    "mrid": "1c4a9e9c-ef00-42c9-9845-f64f9ca1e57a",
+    "id": "_1c4a9e9c-ef00-42c9-9845-f64f9ca1e57a",
+    "class": "ConnectivityNode",
+    "name": "Border_HVDC-AC",
+    "attrs": {
+      "description": "HVDC-AC; 220 kV; OHL",
+      "name": "Border_HVDC-AC"
+    }
+  },
+  {
+    "mrid": "1c6beed6-1acf-42e7-ba55-0cc9f04bddd8",
+    "id": "_1c6beed6-1acf-42e7-ba55-0cc9f04bddd8",
+    "class": "EnergyConsumer",
+    "name": "BE-Load_2",
+    "attrs": {
+      "name": "BE-Load_2",
+      "description": "EVN",
+      "p": 200.0,
+      "q": 50.0
+    }
+  },
+  {
+    "mrid": "1cefd53a-79bd-4ad4-aa9a-5a4ad0191ce2",
+    "id": "_1cefd53a-79bd-4ad4-aa9a-5a4ad0191ce2",
+    "class": "BaseVoltage",
+    "name": "21.00 kV",
+    "attrs": {
+      "nominalVoltage": 21.0,
+      "description": "Base Voltage Level",
+      "name": "21.00 kV"
+    }
+  },
+  {
+    "mrid": "1dc9afba-23b5-41a0-8540-b479ed8baf4b",
+    "id": "_1dc9afba-23b5-41a0-8540-b479ed8baf4b",
+    "class": "SynchronousMachine",
+    "name": "NL-G3",
+    "attrs": {
+      "name": "NL-G3",
+      "description": "Machine",
+      "p": -150.0,
+      "q": -83.296
+    }
+  },
+  {
+    "mrid": "1ef0715a-d5a9-477b-b6e7-b635529ac140",
+    "id": "_1ef0715a-d5a9-477b-b6e7-b635529ac140",
+    "class": "Terminal",
+    "name": "BE-Line_1 - T1",
+    "attrs": {
+      "name": "BE-Line_1 - T1"
+    }
+  },
+  {
+    "mrid": "1fa19c281c8f4e1eaad9e1cab70f923e",
+    "id": "_1fa19c281c8f4e1eaad9e1cab70f923e",
+    "class": "TopologicalNode",
+    "name": "TN_Border_ST24",
+    "attrs": {
+      "description": "RG CE; 220 kV; OHL",
+      "name": "TN_Border_ST24"
+    }
+  },
+  {
+    "mrid": "1fa19c281c8f4e1eaad9e1cab70f923e_X",
+    "id": "_1fa19c281c8f4e1eaad9e1cab70f923e_X",
+    "class": "Line",
+    "name": "TieLine_XZE_ST24",
+    "attrs": {
+      "name": "TieLine_XZE_ST24",
+      "description": "TieLine at XZE_ST24"
+    }
+  },
+  {
+    "mrid": "2184f365-8cd5-4b5d-8a28-9d68603bb6a4",
+    "id": "_2184f365-8cd5-4b5d-8a28-9d68603bb6a4",
+    "class": "PowerTransformer",
+    "name": "NL_TR2_2",
+    "attrs": {
+      "name": "NL_TR2_2",
+      "description": "trafo"
+    }
+  },
+  {
+    "mrid": "22af3121-1a66-4546-bd80-4371f417c644",
+    "id": "_22af3121-1a66-4546-bd80-4371f417c644",
+    "class": "Terminal",
+    "name": "BE_S2 - T1",
+    "attrs": {
+      "name": "BE_S2 - T1"
+    }
+  },
+  {
+    "mrid": "231a4cf8-5069-4d53-96e4-e839f073f1ea",
+    "id": "_231a4cf8-5069-4d53-96e4-e839f073f1ea",
+    "class": "Terminal",
+    "name": "BE-Line_3 - T1",
+    "attrs": {
+      "name": "BE-Line_3 - T1"
+    }
+  },
+  {
+    "mrid": "24413233-26c3-4f7e-9f72-4461796938be",
+    "id": "_24413233-26c3-4f7e-9f72-4461796938be",
+    "class": "EquivalentInjection",
+    "name": "BE-Inj-XCA_AL11",
+    "attrs": {
+      "name": "BE-Inj-XCA_AL11",
+      "description": "Eq_Injection",
+      "p": -46.816625,
+      "q": 79.193778
+    }
+  },
+  {
+    "mrid": "24dd035c-0a8c-4351-aeb2-08d6622b42ae",
+    "id": "_24dd035c-0a8c-4351-aeb2-08d6622b42ae",
+    "class": "Terminal",
+    "name": "NL-Inj-XZE_ST23 - T1",
+    "attrs": {
+      "name": "NL-Inj-XZE_ST23 - T1"
+    }
+  },
+  {
+    "mrid": "25ab1b5b-6803-47e2-805a-ab7b2072e034",
+    "id": "_25ab1b5b-6803-47e2-805a-ab7b2072e034",
+    "class": "EnergyConsumer",
+    "name": "NL-Load_2",
+    "attrs": {
+      "name": "NL-Load_2",
+      "description": "Electrabel",
+      "p": 10.0,
+      "q": 10.0
+    }
+  },
+  {
+    "mrid": "26e50b4b-9a19-420d-98ce-bc4f11971cd7",
+    "id": "_26e50b4b-9a19-420d-98ce-bc4f11971cd7",
+    "class": "Terminal",
+    "name": "NL-Inj-XZE_ST24 - T1",
+    "attrs": {
+      "name": "NL-Inj-XZE_ST24 - T1"
+    }
+  },
+  {
+    "mrid": "2844585c-0d35-488d-a449-685bcd57afbf",
+    "id": "_2844585c-0d35-488d-a449-685bcd57afbf",
+    "class": "SynchronousMachine",
+    "name": "NL-G2",
+    "attrs": {
+      "name": "NL-G2",
+      "description": "Machine",
+      "p": -140.0,
+      "q": -77.743
+    }
+  },
+  {
+    "mrid": "2a37dc57-2faf-464a-8175-bc415f9a635f",
+    "id": "_2a37dc57-2faf-464a-8175-bc415f9a635f",
+    "class": "VoltageLevel",
+    "name": "15.8",
+    "attrs": {
+      "name": 15.8
+    }
+  },
+  {
+    "mrid": "2b659afe-2ac3-425c-9418-3383e09b4b39",
+    "id": "_2b659afe-2ac3-425c-9418-3383e09b4b39",
+    "class": "Line",
+    "name": "container of BE-Line_1",
+    "attrs": {
+      "name": "container of BE-Line_1"
+    }
+  },
+  {
+    "mrid": "2cd21c77-b8b1-4896-95fb-240f45b9ac89",
+    "id": "_2cd21c77-b8b1-4896-95fb-240f45b9ac89",
+    "class": "Terminal",
+    "name": "BE-TR2_1 - T2",
+    "attrs": {
+      "name": "BE-TR2_1 - T2"
+    }
+  },
+  {
+    "mrid": "2e21d1ef-2287-434c-a767-1ca807cf2478",
+    "id": "_2e21d1ef-2287-434c-a767-1ca807cf2478",
+    "class": "PowerTransformerEnd",
+    "name": "BE-TR3_1",
+    "attrs": {
+      "name": "BE-TR3_1",
+      "ratedS": 650.0,
+      "ratedU": 21.0,
+      "endNumber": 3.0
+    }
+  },
+  {
+    "mrid": "302fe23a-f64d-41bd-8a81-78130433916d",
+    "id": "_302fe23a-f64d-41bd-8a81-78130433916d",
+    "class": "Terminal",
+    "name": "N1230992291_Busbar_Section",
+    "attrs": {
+      "name": "N1230992291_Busbar_Section",
+      "description": "Busbar Section"
+    }
+  },
+  {
+    "mrid": "35651e25-a77a-46a1-92f4-443d6acce90e",
+    "id": "_35651e25-a77a-46a1-92f4-443d6acce90e",
+    "class": "PowerTransformerEnd",
+    "name": "BE-TR2_3",
+    "attrs": {
+      "name": "BE-TR2_3",
+      "ratedS": 250.0,
+      "ratedU": 10.5,
+      "endNumber": 2.0
+    }
+  },
+  {
+    "mrid": "357e3e14-c38e-4a7e-9c95-b3dbe158f5f3",
+    "id": "_357e3e14-c38e-4a7e-9c95-b3dbe158f5f3",
+    "class": "Terminal",
+    "name": "NL-Line_1 - T1",
+    "attrs": {
+      "name": "NL-Line_1 - T1"
+    }
+  },
+  {
+    "mrid": "35cf638d-9a9d-4ae5-ae90-2f01ef898cb6",
+    "id": "_35cf638d-9a9d-4ae5-ae90-2f01ef898cb6",
+    "class": "BaseVoltage",
+    "name": "380 kV",
+    "attrs": {
+      "description": "Base Voltage 380 kV",
+      "name": "380 kV",
+      "nominalVoltage": 380.0
+    }
+  },
+  {
+    "mrid": "364c9ca2-0d1d-4363-8f46-e586f8f66a8c",
+    "id": "_364c9ca2-0d1d-4363-8f46-e586f8f66a8c",
+    "class": "BusbarSection",
+    "name": "BE-Busbar_6",
+    "attrs": {
+      "name": "BE-Busbar_6"
+    }
+  },
+  {
+    "mrid": "37e14a0f-5e34-4647-a062-8bfd9305fa9d",
+    "id": "_37e14a0f-5e34-4647-a062-8bfd9305fa9d",
+    "class": "Substation",
+    "name": "PP_Brussels",
+    "attrs": {
+      "name": "PP_Brussels"
+    }
+  },
+  {
+    "mrid": "39d27c17-1e5b-4edc-a7ec-65a2d56542df",
+    "id": "_39d27c17-1e5b-4edc-a7ec-65a2d56542df",
+    "class": "Terminal",
+    "name": "NL-Inj-XCA_AL11 - T1",
+    "attrs": {
+      "name": "NL-Inj-XCA_AL11 - T1"
+    }
+  },
+  {
+    "mrid": "3a3b27be-b18b-4385-b557-6735d733baf0",
+    "id": "_3a3b27be-b18b-4385-b557-6735d733baf0",
+    "class": "SynchronousMachine",
+    "name": "BE-G1",
+    "attrs": {
+      "name": "BE-G1",
+      "description": "Machine",
+      "p": -90.0,
+      "q": -100.256
+    }
+  },
+  {
+    "mrid": "3c6d83a3-b5f9-41a2-a3d9-cf15d903ed0a",
+    "id": "_3c6d83a3-b5f9-41a2-a3d9-cf15d903ed0a",
+    "class": "Terminal",
+    "name": "N1230992411_Busbar_Section",
+    "attrs": {
+      "name": "N1230992411_Busbar_Section",
+      "description": "Busbar Section"
+    }
+  },
+  {
+    "mrid": "42800bad-5e47-42e6-b9b0-1fb8fc5831aa",
+    "id": "_42800bad-5e47-42e6-b9b0-1fb8fc5831aa",
+    "class": "Terminal",
+    "name": "NL-Busbar_5_Busbar_Section",
+    "attrs": {
+      "name": "NL-Busbar_5_Busbar_Section",
+      "description": "Busbar Section"
+    }
+  },
+  {
+    "mrid": "469df5f7-058f-4451-a998-57a48e8a56fe",
+    "id": "_469df5f7-058f-4451-a998-57a48e8a56fe",
+    "class": "VoltageLevel",
+    "name": "380.0",
+    "attrs": {
+      "name": 380.0
+    }
+  },
+  {
+    "mrid": "49ca3fd4-1b54-4c5b-83fd-4dbd0f9fec9d",
+    "id": "_49ca3fd4-1b54-4c5b-83fd-4dbd0f9fec9d",
+    "class": "PowerTransformerEnd",
+    "name": "BE-TR2_1",
+    "attrs": {
+      "name": "BE-TR2_1",
+      "ratedS": 650.0,
+      "ratedU": 400.0,
+      "endNumber": 1.0
+    }
+  },
+  {
+    "mrid": "4a7363a4-0b21-4f65-8bba-33e3a8f6bac3",
+    "id": "_4a7363a4-0b21-4f65-8bba-33e3a8f6bac3",
+    "class": "Terminal",
+    "name": "BE-Inj-XZE_ST24 - T1",
+    "attrs": {
+      "name": "BE-Inj-XZE_ST24 - T1"
+    }
+  },
+  {
+    "mrid": "4ba71b59-ee2f-450b-9f7d-cc2f1cc5e386",
+    "id": "_4ba71b59-ee2f-450b-9f7d-cc2f1cc5e386",
+    "class": "VoltageLevel",
+    "name": "10.5",
+    "attrs": {
+      "name": 10.5
+    }
+  },
+  {
+    "mrid": "4bb5407b-b4a5-416c-80ad-1a778ada2b9b",
+    "id": "_4bb5407b-b4a5-416c-80ad-1a778ada2b9b",
+    "class": "Terminal",
+    "name": "BE-G2 - T1",
+    "attrs": {
+      "name": "BE-G2 - T1"
+    }
+  },
+  {
+    "mrid": "4c19ace6-c825-4c5b-87d9-031e6e6a3379",
+    "id": "_4c19ace6-c825-4c5b-87d9-031e6e6a3379",
+    "class": "Terminal",
+    "name": "BE-TR2_2 - T1",
+    "attrs": {
+      "name": "BE-TR2_2 - T1"
+    }
+  },
+  {
+    "mrid": "4f1c405f-07c9-4fb0-b64e-551896a29aa8",
+    "id": "_4f1c405f-07c9-4fb0-b64e-551896a29aa8",
+    "class": "Terminal",
+    "name": "NL_TR2_3 - T2",
+    "attrs": {
+      "name": "NL_TR2_3 - T2"
+    }
+  },
+  {
+    "mrid": "50f00b94-fe0f-48fd-887e-f0d4d59eee87",
+    "id": "_50f00b94-fe0f-48fd-887e-f0d4d59eee87",
+    "class": "Terminal",
+    "name": "NL-Busbar_2_Busbar_Section",
+    "attrs": {
+      "name": "NL-Busbar_2_Busbar_Section",
+      "description": "Busbar Section"
+    }
+  },
+  {
+    "mrid": "5249A78F-6642-4fc5-968F-06E2ED18FAB7",
+    "id": "_5249A78F-6642-4fc5-968F-06E2ED18FAB7",
+    "class": "Junction",
+    "name": "Junction_XJ1",
+    "attrs": {
+      "name": "Junction_XJ1",
+      "description": "Junction at XJ1"
+    }
+  },
+  {
+    "mrid": "53072f42-f77b-47e2-bd9a-e097c910b173",
+    "id": "_53072f42-f77b-47e2-bd9a-e097c910b173",
+    "class": "Terminal",
+    "name": "BE-Inj-XCA_AL11 - T1",
+    "attrs": {
+      "name": "BE-Inj-XCA_AL11 - T1"
+    }
+  },
+  {
+    "mrid": "53da4025-9d51-4eaf-b0d2-ce27fbe740d2",
+    "id": "_53da4025-9d51-4eaf-b0d2-ce27fbe740d2",
+    "class": "BusbarSection",
+    "name": "NL-Busbar_3",
+    "attrs": {
+      "name": "NL-Busbar_3"
+    }
+  },
+  {
+    "mrid": "53fd6693-57e6-482e-8fbe-dcf3531a7ce0",
+    "id": "_53fd6693-57e6-482e-8fbe-dcf3531a7ce0",
+    "class": "Terminal",
+    "name": "BE-TR3_1 - T2",
+    "attrs": {
+      "name": "BE-TR3_1 - T2"
+    }
+  },
+  {
+    "mrid": "550ebe0d-f2b2-48c1-991f-cebea43a21aa",
+    "id": "_550ebe0d-f2b2-48c1-991f-cebea43a21aa",
+    "class": "SynchronousMachine",
+    "name": "BE-G2",
+    "attrs": {
+      "name": "BE-G2",
+      "description": "Machine",
+      "p": -118.0,
+      "q": -18.720301
+    }
+  },
+  {
+    "mrid": "57979d14-d1d8-4311-ae53-aa8890423885",
+    "id": "_57979d14-d1d8-4311-ae53-aa8890423885",
+    "class": "Terminal",
+    "name": "NL-Line_4 - T2",
+    "attrs": {
+      "name": "NL-Line_4 - T2"
+    }
+  },
+  {
+    "mrid": "57ae9251-c022-4c67-a8eb-611ad54c963c",
+    "id": "_57ae9251-c022-4c67-a8eb-611ad54c963c",
+    "class": "Terminal",
+    "name": "BE-Line_7 - T1",
+    "attrs": {
+      "name": "BE-Line_7 - T1"
+    }
+  },
+  {
+    "mrid": "5b2c65b0-68ce-4530-85b7-385346a3b5e1",
+    "id": "_5b2c65b0-68ce-4530-85b7-385346a3b5e1",
+    "class": "Terminal",
+    "name": "BE-Line_7 - T2",
+    "attrs": {
+      "name": "BE-Line_7 - T2"
+    }
+  },
+  {
+    "mrid": "5b7a4d43-09ec-4033-882d-64a76d557631",
+    "id": "_5b7a4d43-09ec-4033-882d-64a76d557631",
+    "class": "GeneratingUnit",
+    "name": "Gen-1229753024",
+    "attrs": {
+      "name": "Gen-1229753024",
+      "description": "Machine",
+      "initialP": 118.0,
+      "nominalP": 255.0,
+      "maxOperatingP": 200.0,
+      "minOperatingP": 50.0
+    }
+  },
+  {
+    "mrid": "5c74cb26-ce2f-40c6-951d-89091eb781b6",
+    "id": "_5c74cb26-ce2f-40c6-951d-89091eb781b6",
+    "class": "TopologicalNode",
+    "name": "BE-Busbar_6",
+    "attrs": {
+      "name": "BE-Busbar_6",
+      "description": "BBRUS151; BGENT_51"
+    }
+  },
+  {
+    "mrid": "5caf27ed-d2f8-458a-834a-6b3193a982e6",
+    "id": "_5caf27ed-d2f8-458a-834a-6b3193a982e6",
+    "class": "BusbarSection",
+    "name": "BE-Busbar_3",
+    "attrs": {
+      "name": "BE-Busbar_3"
+    }
+  },
+  {
+    "mrid": "5dfee914-a4fd-4bde-a5b4-c4caa6378d10",
+    "id": "_5dfee914-a4fd-4bde-a5b4-c4caa6378d10",
+    "class": "Terminal",
+    "name": "NL-Line_3 - T1",
+    "attrs": {
+      "name": "NL-Line_3 - T1"
+    }
+  },
+  {
+    "mrid": "5f40c3f7-9540-4e1b-aa97-6553d5524877",
+    "id": "_5f40c3f7-9540-4e1b-aa97-6553d5524877",
+    "class": "Terminal",
+    "name": "B1 - T2",
+    "attrs": {
+      "name": "B1 - T2"
+    }
+  },
+  {
+    "mrid": "5f5d40ae-d52d-4631-9285-b3ceefff784c",
+    "id": "_5f5d40ae-d52d-4631-9285-b3ceefff784c",
+    "class": "Breaker",
+    "name": "B1",
+    "attrs": {
+      "name": "B1",
+      "open": "false"
+    }
+  },
+  {
+    "mrid": "5f68a129-d5d8-4b71-9743-9ca2572ba26b",
+    "id": "_5f68a129-d5d8-4b71-9743-9ca2572ba26b",
+    "class": "PowerTransformerEnd",
+    "name": "BE-TR3_1",
+    "attrs": {
+      "name": "BE-TR3_1",
+      "ratedS": 650.0,
+      "ratedU": 400.0,
+      "endNumber": 1.0
+    }
+  },
+  {
+    "mrid": "608059fa-f262-463d-a8a8-80844a2a7021",
+    "id": "_608059fa-f262-463d-a8a8-80844a2a7021",
+    "class": "Line",
+    "name": "container of BE-Line_5",
+    "attrs": {
+      "name": "container of BE-Line_5"
+    }
+  },
+  {
+    "mrid": "62fc0a4e-00aa-4bf7-b1a0-3a5b2c0b5492",
+    "id": "_62fc0a4e-00aa-4bf7-b1a0-3a5b2c0b5492",
+    "class": "Terminal",
+    "name": "BE-Busbar_3_Busbar_Section",
+    "attrs": {
+      "name": "BE-Busbar_3_Busbar_Section",
+      "description": "Busbar Section"
+    }
+  },
+  {
+    "mrid": "63893f24-5b4e-407c-9a1e-4ff71121f33c",
+    "id": "_63893f24-5b4e-407c-9a1e-4ff71121f33c",
+    "class": "BaseVoltage",
+    "name": "225 kV",
+    "attrs": {
+      "description": "Base Voltage 225 kV",
+      "name": "225 kV",
+      "nominalVoltage": 225.0
+    }
+  },
+  {
+    "mrid": "63f25be7-7592-4cf1-8401-5772046ef2ae",
+    "id": "_63f25be7-7592-4cf1-8401-5772046ef2ae",
+    "class": "BusbarSection",
+    "name": "N1230992288",
+    "attrs": {
+      "name": "N1230992288"
+    }
+  },
+  {
+    "mrid": "644936cc-1ea0-46f3-93e6-eed0e0cc8bee",
+    "id": "_644936cc-1ea0-46f3-93e6-eed0e0cc8bee",
+    "class": "Line",
+    "name": "container of NL-Line_3",
+    "attrs": {
+      "name": "container of NL-Line_3"
+    }
+  },
+  {
+    "mrid": "64901aec-5a8a-4bcb-8ca7-a3ddbfcd0e6c",
+    "id": "_64901aec-5a8a-4bcb-8ca7-a3ddbfcd0e6c",
+    "class": "BusbarSection",
+    "name": "BE-Busbar_1",
+    "attrs": {
+      "name": "BE-Busbar_1"
+    }
+  },
+  {
+    "mrid": "653bc4b8-518b-4adc-9d68-012fb641fb1d",
+    "id": "_653bc4b8-518b-4adc-9d68-012fb641fb1d",
+    "class": "Terminal",
+    "name": "NL-Line_4 - T1",
+    "attrs": {
+      "name": "NL-Line_4 - T1"
+    }
+  },
+  {
+    "mrid": "65b8c937-9b25-4b9e-addf-602dbc1337f9",
+    "id": "_65b8c937-9b25-4b9e-addf-602dbc1337f9",
+    "class": "Terminal",
+    "name": "BE-Busbar_4_Busbar_Section",
+    "attrs": {
+      "name": "BE-Busbar_4_Busbar_Section",
+      "description": "Busbar Section"
+    }
+  },
+  {
+    "mrid": "65dd04e792584b3b912374e35dec032e",
+    "id": "_65dd04e792584b3b912374e35dec032e",
+    "class": "BaseVoltage",
+    "name": "400 kV",
+    "attrs": {
+      "description": "Base Voltage 400 kV",
+      "name": "400 kV",
+      "nominalVoltage": 400.0
+    }
+  },
+  {
+    "mrid": "664a19e1-1dc2-48d5-b265-c0630981e61c",
+    "id": "_664a19e1-1dc2-48d5-b265-c0630981e61c",
+    "class": "PowerTransformerEnd",
+    "name": "BE-TR2_2",
+    "attrs": {
+      "name": "BE-TR2_2",
+      "ratedS": 650.0,
+      "ratedU": 110.0,
+      "endNumber": 2.0
+    }
+  },
+  {
+    "mrid": "699545b9-82b9-4331-bc80-538d73b4ba56",
+    "id": "_699545b9-82b9-4331-bc80-538d73b4ba56",
+    "class": "Terminal",
+    "name": "BE-Line_2 - T1",
+    "attrs": {
+      "name": "BE-Line_2 - T1"
+    }
+  },
+  {
+    "mrid": "69add5b4-70bd-4360-8a93-286256c0d38b",
+    "id": "_69add5b4-70bd-4360-8a93-286256c0d38b",
+    "class": "EnergyConsumer",
+    "name": "NL-Load_1",
+    "attrs": {
+      "name": "NL-Load_1",
+      "description": "Apple",
+      "p": 90.0,
+      "q": 280.0
+    }
+  },
+  {
+    "mrid": "6aecb9ba-5835-4b70-89bc-96d687e45779",
+    "id": "_6aecb9ba-5835-4b70-89bc-96d687e45779",
+    "class": "Terminal",
+    "name": "NL-Line_3 - T2",
+    "attrs": {
+      "name": "NL-Line_3 - T2"
+    }
+  },
+  {
+    "mrid": "6b1cd30c-19ba-44e1-9447-d01db6b1ef9d",
+    "id": "_6b1cd30c-19ba-44e1-9447-d01db6b1ef9d",
+    "class": "Terminal",
+    "name": "NL-Line_1 - T2",
+    "attrs": {
+      "name": "NL-Line_1 - T2"
+    }
+  },
+  {
+    "mrid": "6bdc33de-d027-49b7-b98f-3b3d87716615",
+    "id": "_6bdc33de-d027-49b7-b98f-3b3d87716615",
+    "class": "TopologicalNode",
+    "name": "N1230822413",
+    "attrs": {
+      "name": "N1230822413"
+    }
+  },
+  {
+    "mrid": "6dad1a97-6874-4206-a5a5-837e495325f8",
+    "id": "_6dad1a97-6874-4206-a5a5-837e495325f8",
+    "class": "Terminal",
+    "name": "NL-Load_2 - T1",
+    "attrs": {
+      "name": "NL-Load_2 - T1"
+    }
+  },
+  {
+    "mrid": "6ebbef67-3061-4236-a6fd-6ccc4595f6c3",
+    "id": "_6ebbef67-3061-4236-a6fd-6ccc4595f6c3",
+    "class": "PhaseTapChangerAsymmetrical",
+    "name": "BE-TR2_1",
+    "attrs": {
+      "name": "BE-TR2_1",
+      "lowStep": 1.0,
+      "highStep": 25.0,
+      "neutralStep": 13.0,
+      "step": 10.0
+    }
+  },
+  {
+    "mrid": "6f014d4c-c1b0-4eed-8d6d-bae3bc87afcf",
+    "id": "_6f014d4c-c1b0-4eed-8d6d-bae3bc87afcf",
+    "class": "EquivalentInjection",
+    "name": "BE-Inj-XWI_GY11",
+    "attrs": {
+      "name": "BE-Inj-XWI_GY11",
+      "description": "Eq_Injection",
+      "p": -90.037005,
+      "q": 148.603743
+    }
+  },
+  {
+    "mrid": "70d962fb-a492-4c36-8cad-b5c584df53bd",
+    "id": "_70d962fb-a492-4c36-8cad-b5c584df53bd",
+    "class": "Terminal",
+    "name": "BE-Line_1 - T2",
+    "attrs": {
+      "name": "BE-Line_1 - T2"
+    }
+  },
+  {
+    "mrid": "72242f07-189e-4a06-9f7e-f7a2776ecfd9",
+    "id": "_72242f07-189e-4a06-9f7e-f7a2776ecfd9",
+    "class": "Line",
+    "name": "container of NL-Line_1",
+    "attrs": {
+      "name": "container of NL-Line_1"
+    }
+  },
+  {
+    "mrid": "757d4f50-707b-47a0-891c-cbaefd649631",
+    "id": "_757d4f50-707b-47a0-891c-cbaefd649631",
+    "class": "Terminal",
+    "name": "NL-Line_5 - T1",
+    "attrs": {
+      "name": "NL-Line_5 - T1"
+    }
+  },
+  {
+    "mrid": "76e9ca77-f805-40ea-8120-5a6d58416d34",
+    "id": "_76e9ca77-f805-40ea-8120-5a6d58416d34",
+    "class": "Terminal",
+    "name": "BE-TR3_1 - T1",
+    "attrs": {
+      "name": "BE-TR3_1 - T1"
+    }
+  },
+  {
+    "mrid": "77f04391-aa23-49b6-b3e9-6089130bb5d5",
+    "id": "_77f04391-aa23-49b6-b3e9-6089130bb5d5",
+    "class": "Terminal",
+    "name": "BE-Line_2 - T2",
+    "attrs": {
+      "name": "BE-Line_2 - T2"
+    }
+  },
+  {
+    "mrid": "78736387-5f60-4832-b3fe-d50daf81b0a6",
+    "id": "_78736387-5f60-4832-b3fe-d50daf81b0a6",
+    "class": "ACLineSegment",
+    "name": "BE-Line_3",
+    "attrs": {
+      "name": "BE-Line_3",
+      "description": "10T-AT-DE-00008Y",
+      "r": 1.05,
+      "x": 12.0,
+      "length": 30.0
+    }
+  },
+  {
+    "mrid": "7891a026ba2c42098556665efd13ba94",
+    "id": "_7891a026ba2c42098556665efd13ba94",
+    "class": "BaseVoltage",
+    "name": "220 kV",
+    "attrs": {
+      "description": "Base Voltage 220 kV",
+      "name": "220 kV",
+      "nominalVoltage": 220.0
+    }
+  },
+  {
+    "mrid": "795a117d-7caf-4fc2-a8d9-dc8f4cf2344a",
+    "id": "_795a117d-7caf-4fc2-a8d9-dc8f4cf2344a",
+    "class": "TopologicalNode",
+    "name": "NL_Busbar__4",
+    "attrs": {
+      "name": "NL_Busbar__4",
+      "description": "NAMST_22: UCTE DEF code"
+    }
+  },
+  {
+    "mrid": "7e6dab445e92469892d1dcc3421cce1a",
+    "id": "_7e6dab445e92469892d1dcc3421cce1a",
+    "class": "GeographicalRegion",
+    "name": "EU",
+    "attrs": {
+      "description": "Economic and political union of member states located primarily in Europe",
+      "name": "EU"
+    }
+  },
+  {
+    "mrid": "7f43f508-2496-4b64-9146-0a40406cbe49",
+    "id": "_7f43f508-2496-4b64-9146-0a40406cbe49",
+    "class": "ACLineSegment",
+    "name": "NL-Line_1",
+    "attrs": {
+      "name": "NL-Line_1",
+      "description": "10T-AT-DE-000118",
+      "r": 1.02,
+      "x": 12.0,
+      "length": 30.0
+    }
+  },
+  {
+    "mrid": "80016742-31b3-432a-b00a-300667a1e572",
+    "id": "_80016742-31b3-432a-b00a-300667a1e572",
+    "class": "PowerTransformer",
+    "name": "NL_TR2_3",
+    "attrs": {
+      "name": "NL_TR2_3",
+      "description": "out of service in 2020"
+    }
+  },
+  {
+    "mrid": "800ada75-8c8c-4568-aec5-20f799e45f3c",
+    "id": "_800ada75-8c8c-4568-aec5-20f799e45f3c",
+    "class": "Terminal",
+    "name": "BE-Busbar_2_Busbar_Section",
+    "attrs": {
+      "name": "BE-Busbar_2_Busbar_Section",
+      "description": "Busbar Section"
+    }
+  },
+  {
+    "mrid": "8121d4c3-9cb2-47db-b40a-99678602bb2a",
+    "id": "_8121d4c3-9cb2-47db-b40a-99678602bb2a",
+    "class": "Terminal",
+    "name": "B1 - T1",
+    "attrs": {
+      "name": "B1 - T1"
+    }
+  },
+  {
+    "mrid": "81a18364-0397-48d3-b850-22a0e34b410f",
+    "id": "_81a18364-0397-48d3-b850-22a0e34b410f",
+    "class": "PowerTransformerEnd",
+    "name": "BE-TR2_2",
+    "attrs": {
+      "name": "BE-TR2_2",
+      "ratedS": 650.0,
+      "ratedU": 220.0,
+      "endNumber": 1.0
+    }
+  },
+  {
+    "mrid": "81b0e447-181e-4aec-8921-f1dd7813bebc",
+    "id": "_81b0e447-181e-4aec-8921-f1dd7813bebc",
+    "class": "TopologicalNode",
+    "name": "N1230992195",
+    "attrs": {
+      "name": "N1230992195",
+      "description": "NAMST_11; old UCTE Name"
+    }
+  },
+  {
+    "mrid": "820d95d7-26d4-4311-8b1f-026f8605b86d",
+    "id": "_820d95d7-26d4-4311-8b1f-026f8605b86d",
+    "class": "EquivalentInjection",
+    "name": "NL-Inj-XZE_ST24",
+    "attrs": {
+      "name": "NL-Inj-XZE_ST24",
+      "description": "Eq_Injection",
+      "p": 26.805006,
+      "q": -1.489867
+    }
+  },
+  {
+    "mrid": "83bea592-913e-4473-8d17-969968ff83a2",
+    "id": "_83bea592-913e-4473-8d17-969968ff83a2",
+    "class": "EquivalentInjection",
+    "name": "NL-Inj-XCA_AL11",
+    "attrs": {
+      "name": "NL-Inj-XCA_AL11",
+      "description": "Eq_Injection",
+      "p": 46.816625,
+      "q": -79.193778
+    }
+  },
+  {
+    "mrid": "83cc66dd-8d93-4a2c-8103-f1f5a9cf7e2e",
+    "id": "_83cc66dd-8d93-4a2c-8103-f1f5a9cf7e2e",
+    "class": "RatioTapChanger",
+    "name": "BE-TR2_3",
+    "attrs": {
+      "name": "BE-TR2_3",
+      "lowStep": 1.0,
+      "highStep": 33.0,
+      "neutralStep": 17.0,
+      "stepVoltageIncrement": 0.8,
+      "step": 14.0
+    }
+  },
+  {
+    "mrid": "84ed55f4-61f5-4d9d-8755-bba7b877a246",
+    "id": "_84ed55f4-61f5-4d9d-8755-bba7b877a246",
+    "class": "PowerTransformer",
+    "name": "BE-TR3_1",
+    "attrs": {
+      "name": "BE-TR3_1",
+      "description": "new in 2015"
+    }
+  },
+  {
+    "mrid": "862a4658-6b03-4550-9de2-b5c413912b75",
+    "id": "_862a4658-6b03-4550-9de2-b5c413912b75",
+    "class": "BaseVoltage",
+    "name": "10.50 kV",
+    "attrs": {
+      "nominalVoltage": 10.5,
+      "description": "Base Voltage Level",
+      "name": "10.50 kV"
+    }
+  },
+  {
+    "mrid": "87ea56f3-962a-427a-85d6-13b1f9295174",
+    "id": "_87ea56f3-962a-427a-85d6-13b1f9295174",
+    "class": "EquivalentInjection",
+    "name": "BE-Inj-XZE_ST23",
+    "attrs": {
+      "name": "BE-Inj-XZE_ST23",
+      "description": "Eq_Injection",
+      "p": -27.365225,
+      "q": 0.425626
+    }
+  },
+  {
+    "mrid": "87f7002b-056f-4a6a-a872-1744eea757e3",
+    "id": "_87f7002b-056f-4a6a-a872-1744eea757e3",
+    "class": "Substation",
+    "name": "Anvers",
+    "attrs": {
+      "name": "Anvers"
+    }
+  },
+  {
+    "mrid": "8FE2EC11-3357-4506-BF11-80302102B3F2",
+    "id": "_8FE2EC11-3357-4506-BF11-80302102B3F2",
+    "class": "Line",
+    "name": "TieLine_HVDC-NL",
+    "attrs": {
+      "name": "TieLine_HVDC-NL",
+      "description": "HVDC TieLine at NL"
+    }
+  },
+  {
+    "mrid": "8bbd7e74-ae20-4dce-8780-c20f8e18c2e0",
+    "id": "_8bbd7e74-ae20-4dce-8780-c20f8e18c2e0",
+    "class": "VoltageLevel",
+    "name": "110.0",
+    "attrs": {
+      "name": 110.0
+    }
+  },
+  {
+    "mrid": "8d7bad8bcc634e0796e362390d9040b6",
+    "id": "_8d7bad8bcc634e0796e362390d9040b6",
+    "class": "TopologicalNode",
+    "name": "TN_Border_ST23",
+    "attrs": {
+      "description": "RG CE; 220 kV; OHL",
+      "name": "TN_Border_ST23"
+    }
+  },
+  {
+    "mrid": "8d7bad8bcc634e0796e362390d9040b6_X",
+    "id": "_8d7bad8bcc634e0796e362390d9040b6_X",
+    "class": "Line",
+    "name": "TieLine_XZE_ST23",
+    "attrs": {
+      "name": "TieLine_XZE_ST23",
+      "description": "TieLine at XZE_ST23"
+    }
+  },
+  {
+    "mrid": "8d8a82ba-b5b0-4e94-861a-192af055f2b8",
+    "id": "_8d8a82ba-b5b0-4e94-861a-192af055f2b8",
+    "class": "VoltageLevel",
+    "name": "15.8",
+    "attrs": {
+      "name": 15.8
+    }
+  },
+  {
+    "mrid": "8da0ff82-2f23-4231-ac9b-28b9c9141432",
+    "id": "_8da0ff82-2f23-4231-ac9b-28b9c9141432",
+    "class": "BusbarSection",
+    "name": "N1230992411",
+    "attrs": {
+      "name": "N1230992411"
+    }
+  },
+  {
+    "mrid": "8f1c492f-a7cc-4160-9a14-54f1743e4850",
+    "id": "_8f1c492f-a7cc-4160-9a14-54f1743e4850",
+    "class": "Terminal",
+    "name": "N1230992288_Busbar_Section",
+    "attrs": {
+      "name": "N1230992288_Busbar_Section",
+      "description": "Busbar Section"
+    }
+  },
+  {
+    "mrid": "8f308117-8bbd-4798-b145-4e78f7d049e7",
+    "id": "_8f308117-8bbd-4798-b145-4e78f7d049e7",
+    "class": "Terminal",
+    "name": "NL-Line_2 - T2",
+    "attrs": {
+      "name": "NL-Line_2 - T2"
+    }
+  },
+  {
+    "mrid": "8fdc7abd-3746-481a-a65e-3df56acd8b13",
+    "id": "_8fdc7abd-3746-481a-a65e-3df56acd8b13",
+    "class": "ACLineSegment",
+    "name": "NL-Line_4",
+    "attrs": {
+      "name": "NL-Line_4",
+      "description": "10T-AT-DE-00009W",
+      "r": 2.2,
+      "x": 66.0,
+      "length": 22.0
+    }
+  },
+  {
+    "mrid": "929ba893-c9dc-44d7-b1fd-30834bd3ab85",
+    "id": "_929ba893-c9dc-44d7-b1fd-30834bd3ab85",
+    "class": "VoltageLevel",
+    "name": "21.0",
+    "attrs": {
+      "name": 21.0
+    }
+  },
+  {
+    "mrid": "955d9cd0-4a10-4031-b008-60c0dc340a07",
+    "id": "_955d9cd0-4a10-4031-b008-60c0dc340a07",
+    "class": "RatioTapChanger",
+    "name": "BE-TR2_2",
+    "attrs": {
+      "name": "BE-TR2_2",
+      "lowStep": 1.0,
+      "highStep": 25.0,
+      "neutralStep": 13.0,
+      "stepVoltageIncrement": 1.25,
+      "step": 10.0
+    }
+  },
+  {
+    "mrid": "97d7d14a-7294-458f-a8d7-024700a08717",
+    "id": "_97d7d14a-7294-458f-a8d7-024700a08717",
+    "class": "TopologicalNode",
+    "name": "NL_TR_BUS2",
+    "attrs": {
+      "name": "NL_TR_BUS2"
+    }
+  },
+  {
+    "mrid": "99b219f3-4593-428b-a4da-124a54630178",
+    "id": "_99b219f3-4593-428b-a4da-124a54630178",
+    "class": "TopologicalNode",
+    "name": "BE_TR_BUS4",
+    "attrs": {
+      "name": "BE_TR_BUS4"
+    }
+  },
+  {
+    "mrid": "9c3b8f97-7972-477d-9dc8-87365cc0ad0e",
+    "id": "_9c3b8f97-7972-477d-9dc8-87365cc0ad0e",
+    "class": "SynchronousMachine",
+    "name": "NL-G1",
+    "attrs": {
+      "name": "NL-G1",
+      "description": "Machine",
+      "p": -600.492701,
+      "q": -386.922556
+    }
+  },
+  {
+    "mrid": "9d25a1f9e5d14d47b6dcde99c4380b40",
+    "id": "_9d25a1f9e5d14d47b6dcde99c4380b40",
+    "class": "TopologicalNode",
+    "name": "TN_Border_MA11",
+    "attrs": {
+      "description": "RG CE; 400 kV; OHL (2)",
+      "name": "TN_Border_MA11"
+    }
+  },
+  {
+    "mrid": "9d25a1f9e5d14d47b6dcde99c4380b40_X",
+    "id": "_9d25a1f9e5d14d47b6dcde99c4380b40_X",
+    "class": "Line",
+    "name": "TieLine_XKA_MA11",
+    "attrs": {
+      "name": "TieLine_XKA_MA11",
+      "description": "TieLine at XKA_MA11"
+    }
+  },
+  {
+    "mrid": "a015f692-3fc5-4ec3-8d1d-977c7b499e7c",
+    "id": "_a015f692-3fc5-4ec3-8d1d-977c7b499e7c",
+    "class": "Terminal",
+    "name": "NL-S1 - T1",
+    "attrs": {
+      "name": "NL-S1 - T1"
+    }
+  },
+  {
+    "mrid": "a036b765-1669-4f64-acd3-1e8fbd513312",
+    "id": "_a036b765-1669-4f64-acd3-1e8fbd513312",
+    "class": "Terminal",
+    "name": "BE-Load_2 - T1",
+    "attrs": {
+      "name": "BE-Load_2 - T1"
+    }
+  },
+  {
+    "mrid": "a16b4a6c-70b1-4abf-9a9d-bd0fa47f9fe4",
+    "id": "_a16b4a6c-70b1-4abf-9a9d-bd0fa47f9fe4",
+    "class": "ACLineSegment",
+    "name": "BE-Line_7",
+    "attrs": {
+      "name": "BE-Line_7",
+      "description": "10T-AT-DE-000061",
+      "r": 4.6,
+      "x": 69.0,
+      "length": 23.0
+    }
+  },
+  {
+    "mrid": "a1b46f53-86f1-497e-bf57-c3b6268bcd6c",
+    "id": "_a1b46f53-86f1-497e-bf57-c3b6268bcd6c",
+    "class": "Terminal",
+    "name": "BE-Busbar_6_Busbar_Section",
+    "attrs": {
+      "name": "BE-Busbar_6_Busbar_Section",
+      "description": "Busbar Section"
+    }
+  },
+  {
+    "mrid": "a279a3dc-550b-426c-af3a-61b7be508dcc",
+    "id": "_a279a3dc-550b-426c-af3a-61b7be508dcc",
+    "class": "ACLineSegment",
+    "name": "NL-Line_3",
+    "attrs": {
+      "name": "NL-Line_3",
+      "description": "10T-AT-DE-00009W",
+      "r": 5.06,
+      "x": 69.0,
+      "length": 23.0
+    }
+  },
+  {
+    "mrid": "a4d42d33-ae54-4fe9-ad59-f30da0dfb809",
+    "id": "_a4d42d33-ae54-4fe9-ad59-f30da0dfb809",
+    "class": "Terminal",
+    "name": "BE-Line_6 - T2",
+    "attrs": {
+      "name": "BE-Line_6 - T2"
+    }
+  },
+  {
+    "mrid": "a708c3bc-465d-4fe7-b6ef-6fa6408a62b0",
+    "id": "_a708c3bc-465d-4fe7-b6ef-6fa6408a62b0",
+    "class": "PowerTransformer",
+    "name": "BE-TR2_1",
+    "attrs": {
+      "name": "BE-TR2_1",
+      "description": "T1 that is after maintenance"
+    }
+  },
+  {
+    "mrid": "a81d08ed-f51d-4538-8d1e-fb2d0dbd128e",
+    "id": "_a81d08ed-f51d-4538-8d1e-fb2d0dbd128e",
+    "class": "TopologicalNode",
+    "name": "BE-Busbar_4",
+    "attrs": {
+      "name": "BE-Busbar_4",
+      "description": "BGENT_71; This is the old UCTE code from UCTE DEF"
+    }
+  },
+  {
+    "mrid": "a8aa134c-be99-4e28-8e51-2d01a3b3e078",
+    "id": "_a8aa134c-be99-4e28-8e51-2d01a3b3e078",
+    "class": "Line",
+    "name": "container of BE-Line_7",
+    "attrs": {
+      "name": "container of BE-Line_7"
+    }
+  },
+  {
+    "mrid": "ab7ece75-d726-48c8-a924-b0a9325e6d51",
+    "id": "_ab7ece75-d726-48c8-a924-b0a9325e6d51",
+    "class": "Terminal",
+    "name": "BE-TR2_2 - T2",
+    "attrs": {
+      "name": "BE-TR2_2 - T2"
+    }
+  },
+  {
+    "mrid": "ad794c0e-b9ec-420b-ada1-97680e3dde05",
+    "id": "_ad794c0e-b9ec-420b-ada1-97680e3dde05",
+    "class": "Terminal",
+    "name": "N1230992414_Busbar_Section",
+    "attrs": {
+      "name": "N1230992414_Busbar_Section",
+      "description": "Busbar Section"
+    }
+  },
+  {
+    "mrid": "ae4b7cbe-349a-41c8-ace2-25ec26f14a64",
+    "id": "_ae4b7cbe-349a-41c8-ace2-25ec26f14a64",
+    "class": "Terminal",
+    "name": "NL-G2 - T1",
+    "attrs": {
+      "name": "NL-G2 - T1"
+    }
+  },
+  {
+    "mrid": "ae588863-b154-451d-978a-7ab08ac50fb6",
+    "id": "_ae588863-b154-451d-978a-7ab08ac50fb6",
+    "class": "Terminal",
+    "name": "NL-Line_5 - T2",
+    "attrs": {
+      "name": "NL-Line_5 - T2"
+    }
+  },
+  {
+    "mrid": "afddd60d-f7e6-419a-a5c2-be28d29beaf9",
+    "id": "_afddd60d-f7e6-419a-a5c2-be28d29beaf9",
+    "class": "TopologicalNode",
+    "name": "NL-Busbar_2",
+    "attrs": {
+      "name": "NL-Busbar_2",
+      "description": "NAMST_21; this is the old code"
+    }
+  },
+  {
+    "mrid": "b0442899-8dbe-48c1-a1fa-adb2a5929273",
+    "id": "_b0442899-8dbe-48c1-a1fa-adb2a5929273",
+    "class": "EquivalentInjection",
+    "name": "NL-Inj-XWI_GY11",
+    "attrs": {
+      "name": "NL-Inj-XWI_GY11",
+      "description": "Eq_Injection",
+      "p": 90.037005,
+      "q": -148.603743
+    }
+  },
+  {
+    "mrid": "b10b171b-3bc5-4849-bb1f-61ed9ea1ec7c",
+    "id": "_b10b171b-3bc5-4849-bb1f-61ed9ea1ec7c",
+    "class": "VoltageLevel",
+    "name": "225.0",
+    "attrs": {
+      "name": 225.0
+    }
+  },
+  {
+    "mrid": "b1480a00-b427-4001-a26c-51954d2bb7e9",
+    "id": "_b1480a00-b427-4001-a26c-51954d2bb7e9",
+    "class": "EnergyConsumer",
+    "name": "L-1230804819",
+    "attrs": {
+      "name": "L-1230804819",
+      "description": "Eq_Injection",
+      "p": 1.0,
+      "q": 0.0
+    }
+  },
+  {
+    "mrid": "b18cd1aa-7808-49b9-a7cf-605eaf07b006",
+    "id": "_b18cd1aa-7808-49b9-a7cf-605eaf07b006",
+    "class": "ACLineSegment",
+    "name": "BE-Line_5",
+    "attrs": {
+      "name": "BE-Line_5",
+      "description": "10T-AT-DE-00009W",
+      "r": 0.42,
+      "x": 6.3,
+      "length": 35.0
+    }
+  },
+  {
+    "mrid": "b1e03a8f-6a11-4454-af58-4a4a680e857f",
+    "id": "_b1e03a8f-6a11-4454-af58-4a4a680e857f",
+    "class": "EnergyConsumer",
+    "name": "NL-Load_3",
+    "attrs": {
+      "name": "NL-Load_3",
+      "description": "Siemens",
+      "p": 486.0,
+      "q": 230.0
+    }
+  },
+  {
+    "mrid": "b58bf21a-096a-4dae-9a01-3f03b60c24c7",
+    "id": "_b58bf21a-096a-4dae-9a01-3f03b60c24c7",
+    "class": "ACLineSegment",
+    "name": "BE-Line_2",
+    "attrs": {
+      "name": "BE-Line_2",
+      "description": "10T-AT-DE-00010A",
+      "r": 1.935,
+      "x": 34.2,
+      "length": 45.0
+    }
+  },
+  {
+    "mrid": "b5d6ed2b-c961-4521-8aef-b943d7dc6c15",
+    "id": "_b5d6ed2b-c961-4521-8aef-b943d7dc6c15",
+    "class": "Line",
+    "name": "container of BE-Line_2",
+    "attrs": {
+      "name": "container of BE-Line_2"
+    }
+  },
+  {
+    "mrid": "b66f15c0-cb6e-11e1-bcee-406c8f32ef58",
+    "id": "_b66f15c0-cb6e-11e1-bcee-406c8f32ef58",
+    "class": "ConnectivityNode",
+    "name": "Border_ST23",
+    "attrs": {
+      "description": "RG CE; 220 kV; OHL",
+      "name": "Border_ST23"
+    }
+  },
+  {
+    "mrid": "b675a570-cb6e-11e1-bcee-406c8f32ef58",
+    "id": "_b675a570-cb6e-11e1-bcee-406c8f32ef58",
+    "class": "ConnectivityNode",
+    "name": "Border_AL11",
+    "attrs": {
+      "description": "RG CE; 400 kV; OHL (2)",
+      "name": "Border_AL11"
+    }
+  },
+  {
+    "mrid": "b67c8340-cb6e-11e1-bcee-406c8f32ef58",
+    "id": "_b67c8340-cb6e-11e1-bcee-406c8f32ef58",
+    "class": "ConnectivityNode",
+    "name": "Border_GY11",
+    "attrs": {
+      "description": "RG CE; 400 kV; OHL",
+      "name": "Border_GY11"
+    }
+  },
+  {
+    "mrid": "b67cf870-cb6e-11e1-bcee-406c8f32ef58",
+    "id": "_b67cf870-cb6e-11e1-bcee-406c8f32ef58",
+    "class": "ConnectivityNode",
+    "name": "Border_MA11",
+    "attrs": {
+      "description": "RG CE; 400 kV; OHL (2)",
+      "name": "Border_MA11"
+    }
+  },
+  {
+    "mrid": "b6978550-cb6e-11e1-bcee-406c8f32ef58",
+    "id": "_b6978550-cb6e-11e1-bcee-406c8f32ef58",
+    "class": "ConnectivityNode",
+    "name": "Border_ST24",
+    "attrs": {
+      "description": "RG CE; 220 kV; OHL",
+      "name": "Border_ST24"
+    }
+  },
+  {
+    "mrid": "b850063d-eae7-4675-bc98-4642d3076783",
+    "id": "_b850063d-eae7-4675-bc98-4642d3076783",
+    "class": "GeneratingUnit",
+    "name": "Gen-12908",
+    "attrs": {
+      "name": "Gen-12908",
+      "description": "Machine",
+      "initialP": 150.0,
+      "nominalP": 225.0,
+      "maxOperatingP": 250.0,
+      "minOperatingP": 130.0
+    }
+  },
+  {
+    "mrid": "b9376bea-c55d-40f3-93ca-6a81fa1186a0",
+    "id": "_b9376bea-c55d-40f3-93ca-6a81fa1186a0",
+    "class": "Terminal",
+    "name": "",
+    "attrs": {}
+  },
+  {
+    "mrid": "b9376bea-c75d-49f3-94ca-6a71fa0086a5",
+    "id": "_b9376bea-c75d-49f3-94ca-6a71fa0086a5",
+    "class": "Terminal",
+    "name": "L-1230804819 - T1",
+    "attrs": {
+      "name": "L-1230804819 - T1"
+    }
+  },
+  {
+    "mrid": "b94318f6-6d24-4f56-96b9-df2531ad6543",
+    "id": "_b94318f6-6d24-4f56-96b9-df2531ad6543",
+    "class": "PowerTransformer",
+    "name": "BE-TR2_2",
+    "attrs": {
+      "name": "BE-TR2_2",
+      "description": "This is T2 in the center"
+    }
+  },
+  {
+    "mrid": "b9539c41-d114-4280-8a54-8ecec398091e",
+    "id": "_b9539c41-d114-4280-8a54-8ecec398091e",
+    "class": "Terminal",
+    "name": "BE-Inj-XWI_GY11 - T1",
+    "attrs": {
+      "name": "BE-Inj-XWI_GY11 - T1"
+    }
+  },
+  {
+    "mrid": "baa7aef1-afcd-4981-97c0-ccec7b5ad4e0",
+    "id": "_baa7aef1-afcd-4981-97c0-ccec7b5ad4e0",
+    "class": "Terminal",
+    "name": "NL-TR2_1 - T2",
+    "attrs": {
+      "name": "NL-TR2_1 - T2"
+    }
+  },
+  {
+    "mrid": "bd61b1f9-474d-424e-9709-42f75337c477",
+    "id": "_bd61b1f9-474d-424e-9709-42f75337c477",
+    "class": "Terminal",
+    "name": "NL_TR2_3 - T1",
+    "attrs": {
+      "name": "NL_TR2_3 - T1"
+    }
+  },
+  {
+    "mrid": "beffa353-7d10-421d-9c08-036b744b1cee",
+    "id": "_beffa353-7d10-421d-9c08-036b744b1cee",
+    "class": "Terminal",
+    "name": "BE-G1 - T1",
+    "attrs": {
+      "name": "BE-G1 - T1"
+    }
+  },
+  {
+    "mrid": "c14d2036-72ec-4df3-b1b7-75d8afd9a1fe",
+    "id": "_c14d2036-72ec-4df3-b1b7-75d8afd9a1fe",
+    "class": "Terminal",
+    "name": "BE-Line_4 - T1",
+    "attrs": {
+      "name": "BE-Line_4 - T1"
+    }
+  },
+  {
+    "mrid": "c1d5bfc68f8011e08e4d00247eb1f55e",
+    "id": "_c1d5bfc68f8011e08e4d00247eb1f55e",
+    "class": "GeographicalRegion",
+    "name": "BE",
+    "attrs": {
+      "name": "BE"
+    }
+  },
+  {
+    "mrid": "c1d5bfc88f8011e08e4d00247eb1f55e",
+    "id": "_c1d5bfc88f8011e08e4d00247eb1f55e",
+    "class": "SubGeographicalRegion",
+    "name": "ELIA-Brussels",
+    "attrs": {
+      "name": "ELIA-Brussels"
+    }
+  },
+  {
+    "mrid": "c1d5bfde8f8011e08e4d00247eb1f55e",
+    "id": "_c1d5bfde8f8011e08e4d00247eb1f55e",
+    "class": "VoltageLevel",
+    "name": "400.0",
+    "attrs": {
+      "name": 400.0
+    }
+  },
+  {
+    "mrid": "c1d5bfe28f8011e08e4d00247eb1f55e",
+    "id": "_c1d5bfe28f8011e08e4d00247eb1f55e",
+    "class": "GeographicalRegion",
+    "name": "NL",
+    "attrs": {
+      "name": "NL"
+    }
+  },
+  {
+    "mrid": "c1d5bfe48f8011e08e4d00247eb1f55e",
+    "id": "_c1d5bfe48f8011e08e4d00247eb1f55e",
+    "class": "SubGeographicalRegion",
+    "name": "TENNET TSO B.V.",
+    "attrs": {
+      "name": "TENNET TSO B.V."
+    }
+  },
+  {
+    "mrid": "c1d5bfea8f8011e08e4d00247eb1f55e",
+    "id": "_c1d5bfea8f8011e08e4d00247eb1f55e",
+    "class": "VoltageLevel",
+    "name": "220.0",
+    "attrs": {
+      "name": 220.0
+    }
+  },
+  {
+    "mrid": "c1d5bff18f8011e08e4d00247eb1f55e",
+    "id": "_c1d5bff18f8011e08e4d00247eb1f55e",
+    "class": "BaseVoltage",
+    "name": "15.75 kV",
+    "attrs": {
+      "nominalVoltage": 15.75,
+      "description": "Base Voltage Level",
+      "name": "15.75 kV"
+    }
+  },
+  {
+    "mrid": "c1d5c0378f8011e08e4d00247eb1f55e",
+    "id": "_c1d5c0378f8011e08e4d00247eb1f55e",
+    "class": "SubGeographicalRegion",
+    "name": "ELIA-Anvers",
+    "attrs": {
+      "name": "ELIA-Anvers"
+    }
+  },
+  {
+    "mrid": "c1d5c1448f8011e08e4d00247eb1f55e",
+    "id": "_c1d5c1448f8011e08e4d00247eb1f55e",
+    "class": "PowerTransformerEnd",
+    "name": "NL-TR2_1",
+    "attrs": {
+      "name": "NL-TR2_1",
+      "ratedS": 320.0,
+      "ratedU": 400.0,
+      "endNumber": 1.0
+    }
+  },
+  {
+    "mrid": "c1d5c14b8f8011e08e4d00247eb1f55e",
+    "id": "_c1d5c14b8f8011e08e4d00247eb1f55e",
+    "class": "RatioTapChanger",
+    "name": "NL-TR2_1",
+    "attrs": {
+      "name": "NL-TR2_1",
+      "lowStep": -20.0,
+      "highStep": 20.0,
+      "neutralStep": 0.0,
+      "stepVoltageIncrement": 0.8,
+      "step": -2.0
+    }
+  },
+  {
+    "mrid": "c1d5c14d8f8011e08e4d00247eb1f55e",
+    "id": "_c1d5c14d8f8011e08e4d00247eb1f55e",
+    "class": "PowerTransformerEnd",
+    "name": "NL-TR2_1",
+    "attrs": {
+      "name": "NL-TR2_1",
+      "ratedS": 320.0,
+      "ratedU": 220.0,
+      "endNumber": 2.0
+    }
+  },
+  {
+    "mrid": "c1d5c1518f8011e08e4d00247eb1f55e",
+    "id": "_c1d5c1518f8011e08e4d00247eb1f55e",
+    "class": "PowerTransformerEnd",
+    "name": "NL_TR2_2",
+    "attrs": {
+      "name": "NL_TR2_2",
+      "ratedS": 1260.0,
+      "ratedU": 220.0,
+      "endNumber": 1.0
+    }
+  },
+  {
+    "mrid": "c1d5c1588f8011e08e4d00247eb1f55e",
+    "id": "_c1d5c1588f8011e08e4d00247eb1f55e",
+    "class": "RatioTapChanger",
+    "name": "NL_TR2_2",
+    "attrs": {
+      "name": "NL_TR2_2",
+      "lowStep": 0.0,
+      "highStep": 33.0,
+      "neutralStep": 17.0,
+      "stepVoltageIncrement": 0.625,
+      "step": 17.0
+    }
+  },
+  {
+    "mrid": "c1d5c15a8f8011e08e4d00247eb1f55e",
+    "id": "_c1d5c15a8f8011e08e4d00247eb1f55e",
+    "class": "PowerTransformerEnd",
+    "name": "NL_TR2_2",
+    "attrs": {
+      "name": "NL_TR2_2",
+      "ratedS": 1260.0,
+      "ratedU": 15.75,
+      "endNumber": 2.0
+    }
+  },
+  {
+    "mrid": "c1d5c15e8f8011e08e4d00247eb1f55e",
+    "id": "_c1d5c15e8f8011e08e4d00247eb1f55e",
+    "class": "PowerTransformerEnd",
+    "name": "NL_TR2_3",
+    "attrs": {
+      "name": "NL_TR2_3",
+      "ratedS": 1260.0,
+      "ratedU": 220.0,
+      "endNumber": 1.0
+    }
+  },
+  {
+    "mrid": "c1d5c1658f8011e08e4d00247eb1f55e",
+    "id": "_c1d5c1658f8011e08e4d00247eb1f55e",
+    "class": "RatioTapChanger",
+    "name": "NL_TR2_3",
+    "attrs": {
+      "name": "NL_TR2_3",
+      "lowStep": -15.0,
+      "highStep": 15.0,
+      "neutralStep": 0.0,
+      "stepVoltageIncrement": 0.625,
+      "step": 5.0
+    }
+  },
+  {
+    "mrid": "c1d5c1678f8011e08e4d00247eb1f55e",
+    "id": "_c1d5c1678f8011e08e4d00247eb1f55e",
+    "class": "PowerTransformerEnd",
+    "name": "NL_TR2_3",
+    "attrs": {
+      "name": "NL_TR2_3",
+      "ratedS": 1260.0,
+      "ratedU": 15.75,
+      "endNumber": 2.0
+    }
+  },
+  {
+    "mrid": "c3774d3f-f48c-4954-a0cf-b4572eb714fd",
+    "id": "_c3774d3f-f48c-4954-a0cf-b4572eb714fd",
+    "class": "Terminal",
+    "name": "BE-TR2_1 - T1",
+    "attrs": {
+      "name": "BE-TR2_1 - T1"
+    }
+  },
+  {
+    "mrid": "c41978db-794b-4bae-953e-60fc519e87dd",
+    "id": "_c41978db-794b-4bae-953e-60fc519e87dd",
+    "class": "Terminal",
+    "name": "BE-Inj-XKA_MA11 - T1",
+    "attrs": {
+      "name": "BE-Inj-XKA_MA11 - T1"
+    }
+  },
+  {
+    "mrid": "c49942d6-8b01-4b01-b5e8-f1180f84906c",
+    "id": "_c49942d6-8b01-4b01-b5e8-f1180f84906c",
+    "class": "Substation",
+    "name": "PP_Amsterdam",
+    "attrs": {
+      "name": "PP_Amsterdam"
+    }
+  },
+  {
+    "mrid": "c557146e-dfc4-4020-9738-d592b188338b",
+    "id": "_c557146e-dfc4-4020-9738-d592b188338b",
+    "class": "Terminal",
+    "name": "NL-Line_2 - T1",
+    "attrs": {
+      "name": "NL-Line_2 - T1"
+    }
+  },
+  {
+    "mrid": "c7d37bc3-196c-4458-896b-614f810cea0f",
+    "id": "_c7d37bc3-196c-4458-896b-614f810cea0f",
+    "class": "Line",
+    "name": "container of NL-Line_5",
+    "attrs": {
+      "name": "container of NL-Line_5"
+    }
+  },
+  {
+    "mrid": "c8ce5e08-5ee3-42d9-aa44-5792db252d9f",
+    "id": "_c8ce5e08-5ee3-42d9-aa44-5792db252d9f",
+    "class": "BusbarSection",
+    "name": "N1230992291",
+    "attrs": {
+      "name": "N1230992291"
+    }
+  },
+  {
+    "mrid": "ca0f7e2e-3442-4ada-a704-91f319c0ebe3",
+    "id": "_ca0f7e2e-3442-4ada-a704-91f319c0ebe3",
+    "class": "Terminal",
+    "name": "BE-TR3_1 - T3",
+    "attrs": {
+      "name": "BE-TR3_1 - T3"
+    }
+  },
+  {
+    "mrid": "ca7974cf-b25e-4898-9221-7154233e5eb2",
+    "id": "_ca7974cf-b25e-4898-9221-7154233e5eb2",
+    "class": "Terminal",
+    "name": "BE-TR2_3 - T1",
+    "attrs": {
+      "name": "BE-TR2_3 - T1"
+    }
+  },
+  {
+    "mrid": "ca80ee09-3bed-4884-bc28-6dc89d067289",
+    "id": "_ca80ee09-3bed-4884-bc28-6dc89d067289",
+    "class": "GeneratingUnit",
+    "name": "Gen-12910",
+    "attrs": {
+      "name": "Gen-12910",
+      "description": "Machine",
+      "initialP": 140.0,
+      "nominalP": 225.0,
+      "maxOperatingP": 250.0,
+      "minOperatingP": 130.0
+    }
+  },
+  {
+    "mrid": "cab82e1c-1435-447b-bba0-74b592539eac",
+    "id": "_cab82e1c-1435-447b-bba0-74b592539eac",
+    "class": "EquivalentInjection",
+    "name": "NL-Inj-XKA_MA11",
+    "attrs": {
+      "name": "NL-Inj-XKA_MA11",
+      "description": "Eq_Injection",
+      "p": 43.687227,
+      "q": -84.876604
+    }
+  },
+  {
+    "mrid": "cb459405-cc14-4215-a45c-416789205904",
+    "id": "_cb459405-cc14-4215-a45c-416789205904",
+    "class": "EnergyConsumer",
+    "name": "BE-Load_1",
+    "attrs": {
+      "name": "BE-Load_1",
+      "description": "Electrabel",
+      "p": 200.0,
+      "q": 90.0
+    }
+  },
+  {
+    "mrid": "cbdf1842-74ed-4fce-a5d4-0296c82cbc92",
+    "id": "_cbdf1842-74ed-4fce-a5d4-0296c82cbc92",
+    "class": "Terminal",
+    "name": "BE-Load_1 - T1",
+    "attrs": {
+      "name": "BE-Load_1 - T1"
+    }
+  },
+  {
+    "mrid": "cc4b99a5-e20d-407c-9d8e-a682b9723613",
+    "id": "_cc4b99a5-e20d-407c-9d8e-a682b9723613",
+    "class": "Line",
+    "name": "container of BE-Line_6",
+    "attrs": {
+      "name": "container of BE-Line_6"
+    }
+  },
+  {
+    "mrid": "d0486169-2205-40b2-895e-b672ecb9e5fc",
+    "id": "_d0486169-2205-40b2-895e-b672ecb9e5fc",
+    "class": "VoltageLevel",
+    "name": "220.0",
+    "attrs": {
+      "name": 220.0
+    }
+  },
+  {
+    "mrid": "d238885e-d9b6-4edc-8567-6a68c605ed67",
+    "id": "_d238885e-d9b6-4edc-8567-6a68c605ed67",
+    "class": "Terminal",
+    "name": "BE-Inj-XZE_ST23 - T1",
+    "attrs": {
+      "name": "BE-Inj-XZE_ST23 - T1"
+    }
+  },
+  {
+    "mrid": "d4affe50316740bdbbf4ae9c7cbf3cfd",
+    "id": "_d4affe50316740bdbbf4ae9c7cbf3cfd",
+    "class": "TopologicalNode",
+    "name": "TN_Border_AL11",
+    "attrs": {
+      "description": "RG CE; 400 kV; OHL (2)",
+      "name": "TN_Border_AL11"
+    }
+  },
+  {
+    "mrid": "d4affe50316740bdbbf4ae9c7cbf3cfd_X",
+    "id": "_d4affe50316740bdbbf4ae9c7cbf3cfd_X",
+    "class": "Line",
+    "name": "TieLine_XCA_AL11",
+    "attrs": {
+      "name": "TieLine_XCA_AL11",
+      "description": "TieLine at XCA_AL11"
+    }
+  },
+  {
+    "mrid": "d5e2e58e-ccf6-47d9-b3bb-3088eb7a9b6c",
+    "id": "_d5e2e58e-ccf6-47d9-b3bb-3088eb7a9b6c",
+    "class": "Terminal",
+    "name": "BE_S1 - T1",
+    "attrs": {
+      "name": "BE_S1 - T1"
+    }
+  },
+  {
+    "mrid": "d6986ea6-fadc-4113-806a-a8f95f62c216",
+    "id": "_d6986ea6-fadc-4113-806a-a8f95f62c216",
+    "class": "BusbarSection",
+    "name": "N1230992414",
+    "attrs": {
+      "name": "N1230992414"
+    }
+  },
+  {
+    "mrid": "d771118f-36e9-4115-a128-cc3d9ce3e3da",
+    "id": "_d771118f-36e9-4115-a128-cc3d9ce3e3da",
+    "class": "LinearShuntCompensator",
+    "name": "BE_S1",
+    "attrs": {
+      "name": "BE_S1",
+      "description": "shunt with 4 sections",
+      "bPerSection": 0.024793,
+      "nomU": 110.0,
+      "sections": 1.0
+    }
+  },
+  {
+    "mrid": "d81ceddefca04ab8960433e4a8839325",
+    "id": "_d81ceddefca04ab8960433e4a8839325",
+    "class": "SubGeographicalRegion",
+    "name": "ENTSO-E",
+    "attrs": {
+      "name": "ENTSO-E",
+      "description": "ENTSO-E region"
+    }
+  },
+  {
+    "mrid": "da232169-1c36-495a-8af6-a0d7d2b39f52",
+    "id": "_da232169-1c36-495a-8af6-a0d7d2b39f52",
+    "class": "Terminal",
+    "name": "NL_TR2_2 - T2",
+    "attrs": {
+      "name": "NL_TR2_2 - T2"
+    }
+  },
+  {
+    "mrid": "dad02278-bd25-476f-8f58-dbe44be72586",
+    "id": "_dad02278-bd25-476f-8f58-dbe44be72586",
+    "class": "ACLineSegment",
+    "name": "NL-Line_2",
+    "attrs": {
+      "name": "NL-Line_2",
+      "description": "tie line BE-NL",
+      "r": 2.32,
+      "x": 20.24,
+      "length": 40.0
+    }
+  },
+  {
+    "mrid": "e1f661c0-971d-4ce5-ad39-0ec427f288ab",
+    "id": "_e1f661c0-971d-4ce5-ad39-0ec427f288ab",
+    "class": "PowerTransformerEnd",
+    "name": "BE-TR3_1",
+    "attrs": {
+      "name": "BE-TR3_1",
+      "ratedS": 650.0,
+      "ratedU": 220.0,
+      "endNumber": 2.0
+    }
+  },
+  {
+    "mrid": "e3e0c496-5837-4f0f-a596-cc421940f73f",
+    "id": "_e3e0c496-5837-4f0f-a596-cc421940f73f",
+    "class": "Terminal",
+    "name": "NL-TR2_1 - T1",
+    "attrs": {
+      "name": "NL-TR2_1 - T1"
+    }
+  },
+  {
+    "mrid": "e44141af-f1dc-44d3-bfa4-b674e5c953d7",
+    "id": "_e44141af-f1dc-44d3-bfa4-b674e5c953d7",
+    "class": "TopologicalNode",
+    "name": "BE_TR_BUS2",
+    "attrs": {
+      "name": "BE_TR_BUS2"
+    }
+  },
+  {
+    "mrid": "e482b89a-fa84-4ea9-8e70-a83d44790957",
+    "id": "_e482b89a-fa84-4ea9-8e70-a83d44790957",
+    "class": "PowerTransformer",
+    "name": "BE-TR2_3",
+    "attrs": {
+      "name": "BE-TR2_3",
+      "description": "This is free description"
+    }
+  },
+  {
+    "mrid": "e6d49e32-b634-4b86-a8ca-15159f1497b5",
+    "id": "_e6d49e32-b634-4b86-a8ca-15159f1497b5",
+    "class": "BusbarSection",
+    "name": "NL-Busbar_5",
+    "attrs": {
+      "name": "NL-Busbar_5"
+    }
+  },
+  {
+    "mrid": "e8a7eaec-51d6-4571-b3d9-c36d52073c33",
+    "id": "_e8a7eaec-51d6-4571-b3d9-c36d52073c33",
+    "class": "PowerTransformer",
+    "name": "NL-TR2_1",
+    "attrs": {
+      "name": "NL-TR2_1",
+      "description": "new transformer in 2015"
+    }
+  },
+  {
+    "mrid": "e8acf6b6-99cb-45ad-b8dc-16c7866a4ddc",
+    "id": "_e8acf6b6-99cb-45ad-b8dc-16c7866a4ddc",
+    "class": "ACLineSegment",
+    "name": "NL-Line_5",
+    "attrs": {
+      "name": "NL-Line_5",
+      "description": "10T-AT-DE-000118",
+      "r": 0.42,
+      "x": 6.3,
+      "length": 35.0
+    }
+  },
+  {
+    "mrid": "ecea10ff-e006-436b-a86a-beac4c2a30c1",
+    "id": "_ecea10ff-e006-436b-a86a-beac4c2a30c1",
+    "class": "Terminal",
+    "name": "N1230822396_Busbar_Section",
+    "attrs": {
+      "name": "N1230822396_Busbar_Section",
+      "description": "Busbar Section"
+    }
+  },
+  {
+    "mrid": "ed0c5d75-4a54-43c8-b782-b20d7431630b",
+    "id": "_ed0c5d75-4a54-43c8-b782-b20d7431630b",
+    "class": "ACLineSegment",
+    "name": "BE-Line_4",
+    "attrs": {
+      "name": "BE-Line_4",
+      "description": "to be connected to the boundary set",
+      "r": 0.24,
+      "x": 2.0,
+      "length": 40.0
+    }
+  },
+  {
+    "mrid": "ef45b632-3028-4afe-bc4c-a4fa323d83fe",
+    "id": "_ef45b632-3028-4afe-bc4c-a4fa323d83fe",
+    "class": "BusbarSection",
+    "name": "BE-Busbar_2",
+    "attrs": {
+      "name": "BE-Busbar_2"
+    }
+  },
+  {
+    "mrid": "f03d65b2a51049ffa533e433721145c1",
+    "id": "_f03d65b2a51049ffa533e433721145c1",
+    "class": "TopologicalNode",
+    "name": "TN_Border_GY11",
+    "attrs": {
+      "description": "RG CE; 400 kV; OHL",
+      "name": "TN_Border_GY11"
+    }
+  },
+  {
+    "mrid": "f03d65b2a51049ffa533e433721145c1_X",
+    "id": "_f03d65b2a51049ffa533e433721145c1_X",
+    "class": "Line",
+    "name": "TieLine_XWI_GY11",
+    "attrs": {
+      "name": "TieLine_XWI_GY11",
+      "description": "TieLine at XWI_GY11"
+    }
+  },
+  {
+    "mrid": "f04af3a9-24e3-46dd-91c0-97fea3ecc6a7",
+    "id": "_f04af3a9-24e3-46dd-91c0-97fea3ecc6a7",
+    "class": "Line",
+    "name": "container of BE-Line_4",
+    "attrs": {
+      "name": "container of BE-Line_4"
+    }
+  },
+  {
+    "mrid": "f04ecab5-1a12-4cc0-ba56-b157ebf11a42",
+    "id": "_f04ecab5-1a12-4cc0-ba56-b157ebf11a42",
+    "class": "Terminal",
+    "name": "NL-G3 - T1",
+    "attrs": {
+      "name": "NL-G3 - T1"
+    }
+  },
+  {
+    "mrid": "f3b56334-4638-49d3-a6a0-3f417422b8f5",
+    "id": "_f3b56334-4638-49d3-a6a0-3f417422b8f5",
+    "class": "Terminal",
+    "name": "BE-Line_3 - T2",
+    "attrs": {
+      "name": "BE-Line_3 - T2"
+    }
+  },
+  {
+    "mrid": "f461fd2d-1e41-4a3e-8213-7cc33c77a089",
+    "id": "_f461fd2d-1e41-4a3e-8213-7cc33c77a089",
+    "class": "Terminal",
+    "name": "NL-Load_1 - T1",
+    "attrs": {
+      "name": "NL-Load_1 - T1"
+    }
+  },
+  {
+    "mrid": "f48d48c7-e9f6-460c-898f-cc68a96efdeb",
+    "id": "_f48d48c7-e9f6-460c-898f-cc68a96efdeb",
+    "class": "Terminal",
+    "name": "NL-Inj-XWI_GY11 - T1",
+    "attrs": {
+      "name": "NL-Inj-XWI_GY11 - T1"
+    }
+  },
+  {
+    "mrid": "f524d9fc-48be-4feb-9e77-a15696d4210a",
+    "id": "_f524d9fc-48be-4feb-9e77-a15696d4210a",
+    "class": "Line",
+    "name": "container of NL-Line_4",
+    "attrs": {
+      "name": "container of NL-Line_4"
+    }
+  },
+  {
+    "mrid": "f58281c5-862a-465e-97ec-d809be6e24ab",
+    "id": "_f58281c5-862a-465e-97ec-d809be6e24ab",
+    "class": "PowerTransformerEnd",
+    "name": "BE-TR2_3",
+    "attrs": {
+      "name": "BE-TR2_3",
+      "ratedS": 250.0,
+      "ratedU": 110.34375,
+      "endNumber": 1.0
+    }
+  },
+  {
+    "mrid": "f70f6bad-eb8d-4b8f-8431-4ab93581514e",
+    "id": "_f70f6bad-eb8d-4b8f-8431-4ab93581514e",
+    "class": "TopologicalNode",
+    "name": "BE-Busbar_2",
+    "attrs": {
+      "name": "BE-Busbar_2",
+      "description": "BBRUS_21; this is UCTE code"
+    }
+  },
+  {
+    "mrid": "f7f61a91-eca2-4492-8bd7-9ec2b28fc837",
+    "id": "_f7f61a91-eca2-4492-8bd7-9ec2b28fc837",
+    "class": "EquivalentInjection",
+    "name": "BE-Inj-XZE_ST24",
+    "attrs": {
+      "name": "BE-Inj-XZE_ST24",
+      "description": "Eq_Injection",
+      "p": -26.805006,
+      "q": 1.489867
+    }
+  },
+  {
+    "mrid": "f96d552a-618d-4d0c-a39a-2dea3c411dee",
+    "id": "_f96d552a-618d-4d0c-a39a-2dea3c411dee",
+    "class": "TopologicalNode",
+    "name": "BE-Busbar_5",
+    "attrs": {
+      "name": "BE-Busbar_5",
+      "description": "BGENT_72; this is old code"
+    }
+  },
+  {
+    "mrid": "f970233f-b573-49d9-9fc3-3a2a59ed3bbb",
+    "id": "_f970233f-b573-49d9-9fc3-3a2a59ed3bbb",
+    "class": "Terminal",
+    "name": "NL-Inj-XKA_MA11 - T1",
+    "attrs": {
+      "name": "NL-Inj-XKA_MA11 - T1"
+    }
+  },
+  {
+    "mrid": "f9f29835-8a31-4310-9780-b1ad26f3cbb0",
+    "id": "_f9f29835-8a31-4310-9780-b1ad26f3cbb0",
+    "class": "Terminal",
+    "name": "BE-Line_4 - T2",
+    "attrs": {
+      "name": "BE-Line_4 - T2"
+    }
+  },
+  {
+    "mrid": "fa9e0f4d-8a2f-45e1-9e36-3611600d1c94",
+    "id": "_fa9e0f4d-8a2f-45e1-9e36-3611600d1c94",
+    "class": "Terminal",
+    "name": "BE-Busbar_1_Busbar_Section",
+    "attrs": {
+      "name": "BE-Busbar_1_Busbar_Section",
+      "description": "Busbar Section"
+    }
+  },
+  {
+    "mrid": "faab7959-f9bf-421b-bc3f-d364e0c1388b",
+    "id": "_faab7959-f9bf-421b-bc3f-d364e0c1388b",
+    "class": "Terminal",
+    "name": "NL-G1 - T1",
+    "attrs": {
+      "name": "NL-G1 - T1"
+    }
+  },
+  {
+    "mrid": "fab54e9c-b12e-4e47-a9f2-fec4ef96c0c0",
+    "id": "_fab54e9c-b12e-4e47-a9f2-fec4ef96c0c0",
+    "class": "Terminal",
+    "name": "NL-Load_3 - T1",
+    "attrs": {
+      "name": "NL-Load_3 - T1"
+    }
+  },
+  {
+    "mrid": "fbfed7e3-3dec-4829-a286-029e73535685",
+    "id": "_fbfed7e3-3dec-4829-a286-029e73535685",
+    "class": "LinearShuntCompensator",
+    "name": "NL-S1",
+    "attrs": {
+      "name": "NL-S1",
+      "description": "shunt",
+      "bPerSection": 0.000313,
+      "nomU": 400.0,
+      "sections": 1.0
+    }
+  },
+  {
+    "mrid": "fd649fe1-bdf5-4062-98ea-bbb66f50402d",
+    "id": "_fd649fe1-bdf5-4062-98ea-bbb66f50402d",
+    "class": "BusbarSection",
+    "name": "BE-Busbar_4",
+    "attrs": {
+      "name": "BE-Busbar_4"
+    }
+  },
+  {
+    "mrid": "fe25f43a-7341-446e-a71a-8ab7119ba806",
+    "id": "_fe25f43a-7341-446e-a71a-8ab7119ba806",
+    "class": "RatioTapChanger",
+    "name": "BE-TR3_1",
+    "attrs": {
+      "name": "BE-TR3_1",
+      "lowStep": 1.0,
+      "highStep": 33.0,
+      "neutralStep": 17.0,
+      "stepVoltageIncrement": 0.625,
+      "step": 17.0
+    }
+  },
+  {
+    "mrid": "ffbabc27-1ccd-4fdc-b037-e341706c8d29",
+    "id": "_ffbabc27-1ccd-4fdc-b037-e341706c8d29",
+    "class": "ACLineSegment",
+    "name": "BE-Line_6",
+    "attrs": {
+      "name": "BE-Line_6",
+      "description": "TYNDP project BE-4; map reference 567",
+      "r": 5.203,
+      "x": 71.0,
+      "length": 100.0
+    }
+  }
+]

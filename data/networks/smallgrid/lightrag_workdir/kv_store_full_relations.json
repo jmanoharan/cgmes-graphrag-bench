@@ -1,0 +1,6186 @@
+{
+  "doc-e5b7511181d9d21111b49ecee6f4b82f": {
+    "relation_pairs": [
+      [
+        "Rockhill LD",
+        "THA132KV"
+      ],
+      [
+        "EGL132KV",
+        "Substation Eglarest"
+      ],
+      [
+        "AC Line Segment 71-72",
+        "Length 96.1111 km"
+      ],
+      [
+        "Energy Consumer Madison LD",
+        "Voltage Level NUR132KV"
+      ],
+      [
+        "Line Segment 17-113",
+        "Topological Node Sorenson1"
+      ],
+      [
+        "7.85822 ohm",
+        "AC Line Segment 100-104"
+      ],
+      [
+        "AC Line Segment 24-70",
+        "Portsmth"
+      ],
+      [
+        "Philo LD",
+        "Rómenna"
+      ],
+      [
+        "Sprigg",
+        "Sprigg Sc"
+      ],
+      [
+        "GB Region",
+        "Substation Tirion"
+      ],
+      [
+        "HAV132KV",
+        "N.Newark SC"
+      ],
+      [
+        "Studied Operating Case",
+        "W.Kammer Sm"
+      ],
+      [
+        "Reusens",
+        "Reusens Sc"
+      ],
+      [
+        "AC Line Segment 88-89",
+        "Fremont"
+      ],
+      [
+        "Nee132kv",
+        "Substation Needlehole"
+      ],
+      [
+        "AC Line Segment 52-53",
+        "Wooster"
+      ],
+      [
+        "Nin132kv",
+        "Tannrsck Sm"
+      ],
+      [
+        "Nin132kv",
+        "Nindamos"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 92-93"
+      ],
+      [
+        "Philo LD",
+        "Philo LD Active Power"
+      ],
+      [
+        "BEA132KV",
+        "Beauxbatons"
+      ],
+      [
+        "Tidd Ld",
+        "Tidd1"
+      ],
+      [
+        "Umbar",
+        "West End Negg Ld"
+      ],
+      [
+        "8.79912 Ohm",
+        "AC Line Segment 89-92"
+      ],
+      [
+        "132KV",
+        "DIA132KV"
+      ],
+      [
+        "Muskngum Sm",
+        "Power Network"
+      ],
+      [
+        "Darrah LD",
+        "NEE132KV"
+      ],
+      [
+        "AC Line Segment 71-73",
+        "Topological Node XMO_TE31"
+      ],
+      [
+        "AC Line Segment 114-115",
+        "Medford"
+      ],
+      [
+        "Caldwell Ld",
+        "Ondosto"
+      ],
+      [
+        "Baileysv Ld",
+        "Dol132kv"
+      ],
+      [
+        "AC Line Segment 17-31",
+        "Sorenson1"
+      ],
+      [
+        "GB Region",
+        "Substation Durmstrang"
+      ],
+      [
+        "3.69389 ohm",
+        "AC Line Segment 12-16"
+      ],
+      [
+        "Synchronous Machine TwinBrch SM",
+        "Voltage Level HOG132KV"
+      ],
+      [
+        "33.9768 ohm",
+        "AC Line Segment 14-15"
+      ],
+      [
+        "Howard NegG Ld",
+        "Topological Node Howard"
+      ],
+      [
+        "AC Line Segment 83-85",
+        "Topological Node BeaverCk"
+      ],
+      [
+        "EastLima1",
+        "Winding 2 Of Transformer 38-37"
+      ],
+      [
+        "Ond132kv",
+        "Ondosto"
+      ],
+      [
+        "DAL132KV",
+        "Substation Dale"
+      ],
+      [
+        "Medford LD",
+        "STA132KV"
+      ],
+      [
+        "NEE132KV",
+        "Substation Needlehole"
+      ],
+      [
+        "CRO132KV",
+        "Danville LD"
+      ],
+      [
+        "AC Line Segment 85-89",
+        "BeaverCk"
+      ],
+      [
+        "4 Mw Active Power Injection",
+        "Pinevlle Sm"
+      ],
+      [
+        "Logan Ld",
+        "NOG132KV"
+      ],
+      [
+        "AC Line Segment 80-98",
+        "Topological Node CabinCrk"
+      ],
+      [
+        "AC Line Segment 45-46",
+        "Topological Node W.Lancst"
+      ],
+      [
+        "AND220KV",
+        "Substation Andúnië"
+      ],
+      [
+        "Chemical Ld",
+        "Osgiliath"
+      ],
+      [
+        "AC Line Segment 15-19",
+        "Lincoln"
+      ],
+      [
+        "Deer Crk Negg Ld",
+        "Dor132kv"
+      ],
+      [
+        "Ac Line Segment 88-89",
+        "Clinchrv"
+      ],
+      [
+        "GB Region",
+        "Substation Alqualondë"
+      ],
+      [
+        "GB Region",
+        "Substation Rushey"
+      ],
+      [
+        "Ac Line Segment 24-70",
+        "Portsmth"
+      ],
+      [
+        "Topological Node Kanawha",
+        "Topological Node Sporn2"
+      ],
+      [
+        "AC Line Segment 56-57",
+        "Reactance 16.8316 Ohm"
+      ],
+      [
+        "Ac Line Segment 1-3",
+        "HickryCk"
+      ],
+      [
+        "AC Line Segment 69-75",
+        "Electrical Resistance"
+      ],
+      [
+        "132 Kv",
+        "AC Line Segment 55-59"
+      ],
+      [
+        "MNT132KV",
+        "Minas Tirith"
+      ],
+      [
+        "AC Line Segment 3-12",
+        "HickryCk"
+      ],
+      [
+        "AC Line Segment 96-97",
+        "Baileysv"
+      ],
+      [
+        "AC Line Segment 38-65",
+        "Resistance 4.36084 Ohm"
+      ],
+      [
+        "GB Region",
+        "Substation Havens Of The Falas"
+      ],
+      [
+        "GB Region",
+        "Substation Waymoot"
+      ],
+      [
+        "AC Line Segment 46-48",
+        "Topological Node Zanesvll"
+      ],
+      [
+        "Zanesvll LD",
+        "Zanesvll LD Reactive Power"
+      ],
+      [
+        "18.2952 ohm",
+        "AC Line Segment 77-80"
+      ],
+      [
+        "132 kV",
+        "BRE132KV"
+      ],
+      [
+        "Rated Apparent Power 400 Mva",
+        "Winding 2 Of Transformer 64-61"
+      ],
+      [
+        "Fieldale",
+        "Fieldale Sc"
+      ],
+      [
+        "CAR132KV",
+        "Sprigg Sc"
+      ],
+      [
+        "AC Line Segment 78-79",
+        "Chemical"
+      ],
+      [
+        "AC Line Segment 94-100",
+        "Switchbk"
+      ],
+      [
+        "AC Line Segment 92-93",
+        "Saltvlle"
+      ],
+      [
+        "Energy Consumer Sterling LD",
+        "Voltage Level MIT132KV"
+      ],
+      [
+        "AC Line Segment 38-65",
+        "EastLima2"
+      ],
+      [
+        "AC Line Segment 80-98",
+        "Topological Node Bradley"
+      ],
+      [
+        "Nobottle",
+        "Randolph LD"
+      ],
+      [
+        "BeaverCk",
+        "BeaverCk LD"
+      ],
+      [
+        "132 Kv",
+        "AC Line Segment 37-40"
+      ],
+      [
+        "AC Line Segment 41-42",
+        "S.Tiffin"
+      ],
+      [
+        "Gulltown",
+        "Untngd LD"
+      ],
+      [
+        "CapitlHl SC",
+        "Substation Forlond"
+      ],
+      [
+        "Topological Node Whuntngd",
+        "Whuntngd Ld"
+      ],
+      [
+        "Topological Node EastLima1",
+        "Topological Node Haviland"
+      ],
+      [
+        "Bradley Ld",
+        "Cas132kv"
+      ],
+      [
+        "AC Line Segment 105-108",
+        "Topological Node Blaine"
+      ],
+      [
+        "AC Line Segment 105-107",
+        "Topological Node Roanoke"
+      ],
+      [
+        "AC Line Segment 89-92",
+        "Line Length"
+      ],
+      [
+        "Howard",
+        "Howard Ld"
+      ],
+      [
+        "AC Line Segment 71-73",
+        "Topological Node X5 TRI"
+      ],
+      [
+        "AC Line Segment 60-61",
+        "Topological Node SWKammer"
+      ],
+      [
+        "GB Region",
+        "Substation Edoras"
+      ],
+      [
+        "CollCrnr",
+        "Delaware"
+      ],
+      [
+        "Substation Vale of Arryn",
+        "VALE33KV"
+      ],
+      [
+        "QAR132KV",
+        "Substation Qarth"
+      ],
+      [
+        "Substation Umbar",
+        "UMB132KV"
+      ],
+      [
+        "Stock",
+        "Unspecified Energy Asset At Stock"
+      ],
+      [
+        "Active Power 450 Mw",
+        "Breed Sm"
+      ],
+      [
+        "Power Transformer 68-69",
+        "Winding 1 Of Transformer 68-69"
+      ],
+      [
+        "132 kV Voltage Level",
+        "AC Line Segment 69-75"
+      ],
+      [
+        "Howard Negg Ld",
+        "Topological Node Howard"
+      ],
+      [
+        "Energy Consumer Madison LD",
+        "Topological Node Madison"
+      ],
+      [
+        "Ac Line Segment 21-22",
+        "Jay"
+      ],
+      [
+        "AC Line Segment 82-83",
+        "Topological Node Sprigg"
+      ],
+      [
+        "N. E. LD",
+        "STM132KV"
+      ],
+      [
+        "Substation Carn Dûm",
+        "Voltage Level CAR132KV"
+      ],
+      [
+        "ALD132KV",
+        "Substation Aldburg"
+      ],
+      [
+        "AC Line Segment 23-24",
+        "Trenton"
+      ],
+      [
+        "0.400752 ohm",
+        "AC Line Segment 114-115"
+      ],
+      [
+        "132KV",
+        "ERB132KV"
+      ],
+      [
+        "AC Line Segment 42-49",
+        "Howard"
+      ],
+      [
+        "Breed Sm",
+        "Reactive Power 0 Mvar"
+      ],
+      [
+        "Topological Node Cloverdl",
+        "Topological Node Reusens"
+      ],
+      [
+        "GB region",
+        "MEN132KV"
+      ],
+      [
+        "AC Line Segment 80-97",
+        "CabinCrk"
+      ],
+      [
+        "EDH132KV",
+        "Substation Edhellond"
+      ],
+      [
+        "AC Line Segment 27-32",
+        "Delaware"
+      ],
+      [
+        "ETH132KV",
+        "JacksnRd LD"
+      ],
+      [
+        "Substation Khazad-dûm",
+        "Synchronous Machine DanRiver SM"
+      ],
+      [
+        "AC Line Segment 14-15",
+        "FtWayne"
+      ],
+      [
+        "Topological Node Zanesvll",
+        "Zanesvll SC"
+      ],
+      [
+        "Hogwarts",
+        "TwinBrch LD"
+      ],
+      [
+        "Substation Lond Daer Enedh",
+        "Unnamed Energy Consumer At Lond Daer Enedh"
+      ],
+      [
+        "Deercrk",
+        "Deercrk Ld"
+      ],
+      [
+        "AC Line Segment 89-90",
+        "Holston"
+      ],
+      [
+        "W.Kammer",
+        "W.Kammer Sm"
+      ],
+      [
+        "Rockhill",
+        "Rockhill Ld"
+      ],
+      [
+        "Caldwell Ld",
+        "Ond132kv"
+      ],
+      [
+        "Substation Standelf",
+        "Voltage Level STN132KV"
+      ],
+      [
+        "GB Region",
+        "Substation The Wall"
+      ],
+      [
+        "Claytor Sm",
+        "The Wall"
+      ],
+      [
+        "AC Line Segment 61-62",
+        "Natrium"
+      ],
+      [
+        "AC Line Segment 94-95",
+        "Switchbk"
+      ],
+      [
+        "AC Line Segment 37-39",
+        "EastLima1"
+      ],
+      [
+        "Ald132kv",
+        "Hancock Ld"
+      ],
+      [
+        "NOB132KV",
+        "Randolph LD"
+      ],
+      [
+        "AC Line Segment 17-113",
+        "Sorenson1"
+      ],
+      [
+        "CollCrnr LD",
+        "DIA132KV"
+      ],
+      [
+        "Power Transformer 65-66",
+        "Substation Upbourn"
+      ],
+      [
+        "KGL132KV",
+        "Substation Kings Landing"
+      ],
+      [
+        "Cloverdl Ld",
+        "Vin132kv"
+      ],
+      [
+        "DeerCrk SM",
+        "EPH132KV"
+      ],
+      [
+        "AC Line Segment 39-40",
+        "West End"
+      ],
+      [
+        "AC Line Segment 1-2",
+        "Topological Node Pokagon"
+      ],
+      [
+        "Gb",
+        "Substation Avallonë"
+      ],
+      [
+        "AC Line Segment 29-31",
+        "Electrical Resistance"
+      ],
+      [
+        "Logan SC",
+        "Substation Nogrod"
+      ],
+      [
+        "Sundial Ld",
+        "Tir132kv"
+      ],
+      [
+        "132 kV",
+        "ALD132KV"
+      ],
+      [
+        "Energy Consumer Sorenson LD",
+        "Topological Node Sorenson1"
+      ],
+      [
+        "AC Line Segment 56-57",
+        "Voltage 132 kV"
+      ],
+      [
+        "Danville",
+        "Danville LD"
+      ],
+      [
+        "AC Line Segment 59-61",
+        "Resistance 5.71507 Ohm"
+      ],
+      [
+        "Gri132kv",
+        "Torrey Sm"
+      ],
+      [
+        "Erebor",
+        "Kankakee LD"
+      ],
+      [
+        "Studied Operating Case",
+        "Tannrsck Sm"
+      ],
+      [
+        "AC Line Segment 31-32",
+        "Topological Node Delaware"
+      ],
+      [
+        "AC Line Segment 77-82",
+        "Logan"
+      ],
+      [
+        "132 kV",
+        "BAR132KV"
+      ],
+      [
+        "GB Region",
+        "Substation Eglarest"
+      ],
+      [
+        "Pinevlle",
+        "Winding 2 Of Transformer 86-87"
+      ],
+      [
+        "LOR132KV",
+        "Substation Lorien"
+      ],
+      [
+        "AC Line Segment 103-105",
+        "Roanoke"
+      ],
+      [
+        "Rockhill",
+        "Tharbad"
+      ],
+      [
+        "Ratio Tap Changer 38-37",
+        "Transformer 38-37"
+      ],
+      [
+        "Rated Voltage 132 Kv",
+        "Winding 2 Of Transformer 64-61"
+      ],
+      [
+        "MNA132KV",
+        "Substation Minas Anor"
+      ],
+      [
+        "AC Line Segment 75-118",
+        "Electrical Resistance"
+      ],
+      [
+        "GUL132KV",
+        "Gulltown Substation"
+      ],
+      [
+        "Power Transformer 65-66",
+        "Ratio Tap Changer 65-66"
+      ],
+      [
+        "Energy Consumer McKinley LD",
+        "Topological Node McKinley"
+      ],
+      [
+        "Logan SC",
+        "NOG132KV"
+      ],
+      [
+        "0 Mvar Reactive Power Injection By Muskngum Sm",
+        "Muskngum Sm"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 48-49"
+      ],
+      [
+        "AC Line Segment 27-115",
+        "Electrical Reactance"
+      ],
+      [
+        "GB Region",
+        "Substation Frogmorton"
+      ],
+      [
+        "30-17",
+        "Ratio Tap Changer 30-17"
+      ],
+      [
+        "DUR132KV",
+        "Substation Durmstrang"
+      ],
+      [
+        "GB Region",
+        "Substation Beauxbatons"
+      ],
+      [
+        "AC Line Segment 26-30",
+        "Voltage Level 220 kV"
+      ],
+      [
+        "Holston LD",
+        "Holston LD Active Power"
+      ],
+      [
+        "Howard Ld",
+        "Pel132kv"
+      ],
+      [
+        "Capitlh Hl Ld",
+        "Forlond"
+      ],
+      [
+        "AND220KV",
+        "Data 220 kV"
+      ],
+      [
+        "AC Line Segment 114-115",
+        "WMedford"
+      ],
+      [
+        "Rockhill LD",
+        "Tharbad"
+      ],
+      [
+        "CollCrnr",
+        "CollCrnr LD"
+      ],
+      [
+        "ERE132KV",
+        "Erech"
+      ],
+      [
+        "Ac Line Segment 100-106",
+        "Glen Lyn"
+      ],
+      [
+        "AC Line Segment 71-72",
+        "Reactance 31.3632 Ohm"
+      ],
+      [
+        "Topological Node Sorenson1",
+        "Voltage Level STN132KV"
+      ],
+      [
+        "AC Line Segment 65-68",
+        "Topological Node Sporn2"
+      ],
+      [
+        "AC Line Segment 47-69",
+        "Sporn1"
+      ],
+      [
+        "LOR132KV",
+        "Lorien"
+      ],
+      [
+        "GRE132KV",
+        "Holston LD"
+      ],
+      [
+        "AC Line Segment 52-53",
+        "SCoshoct"
+      ],
+      [
+        "AC Line Segment 63-64",
+        "Kammer"
+      ],
+      [
+        "AC Line Segment 34-43",
+        "S.Kenton"
+      ],
+      [
+        "Ac Line Segment 80-96",
+        "Cabincrk"
+      ],
+      [
+        "Active Power",
+        "Energy Consumer"
+      ],
+      [
+        "132 kV Voltage Level",
+        "AC Line Segment 89-92"
+      ],
+      [
+        "AC Line Segment 85-88",
+        "Fremont"
+      ],
+      [
+        "90.7437 Km",
+        "AC Line Segment 15-33"
+      ],
+      [
+        "Baileysv",
+        "Caldwell"
+      ],
+      [
+        "Sporn SM",
+        "Sporn1"
+      ],
+      [
+        "AC Line Segment 99-100",
+        "Glen Lyn"
+      ],
+      [
+        "Hazard LD",
+        "Vale of Arryn"
+      ],
+      [
+        "AND220KV",
+        "Andúnië"
+      ],
+      [
+        "THA132KV",
+        "Tharbad"
+      ],
+      [
+        "Gringotts",
+        "Torrey LD"
+      ],
+      [
+        "Energy Consumer Portsmth LD",
+        "Topological Node Portsmth"
+      ],
+      [
+        "Power Transformer 64-61",
+        "Winding 1 Of Transformer 64-61"
+      ],
+      [
+        "GB region",
+        "Substation Qarth"
+      ],
+      [
+        "Substation Vinyamar",
+        "VIN132KV"
+      ],
+      [
+        "STM132KV",
+        "St Mungos"
+      ],
+      [
+        "Ann132kv",
+        "Substation Annúminas"
+      ],
+      [
+        "132 Kv Network",
+        "AC Line Segment 50-57"
+      ],
+      [
+        "Darrah Ld",
+        "Topological Node Darrah"
+      ],
+      [
+        "SCA132KV",
+        "Substation Scary"
+      ],
+      [
+        "Oldtown",
+        "Reusens"
+      ],
+      [
+        "Energy Consumer Holston NegG LD",
+        "Voltage Level GRE132KV"
+      ],
+      [
+        "ARM132KV",
+        "Energy Consumer Glen Lyn LD"
+      ],
+      [
+        "GB Region",
+        "Substation Valmar"
+      ],
+      [
+        "AC Line Segment 105-107",
+        "Topological Node Reusens"
+      ],
+      [
+        "AC Line Segment 47-69",
+        "Topological Node Sporn1"
+      ],
+      [
+        "Substation Winterfell",
+        "WIN220KV"
+      ],
+      [
+        "Car132kv",
+        "Sprigg Ld"
+      ],
+      [
+        "HAY132KV",
+        "Substation Haysend"
+      ],
+      [
+        "Substation Erech",
+        "Voltage Level ERE132KV"
+      ],
+      [
+        "AC Line Segment 8-30",
+        "Sorenson2"
+      ],
+      [
+        "AC Line Segment 89-92",
+        "ClinchRv"
+      ],
+      [
+        "Pel132kv",
+        "Pelargir"
+      ],
+      [
+        "AC Line Segment 94-100",
+        "Electrical Reactance"
+      ],
+      [
+        "Topological Node Saltvlle",
+        "Topological Node Smythe"
+      ],
+      [
+        "ROH132KV",
+        "Substation Rohan"
+      ],
+      [
+        "1.03673 Ohm",
+        "AC Line Segment 11-12"
+      ],
+      [
+        "GB Region",
+        "Substation Vinyamar"
+      ],
+      [
+        "Substation Lond Daer Enedh",
+        "Topological Node Summerfl"
+      ],
+      [
+        "AC Line Segment 49-66",
+        "Muskngum1"
+      ],
+      [
+        "AC Line Segment 23-32",
+        "Delaware"
+      ],
+      [
+        "AC Line Segment 96-97",
+        "Sundial"
+      ],
+      [
+        "AC Line Segment 43-44",
+        "Wmvernon"
+      ],
+      [
+        "30.0087 Km",
+        "AC Line Segment 25-27"
+      ],
+      [
+        "Sorenson1",
+        "Winding 2 Of Transformer 30-17"
+      ],
+      [
+        "MIC132KV",
+        "Substation Michel Delving"
+      ],
+      [
+        "5.95901 Ohm",
+        "AC Line Segment 22-23"
+      ],
+      [
+        "AC Line Segment 70-71",
+        "X5 TRI"
+      ],
+      [
+        "GB Region",
+        "Substation Gondolin"
+      ],
+      [
+        "Power Transformer 64-61",
+        "Ratio Tap Changer 64-61"
+      ],
+      [
+        "Dol Amroth",
+        "Dol132kv"
+      ],
+      [
+        "Claytor",
+        "Claytor Sm"
+      ],
+      [
+        "ARM132KV",
+        "Substation Armenelos"
+      ],
+      [
+        "GUL132KV",
+        "Untngd LD"
+      ],
+      [
+        "AC Line Segment 60-62",
+        "Topological Node Natrium"
+      ],
+      [
+        "Lan132kv",
+        "Lannisport"
+      ],
+      [
+        "GB Region",
+        "Substation Minas Ithil"
+      ],
+      [
+        "2.29997 Ohm",
+        "AC Line Segment 94-95"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 51-52"
+      ],
+      [
+        "Power Transformer 26-25",
+        "Ratio Tap Changer 26-25"
+      ],
+      [
+        "BEA132KV",
+        "Substation Beauxbatons"
+      ],
+      [
+        "AC Line Segment 48-49",
+        "Topological Node Philo"
+      ],
+      [
+        "27.7042 Ohm",
+        "AC Line Segment 22-23"
+      ],
+      [
+        "GOB132KV",
+        "Turner Ld"
+      ],
+      [
+        "LOR132KV",
+        "S.Tiffin LD"
+      ],
+      [
+        "Cloverdl",
+        "Cloverdl Ld"
+      ],
+      [
+        "AC Line Segment 38-65",
+        "Voltage 220 kV"
+      ],
+      [
+        "57.3795 Km",
+        "AC Line Segment 43-44"
+      ],
+      [
+        "AC Line Segment 70-75",
+        "SthPoint"
+      ],
+      [
+        "Ac Line Segment 56-58",
+        "WnwPhil2"
+      ],
+      [
+        "Edoras",
+        "W.Kammer Sm"
+      ],
+      [
+        "AC Line Segment 24-72",
+        "Trenton"
+      ],
+      [
+        "Energy Consumer Haviland LD",
+        "Topological Node Haviland"
+      ],
+      [
+        "AC Line Segment 92-100",
+        "Glen Lyn"
+      ],
+      [
+        "AC Line Segment 16-17",
+        "Topological Node N. E."
+      ],
+      [
+        "AC Line Segment 77-82",
+        "Turner"
+      ],
+      [
+        "39.5191 km",
+        "AC Line Segment 114-115"
+      ],
+      [
+        "Grant",
+        "Grant Ld"
+      ],
+      [
+        "5.19235 Ohm",
+        "AC Line Segment 77-82"
+      ],
+      [
+        "Cro132kv",
+        "Danville Negg Ld"
+      ],
+      [
+        "AC Line Segment 8-30",
+        "Voltage 220 kV"
+      ],
+      [
+        "Tazewell",
+        "Tazewell LD"
+      ],
+      [
+        "CAR132KV",
+        "Substation Caras Galadhon"
+      ],
+      [
+        "Capitlhl Sc",
+        "FRL132KV"
+      ],
+      [
+        "GB region",
+        "Substation Needlehole"
+      ],
+      [
+        "AC Line Segment 94-96",
+        "Switchbk"
+      ],
+      [
+        "Substation Nurmengard",
+        "Voltage Level NUR132KV"
+      ],
+      [
+        "Beauxbatons",
+        "W.lancst"
+      ],
+      [
+        "AC Line Segment 59-60",
+        "Tidd1"
+      ],
+      [
+        "48.4039 ohm",
+        "AC Line Segment 47-69"
+      ],
+      [
+        "132 kV",
+        "BEA132KV"
+      ],
+      [
+        "Ann132kv",
+        "Lincoln"
+      ],
+      [
+        "AND",
+        "Olive SC"
+      ],
+      [
+        "AC Line Segment 103-110",
+        "Fieldale"
+      ],
+      [
+        "Active Power 477 Mw",
+        "Cabincrk Sm"
+      ],
+      [
+        "Hancock",
+        "Hancock Ld"
+      ],
+      [
+        "AC Line Segment 91-92",
+        "HolstonT"
+      ],
+      [
+        "AC Line Segment 18-19",
+        "McKinley"
+      ],
+      [
+        "220 kV",
+        "AND220KV"
+      ],
+      [
+        "Active Power 220 Mw",
+        "Tannrsck Sm"
+      ],
+      [
+        "Pinevlle",
+        "Pinevlle Sm"
+      ],
+      [
+        "GB Region",
+        "Substation Staddle"
+      ],
+      [
+        "GB Region",
+        "Substation St Mungos"
+      ],
+      [
+        "EPH132KV",
+        "Substation Ephel Brandir"
+      ],
+      [
+        "GB Region",
+        "Substation Stock"
+      ],
+      [
+        "AC Line Segment 91-92",
+        "Saltvlle"
+      ],
+      [
+        "Ac Line Segment 44-45",
+        "Wmvernon"
+      ],
+      [
+        "Danriver Sm",
+        "Kha132kv"
+      ],
+      [
+        "Crooksvl Ld",
+        "Eglarest"
+      ],
+      [
+        "Power Transformer 68-69",
+        "Winding 2 Of Transformer 68-69"
+      ],
+      [
+        "Power Transformer 86-87",
+        "Ratio Tap Changer 86-87"
+      ],
+      [
+        "AC Line Segment 35-36",
+        "Sterling"
+      ],
+      [
+        "MNT132KV",
+        "NwCarlsl NegG LD"
+      ],
+      [
+        "AC Line Segment 34-37",
+        "Rockhill"
+      ],
+      [
+        "Gb",
+        "Substation Belegost"
+      ],
+      [
+        "Rated Apparent Power 0 Mva",
+        "Synchronous Machine DanRiver SM"
+      ],
+      [
+        "Topological Node Sterling",
+        "Voltage Level MIT132KV"
+      ],
+      [
+        "Studied Operating Case",
+        "Synchronous Machine TwinBrch SM"
+      ],
+      [
+        "AC Line Segment 56-57",
+        "Length 16.582 km"
+      ],
+      [
+        "AC Line Segment 64-65",
+        "Kammer"
+      ],
+      [
+        "Roanoke SC",
+        "Topological Node Roanoke"
+      ],
+      [
+        "Edo132kv",
+        "W.Kammer Sm"
+      ],
+      [
+        "RUS132KV",
+        "Rushey"
+      ],
+      [
+        "AC Line Segment 71-73",
+        "Resistance 1.50892 Ohm"
+      ],
+      [
+        "FtWayne",
+        "FtWayne LD"
+      ],
+      [
+        "14.5316 ohm",
+        "AC Line Segment 12-16"
+      ],
+      [
+        "FAN132KV",
+        "Substation Fangorn Forest"
+      ],
+      [
+        "BRE132KV",
+        "Energy Consumer Natrium LD"
+      ],
+      [
+        "0 Mvar Reactive Power Injection By Claytor Sm",
+        "Claytor Sm"
+      ],
+      [
+        "Pinevlle Sm",
+        "Vale33kv"
+      ],
+      [
+        "Pinevlle Sm",
+        "Vale Of Arryn"
+      ],
+      [
+        "Summerfl LD",
+        "Summerfl LD Reactive Power"
+      ],
+      [
+        "AC Line Segment 4-11",
+        "SouthBnd"
+      ],
+      [
+        "AC Line Segment 20-21",
+        "Adams"
+      ],
+      [
+        "Eld132kv",
+        "Eldalondë"
+      ],
+      [
+        "Fieldale",
+        "Waymoot"
+      ],
+      [
+        "Pokagon",
+        "Pokagon LD"
+      ],
+      [
+        "AC Line Segment 45-46",
+        "Voltage Level 132 kV"
+      ],
+      [
+        "AC Line Segment 55-56",
+        "Topological Node Wagenhls"
+      ],
+      [
+        "Muskngum Ld",
+        "Upb132kv"
+      ],
+      [
+        "Energy Consumer Saltvlle LD",
+        "Topological Node Saltvlle"
+      ],
+      [
+        "OLL132KV",
+        "Substation Ollivanders"
+      ],
+      [
+        "STA220KV",
+        "Substation Standelf"
+      ],
+      [
+        "GB Region",
+        "Substation Minas Morgul"
+      ],
+      [
+        "132 Kv Network",
+        "AC Line Segment 23-24"
+      ],
+      [
+        "OLD132KV",
+        "Substation Oldtown"
+      ],
+      [
+        "Howard Ld",
+        "Pelargir"
+      ],
+      [
+        "Hickryck Ld",
+        "Topological Node Hickryck"
+      ],
+      [
+        "CRO132KV",
+        "Crownlands Substation"
+      ],
+      [
+        "NEE132KV",
+        "Needlehole Substation"
+      ],
+      [
+        "AC Line Segment 69-70",
+        "Sporn1"
+      ],
+      [
+        "CapitlHl SC",
+        "FRL132KV"
+      ],
+      [
+        "Energy Consumer Haviland LD",
+        "Voltage Level HAR132KV"
+      ],
+      [
+        "AC Line Segment 15-33",
+        "Haviland"
+      ],
+      [
+        "Ac Line Segment 1-3",
+        "Riversde"
+      ],
+      [
+        "Cabincrk Sm",
+        "Cri132kv"
+      ],
+      [
+        "WMedford",
+        "WMedford LD"
+      ],
+      [
+        "Philo LD",
+        "RÓM132KV"
+      ],
+      [
+        "29.2723 Ohm",
+        "AC Line Segment 37-40"
+      ],
+      [
+        "AC Line Segment 47-69",
+        "Crooksvl"
+      ],
+      [
+        "AC Line Segment 65-68",
+        "Topological Node Muskngum2"
+      ],
+      [
+        "Upb220kv",
+        "Upbourn"
+      ],
+      [
+        "AC Line Segment 35-36",
+        "WestLima"
+      ],
+      [
+        "Claytor Ld",
+        "The Wall"
+      ],
+      [
+        "Data 132 kV",
+        "PEL132KV"
+      ],
+      [
+        "AC Line Segment 49-54",
+        "Philo"
+      ],
+      [
+        "Eastlima1",
+        "Qarth"
+      ],
+      [
+        "GRI132KV",
+        "Torrey LD"
+      ],
+      [
+        "Hav132kv",
+        "Substation Havens Of The Falas"
+      ],
+      [
+        "Tannrsck Sm",
+        "Tannrsck1"
+      ],
+      [
+        "Nindamos",
+        "Power Transformer 26-25"
+      ],
+      [
+        "AC Line Segment 51-58",
+        "Topological Node WNwPhil2"
+      ],
+      [
+        "Claytor Sm",
+        "The132kv"
+      ],
+      [
+        "AC Line Segment 49-69",
+        "Sporn1"
+      ],
+      [
+        "Tannrsck Sm",
+        "Tannrsck2"
+      ],
+      [
+        "Nog132kv",
+        "Substation Nogrod"
+      ],
+      [
+        "AC Line Segment 23-24",
+        "CollCrnr"
+      ],
+      [
+        "AC Line Segment 56-57",
+        "Resistance 5.97643 Ohm"
+      ],
+      [
+        "AC Line Segment 74-75",
+        "SthPoint"
+      ],
+      [
+        "Crooksvl",
+        "Crooksvl Ld"
+      ],
+      [
+        "Trenton",
+        "Trenton Negg Ld"
+      ],
+      [
+        "Muskngum Sm",
+        "Muskngum1"
+      ],
+      [
+        "132KV",
+        "ESG132KV"
+      ],
+      [
+        "Topological Node CabinCrk",
+        "Winding 2 Of Transformer 81-80"
+      ],
+      [
+        "AC Line Segment 19-20",
+        "Lincoln"
+      ],
+      [
+        "Howard NegG Ld",
+        "PEL132KV"
+      ],
+      [
+        "AC Line Segment 75-77",
+        "Turner"
+      ],
+      [
+        "Beauxbatons",
+        "W.Lancst LD"
+      ],
+      [
+        "Concord Ld",
+        "Men132kv"
+      ],
+      [
+        "132 Kv",
+        "AC Line Segment 77-82"
+      ],
+      [
+        "AZK132KV",
+        "Hinton NegG LD"
+      ],
+      [
+        "AC Line Segment 84-85",
+        "BetsyLne"
+      ],
+      [
+        "Ac Line Segment 12-117",
+        "TwinBrch"
+      ],
+      [
+        "WMVernon",
+        "WMVernon LD"
+      ],
+      [
+        "BAR132KV",
+        "Bellefnt Sc"
+      ],
+      [
+        "AC Line Segment 42-49",
+        "Topological Node Philo"
+      ],
+      [
+        "HAY220KV",
+        "Substation Haysend"
+      ],
+      [
+        "Roanoke SC",
+        "Substation Ollivanders"
+      ],
+      [
+        "AC Line Segment 76-77",
+        "Topological Node Turner"
+      ],
+      [
+        "ClinchRv",
+        "ClinchRv SM"
+      ],
+      [
+        "Grant Ld",
+        "Roh132kv"
+      ],
+      [
+        "132 kV",
+        "CAR132KV"
+      ],
+      [
+        "BRI132KV",
+        "Substation Brithombar"
+      ],
+      [
+        "BEA132KV",
+        "W.lancst Sc"
+      ],
+      [
+        "Ollivanders",
+        "Roanoke Ld"
+      ],
+      [
+        "W.Lancst",
+        "W.Lancst LD"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 92-100"
+      ],
+      [
+        "Ac Line Segment 88-89",
+        "Fremont"
+      ],
+      [
+        "AC Line Segment 103-104",
+        "Hancock"
+      ],
+      [
+        "Energy Consumer Natrium LD",
+        "Topological Node Natrium"
+      ],
+      [
+        "AC Line Segment 25-27",
+        "Madison"
+      ],
+      [
+        "Power Transformer 26-25",
+        "Winding 1 Of Transformer 26-25"
+      ],
+      [
+        "Substation Tirion",
+        "TIR132KV"
+      ],
+      [
+        "AC Line Segment 90-91",
+        "Topological Node Holston"
+      ],
+      [
+        "GB Region",
+        "Substation Nindamos"
+      ],
+      [
+        "Godrics Hollow",
+        "Jay Ld"
+      ],
+      [
+        "Substation Upbourn",
+        "UPB220KV"
+      ],
+      [
+        "Power Transformer 64-61",
+        "Substation Edoras"
+      ],
+      [
+        "Mullin",
+        "Mullin Ld"
+      ],
+      [
+        "Medford",
+        "Medford LD"
+      ],
+      [
+        "Energy Consumer SWKammer LD",
+        "VAL132KV"
+      ],
+      [
+        "AC Line Segment 75-118",
+        "WHuntngd"
+      ],
+      [
+        "AC Line Segment 38-65",
+        "Length 143.344 km"
+      ],
+      [
+        "FAN132KV",
+        "HolstonT NegG LD"
+      ],
+      [
+        "AC Line Segment 92-100",
+        "Saltvlle"
+      ],
+      [
+        "19 Mw Active Power Injection",
+        "Power Network"
+      ],
+      [
+        "Sunnysde",
+        "Sunnysde LD"
+      ],
+      [
+        "AC Line Segment 46-47",
+        "Crooksvl"
+      ],
+      [
+        "Topological Node Crooksvl",
+        "Topological Node Sporn1"
+      ],
+      [
+        "Topological Node Kanawha",
+        "Winding 1 Of Transformer 81-80"
+      ],
+      [
+        "Pinevlle Sm",
+        "Studied Operating Case"
+      ],
+      [
+        "AC Line Segment 40-42",
+        "Length 113.577 km"
+      ],
+      [
+        "Power Transformer 65-66",
+        "Winding 1 Of Transformer 65-66"
+      ],
+      [
+        "Lan132kv",
+        "Mullin Ld"
+      ],
+      [
+        "AC Line Segment 22-23",
+        "Randolph"
+      ],
+      [
+        "10.3673 ohm",
+        "AC Line Segment 14-15"
+      ],
+      [
+        "Eld132kv",
+        "Substation Eldalondë"
+      ],
+      [
+        "AC Line Segment 74-75",
+        "Bellefnt"
+      ],
+      [
+        "GUL132KV",
+        "Substation Gulltown"
+      ],
+      [
+        "Muskngum Sm",
+        "Reactive Power 0 Mvar"
+      ],
+      [
+        "MNM132KV",
+        "Substation Minas Morgul"
+      ],
+      [
+        "N.Newark",
+        "Wmvernon"
+      ],
+      [
+        "AC Line Segment 98-100",
+        "Glen Lyn"
+      ],
+      [
+        "Energy Consumer Franklin LD",
+        "Topological Node Franklin"
+      ],
+      [
+        "GB Region",
+        "Substation Fangorn Forest"
+      ],
+      [
+        "AC Line Segment 27-115",
+        "Electrical Resistance"
+      ],
+      [
+        "Rated Apparent Power 300 Mva",
+        "Winding 2 Of Transformer 81-80"
+      ],
+      [
+        "AC Line Segment 76-118",
+        "Darrah"
+      ],
+      [
+        "NUR132KV",
+        "Substation Nurmengard"
+      ],
+      [
+        "WMedford LD",
+        "Westerlands"
+      ],
+      [
+        "132 kV Voltage Level",
+        "AC Line Segment 27-115"
+      ],
+      [
+        "GB Region",
+        "Substation Bree"
+      ],
+      [
+        "Edh132kv",
+        "Sthpoint Ld"
+      ],
+      [
+        "Substation Tharbad",
+        "Unspecified Linear Shunt Compensator At Rockhill"
+      ],
+      [
+        "AC Line Segment 48-49",
+        "Length 74.0993 Km"
+      ],
+      [
+        "Entso-E Cgmes Microgrid Test Configuration - Network Operations Description",
+        "Interconnected Transmission Network"
+      ],
+      [
+        "HRL132KV",
+        "Zanesvll LD"
+      ],
+      [
+        "93.9887 Km",
+        "AC Line Segment 89-92"
+      ],
+      [
+        "Muskngum Sm",
+        "Upbourn"
+      ],
+      [
+        "GB Region",
+        "Substation Caras Galadhon"
+      ],
+      [
+        "Pel132kv",
+        "Substation Pelargir"
+      ],
+      [
+        "GB Region",
+        "Substation Hogsmeade"
+      ],
+      [
+        "Substation Hogwarts",
+        "Voltage Level HOG132KV"
+      ],
+      [
+        "Breed",
+        "Breed Sm"
+      ],
+      [
+        "Muskngum2",
+        "Winding 1 Of Transformer 65-66"
+      ],
+      [
+        "AC Line Segment 12-14",
+        "TwinBrch"
+      ],
+      [
+        "3.01435 Ohm",
+        "AC Line Segment 96-97"
+      ],
+      [
+        "Network",
+        "Synchronous Machine TwinBrch SM"
+      ],
+      [
+        "Power Transformer 86-87",
+        "Substation Vale Of Arryn"
+      ],
+      [
+        "Energy Consumer Adams LD",
+        "FOR132KV"
+      ],
+      [
+        "BAR132KV",
+        "Substation Barad-dûr"
+      ],
+      [
+        "AC Line Segment 103-110",
+        "Claytor"
+      ],
+      [
+        "Kha132kv",
+        "Khazad-Dûm"
+      ],
+      [
+        "DIA132KV",
+        "Substation Diagon Alley"
+      ],
+      [
+        "EastLima2",
+        "Winding 1 Of Transformer 38-37"
+      ],
+      [
+        "Concord",
+        "Concord Ld"
+      ],
+      [
+        "Hazard",
+        "Winding 1 Of Transformer 86-87"
+      ],
+      [
+        "LAN132KV",
+        "Substation Lannisport"
+      ],
+      [
+        "AC Line Segment 49-69",
+        "Philo"
+      ],
+      [
+        "AC Line Segment 28-29",
+        "Topological Node Mullin"
+      ],
+      [
+        "132 Kv Network",
+        "AC Line Segment 37-39"
+      ],
+      [
+        "Sprigg",
+        "Sprigg Ld"
+      ],
+      [
+        "42.7585 Ohm",
+        "AC Line Segment 43-44"
+      ],
+      [
+        "AC Line Segment 53-54",
+        "Torrey"
+      ],
+      [
+        "Substation Mithlond",
+        "Voltage Level MIT132KV"
+      ],
+      [
+        "ClinchRv SM",
+        "DUR132KV"
+      ],
+      [
+        "CAL132KV",
+        "Substation Calembel"
+      ],
+      [
+        "Holston",
+        "Holston LD"
+      ],
+      [
+        "AC Line Segment 68-116",
+        "Sporn2"
+      ],
+      [
+        "132 kV",
+        "HOG132KV"
+      ],
+      [
+        "AC Line Segment 20-21",
+        "Jay"
+      ],
+      [
+        "Substation Hogwarts",
+        "Synchronous Machine TwinBrch SM"
+      ],
+      [
+        "Gb",
+        "Substation Frogmorton"
+      ],
+      [
+        "God132kv",
+        "Jay Ld"
+      ],
+      [
+        "Power Transformer 30-17",
+        "Winding 1 Of Transformer 30-17"
+      ],
+      [
+        "Sporn1",
+        "Turner"
+      ],
+      [
+        "AC Line Segment 54-55",
+        "Length 32.4472 Km"
+      ],
+      [
+        "Dun132kv",
+        "Substation Dunharrow"
+      ],
+      [
+        "AC Line Segment 92-102",
+        "Topological Node Saltvlle"
+      ],
+      [
+        "AC Line Segment 9-10",
+        "Topological Node Breed"
+      ],
+      [
+        "17.6854 Ohm",
+        "AC Line Segment 66-67"
+      ],
+      [
+        "Breed Sm",
+        "Win220kv"
+      ],
+      [
+        "AC Line Segment 64-65",
+        "Muskngum2"
+      ],
+      [
+        "35.3707 Ohm",
+        "AC Line Segment 32-113"
+      ],
+      [
+        "AC Line Segment 54-55",
+        "Topological Node Torrey"
+      ],
+      [
+        "Synchronous Machine DanRiver SM",
+        "Topological Node DanRiver"
+      ],
+      [
+        "Frm132kv",
+        "Wnwphil2 Ld"
+      ],
+      [
+        "Chemical Ld",
+        "Osg132kv"
+      ],
+      [
+        "Topological Node Haviland",
+        "Voltage Level HAR132KV"
+      ],
+      [
+        "AC Line Segment 25-27",
+        "Length 30.0087 km"
+      ],
+      [
+        "AC Line Segment 27-115",
+        "Madison"
+      ],
+      [
+        "GB Region",
+        "Substation Edhellond"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 114-115"
+      ],
+      [
+        "5.12266 ohm",
+        "AC Line Segment 77-80"
+      ],
+      [
+        "NIN132KV",
+        "Substation Nindamos"
+      ],
+      [
+        "4.49539 ohm",
+        "AC Line Segment 92-93"
+      ],
+      [
+        "AC Line Segment 41-42",
+        "Howard"
+      ],
+      [
+        "Lin132kv",
+        "Substation Linhir"
+      ],
+      [
+        "Gb",
+        "Substation Crickhollow"
+      ],
+      [
+        "PIN132KV",
+        "Pincup"
+      ],
+      [
+        "AC Line Segment 94-100",
+        "Electrical Resistance"
+      ],
+      [
+        "AND132KV",
+        "Substation Andúnië"
+      ],
+      [
+        "Energy Consumer West End LD",
+        "Topological Node West End"
+      ],
+      [
+        "AC Line Segment 5-6",
+        "Topological Node Olive2"
+      ],
+      [
+        "AC Line Segment 60-62",
+        "Topological Node SWKammer"
+      ],
+      [
+        "Substation Armenelos",
+        "Voltage Level ARM132KV"
+      ],
+      [
+        "Minas Tirith",
+        "Nwcarlsl Ld"
+      ],
+      [
+        "Substation Vale Of Arryn",
+        "VLA132KV"
+      ],
+      [
+        "Energy Consumer Sorenson LD",
+        "Voltage Level STN132KV"
+      ],
+      [
+        "Ac Line Segment 93-94",
+        "Tazewell"
+      ],
+      [
+        "AC Line Segment 71-72",
+        "Resistance 7.7711 Ohm"
+      ],
+      [
+        "AC Line Segment 11-12",
+        "SouthBnd"
+      ],
+      [
+        "Chemical",
+        "Turner"
+      ],
+      [
+        "AC Line Segment 92-102",
+        "Topological Node Smythe"
+      ],
+      [
+        "GB Region",
+        "Substation Erebor"
+      ],
+      [
+        "AC Line Segment 3-12",
+        "TwinBrch"
+      ],
+      [
+        "Alq132kv",
+        "Substation Alqualondë"
+      ],
+      [
+        "EDO220KV",
+        "Substation Edoras"
+      ],
+      [
+        "GB Region",
+        "Substation Stormlands"
+      ],
+      [
+        "AC Line Segment 30-38",
+        "Sorenson2"
+      ],
+      [
+        "LIN132KV",
+        "Substation Linhir"
+      ],
+      [
+        "132KV",
+        "EDH132KV"
+      ],
+      [
+        "COM132KV",
+        "Combe"
+      ],
+      [
+        "CapitlHl SC",
+        "Topological Node CapitlHl"
+      ],
+      [
+        "55.2142 km",
+        "AC Line Segment 100-104"
+      ],
+      [
+        "Edh132kv",
+        "Sthpoint"
+      ],
+      [
+        "ERB132KV",
+        "Substation Erebor"
+      ],
+      [
+        "Transformer 68-69",
+        "Winding 2 Of Transformer 68-69"
+      ],
+      [
+        "GOD132KV",
+        "Substation Godrics Hollow"
+      ],
+      [
+        "AC Line Segment 46-47",
+        "W.Lancst"
+      ],
+      [
+        "GB Region",
+        "Substation Vale Of Arryn"
+      ],
+      [
+        "AC Line Segment 15-33",
+        "FtWayne"
+      ],
+      [
+        "Synchronous Machine Glen Lyn SM",
+        "Topological Node Glen Lyn"
+      ],
+      [
+        "AC Line Segment 49-66",
+        "Philo"
+      ],
+      [
+        "132KV",
+        "DOR132KV"
+      ],
+      [
+        "AC Line Segment 54-55",
+        "Reactance 12.3188 Ohm"
+      ],
+      [
+        "AC Line Segment 8-9",
+        "Topological Node X9"
+      ],
+      [
+        "Power Transformer 38-37",
+        "Winding 2 Of Transformer 38-37"
+      ],
+      [
+        "AC Line Segment 29-31",
+        "Line Length"
+      ],
+      [
+        "NOG132KV",
+        "Substation Nogrod"
+      ],
+      [
+        "Darrah Ld",
+        "NEE132KV"
+      ],
+      [
+        "Baileysv",
+        "Baileysv Ld"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 82-83"
+      ],
+      [
+        "AC Line Segment 13-15",
+        "Concord"
+      ],
+      [
+        "Studied Operating Case",
+        "Synchronous Machine Glen Lyn SM"
+      ],
+      [
+        "AC Line Segment 69-75",
+        "Sporn1"
+      ],
+      [
+        "Gb",
+        "Substation Combe"
+      ],
+      [
+        "29.702 Km",
+        "AC Line Segment 27-28"
+      ],
+      [
+        "AC Line Segment 29-31",
+        "DeerCrk"
+      ],
+      [
+        "Men132kv",
+        "Menegroth"
+      ],
+      [
+        "Gb",
+        "Substation Calembel"
+      ],
+      [
+        "AC Line Segment 53-54",
+        "Wooster"
+      ],
+      [
+        "6.62112 Ohm",
+        "AC Line Segment 15-33"
+      ],
+      [
+        "Logan Ld",
+        "Topological Node Logan"
+      ],
+      [
+        "Aldburg",
+        "Hancock Ld"
+      ],
+      [
+        "Gb",
+        "Substation Armenelos"
+      ],
+      [
+        "Power Transformer 81-80",
+        "Substation Crickhollow"
+      ],
+      [
+        "Substation The Wall",
+        "THE132KV"
+      ],
+      [
+        "Caras Galadhon",
+        "Sprigg"
+      ],
+      [
+        "AC Line Segment 76-77",
+        "Topological Node Darrah"
+      ],
+      [
+        "GB Region",
+        "Substation Formenos"
+      ],
+      [
+        "AC Line Segment 75-118",
+        "Line Length"
+      ],
+      [
+        "AC Line Segment 104-105",
+        "Hancock"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 71-73"
+      ],
+      [
+        "AC Line Segment 33-37",
+        "Topological Node EastLima1"
+      ],
+      [
+        "Olive1",
+        "Winding 1 Of Transformer 8-5"
+      ],
+      [
+        "Energy Consumer McKinley LD",
+        "Substation Esgaroth"
+      ],
+      [
+        "AC Line Segment 49-51",
+        "Topological Node Philo"
+      ],
+      [
+        "AC Line Segment 12-14",
+        "GoshenJt"
+      ],
+      [
+        "GB Region",
+        "Substation Lond Daer Enedh"
+      ],
+      [
+        "Tazewell",
+        "Unspecified Energy Asset At Stock"
+      ],
+      [
+        "GB Region",
+        "Substation White Harbor"
+      ],
+      [
+        "Topological Node Portsmth",
+        "Voltage Level CAR132KV"
+      ],
+      [
+        "GB Region",
+        "Substation Dale"
+      ],
+      [
+        "AC Line Segment 68-116",
+        "Resistance 0.16456 Ohm"
+      ],
+      [
+        "Topological Node Madison",
+        "Voltage Level NUR132KV"
+      ],
+      [
+        "BYW132KV",
+        "Substation Bywater"
+      ],
+      [
+        "AC Line Segment 8-30",
+        "Olive1"
+      ],
+      [
+        "Energy Consumer Reusens NegG LD",
+        "OLD132KV"
+      ],
+      [
+        "AC Line Segment 3-5",
+        "HickryCk"
+      ],
+      [
+        "AC Line Segment 4-5",
+        "Olive2"
+      ],
+      [
+        "Rockhill Ld",
+        "Tha132kv"
+      ],
+      [
+        "Substation Calembel",
+        "Voltage Level CAL132KV"
+      ],
+      [
+        "AC Line Segment 70-71",
+        "Portsmth"
+      ],
+      [
+        "Gul132kv",
+        "Substation Gulltown"
+      ],
+      [
+        "Wooster",
+        "Wooster Ld"
+      ],
+      [
+        "40 Mw Active Power Injection",
+        "Claytor Sm"
+      ],
+      [
+        "STA132KV",
+        "Substation Staddle"
+      ],
+      [
+        "21.6755 Ohm",
+        "AC Line Segment 15-33"
+      ],
+      [
+        "BetsyLne",
+        "BetsyLne LD"
+      ],
+      [
+        "DeerCrk",
+        "DeerCrk SM"
+      ],
+      [
+        "CRO132KV",
+        "Danville NegG Ld"
+      ],
+      [
+        "Old132kv",
+        "Reusens Ld"
+      ],
+      [
+        "Hav132kv",
+        "N.Newark Ld"
+      ],
+      [
+        "AC Line Segment 35-37",
+        "Topological Node WestLima"
+      ],
+      [
+        "Frm132kv",
+        "Substation Formenos"
+      ],
+      [
+        "Topological Node Tidd2",
+        "Winding 1 Of Transformer 63-59"
+      ],
+      [
+        "132 kV",
+        "AZK132KV"
+      ],
+      [
+        "Crooksvl Ld",
+        "Egl132kv"
+      ],
+      [
+        "FOR132KV",
+        "Substation Fornost Erain"
+      ],
+      [
+        "Summerfl",
+        "Summerfl LD"
+      ],
+      [
+        "FRO132KV",
+        "Substation Frogmorton"
+      ],
+      [
+        "GB Region",
+        "Substation Grey Havens"
+      ],
+      [
+        "132 Kv Network",
+        "AC Line Segment 45-49"
+      ],
+      [
+        "132KV",
+        "EGL132KV"
+      ],
+      [
+        "GB Region",
+        "Substation Vale of Arryn"
+      ],
+      [
+        "AC Line Segment 40-42",
+        "Voltage 132 kV"
+      ],
+      [
+        "21.5699 Km",
+        "AC Line Segment 7-12"
+      ],
+      [
+        "Pel132kv",
+        "Substation Pelarg"
+      ],
+      [
+        "AC Line Segment 103-105",
+        "Claytor"
+      ],
+      [
+        "Energy Consumer Delaware LD",
+        "Voltage Level ERE132KV"
+      ],
+      [
+        "48 Mw Active Power Injection",
+        "Torrey Sm"
+      ],
+      [
+        "Untngd LD",
+        "WHuntngd"
+      ],
+      [
+        "Claytor Ld",
+        "The132kv"
+      ],
+      [
+        "132KV",
+        "DAL132KV"
+      ],
+      [
+        "Hogsmeade",
+        "Sunnysde LD"
+      ],
+      [
+        "Andúnië",
+        "Olive2"
+      ],
+      [
+        "AC Line Segment 14-15",
+        "GoshenJt"
+      ],
+      [
+        "Hillsbro NegG Ld",
+        "MNA132KV"
+      ],
+      [
+        "Gb",
+        "Substation Eldalondë"
+      ],
+      [
+        "TwinBrch",
+        "TwinBrch LD"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 90-91"
+      ],
+      [
+        "CAR132KV",
+        "Data 132 kV"
+      ],
+      [
+        "Claytor Sm",
+        "Studied Operating Case"
+      ],
+      [
+        "GB region",
+        "Substation Rohan"
+      ],
+      [
+        "Wcambrdg",
+        "Wcambrdg Ld"
+      ],
+      [
+        "Sthpoint",
+        "Sthpoint Ld"
+      ],
+      [
+        "AC Line Segment 8-30",
+        "Length 65.4306 km"
+      ],
+      [
+        "28.5356 Km",
+        "AC Line Segment 66-67"
+      ],
+      [
+        "HOG132KV",
+        "Substation Hogwarts"
+      ],
+      [
+        "GB Region",
+        "Substation Gringotts"
+      ],
+      [
+        "Olive Sc",
+        "Olive2"
+      ],
+      [
+        "AC Line Segment 34-36",
+        "Sterling"
+      ],
+      [
+        "Torrey",
+        "Torrey LD"
+      ],
+      [
+        "Power Transformer 68-69",
+        "Substation Haysend"
+      ],
+      [
+        "AC Line Segment 110-112",
+        "Danville"
+      ],
+      [
+        "Energy Consumer Sterling LD",
+        "Substation Mithlond"
+      ],
+      [
+        "AC Line Segment 56-57",
+        "Sunnysde"
+      ],
+      [
+        "AC Line Segment 79-80",
+        "CabinCrk"
+      ],
+      [
+        "Topological Node Delaware",
+        "Voltage Level ERE132KV"
+      ],
+      [
+        "GB region",
+        "Substation Minas Tirith"
+      ],
+      [
+        "Kgl132kv",
+        "Tidd Ld"
+      ],
+      [
+        "AC Line Segment 17-18",
+        "Sorenson1"
+      ],
+      [
+        "26.136 Ohm",
+        "AC Line Segment 30-38"
+      ],
+      [
+        "Gob132kv",
+        "Substation Goblin Town"
+      ],
+      [
+        "Energy Consumer Madison LD",
+        "NUR132KV"
+      ],
+      [
+        "Mnt132kv",
+        "Nwcarlsl Ld"
+      ],
+      [
+        "Substation Waymoot",
+        "WAY132KV"
+      ],
+      [
+        "Topological Node WestLima",
+        "Voltage Level CAL132KV"
+      ],
+      [
+        "Reactive Power 0 Mvar",
+        "W.Lancst Sm"
+      ],
+      [
+        "Network",
+        "Studied Operating Case"
+      ],
+      [
+        "NUR132KV",
+        "Nurmengard"
+      ],
+      [
+        "AND132KV",
+        "Andúnië"
+      ],
+      [
+        "TannrsCk1",
+        "Winding 2 Of Transformer 26-25"
+      ],
+      [
+        "AC Line Segment 106-107",
+        "Cloverdl"
+      ],
+      [
+        "AC Line Segment 25-27",
+        "Reactance 28.4011 Ohm"
+      ],
+      [
+        "BetsyLne LD",
+        "BetsyLne LD Reactive Power"
+      ],
+      [
+        "Ac Line Segment 40-41",
+        "West End"
+      ],
+      [
+        "Topological Node McKinley",
+        "Voltage Level ESG132KV"
+      ],
+      [
+        "Cri132kv",
+        "Substation Crickhollow"
+      ],
+      [
+        "AC Line Segment 30-38",
+        "Eastlima2"
+      ],
+      [
+        "132 Kv",
+        "AC Line Segment 43-44"
+      ],
+      [
+        "Summerfl LD",
+        "Summerfl LD Active Power"
+      ],
+      [
+        "AC Line Segment 80-99",
+        "Hinton"
+      ],
+      [
+        "BeaverCk LD",
+        "RVR132KV"
+      ],
+      [
+        "GB Region",
+        "Substation Casterly Rock"
+      ],
+      [
+        "AC Line Segment 54-56",
+        "Torrey"
+      ],
+      [
+        "Logan SC",
+        "Topological Node Logan"
+      ],
+      [
+        "Baileysv",
+        "Logan"
+      ],
+      [
+        "AC Line Segment 108-109",
+        "Blaine"
+      ],
+      [
+        "Lannisport",
+        "Mullin Ld"
+      ],
+      [
+        "GB Region",
+        "Substation Dorne"
+      ],
+      [
+        "Substation Valmar",
+        "VAL132KV"
+      ],
+      [
+        "Rated Voltage 220 Kv",
+        "Winding 1 Of Transformer 81-80"
+      ],
+      [
+        "LON132KV",
+        "Summerfl LD"
+      ],
+      [
+        "Grant Ld",
+        "Rohan"
+      ],
+      [
+        "AC Line Segment 105-106",
+        "Topological Node Cloverdl"
+      ],
+      [
+        "Substation Harlond",
+        "Zanesvll SC"
+      ],
+      [
+        "Deercrk Ld",
+        "Eph132kv"
+      ],
+      [
+        "Ac Line Segment 110-111",
+        "Fieldale"
+      ],
+      [
+        "AC Line Segment 32-113",
+        "Delaware"
+      ],
+      [
+        "132 kV Voltage Level",
+        "AC Line Segment 80-96"
+      ],
+      [
+        "Network",
+        "Synchronous Machine Glen Lyn SM"
+      ],
+      [
+        "GB Region",
+        "Substation Azkaban"
+      ],
+      [
+        "CAR132KV",
+        "Caras Galadhon"
+      ],
+      [
+        "Ere132kv",
+        "Substation Erech"
+      ],
+      [
+        "Rated Apparent Power 300 Mva",
+        "Winding 1 Of Transformer 81-80"
+      ],
+      [
+        "Barad-dûr",
+        "Bellefnt"
+      ],
+      [
+        "Nar132kv",
+        "Substation Nargothrond"
+      ],
+      [
+        "GB Region",
+        "Substation Khazad-dûm"
+      ],
+      [
+        "132 kV",
+        "BYW132KV"
+      ],
+      [
+        "AC Line Segment 26-30",
+        "Topological Node Sorenson2"
+      ],
+      [
+        "Topological Node Wagenhls",
+        "Wagenhls Ld"
+      ],
+      [
+        "AC Line Segment 77-80",
+        "CabinCrk"
+      ],
+      [
+        "Ac Line Segment 44-45",
+        "N.Newark"
+      ],
+      [
+        "Lorien",
+        "S.Tiffin LD"
+      ],
+      [
+        "AC Line Segment 89-92",
+        "Saltvlle"
+      ],
+      [
+        "WAY132KV",
+        "Waymoot"
+      ],
+      [
+        "NEE132KV",
+        "Needlehole"
+      ],
+      [
+        "Reactive Power 0 MVAr",
+        "Synchronous Machine TwinBrch SM"
+      ],
+      [
+        "AC Line Segment 6-7",
+        "JacksnRd"
+      ],
+      [
+        "BAR132KV",
+        "Barad-dûr"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 42-49"
+      ],
+      [
+        "Ratio Tap Changer 26-25",
+        "Winding 1 Of Transformer 26-25"
+      ],
+      [
+        "Smythe",
+        "Smythe LD"
+      ],
+      [
+        "3.90298 Ohm",
+        "AC Line Segment 66-67"
+      ],
+      [
+        "Rockhill Ld",
+        "Tharbad"
+      ],
+      [
+        "Muskngum Sm",
+        "Upb220kv"
+      ],
+      [
+        "STK132KV",
+        "Tazewell LD"
+      ],
+      [
+        "AC Line Segment 45-46",
+        "Topological Node N.Newark"
+      ],
+      [
+        "AC Line Segment 56-57",
+        "WNwPhil1"
+      ],
+      [
+        "Kankakee",
+        "Kankakee LD"
+      ],
+      [
+        "AC Line Segment 54-59",
+        "Tidd1"
+      ],
+      [
+        "Muskngum Sm",
+        "Muskngum2"
+      ],
+      [
+        "Hillsbro NegG Ld",
+        "Topological Node Hillsbro"
+      ],
+      [
+        "Power Transformer 86-87",
+        "Winding 2 Of Transformer 86-87"
+      ],
+      [
+        "Ava132kv",
+        "Avallonë"
+      ],
+      [
+        "AC Line Segment 29-31",
+        "Grant"
+      ],
+      [
+        "Ac Line Segment 80-96",
+        "Baileysv"
+      ],
+      [
+        "AC Line Segment 23-25",
+        "Topological Node CollCrnr"
+      ],
+      [
+        "Win220kv",
+        "Winterfell"
+      ],
+      [
+        "AC Line Segment 28-29",
+        "Voltage Level 132 kV"
+      ],
+      [
+        "Power Transformer 63-59",
+        "Winding 2 Of Transformer 63-59"
+      ],
+      [
+        "AND220KV",
+        "Olive NegG LD"
+      ],
+      [
+        "Power Transformer 63-59",
+        "Substation Kings Landing"
+      ],
+      [
+        "KHA132KV",
+        "Substation Khazad-dûm"
+      ],
+      [
+        "AC Line Segment 70-74",
+        "Topological Node Bellefnt"
+      ],
+      [
+        "Substation Tharbad",
+        "THA132KV"
+      ],
+      [
+        "132 Kv Network",
+        "AC Line Segment 77-80"
+      ],
+      [
+        "AC Line Segment 100-103",
+        "Glen Lyn"
+      ],
+      [
+        "Ac Line Segment 47-49",
+        "Philo"
+      ],
+      [
+        "Cloverdl",
+        "Glen Lyn"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 54-55"
+      ],
+      [
+        "GB region",
+        "Substation Oldtown"
+      ],
+      [
+        "Substation Scary",
+        "WMVernon SC"
+      ],
+      [
+        "Sporn1",
+        "Winding 2 Of Transformer 68-69"
+      ],
+      [
+        "AC Line Segment 84-85",
+        "BeaverCk"
+      ],
+      [
+        "Energy Consumer Portsmth LD",
+        "Voltage Level CAR132KV"
+      ],
+      [
+        "Torrey",
+        "Torrey Sm"
+      ],
+      [
+        "2.24576 Ohm",
+        "AC Line Segment 30-38"
+      ],
+      [
+        "BRE132KV",
+        "Data 132 kV"
+      ],
+      [
+        "Power Transformer 86-87",
+        "Winding 1 Of Transformer 86-87"
+      ],
+      [
+        "Brithombar",
+        "Newcmrst LD"
+      ],
+      [
+        "Energy Consumer Holston NegG LD",
+        "Topological Node Holston"
+      ],
+      [
+        "Grey Havens",
+        "Holston LD"
+      ],
+      [
+        "8.25723 Ohm",
+        "AC Line Segment 55-59"
+      ],
+      [
+        "AC Line Segment 94-96",
+        "Baileysv"
+      ],
+      [
+        "Darrah",
+        "Darrah LD"
+      ],
+      [
+        "Energy Consumer West End LD",
+        "UMB132KV"
+      ],
+      [
+        "AC Line Segment 1-2",
+        "Topological Node Riversde"
+      ],
+      [
+        "Belegost",
+        "SCoshoct LD"
+      ],
+      [
+        "GB Region",
+        "Substation Dol Amroth"
+      ],
+      [
+        "Ratio Tap Changer 68-69",
+        "Transformer 68-69"
+      ],
+      [
+        "AC Line Segment 56-59",
+        "Tidd1"
+      ],
+      [
+        "Energy Consumer Fremont LD",
+        "Substation Hobbiton"
+      ],
+      [
+        "AC Line Segment 80-96",
+        "Electrical Resistance"
+      ],
+      [
+        "Ratio Tap Changer 81-80 On Winding 1",
+        "Winding 1 Of Transformer 81-80"
+      ],
+      [
+        "AC Line Segment 80-96",
+        "Baileysv"
+      ],
+      [
+        "W.lancst",
+        "W.lancst Sc"
+      ],
+      [
+        "Active Power 19 Mw",
+        "W.Lancst Sm"
+      ],
+      [
+        "Ann132kv",
+        "Lincoln Ld"
+      ],
+      [
+        "AC Line Segment 54-56",
+        "Sunnysde"
+      ],
+      [
+        "Philo SM",
+        "RÓM132KV"
+      ],
+      [
+        "DAL132KV",
+        "Smythe LD"
+      ],
+      [
+        "Darrah Ld",
+        "Nee132kv"
+      ],
+      [
+        "GB Region",
+        "Substation Haysend"
+      ],
+      [
+        "W.Lancst",
+        "W.Lancst Sm"
+      ],
+      [
+        "WES132KV",
+        "Westerlands"
+      ],
+      [
+        "7.56202 Ohm",
+        "AC Line Segment 94-95"
+      ],
+      [
+        "BetsyLne LD",
+        "BetsyLne LD Active Power"
+      ],
+      [
+        "Ac Line Segment 40-41",
+        "S.Tiffin"
+      ],
+      [
+        "RUS132KV",
+        "Substation Rushey"
+      ],
+      [
+        "Hickryck Ld",
+        "Nar132kv"
+      ],
+      [
+        "AC Line Segment 62-67",
+        "Summerfl"
+      ],
+      [
+        "AC Line Segment 40-42",
+        "West End"
+      ],
+      [
+        "Topological Node W.Lancst",
+        "Topological Node Zanesvll"
+      ],
+      [
+        "Power Transformer 81-80",
+        "Winding 2 Of Transformer 81-80"
+      ],
+      [
+        "AC Line Segment 101-102",
+        "Smythe"
+      ],
+      [
+        "0 Mvar Reactive Power Injection By Torrey Sm",
+        "Torrey Sm"
+      ],
+      [
+        "QAR132KV",
+        "QAR132KV Voltage Level"
+      ],
+      [
+        "Substation Grey Havens",
+        "Voltage Level GRE132KV"
+      ],
+      [
+        "BetsyLne LD",
+        "Ost-in-Edhil"
+      ],
+      [
+        "AC Line Segment 15-17",
+        "FtWayne"
+      ],
+      [
+        "LAN132KV",
+        "Port"
+      ],
+      [
+        "Ratio Tap Changer 30-17",
+        "Winding 1 Of Transformer 30-17"
+      ],
+      [
+        "AC Line Segment 45-49",
+        "Philo"
+      ],
+      [
+        "AC Line Segment 49-54",
+        "Torrey"
+      ],
+      [
+        "AC Line Segment 89-90",
+        "Topological Node ClinchRv"
+      ],
+      [
+        "Energy Consumer Saltvlle LD",
+        "MNI132KV"
+      ],
+      [
+        "N. E. LD",
+        "St Mungos"
+      ],
+      [
+        "Randolph",
+        "Randolph LD"
+      ],
+      [
+        "Topological Node Bellefnt",
+        "Topological Node Portsmth"
+      ],
+      [
+        "GB Region",
+        "Substation Esgaroth"
+      ],
+      [
+        "Gringotts",
+        "Torrey Sm"
+      ],
+      [
+        "Nindamos",
+        "Tannrsck Sm"
+      ],
+      [
+        "MNT132KV",
+        "Substation Minas Tirith"
+      ],
+      [
+        "Muskngum Sm",
+        "Studied Operating Case"
+      ],
+      [
+        "Bellefnt",
+        "Bellefnt LD"
+      ],
+      [
+        "Substation Esgaroth",
+        "Voltage Level ESG132KV"
+      ],
+      [
+        "Energy Consumer Delaware LD",
+        "Substation Erech"
+      ],
+      [
+        "AC Line Segment 85-86",
+        "BeaverCk"
+      ],
+      [
+        "Data 132 kV",
+        "WES132KV"
+      ],
+      [
+        "GB region",
+        "Substation Pincup"
+      ],
+      [
+        "OND132KV",
+        "Substation Ondosto"
+      ],
+      [
+        "Muskngum Ld",
+        "Muskngum1"
+      ],
+      [
+        "Ac Line Segment 47-49",
+        "Crooksvl"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 103-104"
+      ],
+      [
+        "Power Transformer 8-5",
+        "Ratio Tap Changer 8-5"
+      ],
+      [
+        "41.1374 km",
+        "AC Line Segment 92-93"
+      ],
+      [
+        "Gb",
+        "Interconnected Transmission Network"
+      ],
+      [
+        "Transformer 68-69",
+        "Winding 1 Of Transformer 68-69"
+      ],
+      [
+        "132 Kv Network",
+        "AC Line Segment 95-96"
+      ],
+      [
+        "AC Line Segment 24-72",
+        "Hillsbro"
+      ],
+      [
+        "AC Line Segment 12-16",
+        "N. E."
+      ],
+      [
+        "Power Transformer 8-5",
+        "Winding 2 Of Transformer 8-5"
+      ],
+      [
+        "NOB132KV",
+        "Nobottle"
+      ],
+      [
+        "Claytor",
+        "Claytor Ld"
+      ],
+      [
+        "SCA132KV",
+        "WMVernon SC"
+      ],
+      [
+        "132KV",
+        "EPH132KV"
+      ],
+      [
+        "AZK132KV",
+        "Data 132 kV"
+      ],
+      [
+        "GB Region",
+        "Substation Goblin Town"
+      ],
+      [
+        "AC Line Segment 27-32",
+        "Madison"
+      ],
+      [
+        "OSG132KV",
+        "Substation Osgiliath"
+      ],
+      [
+        "Hinton",
+        "Hinton NegG LD"
+      ],
+      [
+        "AC Line Segment 38-65",
+        "Reactance 47.7224 Ohm"
+      ],
+      [
+        "30-17",
+        "Winding 1 Of Transformer 30-17"
+      ],
+      [
+        "AC Line Segment 95-96",
+        "Baileysv"
+      ],
+      [
+        "BRI132KV",
+        "Newcmrst LD"
+      ],
+      [
+        "GB Region",
+        "Substation Upbourn"
+      ],
+      [
+        "Topological Node W.Kammer",
+        "Winding 2 Of Transformer 64-61"
+      ],
+      [
+        "14.8627 Ohm",
+        "AC Line Segment 77-82"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 100-104"
+      ],
+      [
+        "132 kV Voltage Level",
+        "AC Line Segment 29-31"
+      ],
+      [
+        "Umb132kv",
+        "West End Negg Ld"
+      ],
+      [
+        "10.7158 Ohm",
+        "AC Line Segment 32-113"
+      ],
+      [
+        "Energy Consumer",
+        "Reactive Power"
+      ],
+      [
+        "AC Line Segment 45-49",
+        "N.Newark"
+      ],
+      [
+        "HickryCk",
+        "TwinBrch"
+      ],
+      [
+        "Ac Line Segment 12-14",
+        "TwinBrch"
+      ],
+      [
+        "Tuc132kv",
+        "Tuckborough"
+      ],
+      [
+        "42.4937 Km",
+        "AC Line Segment 94-95"
+      ],
+      [
+        "AC Line Segment 47-69",
+        "Topological Node Crooksvl"
+      ],
+      [
+        "SCA132KV",
+        "Scary"
+      ],
+      [
+        "Bea132kv",
+        "W.Lancst Sm"
+      ],
+      [
+        "GB region",
+        "Substation Nargothrond"
+      ],
+      [
+        "AC Line Segment 27-115",
+        "Line Length"
+      ],
+      [
+        "Transformer 64-61",
+        "Winding 1"
+      ],
+      [
+        "AC Line Segment 60-61",
+        "Topological Node W.Kammer"
+      ],
+      [
+        "Ac Line Segment 49-54",
+        "Philo"
+      ],
+      [
+        "Philo LD",
+        "Philo LD Reactive Power"
+      ],
+      [
+        "Ratio Tap Changer 30-17 On Winding 1",
+        "Winding 1 Of Transformer 30-17"
+      ],
+      [
+        "Jay",
+        "Randolph"
+      ],
+      [
+        "MNI132KV",
+        "Substation Minas Ithil"
+      ],
+      [
+        "Tuc132kv",
+        "Wooster Ld"
+      ],
+      [
+        "AC Line Segment 89-90",
+        "Topological Node Holston"
+      ],
+      [
+        "GB Region",
+        "Substation Menegroth"
+      ],
+      [
+        "AC Line Segment 42-49",
+        "Topological Node Howard"
+      ],
+      [
+        "AC Line Segment 66-67",
+        "Summerfl"
+      ],
+      [
+        "Reactance 14.762 Ohm",
+        "Unspecified AC Line Segment"
+      ],
+      [
+        "AC Line Segment 9-10",
+        "Topological Node X9"
+      ],
+      [
+        "Claytor Sm",
+        "Power Network"
+      ],
+      [
+        "Bea132kv",
+        "Beauxbatons"
+      ],
+      [
+        "COM132KV",
+        "Pokagon LD"
+      ],
+      [
+        "GB Region",
+        "Substation Riverlands"
+      ],
+      [
+        "3.33321 Ohm",
+        "AC Line Segment 27-28"
+      ],
+      [
+        "Ac Line Segment 110-111",
+        "DanRiver"
+      ],
+      [
+        "Sto132kv",
+        "Substation Stormlands"
+      ],
+      [
+        "5.54083 Ohm",
+        "AC Line Segment 25-27"
+      ],
+      [
+        "Wnwphil2",
+        "Wnwphil2 Ld"
+      ],
+      [
+        "GB Region",
+        "Substation Ost-in-Edhil"
+      ],
+      [
+        "HOG132KV",
+        "TwinBrch LD"
+      ],
+      [
+        "Mic132kv",
+        "Wythe Ld"
+      ],
+      [
+        "BEA132KV",
+        "Data 132 kV"
+      ],
+      [
+        "Power Network",
+        "Torrey Sm"
+      ],
+      [
+        "AC Line Segment 37-39",
+        "NwLibrty"
+      ],
+      [
+        "Holston LD",
+        "Holston LD Reactive Power"
+      ],
+      [
+        "GB Region",
+        "Substation Harlond"
+      ],
+      [
+        "Energy Consumer SWKammer LD",
+        "Topological Node SWKammer"
+      ],
+      [
+        "Gb",
+        "Substation Formenos"
+      ],
+      [
+        "AC Line Segment 11-12",
+        "TwinBrch"
+      ],
+      [
+        "Ac Line Segment 93-94",
+        "Switchbk"
+      ],
+      [
+        "DAL132KV",
+        "Dale"
+      ],
+      [
+        "AC Line Segment 49-51",
+        "Newcmrst"
+      ],
+      [
+        "0 Mvar Reactive Power Injection By Pinevlle Sm",
+        "Pinevlle Sm"
+      ],
+      [
+        "AC Line Segment 51-52",
+        "Topological Node SCoshoct"
+      ],
+      [
+        "1.72498 Ohm",
+        "AC Line Segment 89-92"
+      ],
+      [
+        "HickryCk Ld",
+        "Topological Node HickryCk"
+      ],
+      [
+        "Studied Operating Case",
+        "Tidd Sm"
+      ],
+      [
+        "132KV",
+        "DOL132KV"
+      ],
+      [
+        "Ac Line Segment 77-78",
+        "Chemical"
+      ],
+      [
+        "MEN132KV",
+        "Substation Minas Morgul"
+      ],
+      [
+        "TannrsCk2",
+        "Winding 1 Of Transformer 26-25"
+      ],
+      [
+        "BRE132KV",
+        "Substation Bree"
+      ],
+      [
+        "Deer Crk Negg Ld",
+        "Dorne"
+      ],
+      [
+        "GRI132KV",
+        "Substation Gringotts"
+      ],
+      [
+        "AC Line Segment 69-70",
+        "Portsmth"
+      ],
+      [
+        "35.545 ohm",
+        "AC Line Segment 100-104"
+      ],
+      [
+        "Topological Node Holston",
+        "Voltage Level GRE132KV"
+      ],
+      [
+        "Kgl132kv",
+        "Tidd Sm"
+      ],
+      [
+        "Energy Consumer Riversde LD",
+        "WHI132KV"
+      ],
+      [
+        "BEL132KV",
+        "Belegost"
+      ],
+      [
+        "Logan Ld",
+        "Nog132kv"
+      ],
+      [
+        "HolstonT",
+        "HolstonT NegG LD"
+      ],
+      [
+        "S.Tiffin",
+        "S.Tiffin LD"
+      ],
+      [
+        "GRI132KV",
+        "Gringotts"
+      ],
+      [
+        "AC Line Segment 42-49",
+        "Philo"
+      ],
+      [
+        "STK132KV",
+        "Stock"
+      ],
+      [
+        "GB Region",
+        "Substation Standelf"
+      ],
+      [
+        "GB Region",
+        "Substation Brithombar"
+      ],
+      [
+        "Active Power 36 Mw",
+        "Danriver Sm"
+      ],
+      [
+        "NOG132KV",
+        "Nogrod Substation"
+      ],
+      [
+        "Ratio Tap Changer 38-37",
+        "Winding 1 Of Transformer 38-37"
+      ],
+      [
+        "Topological Node Darrah",
+        "Topological Node Turner"
+      ],
+      [
+        "Com132kv",
+        "Substation Combe"
+      ],
+      [
+        "GOB132KV",
+        "Substation Goblin Town"
+      ],
+      [
+        "GOB132KV",
+        "Goblin Town Substation"
+      ],
+      [
+        "AC Line Segment 94-100",
+        "Line Length"
+      ],
+      [
+        "220 Kv",
+        "AC Line Segment 30-38"
+      ],
+      [
+        "ALQ132KV",
+        "Data 132 kV"
+      ],
+      [
+        "PIN132KV",
+        "Switchbk LD"
+      ],
+      [
+        "Reactive Power 0 MVAr",
+        "Synchronous Machine Glen Lyn SM"
+      ],
+      [
+        "AC Line Segment 105-106",
+        "Voltage Level 132 kV"
+      ],
+      [
+        "Alq132kv",
+        "Wagenhls Ld"
+      ],
+      [
+        "AC Line Segment 55-59",
+        "Tidd1"
+      ],
+      [
+        "Gb",
+        "Substation Crownlands"
+      ],
+      [
+        "Rated Voltage 220 Kv",
+        "Winding 1 Of Transformer 64-61"
+      ],
+      [
+        "Reactive Power 0 Mvar",
+        "Tannrsck Sm"
+      ],
+      [
+        "AC Line Segment 31-32",
+        "Voltage Level 132 kV"
+      ],
+      [
+        "51.7401 Km",
+        "AC Line Segment 55-59"
+      ],
+      [
+        "AC Line Segment 32-113",
+        "Deer Crk"
+      ],
+      [
+        "Oldtown",
+        "Reusens Ld"
+      ],
+      [
+        "RÓM132KV",
+        "Rómenna"
+      ],
+      [
+        "AC Line Segment 77-80",
+        "Turner"
+      ],
+      [
+        "27.5996 ohm",
+        "AC Line Segment 103-104"
+      ],
+      [
+        "GB Region",
+        "Substation Osgiliath"
+      ],
+      [
+        "AC Line Segment 68-116",
+        "Voltage 220 kV"
+      ],
+      [
+        "AC Line Segment 48-49",
+        "Reactance 8.79912 Ohm"
+      ],
+      [
+        "AC Line Segment 26-30",
+        "Topological Node TannrsCk2"
+      ],
+      [
+        "132 kV",
+        "BRI132KV"
+      ],
+      [
+        "132 kV Voltage Level",
+        "AC Line Segment 37-40"
+      ],
+      [
+        "ALD132KV",
+        "Data 132 kV"
+      ],
+      [
+        "78.6276 km",
+        "AC Line Segment 12-16"
+      ],
+      [
+        "Energy Consumer Fremont LD",
+        "Voltage Level HOB132KV"
+      ],
+      [
+        "STM132KV",
+        "Substation St Mungos"
+      ],
+      [
+        "BeaverCk LD",
+        "Riverlands"
+      ],
+      [
+        "GB Region",
+        "Substation Rohan"
+      ],
+      [
+        "AC Line Segment 68-116",
+        "Length 1 km"
+      ],
+      [
+        "AC Line Segment 23-25",
+        "Topological Node TannrsCk1"
+      ],
+      [
+        "GB Region",
+        "Substation Minas Anor"
+      ],
+      [
+        "EastLima1",
+        "Winding 1 Of Transformer 38-37"
+      ],
+      [
+        "Sorenson2",
+        "Winding 1 Of Transformer 30-17"
+      ],
+      [
+        "HOG132KV",
+        "Hogwarts"
+      ],
+      [
+        "Claytor",
+        "Roanoke"
+      ],
+      [
+        "Power Transformer 38-37",
+        "Qarth"
+      ],
+      [
+        "1.50195 Ohm",
+        "AC Line Segment 7-12"
+      ],
+      [
+        "AC Line Segment 59-61",
+        "Reactance 26.136 Ohm"
+      ],
+      [
+        "ETH132KV",
+        "Substation Ethring"
+      ],
+      [
+        "HAV132KV",
+        "Havens Of The Falas Substation"
+      ],
+      [
+        "14.7756 ohm",
+        "AC Line Segment 92-93"
+      ],
+      [
+        "Baileysv",
+        "Cabincrk"
+      ],
+      [
+        "Ac Line Segment 12-14",
+        "GoshenJt"
+      ],
+      [
+        "DIA132KV",
+        "Diagon Alley"
+      ],
+      [
+        "Sporn2",
+        "Winding 1 Of Transformer 68-69"
+      ],
+      [
+        "Olive2",
+        "Winding 2 Of Transformer 8-5"
+      ],
+      [
+        "Nin220kv",
+        "Tannrsck Sm"
+      ],
+      [
+        "AC Line Segment 5-6",
+        "Topological Node Kankakee"
+      ],
+      [
+        "Newcmrst",
+        "Philo"
+      ],
+      [
+        "NAR132KV",
+        "Substation Nargothrond"
+      ],
+      [
+        "AC Line Segment 2-12",
+        "Pokagon"
+      ],
+      [
+        "Jay",
+        "Jay Ld"
+      ],
+      [
+        "Cal132kv",
+        "Substation Calembel"
+      ],
+      [
+        "GB Region",
+        "Substation Lannisport"
+      ],
+      [
+        "AC Line Segment 100-101",
+        "Topological Node Wythe"
+      ],
+      [
+        "AC Line Segment 80-96",
+        "Electrical Reactance"
+      ],
+      [
+        "Fieldale LD",
+        "WAY132KV"
+      ],
+      [
+        "Topological Node WHuntngd",
+        "WHuntngd Ld"
+      ],
+      [
+        "Ac Line Segment 56-58",
+        "Sunnysde"
+      ],
+      [
+        "Chemical",
+        "Chemical Ld"
+      ],
+      [
+        "132 kV",
+        "ALQ132KV"
+      ],
+      [
+        "HRL132KV",
+        "Zanesvll SC"
+      ],
+      [
+        "GB region",
+        "Substation Nobottle"
+      ],
+      [
+        "STK132KV",
+        "Unspecified Energy Asset At Stock"
+      ],
+      [
+        "Eu",
+        "Interconnected Transmission Network"
+      ],
+      [
+        "Line Segment 17-113",
+        "Topological Node Deer Crk"
+      ],
+      [
+        "GB Region",
+        "Substation Pelargir"
+      ],
+      [
+        "AC Line Segment 54-55",
+        "Topological Node Wagenhls"
+      ],
+      [
+        "AC Line Segment 40-42",
+        "Reactance 31.8859 Ohm"
+      ],
+      [
+        "GB Region",
+        "Substation Andúnië"
+      ],
+      [
+        "McKinley",
+        "Sorenson1"
+      ],
+      [
+        "GB region",
+        "Substation Rivendell"
+      ],
+      [
+        "GOD220KV",
+        "Substation Kings Landing"
+      ],
+      [
+        "AC Line Segment 106-107",
+        "Topological Node Reusens"
+      ],
+      [
+        "Hazard LD",
+        "VLA132KV"
+      ],
+      [
+        "AC Line Segment 99-100",
+        "Hinton"
+      ],
+      [
+        "Ratio Tap Changer 8-5",
+        "Winding 1 Of Transformer 8-5"
+      ],
+      [
+        "EPH132KV",
+        "Ephel Brandir"
+      ],
+      [
+        "WES132KV",
+        "WMedford LD"
+      ],
+      [
+        "GB Region",
+        "Substation Fornost Erain"
+      ],
+      [
+        "Sunnysde LD",
+        "Sunnysde LD Reactive Power"
+      ],
+      [
+        "Caldwell",
+        "Caldwell Ld"
+      ],
+      [
+        "Data 132 kV",
+        "VIN132KV"
+      ],
+      [
+        "Arm132kv",
+        "Substation Armenelos"
+      ],
+      [
+        "Lin132kv",
+        "Wnwphil1 Ld"
+      ],
+      [
+        "AC Line Segment 38-65",
+        "Muskngum2"
+      ],
+      [
+        "Rockhill",
+        "Rockhill LD"
+      ],
+      [
+        "HickryCk Ld",
+        "NAR132KV"
+      ],
+      [
+        "AC Line Segment 63-64",
+        "Tidd2"
+      ],
+      [
+        "Cabincrk",
+        "Cabincrk Sm"
+      ],
+      [
+        "GB Region",
+        "Substation Nurmengard"
+      ],
+      [
+        "AC Line Segment 7-12",
+        "TwinBrch"
+      ],
+      [
+        "Studied Operating Case",
+        "Synchronous Machine DanRiver SM"
+      ],
+      [
+        "AC Line Segment 27-28",
+        "Madison"
+      ],
+      [
+        "AC Line Segment 68-81",
+        "Topological Node Sporn2"
+      ],
+      [
+        "NEW132KV",
+        "Substation Newbury"
+      ],
+      [
+        "Olive NegG LD",
+        "Olive1"
+      ],
+      [
+        "RVR132KV",
+        "Riverlands"
+      ],
+      [
+        "GB region",
+        "Substation Michel Delving"
+      ],
+      [
+        "CabinCrk",
+        "Turner"
+      ],
+      [
+        "Cabincrk",
+        "Cabincrk Ld"
+      ],
+      [
+        "Power Transformer 81-80",
+        "Winding 1 Of Transformer 81-80"
+      ],
+      [
+        "Power Transformer 81-80",
+        "Ratio Tap Changer 81-80 On Winding 1"
+      ],
+      [
+        "Lond Daer Enedh",
+        "Summerfl LD"
+      ],
+      [
+        "AC Line Segment 100-103",
+        "Claytor"
+      ],
+      [
+        "GB Region",
+        "Substation Hobbiton"
+      ],
+      [
+        "AC Line Segment 68-81",
+        "Topological Node Kanawha"
+      ],
+      [
+        "Fieldale Sc",
+        "WAY132KV"
+      ],
+      [
+        "BAR132KV",
+        "Data 132 kV"
+      ],
+      [
+        "Fro132kv",
+        "Substation Frogmorton"
+      ],
+      [
+        "Energy Consumer Reusens NegG LD",
+        "Topological Node Reusens"
+      ],
+      [
+        "AC Line Segment 83-84",
+        "Sprigg"
+      ],
+      [
+        "GB Region",
+        "Substation Godrics Hollow"
+      ],
+      [
+        "AC Line Segment 43-44",
+        "S.Kenton"
+      ],
+      [
+        "Hillsbro Negg Ld",
+        "Mna132kv"
+      ],
+      [
+        "AC Line Segment 71-72",
+        "Voltage 132 kV"
+      ],
+      [
+        "Edhellond",
+        "Sthpoint Ld"
+      ],
+      [
+        "AC Line Segment 19-20",
+        "Adams"
+      ],
+      [
+        "AC Line Segment 7-12",
+        "Jacksnrd"
+      ],
+      [
+        "GB Region",
+        "Substation Newbury"
+      ],
+      [
+        "Topological Node Tidd1",
+        "Winding 2 Of Transformer 63-59"
+      ],
+      [
+        "NAR132KV",
+        "Nargothrond Substation"
+      ],
+      [
+        "AC Line Segment 22-23",
+        "CollCrnr"
+      ],
+      [
+        "Power Transformer 64-61",
+        "Ratio Tap Changer 64-61 On Winding 1"
+      ],
+      [
+        "Cabincrk Ld",
+        "Cri132kv"
+      ],
+      [
+        "AC Line Segment 49-50",
+        "WCambrdg"
+      ],
+      [
+        "GB region",
+        "Substation Minas Morgul"
+      ],
+      [
+        "Madison NegG LD",
+        "NUR132KV"
+      ],
+      [
+        "FRL132KV",
+        "Substation Forlond"
+      ],
+      [
+        "AC Line Segment 62-67",
+        "Natrium"
+      ],
+      [
+        "8.11958 ohm",
+        "AC Line Segment 103-104"
+      ],
+      [
+        "132 kV Voltage Level",
+        "AC Line Segment 94-100"
+      ],
+      [
+        "STK132KV",
+        "Substation Stock"
+      ],
+      [
+        "Power Transformer 30-17",
+        "Winding 2 Of Transformer 30-17"
+      ],
+      [
+        "Substation Vale of Arryn",
+        "VLA132KV"
+      ],
+      [
+        "AC Line Segment 88-89",
+        "ClinchRv"
+      ],
+      [
+        "AC Line Segment 6-7",
+        "Kankakee"
+      ],
+      [
+        "Andúnië",
+        "Olive NegG LD"
+      ],
+      [
+        "AC Line Segment 75-77",
+        "SthPoint"
+      ],
+      [
+        "AC Line Segment 54-55",
+        "Resistance 2.94466 Ohm"
+      ],
+      [
+        "132KV",
+        "CAR132KV"
+      ],
+      [
+        "AC Line Segment 95-96",
+        "Caldwell"
+      ],
+      [
+        "Power Transformer 65-66",
+        "Winding 2 Of Transformer 65-66"
+      ],
+      [
+        "AC Line Segment 37-40",
+        "Eastlima1"
+      ],
+      [
+        "AC Line Segment 82-96",
+        "Logan"
+      ],
+      [
+        "Annúminas",
+        "Lincoln"
+      ],
+      [
+        "Ratio Tap Changer 64-61",
+        "Winding 1 Of Transformer 64-61"
+      ],
+      [
+        "AC Line Segment 83-84",
+        "BetsyLne"
+      ],
+      [
+        "Zanesvll LD",
+        "Zanesvll LD Active Power"
+      ],
+      [
+        "ETH132KV",
+        "Ethring"
+      ],
+      [
+        "Eastlima Sc",
+        "QAR132KV"
+      ],
+      [
+        "Azkaban",
+        "Hinton NegG LD"
+      ],
+      [
+        "Caras Galadhon",
+        "Sprigg Ld"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 47-69"
+      ],
+      [
+        "Clinchrv",
+        "Fremont"
+      ],
+      [
+        "Substation Vale Of Arryn",
+        "VALE33KV"
+      ],
+      [
+        "STO132KV",
+        "Substation Stormlands"
+      ],
+      [
+        "AC Line Segment 49-50",
+        "Philo"
+      ],
+      [
+        "108.838 Km",
+        "AC Line Segment 37-40"
+      ],
+      [
+        "AC Line Segment 4-5",
+        "NwCarlsl"
+      ],
+      [
+        "15.4202 Ohm",
+        "AC Line Segment 96-97"
+      ],
+      [
+        "Goshenjt",
+        "Goshenjt Ld"
+      ],
+      [
+        "AZK132KV",
+        "Azkaban"
+      ],
+      [
+        "PEL132KV",
+        "Substation Pelargir"
+      ],
+      [
+        "AC Line Segment 4-11",
+        "NwCarlsl"
+      ],
+      [
+        "DOL132KV",
+        "Substation Dol Amroth"
+      ],
+      [
+        "Resistance 96 Ohm",
+        "Unspecified AC Line Segment"
+      ],
+      [
+        "GB region",
+        "Substation Ondosto"
+      ],
+      [
+        "Energy Consumer Portsmth LD",
+        "Substation Carn Dûm"
+      ],
+      [
+        "Sundial",
+        "Sundial Ld"
+      ],
+      [
+        "10.5938 Ohm",
+        "AC Line Segment 43-44"
+      ],
+      [
+        "AC Line Segment 49-51",
+        "Philo"
+      ],
+      [
+        "14.7059 ohm",
+        "AC Line Segment 47-69"
+      ],
+      [
+        "Ratio Tap Changer 81-80",
+        "Winding 1 Of Transformer 81-80"
+      ],
+      [
+        "AC Line Segment 69-75",
+        "SthPoint"
+      ],
+      [
+        "132 Kv",
+        "AC Line Segment 27-28"
+      ],
+      [
+        "DOR132KV",
+        "Substation Dorne"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 77-80"
+      ],
+      [
+        "AC Line Segment 82-83",
+        "Topological Node Logan"
+      ],
+      [
+        "LON132KV",
+        "Unnamed Energy Consumer At Lond Daer Enedh"
+      ],
+      [
+        "AC Line Segment 78-79",
+        "CapitlHl"
+      ],
+      [
+        "Ava132kv",
+        "Substation Avallonë"
+      ],
+      [
+        "AC Line Segment 34-37",
+        "EastLima1"
+      ],
+      [
+        "ALQ132KV",
+        "Wagenhls Ld"
+      ],
+      [
+        "Substation White Harbor",
+        "WHI132KV"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 16-17"
+      ],
+      [
+        "0 Mvar Reactive Power Injection By Tannrsck Sm",
+        "Tannrsck Sm"
+      ],
+      [
+        "Danville Negg Ld",
+        "Topological Node Danville"
+      ],
+      [
+        "NIN220KV",
+        "Substation Nindamos"
+      ],
+      [
+        "GB Region",
+        "Substation Hogwarts"
+      ],
+      [
+        "AC Line Segment 80-99",
+        "CabinCrk"
+      ],
+      [
+        "Energy Consumer WestLima LD",
+        "Topological Node WestLima"
+      ],
+      [
+        "CAR132KV",
+        "Substation Carn Dûm"
+      ],
+      [
+        "AND132KV",
+        "Olive Sc"
+      ],
+      [
+        "132 kV",
+        "WES132KV"
+      ],
+      [
+        "AC Line Segment 11-13",
+        "SouthBnd"
+      ],
+      [
+        "OLL132KV",
+        "Roanoke SC"
+      ],
+      [
+        "GB Region",
+        "Substation Forlond"
+      ],
+      [
+        "Power Network",
+        "Tidd Sm"
+      ],
+      [
+        "AC Line Segment 85-86",
+        "Hazard"
+      ],
+      [
+        "SCoshoct",
+        "SCoshoct LD"
+      ],
+      [
+        "RVR132KV",
+        "Substation Riverlands"
+      ],
+      [
+        "Ac Line Segment 77-78",
+        "Turner"
+      ],
+      [
+        "GB Region",
+        "Substation Scary"
+      ],
+      [
+        "83.5539 km",
+        "AC Line Segment 77-80"
+      ],
+      [
+        "GB Region",
+        "Substation Lorien"
+      ],
+      [
+        "AC Line Segment 8-30",
+        "Reactance 24.3936 Ohm"
+      ],
+      [
+        "QAR220KV",
+        "Substation Qarth"
+      ],
+      [
+        "AC Line Segment 8-9",
+        "Topological Node Olive1"
+      ],
+      [
+        "AC Line Segment 49-51",
+        "Topological Node Newcmrst"
+      ],
+      [
+        "N. E.",
+        "N. E. LD"
+      ],
+      [
+        "WCambrdg",
+        "WNwPhil1"
+      ],
+      [
+        "132 Kv",
+        "AC Line Segment 66-67"
+      ],
+      [
+        "Capitlh Hl",
+        "Capitlh Hl Ld"
+      ],
+      [
+        "Fro132kv",
+        "Trenton Negg Ld"
+      ],
+      [
+        "Wnwphil1",
+        "Wnwphil1 Ld"
+      ],
+      [
+        "Harlond",
+        "Zanesvll LD"
+      ],
+      [
+        "Umb132kv",
+        "Umbar"
+      ],
+      [
+        "68.9776 km",
+        "AC Line Segment 47-69"
+      ],
+      [
+        "Combe",
+        "Pokagon LD"
+      ],
+      [
+        "AC Line Segment 55-56",
+        "Topological Node Sunnysde"
+      ],
+      [
+        "AC Line Segment 104-105",
+        "Roanoke"
+      ],
+      [
+        "AC Line Segment 83-85",
+        "Topological Node Sprigg"
+      ],
+      [
+        "Power Transformer 30-17",
+        "Substation Standelf"
+      ],
+      [
+        "37.601 Ohm",
+        "AC Line Segment 55-59"
+      ],
+      [
+        "Energy Consumer McKinley LD",
+        "Voltage Level ESG132KV"
+      ],
+      [
+        "Wythe",
+        "Wythe Ld"
+      ],
+      [
+        "Kgl132kv",
+        "Substation Kings Landing"
+      ],
+      [
+        "BEA132KV",
+        "W.Lancst LD"
+      ],
+      [
+        "AC Line Segment 23-25",
+        "Voltage Level 132 kV"
+      ],
+      [
+        "AC Line Segment 17-113",
+        "Deer Crk"
+      ],
+      [
+        "Energy Consumer Glen Lyn LD",
+        "Topological Node Glen Lyn"
+      ],
+      [
+        "Rated Apparent Power 0 Mva",
+        "Synchronous Machine TwinBrch SM"
+      ],
+      [
+        "Danriver Sm",
+        "Reactive Power 0 Mvar"
+      ],
+      [
+        "Power Transformer 63-59",
+        "Winding 1 Of Transformer 63-59"
+      ],
+      [
+        "AC Line Segment 71-72",
+        "X5 TRI"
+      ],
+      [
+        "Nwcarlsl",
+        "Nwcarlsl Ld"
+      ],
+      [
+        "Eldalondë",
+        "Goshenjt Ld"
+      ],
+      [
+        "NwCarlsl",
+        "NwCarlsl NegG LD"
+      ],
+      [
+        "AC Line Segment 34-43",
+        "Rockhill"
+      ],
+      [
+        "Zanesvll",
+        "Zanesvll LD"
+      ],
+      [
+        "28.4011 Ohm",
+        "AC Line Segment 25-27"
+      ],
+      [
+        "AC Line Segment 80-96",
+        "Line Length"
+      ],
+      [
+        "Studied Operating Case",
+        "Torrey Sm"
+      ],
+      [
+        "N. E.",
+        "STM132KV"
+      ],
+      [
+        "Oll132kv",
+        "Roanoke Ld"
+      ],
+      [
+        "AC Line Segment 13-15",
+        "FtWayne"
+      ],
+      [
+        "AC Line Segment 69-77",
+        "Turner"
+      ],
+      [
+        "Power Transformer 38-37",
+        "Ratio Tap Changer 38-37"
+      ],
+      [
+        "1.8121 ohm",
+        "AC Line Segment 114-115"
+      ],
+      [
+        "Pinevlle Sm",
+        "Power Network"
+      ],
+      [
+        "Energy Consumer Franklin LD",
+        "Voltage Level RIV132KV"
+      ],
+      [
+        "Newbury",
+        "Wcambrdg Ld"
+      ],
+      [
+        "132 kV",
+        "PEL132KV"
+      ],
+      [
+        "GB Region",
+        "Substation Kings Landing"
+      ],
+      [
+        "RIV132KV",
+        "Substation Rivendell"
+      ],
+      [
+        "Substation Khazad-dûm",
+        "Voltage Level KHA132KV"
+      ],
+      [
+        "EastLima1",
+        "NwLibrty"
+      ],
+      [
+        "AC Line Segment 105-106",
+        "Topological Node Roanoke"
+      ],
+      [
+        "AC Line Segment 50-57",
+        "WCambrdg"
+      ],
+      [
+        "Concord Ld",
+        "Menegroth"
+      ],
+      [
+        "AC Line Segment 90-91",
+        "Holston"
+      ],
+      [
+        "HAV132KV",
+        "Substation Havens Of The Falas"
+      ],
+      [
+        "AC Line Segment 55-56",
+        "Voltage Level 132 kV"
+      ],
+      [
+        "Old132kv",
+        "Oldtown"
+      ],
+      [
+        "AC Line Segment 75-118",
+        "SthPoint"
+      ],
+      [
+        "AC Line Segment 92-94",
+        "Saltvlle"
+      ],
+      [
+        "OLD132KV",
+        "Reusens Sc"
+      ],
+      [
+        "AC Line Segment 79-80",
+        "CapitlHl"
+      ],
+      [
+        "Data 132 kV",
+        "HOG132KV"
+      ],
+      [
+        "Ratio Tap Changer 63-59",
+        "Winding 1 Of Transformer 63-59"
+      ],
+      [
+        "AC Line Segment 89-92",
+        "Electrical Resistance"
+      ],
+      [
+        "AC Line Segment 59-61",
+        "Length 113.6 km"
+      ],
+      [
+        "Baileysv Ld",
+        "Dol Amroth"
+      ],
+      [
+        "ALQ132KV",
+        "Substation Alqualondë"
+      ],
+      [
+        "Power Transformer 81-80",
+        "Ratio Tap Changer 81-80"
+      ],
+      [
+        "Sunnysde LD",
+        "Sunnysde LD Active Power"
+      ],
+      [
+        "STA132KV",
+        "Staddle"
+      ],
+      [
+        "AC Line Segment 100-104",
+        "Glen Lyn"
+      ],
+      [
+        "AC Line Segment 32-114",
+        "Delaware"
+      ],
+      [
+        "Lincoln",
+        "Lincoln Ld"
+      ],
+      [
+        "33.4843 Km",
+        "AC Line Segment 96-97"
+      ],
+      [
+        "Oll132kv",
+        "Ollivanders"
+      ],
+      [
+        "Nwlibrty",
+        "Nwlibrty Ld"
+      ],
+      [
+        "AC Line Segment 80-97",
+        "Sundial"
+      ],
+      [
+        "MNA132KV",
+        "Minas Anor Substation"
+      ],
+      [
+        "AC Line Segment 37-40",
+        "Electrical Reactance"
+      ],
+      [
+        "Fro",
+        "Substation Frogmorton"
+      ],
+      [
+        "3.4151 Ohm",
+        "AC Line Segment 11-12"
+      ],
+      [
+        "Ava132kv",
+        "S.Kenton Ld"
+      ],
+      [
+        "SouthBnd",
+        "SouthBnd LD"
+      ],
+      [
+        "AC Line Segment 40-42",
+        "Resistance 9.67032 Ohm"
+      ],
+      [
+        "AC Line Segment 71-72",
+        "Hillsbro"
+      ],
+      [
+        "AC Line Segment 27-115",
+        "Medford"
+      ],
+      [
+        "AC Line Segment 110-112",
+        "Fieldale"
+      ],
+      [
+        "Roanoke",
+        "Roanoke Ld"
+      ],
+      [
+        "DUN132KV",
+        "FtWayne LD"
+      ],
+      [
+        "KGL132KV",
+        "Tidd SM"
+      ],
+      [
+        "Cri220kv",
+        "Substation Crickhollow"
+      ],
+      [
+        "AC Line Segment 5-11",
+        "SouthBnd"
+      ],
+      [
+        "NOB132KV",
+        "Substation Nobottle"
+      ],
+      [
+        "AC Line Segment 16-17",
+        "Topological Node Sorenson1"
+      ],
+      [
+        "STN132KV",
+        "Substation Standelf"
+      ],
+      [
+        "AC Line Segment 2-12",
+        "TwinBrch"
+      ],
+      [
+        "QAR132KV",
+        "Qarth"
+      ],
+      [
+        "PEL132KV",
+        "Pelargir Substation"
+      ],
+      [
+        "AC Line Segment 24-70",
+        "Trenton"
+      ],
+      [
+        "GB Region",
+        "Substation Barad-dûr"
+      ],
+      [
+        "132 Kv Network",
+        "AC Line Segment 17-18"
+      ],
+      [
+        "Madison",
+        "Madison NegG LD"
+      ],
+      [
+        "AC Line Segment 59-61",
+        "Tidd1"
+      ],
+      [
+        "N.Newark SC",
+        "Substation Havens Of The Falas"
+      ],
+      [
+        "Rockhill Sc",
+        "THA132KV"
+      ],
+      [
+        "AZK132KV",
+        "Substation Azkaban"
+      ],
+      [
+        "392 Mw Active Power Injection",
+        "Muskngum Sm"
+      ],
+      [
+        "GB Region",
+        "Substation Ethring"
+      ],
+      [
+        "Synchronous Machine TwinBrch SM",
+        "Topological Node TwinBrch"
+      ],
+      [
+        "AC Line Segment 37-40",
+        "West End"
+      ],
+      [
+        "AC Line Segment 32-114",
+        "WMedford"
+      ],
+      [
+        "HAY132KV",
+        "Haysend"
+      ],
+      [
+        "Power Transformer 8-5",
+        "Winding 1 Of Transformer 8-5"
+      ],
+      [
+        "AC Line Segment 59-61",
+        "W.Kammer"
+      ],
+      [
+        "FRM132KV",
+        "Substation Formenos"
+      ],
+      [
+        "Synchronous Machine DanRiver SM",
+        "Voltage Level KHA132KV"
+      ],
+      [
+        "AC Line Segment 54-59",
+        "Torrey"
+      ],
+      [
+        "AC Line Segment 48-49",
+        "Resistance 3.1189 Ohm"
+      ],
+      [
+        "AC Line Segment 92-94",
+        "Switchbk"
+      ],
+      [
+        "Blaine",
+        "Blaine LD"
+      ],
+      [
+        "Power Network",
+        "W.Kammer Sm"
+      ],
+      [
+        "Substation Tuckborough",
+        "TUC132KV"
+      ],
+      [
+        "5.92416 Ohm",
+        "AC Line Segment 7-12"
+      ],
+      [
+        "AC Line Segment 19-34",
+        "Lincoln"
+      ],
+      [
+        "Cro132kv",
+        "Substation Crownlands"
+      ],
+      [
+        "N.Newark",
+        "Philo"
+      ],
+      [
+        "AC Line Segment 100-101",
+        "Topological Node Glen Lyn"
+      ],
+      [
+        "HAR132KV",
+        "Substation Harrenhal"
+      ],
+      [
+        "AC Line Segment 37-40",
+        "EastLima1"
+      ],
+      [
+        "AC Line Segment 15-17",
+        "Sorenson1"
+      ],
+      [
+        "OLD132KV",
+        "Oldtown"
+      ],
+      [
+        "Tha132kv",
+        "Tharbad"
+      ],
+      [
+        "AC Line Segment 106-107",
+        "Reusens"
+      ],
+      [
+        "GB Region",
+        "Substation Carn Dûm"
+      ],
+      [
+        "GB Region",
+        "Substation Ephel Brandir"
+      ],
+      [
+        "AC Line Segment 62-66",
+        "Topological Node Muskngum1"
+      ],
+      [
+        "HRL132KV",
+        "Substation Harlond"
+      ],
+      [
+        "0 Mvar Reactive Power Injection",
+        "Power Network"
+      ],
+      [
+        "HOG132KV",
+        "Sunnysde LD"
+      ],
+      [
+        "Energy Consumer Fremont LD",
+        "Topological Node Fremont"
+      ],
+      [
+        "Tuckborough",
+        "Wooster Ld"
+      ],
+      [
+        "AC Line Segment 25-27",
+        "TannrsCk1"
+      ],
+      [
+        "THA132KV",
+        "Unspecified Linear Shunt Compensator At Rockhill"
+      ],
+      [
+        "AC Line Segment 50-57",
+        "WNwPhil1"
+      ],
+      [
+        "Muskngum1",
+        "Winding 2 Of Transformer 65-66"
+      ],
+      [
+        "Ac Line Segment 24-70",
+        "Trenton"
+      ],
+      [
+        "Ac Line Segment 12-117",
+        "Xmo_Te32"
+      ],
+      [
+        "80.2223 Km",
+        "AC Line Segment 77-82"
+      ],
+      [
+        "AC Line Segment 109-110",
+        "Fieldale"
+      ],
+      [
+        "Dale",
+        "Smythe LD"
+      ],
+      [
+        "AC Line Segment 70-74",
+        "Topological Node Portsmth"
+      ],
+      [
+        "Ac Line Segment 49-54",
+        "Torrey"
+      ],
+      [
+        "GB region",
+        "Substation Winterfell"
+      ],
+      [
+        "GB Region",
+        "Substation Tuckborough"
+      ],
+      [
+        "BRI132KV",
+        "Data 132 kV"
+      ],
+      [
+        "RUS132KV",
+        "SouthBnd LD"
+      ],
+      [
+        "HOB132KV",
+        "Substation Hobbiton"
+      ],
+      [
+        "AC Line Segment 92-93",
+        "Tazewell"
+      ],
+      [
+        "Energy Consumer Sorenson LD",
+        "Substation Standelf"
+      ],
+      [
+        "Topological Node Fremont",
+        "Voltage Level HOB132KV"
+      ],
+      [
+        "S.Tiffin",
+        "West End"
+      ],
+      [
+        "AC Line Segment 8-30",
+        "Resistance 2.08604 Ohm"
+      ],
+      [
+        "AC Line Segment 35-37",
+        "Topological Node EastLima1"
+      ],
+      [
+        "Eph132kv",
+        "Substation Ephel Brandir"
+      ],
+      [
+        "Topological Node WMVernon",
+        "WMVernon SC"
+      ],
+      [
+        "Active Power 252 MW",
+        "Synchronous Machine Glen Lyn SM"
+      ],
+      [
+        "Philo",
+        "Philo LD"
+      ],
+      [
+        "MIT132KV",
+        "Substation Mithlond"
+      ],
+      [
+        "Delaware LD",
+        "ERE132KV"
+      ],
+      [
+        "Kings Landing",
+        "Tidd Sm"
+      ],
+      [
+        "AC Line Segment 94-95",
+        "Caldwell"
+      ],
+      [
+        "Rated Apparent Power 400 Mva",
+        "Winding 1 Of Transformer 64-61"
+      ],
+      [
+        "Cabincrk Sm",
+        "Reactive Power 0 Mvar"
+      ],
+      [
+        "Sundial Ld",
+        "Tirion"
+      ],
+      [
+        "0 Mvar Reactive Power Injection By W.Kammer Sm",
+        "W.Kammer Sm"
+      ],
+      [
+        "AC Line Segment 66-67",
+        "Muskngum1"
+      ],
+      [
+        "AC Line Segment 33-37",
+        "Topological Node Haviland"
+      ],
+      [
+        "Cabincrk Ld",
+        "Crick"
+      ],
+      [
+        "CAS132KV",
+        "Substation Casterly Rock"
+      ],
+      [
+        "AC Line Segment 69-75",
+        "Electrical Reactance"
+      ],
+      [
+        "Hazard",
+        "Hazard LD"
+      ],
+      [
+        "S.Kenton",
+        "S.Kenton Ld"
+      ],
+      [
+        "AC Line Segment 70-75",
+        "Portsmth"
+      ],
+      [
+        "The Wall",
+        "The132kv"
+      ],
+      [
+        "AC Line Segment 69-77",
+        "Sporn1"
+      ],
+      [
+        "GUL132KV",
+        "WHuntngd Ld"
+      ],
+      [
+        "AC Line Segment 40-42",
+        "Howard"
+      ],
+      [
+        "AC Line Segment 71-73",
+        "Reactance 7.9105 Ohm"
+      ],
+      [
+        "AC Line Segment 68-116",
+        "Reactance 1.9602 Ohm"
+      ],
+      [
+        "132 kV",
+        "VIN132KV"
+      ],
+      [
+        "Howard Negg Ld",
+        "Pel132kv"
+      ],
+      [
+        "GB Region",
+        "Substation Rivendell"
+      ],
+      [
+        "AND132KV",
+        "Data 132 kV"
+      ],
+      [
+        "132KV",
+        "CAS132KV"
+      ],
+      [
+        "Mic132kv",
+        "Michel Delving"
+      ],
+      [
+        "OST132KV",
+        "Substation Ost-in-Edhil"
+      ],
+      [
+        "BEL132KV",
+        "SCoshoct LD"
+      ],
+      [
+        "AC Line Segment 7-12",
+        "Twinbrch"
+      ],
+      [
+        "AC Line Segment 46-48",
+        "Topological Node W.Lancst"
+      ],
+      [
+        "Danriver",
+        "Danriver Sm"
+      ],
+      [
+        "AC Line Segment 59-60",
+        "SWKammer"
+      ],
+      [
+        "GRE132KV",
+        "Substation Grey Havens"
+      ],
+      [
+        "AC Line Segment 105-108",
+        "Topological Node Roanoke"
+      ],
+      [
+        "Active Power 391 Mw",
+        "Muskngum Sm"
+      ],
+      [
+        "Bel132kv",
+        "Substation Belegost"
+      ],
+      [
+        "BAR132KV",
+        "Bellefnt LD"
+      ],
+      [
+        "AC Line Segment 17-18",
+        "McKinley"
+      ],
+      [
+        "Philo",
+        "Philo SM"
+      ],
+      [
+        "New132kv",
+        "Wcambrdg Ld"
+      ],
+      [
+        "Roh132kv",
+        "Rohan"
+      ],
+      [
+        "Andúnië",
+        "Power Transformer 8-5"
+      ],
+      [
+        "Danville NegG Ld",
+        "Topological Node Danville"
+      ],
+      [
+        "Ratio Tap Changer 64-61 On Winding 1",
+        "Winding 1 Of Transformer 64-61"
+      ],
+      [
+        "Power Transformer 30-17",
+        "Ratio Tap Changer 30-17"
+      ],
+      [
+        "AC Line Segment 48-49",
+        "Topological Node Zanesvll"
+      ],
+      [
+        "CAL132KV",
+        "Energy Consumer WestLima LD"
+      ],
+      [
+        "AC Line Segment 18-19",
+        "Lincoln"
+      ],
+      [
+        "AC Line Segment 101-102",
+        "Wythe"
+      ],
+      [
+        "Stock",
+        "Tazewell LD"
+      ],
+      [
+        "GB Region",
+        "Substation Michel Delving"
+      ],
+      [
+        "N.Newark Ld",
+        "Topological Node N.Newark"
+      ],
+      [
+        "AC Line Segment 34-36",
+        "Rockhill"
+      ],
+      [
+        "Topological Node Turner",
+        "Turner Ld"
+      ],
+      [
+        "Barad-dûr",
+        "Bellefnt LD"
+      ],
+      [
+        "Upb132kv",
+        "Upbourn"
+      ],
+      [
+        "35.8946 Km",
+        "AC Line Segment 22-23"
+      ],
+      [
+        "RÓM132KV",
+        "Substation Rómenna"
+      ],
+      [
+        "Rushey",
+        "SouthBnd LD"
+      ],
+      [
+        "Minas Tirith",
+        "Mnt132kv"
+      ],
+      [
+        "Nwlibrty Ld",
+        "Sto132kv"
+      ],
+      [
+        "Energy Consumer Delaware LD",
+        "Topological Node Delaware"
+      ],
+      [
+        "GUL132KV",
+        "Gulltown"
+      ],
+      [
+        "GB Region",
+        "Substation Tharbad"
+      ],
+      [
+        "AC Line Segment 31-32",
+        "Topological Node DeerCrk"
+      ],
+      [
+        "Bradley",
+        "Bradley Ld"
+      ],
+      [
+        "DUN132KV",
+        "Dunharrow"
+      ],
+      [
+        "Substation Armenelos",
+        "Synchronous Machine Glen Lyn SM"
+      ],
+      [
+        "AC Line Segment 59-61",
+        "Voltage 132 kV"
+      ],
+      [
+        "AC Line Segment 62-66",
+        "Topological Node Natrium"
+      ],
+      [
+        "AC Line Segment 17-31",
+        "DeerCrk"
+      ],
+      [
+        "GB region",
+        "Substation Nogrod"
+      ],
+      [
+        "AC Line Segment 80-96",
+        "CabinCrk"
+      ],
+      [
+        "AC Line Segment 51-52",
+        "Topological Node Newcmrst"
+      ],
+      [
+        "Edh132kv",
+        "Substation Edhellond"
+      ],
+      [
+        "ERB132KV",
+        "Kankakee LD"
+      ],
+      [
+        "CRO132KV",
+        "Crownlands"
+      ],
+      [
+        "Topological Node Sporn1",
+        "Winding 2 Of Transformer 68-69"
+      ],
+      [
+        "AC Line Segment 7-12",
+        "JacksnRd"
+      ],
+      [
+        "AC Line Segment 109-110",
+        "Franklin"
+      ],
+      [
+        "153.036 km",
+        "AC Line Segment 14-15"
+      ],
+      [
+        "Eld132kv",
+        "Goshenjt Ld"
+      ],
+      [
+        "Rated Voltage 132 Kv",
+        "Winding 2 Of Transformer 81-80"
+      ],
+      [
+        "Gb",
+        "Substation Annúminas"
+      ],
+      [
+        "AC Line Segment 12-16",
+        "TwinBrch"
+      ],
+      [
+        "AC Line Segment 82-96",
+        "Baileysv"
+      ],
+      [
+        "AC Line Segment 29-31",
+        "Electrical Reactance"
+      ],
+      [
+        "Energy Consumer Riversde LD",
+        "Topological Node Riversde"
+      ],
+      [
+        "AC Line Segment 25-27",
+        "Resistance 5.54083 Ohm"
+      ],
+      [
+        "AC Line Segment 55-59",
+        "Wagenhls"
+      ],
+      [
+        "Gul132kv",
+        "Whuntngd Ld"
+      ],
+      [
+        "Rated Apparent Power 0 Mva",
+        "Synchronous Machine Glen Lyn SM"
+      ],
+      [
+        "Bellefnt",
+        "Bellefnt Sc"
+      ],
+      [
+        "Power Network",
+        "Tannrsck Sm"
+      ],
+      [
+        "Newcmrst",
+        "Newcmrst LD"
+      ],
+      [
+        "AC Line Segment 106-107",
+        "Topological Node Cloverdl"
+      ],
+      [
+        "Muskngum Ld",
+        "Upbourn"
+      ],
+      [
+        "AC Line Segment 56-59",
+        "Sunnysde"
+      ],
+      [
+        "132KV",
+        "DUR132KV"
+      ],
+      [
+        "EDO132KV",
+        "Substation Edoras"
+      ],
+      [
+        "305.694 Km",
+        "AC Line Segment 30-38"
+      ],
+      [
+        "West End",
+        "West End Negg Ld"
+      ],
+      [
+        "Substation Vinyamar",
+        "Vin132kv"
+      ],
+      [
+        "AC Line Segment 89-90",
+        "ClinchRv"
+      ],
+      [
+        "AC Line Segment 23-32",
+        "CollCrnr"
+      ],
+      [
+        "VLA132KV",
+        "Vale of Arryn"
+      ],
+      [
+        "Substation Westerlands",
+        "WES132KV"
+      ],
+      [
+        "AC Line Segment 90-91",
+        "HolstonT"
+      ],
+      [
+        "Power Transformer 30-17",
+        "Ratio Tap Changer 30-17 On Winding 1"
+      ],
+      [
+        "AC Line Segment 85-89",
+        "ClinchRv"
+      ],
+      [
+        "AC Line Segment 94-100",
+        "Glen Lyn"
+      ],
+      [
+        "Car132kv",
+        "Caras Galadhon"
+      ],
+      [
+        "AC Line Segment 75-118",
+        "Electrical Reactance"
+      ],
+      [
+        "Gb",
+        "Substation Dunharrow"
+      ],
+      [
+        "AC Line Segment 3-5",
+        "Olive2"
+      ],
+      [
+        "AC Line Segment 68-116",
+        "XWE_BR21"
+      ],
+      [
+        "AC Line Segment 37-40",
+        "Line Length"
+      ],
+      [
+        "GB Region",
+        "Substation Linhir"
+      ],
+      [
+        "AC Line Segment 85-88",
+        "BeaverCk"
+      ],
+      [
+        "Cri132kv",
+        "Crickhollow"
+      ],
+      [
+        "ALQ132KV",
+        "Alqualondë Substation"
+      ],
+      [
+        "Michel Delving",
+        "Wythe Ld"
+      ],
+      [
+        "BYW132KV",
+        "Blaine LD"
+      ],
+      [
+        "ESG132KV",
+        "Substation Esgaroth"
+      ],
+      [
+        "132 kV",
+        "AND132KV"
+      ],
+      [
+        "GB Region",
+        "Substation Westerlands"
+      ],
+      [
+        "HAV132KV",
+        "N.Newark Ld"
+      ],
+      [
+        "AC Line Segment 39-40",
+        "NwLibrty"
+      ],
+      [
+        "Energy Consumer Haviland LD",
+        "Substation Harrenhal"
+      ],
+      [
+        "GB Region",
+        "Substation Mithlond"
+      ],
+      [
+        "AC Line Segment 76-118",
+        "WHuntngd"
+      ],
+      [
+        "Energy Consumer Madison LD",
+        "Substation Nurmengard"
+      ],
+      [
+        "AC Line Segment 15-19",
+        "FtWayne"
+      ],
+      [
+        "MEN132KV",
+        "Substation Menegroth"
+      ],
+      [
+        "Deer Crk",
+        "Deer Crk Negg Ld"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 14-15"
+      ],
+      [
+        "AC Line Segment 89-92",
+        "Electrical Reactance"
+      ],
+      [
+        "GB Region",
+        "Substation Harrenhal"
+      ],
+      [
+        "PIN132KV",
+        "Substation Pincup"
+      ],
+      [
+        "SCA132KV",
+        "WMVernon LD"
+      ],
+      [
+        "Transformer 38-37",
+        "Winding 1 Of Transformer 38-37"
+      ],
+      [
+        "BetsyLne LD",
+        "OST132KV"
+      ],
+      [
+        "HAY132KV",
+        "Sporn SM"
+      ],
+      [
+        "AC Line Segment 103-104",
+        "Claytor"
+      ],
+      [
+        "Substation Upbourn",
+        "UPB132KV"
+      ],
+      [
+        "Delaware",
+        "Delaware LD"
+      ],
+      [
+        "Tidd Sm",
+        "Tidd1"
+      ],
+      [
+        "BYW132KV",
+        "Data 132 kV"
+      ],
+      [
+        "Ratio Tap Changer 68-69",
+        "Winding 1 Of Transformer 68-69"
+      ],
+      [
+        "Mna132kv",
+        "Substation Minas Anor"
+      ],
+      [
+        "Ac Line Segment 21-22",
+        "Randolph"
+      ],
+      [
+        "10.3324 Ohm",
+        "AC Line Segment 37-40"
+      ],
+      [
+        "40.1683 Km",
+        "AC Line Segment 11-12"
+      ],
+      [
+        "KGL132KV",
+        "Kings Landing"
+      ],
+      [
+        "132 kV Voltage Level",
+        "AC Line Segment 75-118"
+      ],
+      [
+        "Muskngum Sm",
+        "Upb132kv"
+      ],
+      [
+        "Blaine LD",
+        "Bywater"
+      ],
+      [
+        "Eastlima Sc",
+        "Eastlima1"
+      ],
+      [
+        "Power Transformer 26-25",
+        "Winding 2 Of Transformer 26-25"
+      ],
+      [
+        "Switchbk",
+        "Switchbk LD"
+      ],
+      [
+        "14.8975 Ohm",
+        "AC Line Segment 27-28"
+      ],
+      [
+        "AC Line Segment 27-28",
+        "Mullin"
+      ],
+      [
+        "GB Region",
+        "Substation Rómenna"
+      ],
+      [
+        "AC Line Segment 108-109",
+        "Franklin"
+      ],
+      [
+        "GB Region",
+        "Substation Umbar"
+      ],
+      [
+        "FAN132KV",
+        "Fangorn Forest"
+      ],
+      [
+        "132 Kv Network",
+        "AC Line Segment 3-12"
+      ],
+      [
+        "GB Region",
+        "Substation Bywater"
+      ],
+      [
+        "GB Region",
+        "Substation Diagon Alley"
+      ],
+      [
+        "Capitlh Hl Ld",
+        "Frl132kv"
+      ],
+      [
+        "Energy Consumer Holston NegG LD",
+        "Substation Grey Havens"
+      ],
+      [
+        "Fieldale",
+        "Fieldale LD"
+      ],
+      [
+        "314 Mw Active Power Injection",
+        "Tannrsck Sm"
+      ],
+      [
+        "AC Line Segment 5-11",
+        "Olive2"
+      ],
+      [
+        "Energy Consumer Adams LD",
+        "Topological Node Adams"
+      ],
+      [
+        "Power Transformer 38-37",
+        "Winding 1 Of Transformer 38-37"
+      ],
+      [
+        "GB Region",
+        "Substation Aldburg"
+      ],
+      [
+        "AC Line Segment 51-58",
+        "Topological Node Newcmrst"
+      ],
+      [
+        "Scary",
+        "WMVernon LD"
+      ],
+      [
+        "Energy Consumer Sterling LD",
+        "Topological Node Sterling"
+      ],
+      [
+        "Topological Node Rockhill",
+        "Unspecified Linear Shunt Compensator At Rockhill"
+      ],
+      [
+        "CollCrnr",
+        "Trenton"
+      ],
+      [
+        "Active Power 85 MW",
+        "Synchronous Machine TwinBrch SM"
+      ],
+      [
+        "Energy Consumer Franklin LD",
+        "Substation Rivendell"
+      ],
+      [
+        "GB Region",
+        "Substation Gulltown"
+      ],
+      [
+        "LON132KV",
+        "Substation Lond Daer Enedh"
+      ],
+      [
+        "132 kV",
+        "AC Line Segment 12-16"
+      ],
+      [
+        "AC Line Segment 19-34",
+        "Rockhill"
+      ],
+      [
+        "39.2203 km",
+        "AC Line Segment 103-104"
+      ],
+      [
+        "DUR132KV",
+        "Durmstrang"
+      ],
+      [
+        "AC Line Segment 37-40",
+        "Electrical Resistance"
+      ],
+      [
+        "GON220KV",
+        "Substation Gondolin"
+      ],
+      [
+        "AC Line Segment 69-75",
+        "Line Length"
+      ],
+      [
+        "Bradley Ld",
+        "Casterly Rock"
+      ],
+      [
+        "AC Line Segment 90-91",
+        "Topological Node HolstonT"
+      ],
+      [
+        "Avallonë",
+        "S.Kenton Ld"
+      ],
+      [
+        "Unspecified AC Line Segment",
+        "Voltage Level 220 kV"
+      ],
+      [
+        "Topological Node Sporn2",
+        "Winding 1 Of Transformer 68-69"
+      ],
+      [
+        "AC Line Segment 100-104",
+        "Hancock"
+      ],
+      [
+        "GB region",
+        "Substation Ollivanders"
+      ],
+      [
+        "Substation Harrenhal",
+        "Voltage Level HAR132KV"
+      ],
+      [
+        "HOG132KV",
+        "Substation Hogsmeade"
+      ],
+      [
+        "Synchronous Machine Glen Lyn SM",
+        "Voltage Level ARM132KV"
+      ],
+      [
+        "Hillsbro Negg Ld",
+        "Topological Node Hillsbro"
+      ],
+      [
+        "Rockhill",
+        "Rockhill Sc"
+      ],
+      [
+        "Ac Line Segment 100-106",
+        "Cloverdl"
+      ],
+      [
+        "107.849 Km",
+        "AC Line Segment 32-113"
+      ],
+      [
+        "Gb",
+        "Substation Erech"
+      ],
+      [
+        "AC Line Segment 98-100",
+        "Bradley"
+      ],
+      [
+        "AC Line Segment 61-62",
+        "W.Kammer"
+      ],
+      [
+        "JacksnRd",
+        "JacksnRd LD"
+      ],
+      [
+        "God132kv",
+        "Godrics Hollow"
+      ],
+      [
+        "AC Line Segment 11-13",
+        "Concord"
+      ],
+      [
+        "N.Newark SC",
+        "Topological Node N.Newark"
+      ],
+      [
+        "Topological Node Summerfl",
+        "Unnamed Energy Consumer At Lond Daer Enedh"
+      ],
+      [
+        "Reusens",
+        "Reusens Ld"
+      ],
+      [
+        "Tidd SM",
+        "Tidd1"
+      ],
+      [
+        "AC Line Segment 28-29",
+        "Topological Node Grant"
+      ],
+      [
+        "Gob132kv",
+        "Turner Ld"
+      ],
+      [
+        "Topological Node Kammer",
+        "Winding 1 Of Transformer 64-61"
+      ],
+      [
+        "160 Mw Active Power Injection",
+        "W.Kammer Sm"
+      ],
+      [
+        "Ann132kv",
+        "Annúminas"
+      ],
+      [
+        "Substation Hobbiton",
+        "Voltage Level HOB132KV"
+      ],
+      [
+        "Philo",
+        "Torrey"
+      ],
+      [
+        "Power Transformer 64-61",
+        "Winding 2 Of Transformer 64-61"
+      ]
+    ],
+    "count": 1544,
+    "create_time": 1781189740,
+    "update_time": 1781189740,
+    "_id": "doc-e5b7511181d9d21111b49ecee6f4b82f"
+  }
+}

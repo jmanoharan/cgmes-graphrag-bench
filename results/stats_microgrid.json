@@ -1,0 +1,84 @@
+{
+  "h2_comparisons": {
+    "All": {
+      "n": 50,
+      "acc_std": 0.82,
+      "acc_llm": 0.82,
+      "delta_pp": 0.0,
+      "delta_ci95_pp": [
+        -13.6,
+        13.6
+      ],
+      "mcnemar_b_std_only": 6,
+      "mcnemar_c_llm_only": 6,
+      "p_mcnemar_exact": 1.0,
+      "p_wilcoxon_sign": 1.0,
+      "p_holm": 1.0,
+      "significant_at_0.05_holm": false
+    },
+    "S1": {
+      "n": 25,
+      "acc_std": 0.96,
+      "acc_llm": 0.8,
+      "delta_pp": 16.0,
+      "delta_ci95_pp": [
+        -2.2,
+        34.2
+      ],
+      "mcnemar_b_std_only": 5,
+      "mcnemar_c_llm_only": 1,
+      "p_mcnemar_exact": 0.21875,
+      "p_wilcoxon_sign": 0.21875,
+      "p_holm": 0.65625,
+      "significant_at_0.05_holm": false
+    },
+    "S2": {
+      "n": 25,
+      "acc_std": 0.68,
+      "acc_llm": 0.84,
+      "delta_pp": -16.0,
+      "delta_ci95_pp": [
+        -34.2,
+        2.2
+      ],
+      "mcnemar_b_std_only": 1,
+      "mcnemar_c_llm_only": 5,
+      "p_mcnemar_exact": 0.21875,
+      "p_wilcoxon_sign": 0.21875,
+      "p_holm": 0.65625,
+      "significant_at_0.05_holm": false
+    }
+  },
+  "judge_reliability": {
+    "kappa_gpt51_vs_claude": 1.0,
+    "kappa_det_vs_gpt51": 0.9668,
+    "kappa_det_vs_claude": 0.9668,
+    "judge_errors": 0
+  },
+  "h3": {
+    "g_std": {
+      "method": "Direct CGMES RDF/XML parse (ENTSO-E MicroGrid BC Assembled, CGMES v2.4.15)",
+      "wall_sec": 0.010031700134277344,
+      "llm_calls": 0,
+      "llm_tokens": 0,
+      "nodes": 233,
+      "edges": 362,
+      "source": "ENTSO-E CGMES Conformity Assessment test configuration (via powsybl-core mirror)"
+    },
+    "g_llm": {
+      "method": "LightRAG 1.5.1 (Azure gpt-5.1 builder + local MiniLM embeddings)",
+      "wall_sec": 78.24288153648376,
+      "llm_calls": 18,
+      "prompt_tokens": 65256,
+      "completion_tokens": 22706,
+      "total_tokens": 87962,
+      "corpus_words": 2299,
+      "nodes": 149,
+      "edges": 190
+    },
+    "wall_ratio_llm_over_std": 7799.6,
+    "token_gap": "87962 vs 0",
+    "note": "Wall ratio is dominated by cloud API latency; the structural point is 0 LLM calls / 0 tokens for G_STD vs full corpus re-processing for G_LLM, which scales with corpus size."
+  },
+  "registered_mde_note": "Pre-registered MDE: n=50 -> ~23pp, n=25 (stratum) -> ~32pp (Holm, alpha=0.05, power=0.80). Effects below MDE reported as inconclusive regardless of nominal p."
+}

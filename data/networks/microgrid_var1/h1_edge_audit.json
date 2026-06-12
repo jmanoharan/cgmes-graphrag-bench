@@ -1,0 +1,2517 @@
+[
+  {
+    "src": "Be-Tr2_3",
+    "dst": "Winding 2",
+    "rel": "controls tap ratio,installed on",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Winding 2",
+    "dst": "Nl-Busbar_2",
+    "rel": "connected to",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Winding 2",
+    "dst": "Nl-Tr2_1",
+    "rel": "belongs to,part of",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Nl-Tr2_1",
+    "dst": "Pp_Amsterdam",
+    "rel": "installed in,located in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Nl-Tr2_1",
+    "dst": "Winding 1",
+    "rel": "belongs to,part of",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Pp_Amsterdam",
+    "dst": "Nl-G3",
+    "rel": "located in,operates in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Pp_Amsterdam",
+    "dst": "Nl-G2",
+    "rel": "located in,operates in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Winding 1",
+    "dst": "N1230992195",
+    "rel": "connected to",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Winding 1",
+    "dst": "Nl-Tr2_1 (Tap Changer)",
+    "rel": "controls tap ratio,installed on",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "N1230992195",
+    "dst": "NL-Line_1",
+    "rel": "connects_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "N1230992195",
+    "dst": "TN_Border_AL11",
+    "rel": "ac_line_path,connected_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "TYPE_B"
+  },
+  {
+    "src": "N1230992195",
+    "dst": "PP_Amsterdam",
+    "rel": "connection",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "N1230992195",
+    "dst": "NL-S1",
+    "rel": "connection,installation",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "N1230992195",
+    "dst": "NL-Line_2",
+    "rel": "AC line segment,connects",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "N1230992195",
+    "dst": "NL-Line_5",
+    "rel": "AC line segment,connects",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Nl-G3",
+    "dst": "Voltage Level 15.8",
+    "rel": "operates at",
+    "canonical_label": [
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": false
+  },
+  {
+    "src": "Nl-G3",
+    "dst": "N1230822413",
+    "rel": "connected to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Nl-G3",
+    "dst": "Gen-12908",
+    "rel": "belongs to,member of",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Voltage Level 15.8",
+    "dst": "Nl-G2",
+    "rel": "operates at",
+    "canonical_label": [
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": false
+  },
+  {
+    "src": "Voltage Level 15.8",
+    "dst": "Synchronous Machine NL-G1",
+    "rel": "operation_voltage",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Voltage Level 15.8",
+    "dst": "NL-Busbar_3",
+    "rel": "installed in,operates at",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Voltage Level 15.8",
+    "dst": "NL-Busbar_5",
+    "rel": "installed in,operates at",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "N1230822413",
+    "dst": "Nl-G2",
+    "rel": "connected to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "N1230822413",
+    "dst": "Winding 2 Of NL_TR2_2",
+    "rel": "connected to",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "N1230822413",
+    "dst": "NL-Busbar_3",
+    "rel": "corresponds to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Gen-12908",
+    "dst": "Maximum Operating Power 250 Mw",
+    "rel": "has parameter",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Gen-12908",
+    "dst": "Minimum Operating Power 130 Mw",
+    "rel": "has parameter",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Gen-12910",
+    "dst": "Nl-G2",
+    "rel": "belongs to,member of",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Gen-12910",
+    "dst": "Maximum Operating Power 250 Mw",
+    "rel": "has parameter",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Gen-12910",
+    "dst": "Minimum Operating Power 130 Mw",
+    "rel": "has parameter",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Be-G1",
+    "dst": "Pp_Brussels",
+    "rel": "located in,operates in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Be-G1",
+    "dst": "Voltage Level 10.5",
+    "rel": "operates at",
+    "canonical_label": [
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": false
+  },
+  {
+    "src": "Be-G1",
+    "dst": "Be-Busbar_4",
+    "rel": "connected to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Be-G1",
+    "dst": "Gen-1229753060",
+    "rel": "belongs to,member of",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Voltage Level 10.5",
+    "dst": "BE-Busbar_4",
+    "rel": "installed in,operates at",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Maximum Operating Power 200 Mw",
+    "dst": "Gen-1229753060",
+    "rel": "has parameter",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Minimum Operating Power 50 Mw",
+    "dst": "Gen-1229753060",
+    "rel": "has parameter",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "BE-TR2_3",
+    "dst": "PP_Brussels",
+    "rel": "installation_location",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-TR2_3",
+    "dst": "Winding 1 Of BE-TR2_3",
+    "rel": "component_of",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-TR2_3",
+    "dst": "Winding 2 Of BE-TR2_3",
+    "rel": "component_of",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-TR2_3",
+    "dst": "Ratio Tap Changer BE-TR2_3",
+    "rel": "component_of,installed_on",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "NL-TR2_1",
+    "dst": "PP_Amsterdam",
+    "rel": "installation_location,installed in,located in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL-TR2_1",
+    "dst": "NL-TR2_1 Tap Changer",
+    "rel": "associated with,installed on",
+    "canonical_label": [
+      "CONTAINMENT",
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Amsterdam",
+    "dst": "NL_TR2_3",
+    "rel": "installed in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Amsterdam",
+    "dst": "NL-Busbar_3",
+    "rel": "installed in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Amsterdam",
+    "dst": "NL-Busbar_5",
+    "rel": "installed in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Amsterdam",
+    "dst": "NL-Load_3",
+    "rel": "location,voltage level",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Amsterdam",
+    "dst": "NL-S1",
+    "rel": "installation,voltage level",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Amsterdam",
+    "dst": "B1",
+    "rel": "location,voltage level",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Amsterdam",
+    "dst": "NL_TR2_2",
+    "rel": "installed in,location",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Brussels",
+    "dst": "BE-TR2_1",
+    "rel": "installation_location,installed in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Brussels",
+    "dst": "BE-TR3_1",
+    "rel": "installed in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Brussels",
+    "dst": "BE-Busbar_4",
+    "rel": "installed in,installed_in,location_of",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Brussels",
+    "dst": "Usbar_6",
+    "rel": "installed in",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "PP_Brussels",
+    "dst": "BE-Busbar_3",
+    "rel": "installed in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Brussels",
+    "dst": "N1230992288",
+    "rel": "installed in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Brussels",
+    "dst": "BE-Busbar_1",
+    "rel": "installed in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Brussels",
+    "dst": "N1230992291",
+    "rel": "installed in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Brussels",
+    "dst": "BE-TR2_2",
+    "rel": "installation_location",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Brussels",
+    "dst": "BE-Load_1",
+    "rel": "location,voltage level",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Brussels",
+    "dst": "BE_S2",
+    "rel": "installation,voltage level",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "PP_Brussels",
+    "dst": "BE_S1",
+    "rel": "installation,voltage level",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL-G3 Active Power 150 MW",
+    "dst": "NL-G3",
+    "rel": "has parameter,injects",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "NL-G3 Reactive Power 83.296 MVAr",
+    "dst": "NL-G3",
+    "rel": "has parameter,injects",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "NL-G2 Active Power 140 MW",
+    "dst": "NL-G2",
+    "rel": "has parameter,injects",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "NL-G2 Reactive Power 77.743 MVAr",
+    "dst": "NL-G2",
+    "rel": "has parameter,injects",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "BE-G1 Active Power 90 MW",
+    "dst": "BE-G1",
+    "rel": "has parameter,injects",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "NL_TR2_2",
+    "dst": "Winding 1 Of NL_TR2_2",
+    "rel": "has part",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL_TR2_2",
+    "dst": "Winding 2 Of NL_TR2_2",
+    "rel": "has part",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL_TR2_2",
+    "dst": "NL_TR2_2 Ratio Tap Changer",
+    "rel": "equipped with",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL_TR2_2",
+    "dst": "Winding 1 of NL_TR2_2",
+    "rel": "has part,winding",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL_TR2_2",
+    "dst": "Winding 2 of NL_TR2_2",
+    "rel": "has part,winding",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL_TR2_2",
+    "dst": "Power Transformer",
+    "rel": "instance of,type",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "NL_TR2_3",
+    "dst": "Winding 1 Of NL_TR2_3",
+    "rel": "has part",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL_TR2_3",
+    "dst": "Winding 2 Of NL_TR2_3",
+    "rel": "has part",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL_TR2_3",
+    "dst": "NL_TR2_3 Ratio Tap Changer",
+    "rel": "equipped with",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-TR3_1",
+    "dst": "Winding 1 Of BE-TR3_1",
+    "rel": "has part",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-TR3_1",
+    "dst": "Winding 2 Of BE-TR3_1",
+    "rel": "has part",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-TR3_1",
+    "dst": "Winding 3 Of BE-TR3_1",
+    "rel": "has part",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-TR3_1",
+    "dst": "BE-TR3_1 Ratio Tap Changer",
+    "rel": "equipped with",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-TR2_1",
+    "dst": "Winding 1 Of BE-TR2_1",
+    "rel": "component_of,has part",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-TR2_1",
+    "dst": "Winding 2 Of BE-TR2_1",
+    "rel": "component_of,has part",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-TR2_1",
+    "dst": "BE-TR2_1 Ratio Tap Changer",
+    "rel": "equipped with",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-TR2_1",
+    "dst": "Phase Tap Changer BE-TR2_1",
+    "rel": "component_of,installed_on",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Winding 1 Of NL_TR2_3",
+    "dst": "NL-Busbar_2",
+    "rel": "connected to",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Winding 2 Of NL_TR2_3",
+    "dst": "NL_TR_BUS2",
+    "rel": "connected to",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Winding 1 Of BE-TR3_1",
+    "dst": "BE_TR_BUS2",
+    "rel": "connected to",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Winding 2 Of BE-TR3_1",
+    "dst": "BE_TR_BUS4",
+    "rel": "connected to",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Winding 3 Of BE-TR3_1",
+    "dst": "BE-Busbar_5",
+    "rel": "connected to",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Winding 1 Of BE-TR2_1",
+    "dst": "BE_TR_BUS2",
+    "rel": "electrical_connection",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Winding 1 Of BE-TR2_1",
+    "dst": "Phase Tap Changer BE-TR2_1",
+    "rel": "associated_with,installed_on",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "NL_Busbar__4",
+    "dst": "NL-Line_4",
+    "rel": "connects_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL_Busbar__4",
+    "dst": "NL-Line_3",
+    "rel": "connects_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL_Busbar__4",
+    "dst": "TN_Border_ST23",
+    "rel": "ac_line_path,connected_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "TYPE_B"
+  },
+  {
+    "src": "NL_Busbar__4",
+    "dst": "TN_Border_ST24",
+    "rel": "ac_line_path,connected_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "TYPE_B"
+  },
+  {
+    "src": "NL_Busbar__4",
+    "dst": "B1",
+    "rel": "connection",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL_Busbar__4",
+    "dst": "Winding 1 of NL_TR2_2",
+    "rel": "connects,transformer winding",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL-Busbar_2",
+    "dst": "NL-Load_3",
+    "rel": "connection",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "POWERFLOW"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL-Busbar_2",
+    "dst": "B1",
+    "rel": "connection",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL_TR_BUS2",
+    "dst": "NL-Busbar_5",
+    "rel": "corresponds to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE_TR_BUS2",
+    "dst": "BE-Line_3",
+    "rel": "connects_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE_TR_BUS2",
+    "dst": "BE-Line_5",
+    "rel": "AC line segment,connects,connects_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE_TR_BUS2",
+    "dst": "TN_Border_AL11",
+    "rel": "ac_line_path,connected_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "TYPE_B"
+  },
+  {
+    "src": "BE_TR_BUS2",
+    "dst": "TN_Border_GY11",
+    "rel": "ac_line_path,connected_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "TYPE_B"
+  },
+  {
+    "src": "BE_TR_BUS2",
+    "dst": "BE-Busbar_1",
+    "rel": "corresponds to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE_TR_BUS2",
+    "dst": "BE_S2",
+    "rel": "connection,installation",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE_TR_BUS2",
+    "dst": "BE-Line_4",
+    "rel": "AC line segment,connects",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE_TR_BUS4",
+    "dst": "N1230992288",
+    "rel": "corresponds to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE_TR_BUS4",
+    "dst": "BE-Busbar_3",
+    "rel": "corresponds to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE_TR_BUS4",
+    "dst": "N1230992291",
+    "rel": "corresponds to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE_TR_BUS4",
+    "dst": "Winding 1 Of BE-TR2_2",
+    "rel": "electrical_connection",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE_TR_BUS4",
+    "dst": "BE-Line_2",
+    "rel": "AC line segment,connects",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE_TR_BUS4",
+    "dst": "BE-Line_6",
+    "rel": "AC line segment,connects",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Winding 2 Of BE-TR2_1",
+    "dst": "BE-Busbar_6",
+    "rel": "electrical_connection",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Machine BE-G1",
+    "dst": "Generating Unit Gen-1229753060",
+    "rel": "association,membership",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Machine BE-G1",
+    "dst": "Network",
+    "rel": "power_injection",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Machine BE-G1",
+    "dst": "Active Power 90 MW (BE-G1)",
+    "rel": "power_injection",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Machine BE-G1",
+    "dst": "Reactive Power 100.256 MVAr (BE-G1)",
+    "rel": "power_injection",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Network",
+    "dst": "Synchronous Machine BE-G2",
+    "rel": "power_injection",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Network",
+    "dst": "Synchronous Machine NL-G1",
+    "rel": "power_injection",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Synchronous Machine BE-G2",
+    "dst": "Substation PP_Brussels",
+    "rel": "location,operation_voltage",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Synchronous Machine BE-G2",
+    "dst": "Voltage Level 21.0",
+    "rel": "operation_voltage",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Synchronous Machine BE-G2",
+    "dst": "Topological Node BE-Busbar_5",
+    "rel": "connection",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Synchronous Machine BE-G2",
+    "dst": "Generating Unit Gen-1229753024",
+    "rel": "association,membership",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Synchronous Machine BE-G2",
+    "dst": "Active Power 118 MW (BE-G2)",
+    "rel": "power_injection",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Synchronous Machine BE-G2",
+    "dst": "Reactive Power 18.7203 MVAr (BE-G2)",
+    "rel": "power_injection",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Substation PP_Brussels",
+    "dst": "Energy Consumer BE-Load_2",
+    "rel": "location,operation_voltage",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Synchronous Machine NL-G1",
+    "dst": "Substation PP_Amsterdam",
+    "rel": "location,operation_voltage",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Synchronous Machine NL-G1",
+    "dst": "Topological Node NL_TR_BUS2",
+    "rel": "connection",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Synchronous Machine NL-G1",
+    "dst": "Generating Unit Gen-12923",
+    "rel": "association,membership",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Synchronous Machine NL-G1",
+    "dst": "Active Power 600.493 MW (NL-G1)",
+    "rel": "power_injection",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Synchronous Machine NL-G1",
+    "dst": "Reactive Power 386.923 MVAr (NL-G1)",
+    "rel": "power_injection",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Substation PP_Amsterdam",
+    "dst": "Energy Consumer NL-Load_2",
+    "rel": "location,operation_voltage",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Substation PP_Amsterdam",
+    "dst": "Energy Consumer NL-Load_1",
+    "rel": "location,operation_voltage",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Energy Consumer BE-Load_2",
+    "dst": "Voltage Level 225.0",
+    "rel": "operation_voltage",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Energy Consumer BE-Load_2",
+    "dst": "Topological Node BE_TR_BUS4",
+    "rel": "connection",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "POWERFLOW"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Energy Consumer BE-Load_2",
+    "dst": "Active Power 200 MW (BE-Load_2)",
+    "rel": "power_consumption",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Energy Consumer BE-Load_2",
+    "dst": "Reactive Power 50 MVAr (BE-Load_2)",
+    "rel": "power_consumption",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Energy Consumer NL-Load_2",
+    "dst": "Voltage Level 400.0",
+    "rel": "operation_voltage",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Energy Consumer NL-Load_2",
+    "dst": "Topological Node N1230992195",
+    "rel": "connection",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "POWERFLOW"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Energy Consumer NL-Load_2",
+    "dst": "Active Power 10 MW (NL-Load_2)",
+    "rel": "power_consumption",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Energy Consumer NL-Load_2",
+    "dst": "Reactive Power 10 MVAr (NL-Load_2)",
+    "rel": "power_consumption",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Energy Consumer NL-Load_1",
+    "dst": "Voltage Level 400.0",
+    "rel": "operation_voltage",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Energy Consumer NL-Load_1",
+    "dst": "Topological Node N1230992195",
+    "rel": "connection",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "POWERFLOW"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Energy Consumer NL-Load_1",
+    "dst": "Active Power 90 MW (NL-Load_1)",
+    "rel": "power_consumption",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Energy Consumer NL-Load_1",
+    "dst": "Reactive Power 280 MVAr (NL-Load_1)",
+    "rel": "power_consumption",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Voltage Level 400.0",
+    "dst": "NL-S1",
+    "rel": "installation,voltage level",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Energy Consumer L-1230804819",
+    "dst": "Substation Anvers",
+    "rel": "location,operation_voltage",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Energy Consumer L-1230804819",
+    "dst": "Voltage Level 220.0",
+    "rel": "operation_voltage",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Energy Consumer L-1230804819",
+    "dst": "Active Power 1 MW (L-1230804819)",
+    "rel": "power_consumption",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Energy Consumer L-1230804819",
+    "dst": "Reactive Power 0 MVAr (L-1230804819)",
+    "rel": "power_consumption",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Voltage Level 220.0",
+    "dst": "N1230992411",
+    "rel": "installed in,operates at",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Voltage Level 220.0",
+    "dst": "N1230992414",
+    "rel": "installed in,operates at",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Voltage Level 220.0",
+    "dst": "BE-Busbar_2",
+    "rel": "installed in,operates at",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Voltage Level 220.0",
+    "dst": "L-1230804819",
+    "rel": "location,voltage level",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Voltage Level 220.0",
+    "dst": "NL-Load_3",
+    "rel": "location,voltage level",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Voltage Level 220.0",
+    "dst": "B1",
+    "rel": "location,voltage level",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Substation Anvers",
+    "dst": "Be Region",
+    "rel": "located_in",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Substation Anvers",
+    "dst": "Voltage Level 220.0 (Anvers)",
+    "rel": "contains,has_voltage_level",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Entso-E Cgmes Microgrid Test Configuration - Network Operations Description",
+    "dst": "Be Region",
+    "rel": "describes,includes",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Entso-E Cgmes Microgrid Test Configuration - Network Operations Description",
+    "dst": "Eu Region",
+    "rel": "describes,includes",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Entso-E Cgmes Microgrid Test Configuration - Network Operations Description",
+    "dst": "Nl Region",
+    "rel": "describes,includes",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Be Region",
+    "dst": "Substation Pp_Brussels",
+    "rel": "located_in",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Nl Region",
+    "dst": "Substation Pp_Amsterdam",
+    "rel": "located_in",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Substation Pp_Brussels",
+    "dst": "Voltage Level 380.0 (Pp_Brussels)",
+    "rel": "contains,has_voltage_level",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Substation Pp_Brussels",
+    "dst": "Voltage Level 225.0 (Pp_Brussels)",
+    "rel": "contains,has_voltage_level",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Substation Pp_Brussels",
+    "dst": "Voltage Level 110.0 (Pp_Brussels)",
+    "rel": "contains,has_voltage_level",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Substation Pp_Brussels",
+    "dst": "Voltage Level 21.0 (Pp_Brussels)",
+    "rel": "contains,has_voltage_level",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Substation Pp_Brussels",
+    "dst": "Voltage Level 10.5 (Pp_Brussels)",
+    "rel": "contains,has_voltage_level",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Substation Pp_Amsterdam",
+    "dst": "Voltage Level 400.0 (Pp_Amsterdam)",
+    "rel": "contains,has_voltage_level",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Substation Pp_Amsterdam",
+    "dst": "Voltage Level 220.0 (Pp_Amsterdam)",
+    "rel": "contains,has_voltage_level",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Substation Pp_Amsterdam",
+    "dst": "Voltage Level 15.8 (Pp_Amsterdam)",
+    "rel": "contains,has_voltage_level",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Voltage Level 110.0 (Pp_Brussels)",
+    "dst": "Busbar Section Be-Busbar_6",
+    "rel": "installed_in,operates_at_voltage_level",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Voltage Level 220.0 (Pp_Amsterdam)",
+    "dst": "Busbar Section N1230822396",
+    "rel": "installed_in,operates_at_voltage_level",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Voltage Level 220.0 (Pp_Amsterdam)",
+    "dst": "Busbar Section Nl-Busbar_2",
+    "rel": "installed_in,operates_at_voltage_level",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Busbar Section N1230822396",
+    "dst": "Topological Node Nl_Busbar__4",
+    "rel": "corresponds_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Busbar Section Nl-Busbar_2",
+    "dst": "Topological Node Nl-Busbar_2",
+    "rel": "corresponds_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Busbar Section Be-Busbar_6",
+    "dst": "Topological Node Be-Busbar_6",
+    "rel": "corresponds_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Anvers",
+    "dst": "BE-Busbar_2",
+    "rel": "hosts,installed in,location_of",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Anvers",
+    "dst": "N1230992411",
+    "rel": "installed in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Anvers",
+    "dst": "N1230992414",
+    "rel": "installed in",
+    "canonical_label": [
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Anvers",
+    "dst": "L-1230804819",
+    "rel": "location,voltage level",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-Busbar_2",
+    "dst": "TN_Border_ST23",
+    "rel": "ac_line_path,connected_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "TYPE_B"
+  },
+  {
+    "src": "BE-Busbar_2",
+    "dst": "TN_Border_ST24",
+    "rel": "ac_line_path,connected_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "TYPE_B"
+  },
+  {
+    "src": "BE-Busbar_2",
+    "dst": "BE-Line_1",
+    "rel": "connects_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-Busbar_2",
+    "dst": "BE-Line_7",
+    "rel": "connects_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-Busbar_2",
+    "dst": "N1230992411",
+    "rel": "corresponds to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-Busbar_2",
+    "dst": "N1230992414",
+    "rel": "corresponds to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-Busbar_2",
+    "dst": "L-1230804819",
+    "rel": "connection",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "POWERFLOW"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-Busbar_2",
+    "dst": "BE-Line_2",
+    "rel": "AC line segment,connects",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-Busbar_2",
+    "dst": "BE-Line_6",
+    "rel": "AC line segment,connects",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-Busbar_4",
+    "dst": "Winding 2 Of BE-TR2_3",
+    "rel": "electrical_connection",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "TN_Border_ST23",
+    "dst": "BE-Line_1",
+    "rel": "connects_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "TN_Border_ST23",
+    "dst": "NL-Line_4",
+    "rel": "connects_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "TN_Border_AL11",
+    "dst": "BE-Line_3",
+    "rel": "connects_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "TN_Border_AL11",
+    "dst": "NL-Line_1",
+    "rel": "connects_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "TN_Border_ST24",
+    "dst": "BE-Line_7",
+    "rel": "connects_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "TN_Border_ST24",
+    "dst": "NL-Line_3",
+    "rel": "connects_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "TN_Border_GY11",
+    "dst": "BE-Line_5",
+    "rel": "AC line segment,connects,connects_to",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "TN_Border_GY11",
+    "dst": "NL-Line_5",
+    "rel": "AC line segment,connects",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-Line_5",
+    "dst": "AC Line Segment",
+    "rel": "instance of,type",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Usbar_6",
+    "dst": "BE-Busbar_6",
+    "rel": "corresponds to",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Usbar_6",
+    "dst": "Voltage Level 110.0",
+    "rel": "installed in,operates at",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "BE-Busbar_6",
+    "dst": "Winding 2 Of BE-TR2_2",
+    "rel": "electrical_connection",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-Busbar_6",
+    "dst": "Winding 1 Of BE-TR2_3",
+    "rel": "electrical_connection",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-Busbar_6",
+    "dst": "BE-Load_1",
+    "rel": "connection",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "POWERFLOW"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-Busbar_6",
+    "dst": "BE_S1",
+    "rel": "connection,installation",
+    "canonical_label": [
+      "CONNECTIVITY",
+      "CONTAINMENT"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE",
+      "ELECTRICALLY_CONNECTED"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-Busbar_3",
+    "dst": "Voltage Level 225.0 (PP_Brussels)",
+    "rel": "installed in,operates at",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "N1230992288",
+    "dst": "Voltage Level 225.0 (PP_Brussels)",
+    "rel": "installed in,operates at",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "BE-Busbar_1",
+    "dst": "Voltage Level 380.0",
+    "rel": "installed in,operates at",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "N1230992291",
+    "dst": "Voltage Level 225.0 (PP_Brussels)",
+    "rel": "installed in,operates at",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Voltage Level 110.0",
+    "dst": "BE-Load_1",
+    "rel": "location,voltage level",
+    "canonical_label": [
+      "CONTAINMENT",
+      "POWERFLOW",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Voltage Level 110.0",
+    "dst": "BE_S1",
+    "rel": "installation,voltage level",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "Voltage Level 380.0",
+    "dst": "BE_S2",
+    "rel": "installation,voltage level",
+    "canonical_label": [
+      "CONTAINMENT",
+      "VOLTAGE"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONTAINED_IN"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-TR2_2",
+    "dst": "Winding 1 Of BE-TR2_2",
+    "rel": "component_of",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-TR2_2",
+    "dst": "Winding 2 Of BE-TR2_2",
+    "rel": "component_of",
+    "canonical_label": [
+      "PART"
+    ],
+    "class": "MATCH",
+    "support": [
+      "HAS_PART"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "BE-TR2_2",
+    "dst": "Ratio Tap Changer BE-TR2_2",
+    "rel": "component_of,installed_on",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Winding 1 Of BE-TR2_2",
+    "dst": "Ratio Tap Changer BE-TR2_2",
+    "rel": "associated_with,installed_on",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Winding 2 Of BE-TR2_3",
+    "dst": "Ratio Tap Changer BE-TR2_3",
+    "rel": "associated_with,installed_on",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "BE-Line_2",
+    "dst": "AC Line Segment",
+    "rel": "instance of,type",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "NL-Line_2",
+    "dst": "TN_Border_MA11",
+    "rel": "AC line segment,connects",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL-Line_2",
+    "dst": "AC Line Segment",
+    "rel": "instance of,type",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "TN_Border_MA11",
+    "dst": "BE-Line_4",
+    "rel": "AC line segment,connects",
+    "canonical_label": [
+      "CONNECTIVITY"
+    ],
+    "class": "MATCH",
+    "support": [
+      "CONNECTS_TO_NODE"
+    ],
+    "label_compatible": true
+  },
+  {
+    "src": "NL-Line_5",
+    "dst": "AC Line Segment",
+    "rel": "instance of,type",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "BE-Line_4",
+    "dst": "AC Line Segment",
+    "rel": "instance of,type",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "BE-Line_6",
+    "dst": "AC Line Segment",
+    "rel": "instance of,type",
+    "class": "UNALIGNED"
+  },
+  {
+    "src": "Power Transformers",
+    "dst": "Power Transformer",
+    "rel": "generalization,refers to",
+    "class": "UNALIGNED"
+  }
+]

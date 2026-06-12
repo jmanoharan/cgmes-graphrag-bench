@@ -1,0 +1,128 @@
+{
+  "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000": {
+    "tokens": 512,
+    "content": "ENTSO-E CGMES MicroGrid Test Configuration — Network Operations Description\n==============================================================================\n\nThis document describes an interconnected transmission network spanning 3 geographical regions (BE, EU, NL), with 3 substations, 12 AC line segments, 7 power transformers, 5 synchronous machines, and 6 energy consumers.\n\nSubstations and Voltage Levels\n----------------------------------------\nSubstation PP_Brussels is located in the BE region.\nSubstation PP_Brussels contains voltage level 380.0 with a nominal voltage of 380 kV.\nSubstation PP_Brussels contains voltage level 225.0 with a nominal voltage of 225 kV.\nSubstation PP_Brussels contains voltage level 110.0 with a nominal voltage of 110 kV.\nSubstation PP_Brussels contains voltage level 21.0 with a nominal voltage of 21 kV.\nSubstation PP_Brussels contains voltage level 10.5 with a nominal voltage of 10.5 kV.\nSubstation Anvers is located in the BE region.\nSubstation Anvers contains voltage level 220.0 with a nominal voltage of 225 kV.\nSubstation PP_Amsterdam is located in the NL region.\nSubstation PP_Amsterdam contains voltage level 400.0 with a nominal voltage of 400 kV.\nSubstation PP_Amsterdam contains voltage level 220.0 with a nominal voltage of 220 kV.\nSubstation PP_Amsterdam contains voltage level 15.8 with a nominal voltage of 15.75 kV.\nSubstation PP_Amsterdam contains voltage level 15.8 with a nominal voltage of 15.75 kV.\n\nBusbars and Topological Nodes\n----------------------------------------\nBusbar section N1230822396 is installed in voltage level 220.0 of substation PP_Amsterdam and operates at a nominal voltage of 220 kV. It corresponds to topological node NL_Busbar__4.\nBusbar section NL-Busbar_2 is installed in voltage level 220.0 of substation PP_Amsterdam and operates at a nominal voltage of 220 kV. It corresponds to topological node NL-Busbar_2.\nBusbar section BE-Busbar_6 is installed in voltage level 110.0 of substation PP_Brussels and operates at a nominal voltage of 110 kV. It corresponds to topological node BE-Busbar_6.\nBusbar section NL-Busbar_3 is installed in voltage level 15.8 of",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-be0add59cbaa36750f7e1a8365dca728",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:2c824e3f9bb53400b6736d89b0b08e68",
+      "default:extract:1637e34d97bd8900eb29cc66d8500877"
+    ],
+    "create_time": 1781189883,
+    "update_time": 1781189962,
+    "_id": "doc-be0add59cbaa36750f7e1a8365dca728-chunk-000"
+  },
+  "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001": {
+    "tokens": 512,
+    "content": "usbar_6 is installed in voltage level 110.0 of substation PP_Brussels and operates at a nominal voltage of 110 kV. It corresponds to topological node BE-Busbar_6.\nBusbar section NL-Busbar_3 is installed in voltage level 15.8 of substation PP_Amsterdam and operates at a nominal voltage of 15.75 kV. It corresponds to topological node N1230822413.\nBusbar section BE-Busbar_3 is installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV. It corresponds to topological node BE_TR_BUS4.\nBusbar section N1230992288 is installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV. It corresponds to topological node BE_TR_BUS4.\nBusbar section BE-Busbar_1 is installed in voltage level 380.0 of substation PP_Brussels and operates at a nominal voltage of 380 kV. It corresponds to topological node BE_TR_BUS2.\nBusbar section N1230992411 is installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2.\nBusbar section N1230992291 is installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV. It corresponds to topological node BE_TR_BUS4.\nBusbar section N1230992414 is installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2.\nBusbar section NL-Busbar_5 is installed in voltage level 15.8 of substation PP_Amsterdam and operates at a nominal voltage of 15.75 kV. It corresponds to topological node NL_TR_BUS2.\nBusbar section BE-Busbar_2 is installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2.\nBusbar section BE-Busbar_4 is installed in voltage level 10.5 of substation PP_Brussels and operates at a nominal voltage of 10.5",
+    "chunk_order_index": 1,
+    "full_doc_id": "doc-be0add59cbaa36750f7e1a8365dca728",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:2ff7656b134fe8200ac9aeacb2d546ac",
+      "default:extract:82423d827b416d6599d6cb8b2e37f407"
+    ],
+    "create_time": 1781189883,
+    "update_time": 1781189932,
+    "_id": "doc-be0add59cbaa36750f7e1a8365dca728-chunk-001"
+  },
+  "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002": {
+    "tokens": 512,
+    "content": "station Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2.\nBusbar section BE-Busbar_4 is installed in voltage level 10.5 of substation PP_Brussels and operates at a nominal voltage of 10.5 kV. It corresponds to topological node BE-Busbar_4.\n\nAC Transmission Lines\n----------------------------------------\nAC line segment BE-Line_1 connects topological node BE-Busbar_2 to topological node TN_Border_ST23. It has a length of 22 km, a resistance of 2.2 ohm, a reactance of 68.2 ohm, and operates at 220 kV.\nAC line segment BE-Line_3 connects topological node BE_TR_BUS2 to topological node TN_Border_AL11. It has a length of 30 km, a resistance of 1.05 ohm, a reactance of 12 ohm, and operates at 380 kV.\nAC line segment NL-Line_1 connects topological node N1230992195 to topological node TN_Border_AL11. It has a length of 30 km, a resistance of 1.02 ohm, a reactance of 12 ohm, and operates at 400 kV.\nAC line segment NL-Line_4 connects topological node NL_Busbar__4 to topological node TN_Border_ST23. It has a length of 22 km, a resistance of 2.2 ohm, a reactance of 66 ohm, and operates at 220 kV.\nAC line segment BE-Line_7 connects topological node BE-Busbar_2 to topological node TN_Border_ST24. It has a length of 23 km, a resistance of 4.6 ohm, a reactance of 69 ohm, and operates at 220 kV.\nAC line segment NL-Line_3 connects topological node NL_Busbar__4 to topological node TN_Border_ST24. It has a length of 23 km, a resistance of 5.06 ohm, a reactance of 69 ohm, and operates at 220 kV.\nAC line segment BE-Line_5 connects topological node BE_TR_BUS2 to topological node TN_Border_GY11. It has a length of 35 km, a resistance of 0.42 ohm, a reactance of",
+    "chunk_order_index": 2,
+    "full_doc_id": "doc-be0add59cbaa36750f7e1a8365dca728",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:6ec0528c546738c98acc8e70f0385910",
+      "default:extract:dfc6b7c0f429e983a48bca26efcd4ba8"
+    ],
+    "create_time": 1781189883,
+    "update_time": 1781189936,
+    "_id": "doc-be0add59cbaa36750f7e1a8365dca728-chunk-002"
+  },
+  "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003": {
+    "tokens": 512,
+    "content": "ance of 69 ohm, and operates at 220 kV.\nAC line segment BE-Line_5 connects topological node BE_TR_BUS2 to topological node TN_Border_GY11. It has a length of 35 km, a resistance of 0.42 ohm, a reactance of 6.3 ohm, and operates at 380 kV.\nAC line segment BE-Line_2 connects topological node BE-Busbar_2 to topological node BE_TR_BUS4. It has a length of 45 km, a resistance of 1.935 ohm, a reactance of 34.2 ohm, and operates at 225 kV.\nAC line segment NL-Line_2 connects topological node N1230992195 to topological node TN_Border_MA11. It has a length of 40 km, a resistance of 2.32 ohm, a reactance of 20.24 ohm, and operates at 400 kV.\nAC line segment NL-Line_5 connects topological node N1230992195 to topological node TN_Border_GY11. It has a length of 35 km, a resistance of 0.42 ohm, a reactance of 6.3 ohm, and operates at 400 kV.\nAC line segment BE-Line_4 connects topological node BE_TR_BUS2 to topological node TN_Border_MA11. It has a length of 40 km, a resistance of 0.24 ohm, a reactance of 2 ohm, and operates at 380 kV.\nAC line segment BE-Line_6 connects topological node BE-Busbar_2 to topological node BE_TR_BUS4. It has a length of 100 km, a resistance of 5.203 ohm, a reactance of 71 ohm, and operates at 225 kV.\n\nPower Transformers\n----------------------------------------\nPower transformer NL_TR2_2 is a 2-winding transformer installed in substation PP_Amsterdam.\nWinding 1 of transformer NL_TR2_2 has a rated voltage of 220 kV and a rated apparent power of 1260 MVA, and is connected to topological node NL_Busbar__4.\nWinding 2 of transformer NL_TR2_2 has a rated voltage of 15.75 kV and a rated apparent power of 1260 MVA, and is connected to topological node N",
+    "chunk_order_index": 3,
+    "full_doc_id": "doc-be0add59cbaa36750f7e1a8365dca728",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:5ecdb2a6f6d7b72b96e97d885e61cbd1",
+      "default:extract:354070d67a46a5cf89050ca4f0f52891"
+    ],
+    "create_time": 1781189883,
+    "update_time": 1781189904,
+    "_id": "doc-be0add59cbaa36750f7e1a8365dca728-chunk-003"
+  },
+  "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004": {
+    "tokens": 512,
+    "content": "power of 1260 MVA, and is connected to topological node NL_Busbar__4.\nWinding 2 of transformer NL_TR2_2 has a rated voltage of 15.75 kV and a rated apparent power of 1260 MVA, and is connected to topological node N1230822413.\nTransformer NL_TR2_2 is equipped with a ratio tap changer named NL_TR2_2 on winding 1, with steps from 0 to 33 and neutral step 17.\nPower transformer NL_TR2_3 is a 2-winding transformer installed in substation PP_Amsterdam.\nWinding 1 of transformer NL_TR2_3 has a rated voltage of 220 kV and a rated apparent power of 1260 MVA, and is connected to topological node NL-Busbar_2.\nWinding 2 of transformer NL_TR2_3 has a rated voltage of 15.75 kV and a rated apparent power of 1260 MVA, and is connected to topological node NL_TR_BUS2.\nTransformer NL_TR2_3 is equipped with a ratio tap changer named NL_TR2_3 on winding 1, with steps from -15 to 15 and neutral step 0.\nPower transformer BE-TR3_1 is a 3-winding transformer installed in substation PP_Brussels.\nWinding 1 of transformer BE-TR3_1 has a rated voltage of 400 kV and a rated apparent power of 650 MVA, and is connected to topological node BE_TR_BUS2.\nWinding 2 of transformer BE-TR3_1 has a rated voltage of 220 kV and a rated apparent power of 650 MVA, and is connected to topological node BE_TR_BUS4.\nWinding 3 of transformer BE-TR3_1 has a rated voltage of 21 kV and a rated apparent power of 650 MVA, and is connected to topological node BE-Busbar_5.\nTransformer BE-TR3_1 is equipped with a ratio tap changer named BE-TR3_1 on winding 2, with steps from 1 to 33 and neutral step 17.\nPower transformer BE-TR2_1 is a 2-winding transformer installed in substation PP_Brussels.\nWinding 1 of transformer BE-TR2_1 has a rated voltage of 400 kV and a rated apparent power of 650 MVA",
+    "chunk_order_index": 4,
+    "full_doc_id": "doc-be0add59cbaa36750f7e1a8365dca728",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:02b068731cf862112dfcf394f0abc896",
+      "default:extract:051b684d95ba1d7492c088535ba21230"
+    ],
+    "create_time": 1781189883,
+    "update_time": 1781189973,
+    "_id": "doc-be0add59cbaa36750f7e1a8365dca728-chunk-004"
+  },
+  "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005": {
+    "tokens": 512,
+    "content": "to 33 and neutral step 17.\nPower transformer BE-TR2_1 is a 2-winding transformer installed in substation PP_Brussels.\nWinding 1 of transformer BE-TR2_1 has a rated voltage of 400 kV and a rated apparent power of 650 MVA, and is connected to topological node BE_TR_BUS2.\nWinding 2 of transformer BE-TR2_1 has a rated voltage of 110 kV and a rated apparent power of 650 MVA, and is connected to topological node BE-Busbar_6.\nTransformer BE-TR2_1 is equipped with a asymmetrical phase tap changer named BE-TR2_1 on winding 1, with steps from 1 to 25 and neutral step 13.\nPower transformer BE-TR2_2 is a 2-winding transformer installed in substation PP_Brussels.\nWinding 1 of transformer BE-TR2_2 has a rated voltage of 220 kV and a rated apparent power of 650 MVA, and is connected to topological node BE_TR_BUS4.\nWinding 2 of transformer BE-TR2_2 has a rated voltage of 110 kV and a rated apparent power of 650 MVA, and is connected to topological node BE-Busbar_6.\nTransformer BE-TR2_2 is equipped with a ratio tap changer named BE-TR2_2 on winding 1, with steps from 1 to 25 and neutral step 13.\nPower transformer BE-TR2_3 is a 2-winding transformer installed in substation PP_Brussels.\nWinding 1 of transformer BE-TR2_3 has a rated voltage of 110.344 kV and a rated apparent power of 250 MVA, and is connected to topological node BE-Busbar_6.\nWinding 2 of transformer BE-TR2_3 has a rated voltage of 10.5 kV and a rated apparent power of 250 MVA, and is connected to topological node BE-Busbar_4.\nTransformer BE-TR2_3 is equipped with a ratio tap changer named BE-TR2_3 on winding 2, with steps from 1 to 33 and neutral step 17.\nPower transformer NL-TR2_1 is a 2-winding transformer installed in substation PP_Amsterdam.\nWinding 1 of transformer NL-TR2",
+    "chunk_order_index": 5,
+    "full_doc_id": "doc-be0add59cbaa36750f7e1a8365dca728",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:e6ee95dcb235c4ca4b7304758addaf4b",
+      "default:extract:bc5762c9481461f75a35b9bc7a09fd6c"
+    ],
+    "create_time": 1781189883,
+    "update_time": 1781189955,
+    "_id": "doc-be0add59cbaa36750f7e1a8365dca728-chunk-005"
+  },
+  "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006": {
+    "tokens": 512,
+    "content": "with a ratio tap changer named BE-TR2_3 on winding 2, with steps from 1 to 33 and neutral step 17.\nPower transformer NL-TR2_1 is a 2-winding transformer installed in substation PP_Amsterdam.\nWinding 1 of transformer NL-TR2_1 has a rated voltage of 400 kV and a rated apparent power of 320 MVA, and is connected to topological node N1230992195.\nWinding 2 of transformer NL-TR2_1 has a rated voltage of 220 kV and a rated apparent power of 320 MVA, and is connected to topological node NL-Busbar_2.\nTransformer NL-TR2_1 is equipped with a ratio tap changer named NL-TR2_1 on winding 1, with steps from -20 to 20 and neutral step 0.\n\nGeneration\n----------------------------------------\nSynchronous machine NL-G3 (rated apparent power 0 MVA) operates in voltage level 15.8 of substation PP_Amsterdam. It is connected to topological node N1230822413.\nMachine NL-G3 belongs to generating unit Gen-12908, which has a maximum operating power of 250 MW and a minimum operating power of 130 MW.\nIn the studied operating case, machine NL-G3 injects an active power of 150 MW and a reactive power of 83.296 MVAr into the network.\nSynchronous machine NL-G2 (rated apparent power 0 MVA) operates in voltage level 15.8 of substation PP_Amsterdam. It is connected to topological node N1230822413.\nMachine NL-G2 belongs to generating unit Gen-12910, which has a maximum operating power of 250 MW and a minimum operating power of 130 MW.\nIn the studied operating case, machine NL-G2 injects an active power of 140 MW and a reactive power of 77.743 MVAr into the network.\nSynchronous machine BE-G1 (rated apparent power 0 MVA) operates in voltage level 10.5 of substation PP_Brussels. It is connected to topological node BE-Busbar_4.\nMachine BE-G1 belongs to generating unit Gen-1229753060, which has a maximum operating power of 200 MW and a minimum operating power of 50 MW.\nIn the studied operating case, machine BE-G1 injects an active power of 90 MW and a reactive power",
+    "chunk_order_index": 6,
+    "full_doc_id": "doc-be0add59cbaa36750f7e1a8365dca728",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:1744e869155f4c05f485d56400c28c35",
+      "default:extract:698fd211b23708f715af9ff5acccbf6f"
+    ],
+    "create_time": 1781189883,
+    "update_time": 1781190001,
+    "_id": "doc-be0add59cbaa36750f7e1a8365dca728-chunk-006"
+  },
+  "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007": {
+    "tokens": 512,
+    "content": "-Busbar_4.\nMachine BE-G1 belongs to generating unit Gen-1229753060, which has a maximum operating power of 200 MW and a minimum operating power of 50 MW.\nIn the studied operating case, machine BE-G1 injects an active power of 90 MW and a reactive power of 100.256 MVAr into the network.\nSynchronous machine BE-G2 (rated apparent power 0 MVA) operates in voltage level 21.0 of substation PP_Brussels. It is connected to topological node BE-Busbar_5.\nMachine BE-G2 belongs to generating unit Gen-1229753024, which has a maximum operating power of 200 MW and a minimum operating power of 50 MW.\nIn the studied operating case, machine BE-G2 injects an active power of 118 MW and a reactive power of 18.7203 MVAr into the network.\nSynchronous machine NL-G1 (rated apparent power 0 MVA) operates in voltage level 15.8 of substation PP_Amsterdam. It is connected to topological node NL_TR_BUS2.\nMachine NL-G1 belongs to generating unit Gen-12923, which has a maximum operating power of 1000 MW and a minimum operating power of 300 MW.\nIn the studied operating case, machine NL-G1 injects an active power of 600.493 MW and a reactive power of 386.923 MVAr into the network.\n\nLoads\n----------------------------------------\nEnergy consumer BE-Load_2 draws an active power of 200 MW and a reactive power of 50 MVAr. It is located in voltage level 225.0 of substation PP_Brussels, connected to topological node BE_TR_BUS4.\nEnergy consumer NL-Load_2 draws an active power of 10 MW and a reactive power of 10 MVAr. It is located in voltage level 400.0 of substation PP_Amsterdam, connected to topological node N1230992195.\nEnergy consumer NL-Load_1 draws an active power of 90 MW and a reactive power of 280 MVAr. It is located in voltage level 400.0 of substation PP_Amsterdam, connected to topological node N1230992195.\nEnergy consumer L-1230804819 draws an active power of 1 MW and a reactive power of 0 MVAr. It is located in voltage level 220.0 of substation Anvers, connected to topological node",
+    "chunk_order_index": 7,
+    "full_doc_id": "doc-be0add59cbaa36750f7e1a8365dca728",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:a2d504c78e47343b4cc373f0114c0f4d",
+      "default:extract:d2269f3dcf7d20a0ea2251943784bdee"
+    ],
+    "create_time": 1781189883,
+    "update_time": 1781189983,
+    "_id": "doc-be0add59cbaa36750f7e1a8365dca728-chunk-007"
+  },
+  "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008": {
+    "tokens": 400,
+    "content": "substation PP_Amsterdam, connected to topological node N1230992195.\nEnergy consumer L-1230804819 draws an active power of 1 MW and a reactive power of 0 MVAr. It is located in voltage level 220.0 of substation Anvers, connected to topological node BE-Busbar_2.\nEnergy consumer NL-Load_3 draws an active power of 486 MW and a reactive power of 230 MVAr. It is located in voltage level 220.0 of substation PP_Amsterdam, connected to topological node NL-Busbar_2.\nEnergy consumer BE-Load_1 draws an active power of 200 MW and a reactive power of 90 MVAr. It is located in voltage level 110.0 of substation PP_Brussels, connected to topological node BE-Busbar_6.\n\nReactive Compensation and Switching Devices\n----------------------------------------\nLinear shunt compensator BE_S2 is installed in voltage level 380.0 of substation PP_Brussels at topological node BE_TR_BUS2, with a susceptance per section of 0.000346 S and 1 energized sections in the studied case.\nLinear shunt compensator BE_S1 is installed in voltage level 110.0 of substation PP_Brussels at topological node BE-Busbar_6, with a susceptance per section of 0.024793 S and 1 energized sections in the studied case.\nLinear shunt compensator NL-S1 is installed in voltage level 400.0 of substation PP_Amsterdam at topological node N1230992195, with a susceptance per section of 0.000313 S and 1 energized sections in the studied case.\nBreaker B1 in voltage level 220.0 of substation PP_Amsterdam is currently closed. It connects topological node NL-Busbar_2 to topological node NL_Busbar__4.",
+    "chunk_order_index": 8,
+    "full_doc_id": "doc-be0add59cbaa36750f7e1a8365dca728",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:28a059b1b2fe8cae83bef69137a00ffa",
+      "default:extract:1f91e010cc67f34865ce48eb2f76b6a3"
+    ],
+    "create_time": 1781189883,
+    "update_time": 1781190013,
+    "_id": "doc-be0add59cbaa36750f7e1a8365dca728-chunk-008"
+  }
+}

@@ -1,0 +1,698 @@
+[
+  {
+    "id": "Q01",
+    "question": "What is the length (in km) of AC line segment BE-Line_1?",
+    "gold_answer": "22 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 22.0,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-Line_1.Conductor.length"
+  },
+  {
+    "id": "Q02",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment BE-Line_3?",
+    "gold_answer": "1.05 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 1.05,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-Line_3.ACLineSegment.r"
+  },
+  {
+    "id": "Q03",
+    "question": "What is the length (in km) of AC line segment NL-Line_4?",
+    "gold_answer": "22 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 22.0,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "NL-Line_4.Conductor.length"
+  },
+  {
+    "id": "Q04",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment BE-Line_7?",
+    "gold_answer": "4.6 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 4.6,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-Line_7.ACLineSegment.r"
+  },
+  {
+    "id": "Q05",
+    "question": "What is the length (in km) of AC line segment BE-Line_5?",
+    "gold_answer": "35 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 35.0,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-Line_5.Conductor.length"
+  },
+  {
+    "id": "Q06",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment BE-Line_2?",
+    "gold_answer": "1.935 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 1.935,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-Line_2.ACLineSegment.r"
+  },
+  {
+    "id": "Q07",
+    "question": "What is the length (in km) of AC line segment NL-Line_5?",
+    "gold_answer": "35 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 35.0,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "NL-Line_5.Conductor.length"
+  },
+  {
+    "id": "Q08",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment BE-Line_4?",
+    "gold_answer": "0.24 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 0.24,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-Line_4.ACLineSegment.r"
+  },
+  {
+    "id": "Q09",
+    "question": "What is the rated voltage (in kV) of winding 1 of power transformer NL_TR2_2?",
+    "gold_answer": "220 kV",
+    "answer_spec": {
+      "type": "number",
+      "value": 220.0,
+      "unit": "kV",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "NL_TR2_2.end1.ratedU"
+  },
+  {
+    "id": "Q10",
+    "question": "What is the rated voltage (in kV) of winding 2 of power transformer NL_TR2_3?",
+    "gold_answer": "15.75 kV",
+    "answer_spec": {
+      "type": "number",
+      "value": 15.75,
+      "unit": "kV",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "NL_TR2_3.end2.ratedU"
+  },
+  {
+    "id": "Q11",
+    "question": "What is the rated voltage (in kV) of winding 3 of power transformer BE-TR3_1?",
+    "gold_answer": "21 kV",
+    "answer_spec": {
+      "type": "number",
+      "value": 21.0,
+      "unit": "kV",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-TR3_1.end3.ratedU"
+  },
+  {
+    "id": "Q12",
+    "question": "What is the rated voltage (in kV) of winding 1 of power transformer BE-TR2_2?",
+    "gold_answer": "220 kV",
+    "answer_spec": {
+      "type": "number",
+      "value": 220.0,
+      "unit": "kV",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-TR2_2.end1.ratedU"
+  },
+  {
+    "id": "Q13",
+    "question": "What is the rated voltage (in kV) of winding 2 of power transformer BE-TR2_3?",
+    "gold_answer": "10.5 kV",
+    "answer_spec": {
+      "type": "number",
+      "value": 10.5,
+      "unit": "kV",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-TR2_3.end2.ratedU"
+  },
+  {
+    "id": "Q14",
+    "question": "What is the maximum operating power (in MW) of generating unit Gen-12908?",
+    "gold_answer": "250 MW",
+    "answer_spec": {
+      "type": "number",
+      "value": 250.0,
+      "unit": "MW",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "Gen-12908.maxOperatingP"
+  },
+  {
+    "id": "Q15",
+    "question": "What is the maximum operating power (in MW) of generating unit Gen-1229753024?",
+    "gold_answer": "200 MW",
+    "answer_spec": {
+      "type": "number",
+      "value": 200.0,
+      "unit": "MW",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "Gen-1229753024.maxOperatingP"
+  },
+  {
+    "id": "Q16",
+    "question": "What is the active power (in MW) drawn by energy consumer NL-Load_2?",
+    "gold_answer": "10 MW",
+    "answer_spec": {
+      "type": "number",
+      "value": 10.0,
+      "unit": "MW",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "NL-Load_2.EnergyConsumer.p"
+  },
+  {
+    "id": "Q17",
+    "question": "What is the active power (in MW) drawn by energy consumer NL-Load_3?",
+    "gold_answer": "486 MW",
+    "answer_spec": {
+      "type": "number",
+      "value": 486.0,
+      "unit": "MW",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "NL-Load_3.EnergyConsumer.p"
+  },
+  {
+    "id": "Q18",
+    "question": "What is the positive-sequence reactance (in ohm) of AC line segment BE-Line_3?",
+    "gold_answer": "12 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 12.0,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-Line_3.ACLineSegment.x"
+  },
+  {
+    "id": "Q19",
+    "question": "What is the positive-sequence reactance (in ohm) of AC line segment BE-Line_7?",
+    "gold_answer": "69 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 69.0,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-Line_7.ACLineSegment.x"
+  },
+  {
+    "id": "Q20",
+    "question": "What is the positive-sequence reactance (in ohm) of AC line segment BE-Line_2?",
+    "gold_answer": "34.2 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 34.2,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-Line_2.ACLineSegment.x"
+  },
+  {
+    "id": "Q21",
+    "question": "What is the positive-sequence reactance (in ohm) of AC line segment BE-Line_4?",
+    "gold_answer": "2 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 2.0,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-Line_4.ACLineSegment.x"
+  },
+  {
+    "id": "Q22",
+    "question": "What is the rated apparent power (in MVA) of winding 2 of power transformer NL_TR2_2?",
+    "gold_answer": "1260 MVA",
+    "answer_spec": {
+      "type": "number",
+      "value": 1260.0,
+      "unit": "MVA",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "NL_TR2_2.end2.ratedS"
+  },
+  {
+    "id": "Q23",
+    "question": "What is the rated apparent power (in MVA) of winding 1 of power transformer BE-TR3_1?",
+    "gold_answer": "650 MVA",
+    "answer_spec": {
+      "type": "number",
+      "value": 650.0,
+      "unit": "MVA",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-TR3_1.end1.ratedS"
+  },
+  {
+    "id": "Q24",
+    "question": "What is the rated apparent power (in MVA) of winding 1 of power transformer BE-TR2_1?",
+    "gold_answer": "650 MVA",
+    "answer_spec": {
+      "type": "number",
+      "value": 650.0,
+      "unit": "MVA",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-TR2_1.end1.ratedS"
+  },
+  {
+    "id": "Q25",
+    "question": "What is the rated apparent power (in MVA) of winding 2 of power transformer BE-TR2_2?",
+    "gold_answer": "650 MVA",
+    "answer_spec": {
+      "type": "number",
+      "value": 650.0,
+      "unit": "MVA",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "BE-TR2_2.end2.ratedS"
+  },
+  {
+    "id": "Q26",
+    "question": "Which substation contains busbar section N1230822396?",
+    "gold_answer": "PP_Amsterdam",
+    "answer_spec": {
+      "type": "entity",
+      "value": "PP_Amsterdam"
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "N1230822396->VL->Substation"
+  },
+  {
+    "id": "Q27",
+    "question": "Which substation contains busbar section NL-Busbar_3?",
+    "gold_answer": "PP_Amsterdam",
+    "answer_spec": {
+      "type": "entity",
+      "value": "PP_Amsterdam"
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "NL-Busbar_3->VL->Substation"
+  },
+  {
+    "id": "Q28",
+    "question": "Which substation contains busbar section BE-Busbar_1?",
+    "gold_answer": "PP_Brussels",
+    "answer_spec": {
+      "type": "entity",
+      "value": "PP_Brussels"
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "BE-Busbar_1->VL->Substation"
+  },
+  {
+    "id": "Q29",
+    "question": "Which substation contains busbar section N1230992414?",
+    "gold_answer": "Anvers",
+    "answer_spec": {
+      "type": "entity",
+      "value": "Anvers"
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "N1230992414->VL->Substation"
+  },
+  {
+    "id": "Q30",
+    "question": "Which substation contains busbar section BE-Busbar_4?",
+    "gold_answer": "PP_Brussels",
+    "answer_spec": {
+      "type": "entity",
+      "value": "PP_Brussels"
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "BE-Busbar_4->VL->Substation"
+  },
+  {
+    "id": "Q31",
+    "question": "Which two topological nodes does AC line segment NL-Line_1 connect?",
+    "gold_answer": "N1230992195 and TN_Border_AL11",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "N1230992195",
+        "TN_Border_AL11"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "NL-Line_1->Terminals->TNs"
+  },
+  {
+    "id": "Q32",
+    "question": "Which two topological nodes does AC line segment NL-Line_3 connect?",
+    "gold_answer": "NL_Busbar__4 and TN_Border_ST24",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "NL_Busbar__4",
+        "TN_Border_ST24"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "NL-Line_3->Terminals->TNs"
+  },
+  {
+    "id": "Q33",
+    "question": "Which two topological nodes does AC line segment NL-Line_2 connect?",
+    "gold_answer": "N1230992195 and TN_Border_MA11",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "N1230992195",
+        "TN_Border_MA11"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "NL-Line_2->Terminals->TNs"
+  },
+  {
+    "id": "Q34",
+    "question": "Which two topological nodes does AC line segment BE-Line_6 connect?",
+    "gold_answer": "BE-Busbar_2 and BE_TR_BUS4",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "BE-Busbar_2",
+        "BE_TR_BUS4"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "BE-Line_6->Terminals->TNs"
+  },
+  {
+    "id": "Q35",
+    "question": "What is the maximum operating power (in MW) of the generating unit that synchronous machine BE-G1 belongs to?",
+    "gold_answer": "200 MW",
+    "answer_spec": {
+      "type": "number",
+      "value": 200.0,
+      "unit": "MW",
+      "tol": 0.01
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "BE-G1->GU->maxP"
+  },
+  {
+    "id": "Q36",
+    "question": "Which topological node is winding 1 of power transformer NL_TR2_2 connected to?",
+    "gold_answer": "NL_Busbar__4",
+    "answer_spec": {
+      "type": "entity",
+      "value": "NL_Busbar__4"
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "NL_TR2_2->end1->TN"
+  },
+  {
+    "id": "Q37",
+    "question": "Which topological node is winding 1 of power transformer BE-TR2_1 connected to?",
+    "gold_answer": "BE_TR_BUS2",
+    "answer_spec": {
+      "type": "entity",
+      "value": "BE_TR_BUS2"
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "BE-TR2_1->end1->TN"
+  },
+  {
+    "id": "Q38",
+    "question": "Which topological node is winding 1 of power transformer NL-TR2_1 connected to?",
+    "gold_answer": "N1230992195",
+    "answer_spec": {
+      "type": "entity",
+      "value": "N1230992195"
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "NL-TR2_1->end1->TN"
+  },
+  {
+    "id": "Q39",
+    "question": "How many energy consumers are located in substation Anvers?",
+    "gold_answer": "1",
+    "answer_spec": {
+      "type": "count",
+      "value": 1
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "count loads in Anvers"
+  },
+  {
+    "id": "Q40",
+    "question": "Which pieces of equipment are electrically connected to the same topological node as busbar section N1230822396? List their names.",
+    "gold_answer": "NL-Line_3, NL-Line_4, NL_TR2_2",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "NL-Line_3",
+        "NL-Line_4",
+        "NL_TR2_2"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 3,
+    "evidence": "N1230822396->TN->equipment"
+  },
+  {
+    "id": "Q41",
+    "question": "Which pieces of equipment are electrically connected to the same topological node as busbar section NL-Busbar_3? List their names.",
+    "gold_answer": "NL-G2, NL-G3, NL_TR2_2",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "NL-G2",
+        "NL-G3",
+        "NL_TR2_2"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 3,
+    "evidence": "NL-Busbar_3->TN->equipment"
+  },
+  {
+    "id": "Q42",
+    "question": "Which pieces of equipment are electrically connected to the same topological node as busbar section BE-Busbar_1? List their names.",
+    "gold_answer": "BE-Line_3, BE-Line_4, BE-Line_5, BE-TR2_1, BE-TR3_1, BE_S2",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "BE-Line_3",
+        "BE-Line_4",
+        "BE-Line_5",
+        "BE-TR2_1",
+        "BE-TR3_1",
+        "BE_S2"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 3,
+    "evidence": "BE-Busbar_1->TN->equipment"
+  },
+  {
+    "id": "Q43",
+    "question": "Which pieces of equipment are electrically connected to the same topological node as busbar section N1230992414? List their names.",
+    "gold_answer": "BE-Line_1, BE-Line_2, BE-Line_6, BE-Line_7, L-1230804819",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "BE-Line_1",
+        "BE-Line_2",
+        "BE-Line_6",
+        "BE-Line_7",
+        "L-1230804819"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 3,
+    "evidence": "N1230992414->TN->equipment"
+  },
+  {
+    "id": "Q44",
+    "question": "Which pieces of equipment are electrically connected to the same topological node as busbar section BE-Busbar_4? List their names.",
+    "gold_answer": "BE-G1, BE-TR2_3",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "BE-G1",
+        "BE-TR2_3"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 3,
+    "evidence": "BE-Busbar_4->TN->equipment"
+  },
+  {
+    "id": "Q45",
+    "question": "In which geographical region does synchronous machine BE-G1 operate?",
+    "gold_answer": "BE",
+    "answer_spec": {
+      "type": "entity",
+      "value": "BE"
+    },
+    "stratum": "S2",
+    "hop_count": 3,
+    "evidence": "BE-G1->Sub->Region"
+  },
+  {
+    "id": "Q46",
+    "question": "What is the nominal voltage (in kV) of topological node BE-Busbar_2, to which AC line segment BE-Line_1 is connected?",
+    "gold_answer": "225 kV",
+    "answer_spec": {
+      "type": "number",
+      "value": 225.0,
+      "unit": "kV",
+      "tol": 0.01
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "BE-Line_1->TN->BaseVoltage"
+  },
+  {
+    "id": "Q47",
+    "question": "What is the nominal voltage (in kV) of topological node NL_Busbar__4, to which AC line segment NL-Line_4 is connected?",
+    "gold_answer": "220 kV",
+    "answer_spec": {
+      "type": "number",
+      "value": 220.0,
+      "unit": "kV",
+      "tol": 0.01
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "NL-Line_4->TN->BaseVoltage"
+  },
+  {
+    "id": "Q48",
+    "question": "What is the nominal voltage (in kV) of topological node BE_TR_BUS2, to which AC line segment BE-Line_5 is connected?",
+    "gold_answer": "380 kV",
+    "answer_spec": {
+      "type": "number",
+      "value": 380.0,
+      "unit": "kV",
+      "tol": 0.01
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "BE-Line_5->TN->BaseVoltage"
+  },
+  {
+    "id": "Q49",
+    "question": "What is the nominal voltage (in kV) of topological node N1230992195, to which AC line segment NL-Line_5 is connected?",
+    "gold_answer": "400 kV",
+    "answer_spec": {
+      "type": "number",
+      "value": 400.0,
+      "unit": "kV",
+      "tol": 0.01
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "NL-Line_5->TN->BaseVoltage"
+  },
+  {
+    "id": "Q50",
+    "question": "Which substation contains busbar section NL-Busbar_2?",
+    "gold_answer": "PP_Amsterdam",
+    "answer_spec": {
+      "type": "entity",
+      "value": "PP_Amsterdam"
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "NL-Busbar_2->VL->Substation"
+  }
+]

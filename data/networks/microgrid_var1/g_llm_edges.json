@@ -1,0 +1,1591 @@
+[
+  {
+    "src": "Be-Tr2_3",
+    "rel": "controls tap ratio,installed on",
+    "dst": "Winding 2",
+    "description": "The ratio tap changer Be-Tr2_3 is installed on winding 2 and controls its tap ratio.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Winding 2",
+    "rel": "connected to",
+    "dst": "Nl-Busbar_2",
+    "description": "Winding 2 of transformer Nl-Tr2_1 is connected to topological node Nl-Busbar_2.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Winding 2",
+    "rel": "belongs to,part of",
+    "dst": "Nl-Tr2_1",
+    "description": "Winding 2 is a part of transformer Nl-Tr2_1.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Nl-Tr2_1",
+    "rel": "installed in,located in",
+    "dst": "Pp_Amsterdam",
+    "description": "The power transformer Nl-Tr2_1 is installed in substation Pp_Amsterdam.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Nl-Tr2_1",
+    "rel": "belongs to,part of",
+    "dst": "Winding 1",
+    "description": "Winding 1 is a part of transformer Nl-Tr2_1.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Pp_Amsterdam",
+    "rel": "located in,operates in",
+    "dst": "Nl-G3",
+    "description": "Synchronous machine Nl-G3 operates within substation Pp_Amsterdam.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Pp_Amsterdam",
+    "rel": "located in,operates in",
+    "dst": "Nl-G2",
+    "description": "Synchronous machine Nl-G2 operates within substation Pp_Amsterdam.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Winding 1",
+    "rel": "connected to",
+    "dst": "N1230992195",
+    "description": "Winding 1 of transformer Nl-Tr2_1 is connected to topological node N1230992195.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Winding 1",
+    "rel": "controls tap ratio,installed on",
+    "dst": "Nl-Tr2_1 (Tap Changer)",
+    "description": "The ratio tap changer Nl-Tr2_1 (Tap Changer) is installed on winding 1 and controls its tap ratio.>",
+    "weight": 1.0
+  },
+  {
+    "src": "N1230992195",
+    "rel": "connects_to",
+    "dst": "NL-Line_1",
+    "description": "AC line segment NL-Line_1 connects to topological node N1230992195.",
+    "weight": 1.0
+  },
+  {
+    "src": "N1230992195",
+    "rel": "ac_line_path,connected_to",
+    "dst": "TN_Border_AL11",
+    "description": "Topological node N1230992195 is electrically connected to topological node TN_Border_AL11 via AC line segment NL-Line_1.",
+    "weight": 1.0
+  },
+  {
+    "src": "N1230992195",
+    "rel": "connection",
+    "dst": "PP_Amsterdam",
+    "description": "Substation PP_Amsterdam is connected to topological node N1230992195.",
+    "weight": 1.0
+  },
+  {
+    "src": "N1230992195",
+    "rel": "connection,installation",
+    "dst": "NL-S1",
+    "description": "Linear shunt compensator NL-S1 is installed at topological node N1230992195.",
+    "weight": 1.0
+  },
+  {
+    "src": "N1230992195",
+    "rel": "AC line segment,connects",
+    "dst": "NL-Line_2",
+    "description": "NL-Line_2 is an AC line segment that connects to topological node N1230992195.",
+    "weight": 1.0
+  },
+  {
+    "src": "N1230992195",
+    "rel": "AC line segment,connects",
+    "dst": "NL-Line_5",
+    "description": "NL-Line_5 is an AC line segment that connects to topological node N1230992195.",
+    "weight": 1.0
+  },
+  {
+    "src": "Nl-G3",
+    "rel": "operates at",
+    "dst": "Voltage Level 15.8",
+    "description": "Synchronous machine Nl-G3 operates at voltage level 15.8.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Nl-G3",
+    "rel": "connected to",
+    "dst": "N1230822413",
+    "description": "Synchronous machine Nl-G3 is connected to topological node N1230822413.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Nl-G3",
+    "rel": "belongs to,member of",
+    "dst": "Gen-12908",
+    "description": "Machine Nl-G3 belongs to generating unit Gen-12908.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 15.8",
+    "rel": "operates at",
+    "dst": "Nl-G2",
+    "description": "Synchronous machine Nl-G2 operates at voltage level 15.8.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 15.8",
+    "rel": "operation_voltage",
+    "dst": "Synchronous Machine NL-G1",
+    "description": "Synchronous Machine NL-G1 operates in Voltage Level 15.8.",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 15.8",
+    "rel": "installed in,operates at",
+    "dst": "NL-Busbar_3",
+    "description": "NL-Busbar_3 is installed in voltage level 15.8 and operates at a nominal voltage of 15.75 kV at this level.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 15.8",
+    "rel": "installed in,operates at",
+    "dst": "NL-Busbar_5",
+    "description": "NL-Busbar_5 is installed in voltage level 15.8 and operates at a nominal voltage of 15.75 kV at this level.>",
+    "weight": 1.0
+  },
+  {
+    "src": "N1230822413",
+    "rel": "connected to",
+    "dst": "Nl-G2",
+    "description": "Synchronous machine Nl-G2 is connected to topological node N1230822413.>",
+    "weight": 1.0
+  },
+  {
+    "src": "N1230822413",
+    "rel": "connected to",
+    "dst": "Winding 2 Of NL_TR2_2",
+    "description": "Winding 2 Of NL_TR2_2 is connected to topological node N1230822413.",
+    "weight": 1.0
+  },
+  {
+    "src": "N1230822413",
+    "rel": "corresponds to",
+    "dst": "NL-Busbar_3",
+    "description": "NL-Busbar_3 corresponds to topological node N1230822413.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Gen-12908",
+    "rel": "has parameter",
+    "dst": "Maximum Operating Power 250 Mw",
+    "description": "Generating unit Gen-12908 has a maximum operating power of 250 MW.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Gen-12908",
+    "rel": "has parameter",
+    "dst": "Minimum Operating Power 130 Mw",
+    "description": "Generating unit Gen-12908 has a minimum operating power of 130 MW.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Gen-12910",
+    "rel": "belongs to,member of",
+    "dst": "Nl-G2",
+    "description": "Machine Nl-G2 belongs to generating unit Gen-12910.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Gen-12910",
+    "rel": "has parameter",
+    "dst": "Maximum Operating Power 250 Mw",
+    "description": "Generating unit Gen-12910 has a maximum operating power of 250 MW.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Gen-12910",
+    "rel": "has parameter",
+    "dst": "Minimum Operating Power 130 Mw",
+    "description": "Generating unit Gen-12910 has a minimum operating power of 130 MW.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Be-G1",
+    "rel": "located in,operates in",
+    "dst": "Pp_Brussels",
+    "description": "Synchronous machine Be-G1 operates within substation Pp_Brussels.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Be-G1",
+    "rel": "operates at",
+    "dst": "Voltage Level 10.5",
+    "description": "Synchronous machine Be-G1 operates at voltage level 10.5.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Be-G1",
+    "rel": "connected to",
+    "dst": "Be-Busbar_4",
+    "description": "Synchronous machine Be-G1 is connected to topological node Be-Busbar_4.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Be-G1",
+    "rel": "belongs to,member of",
+    "dst": "Gen-1229753060",
+    "description": "Machine Be-G1 belongs to generating unit Gen-1229753060.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 10.5",
+    "rel": "installed in,operates at",
+    "dst": "BE-Busbar_4",
+    "description": "BE-Busbar_4 is installed in voltage level 10.5 and operates at a nominal voltage of 10.5 at this level.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Maximum Operating Power 200 Mw",
+    "rel": "has parameter",
+    "dst": "Gen-1229753060",
+    "description": "Generating unit Gen-1229753060 has a maximum operating power of 200 MW.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Minimum Operating Power 50 Mw",
+    "rel": "has parameter",
+    "dst": "Gen-1229753060",
+    "description": "Generating unit Gen-1229753060 has a minimum operating power of 50 MW.>",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-TR2_3",
+    "rel": "installation_location",
+    "dst": "PP_Brussels",
+    "description": "Power transformer BE-TR2_3 is installed in substation PP_Brussels.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-TR2_3",
+    "rel": "component_of",
+    "dst": "Winding 1 Of BE-TR2_3",
+    "description": "Winding 1 Of BE-TR2_3 is a component of transformer BE-TR2_3.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-TR2_3",
+    "rel": "component_of",
+    "dst": "Winding 2 Of BE-TR2_3",
+    "description": "Winding 2 Of BE-TR2_3 is a component of transformer BE-TR2_3.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-TR2_3",
+    "rel": "component_of,installed_on",
+    "dst": "Ratio Tap Changer BE-TR2_3",
+    "description": "Ratio Tap Changer BE-TR2_3 is installed on and is a component of transformer BE-TR2_3.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL-TR2_1",
+    "rel": "installation_location,installed in,located in",
+    "dst": "PP_Amsterdam",
+    "description": "Power transformer NL-TR2_1 is installed in substation PP_Amsterdam.<SEP>The power transformer NL-TR2_1 is installed in substation PP_Amsterdam.>",
+    "weight": 2.0
+  },
+  {
+    "src": "NL-TR2_1",
+    "rel": "associated with,installed on",
+    "dst": "NL-TR2_1 Tap Changer",
+    "description": "The ratio tap changer NL-TR2_1 Tap Changer is installed on transformer NL-TR2_1.>",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Amsterdam",
+    "rel": "installed in",
+    "dst": "NL_TR2_3",
+    "description": "NL_TR2_3 is installed in substation PP_Amsterdam.",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Amsterdam",
+    "rel": "installed in",
+    "dst": "NL-Busbar_3",
+    "description": "NL-Busbar_3 is installed in substation PP_Amsterdam.>",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Amsterdam",
+    "rel": "installed in",
+    "dst": "NL-Busbar_5",
+    "description": "NL-Busbar_5 is installed in substation PP_Amsterdam.>",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Amsterdam",
+    "rel": "location,voltage level",
+    "dst": "NL-Load_3",
+    "description": "Energy consumer NL-Load_3 is located in voltage level 220.0 of substation PP_Amsterdam.",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Amsterdam",
+    "rel": "installation,voltage level",
+    "dst": "NL-S1",
+    "description": "Linear shunt compensator NL-S1 is installed in voltage level 400.0 of substation PP_Amsterdam.",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Amsterdam",
+    "rel": "location,voltage level",
+    "dst": "B1",
+    "description": "Breaker B1 is located in voltage level 220.0 of substation PP_Amsterdam.",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Amsterdam",
+    "rel": "installed in,location",
+    "dst": "NL_TR2_2",
+    "description": "Power transformer NL_TR2_2 is installed in substation PP_Amsterdam.",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Brussels",
+    "rel": "installation_location,installed in",
+    "dst": "BE-TR2_1",
+    "description": "BE-TR2_1 is installed in substation PP_Brussels.<SEP>Power transformer BE-TR2_1 is installed in substation PP_Brussels.",
+    "weight": 2.0
+  },
+  {
+    "src": "PP_Brussels",
+    "rel": "installed in",
+    "dst": "BE-TR3_1",
+    "description": "BE-TR3_1 is installed in substation PP_Brussels.",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Brussels",
+    "rel": "installed in,installed_in,location_of",
+    "dst": "BE-Busbar_4",
+    "description": "BE-Busbar_4 is installed in substation PP_Brussels.><SEP>Busbar section BE-Busbar_4 is installed in substation PP_Brussels at voltage level 10.5 kV.",
+    "weight": 2.0
+  },
+  {
+    "src": "PP_Brussels",
+    "rel": "installed in",
+    "dst": "Usbar_6",
+    "description": "Usbar_6 is installed in substation PP_Brussels.>",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Brussels",
+    "rel": "installed in",
+    "dst": "BE-Busbar_3",
+    "description": "BE-Busbar_3 is installed in substation PP_Brussels.>",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Brussels",
+    "rel": "installed in",
+    "dst": "N1230992288",
+    "description": "N1230992288 is installed in substation PP_Brussels.>",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Brussels",
+    "rel": "installed in",
+    "dst": "BE-Busbar_1",
+    "description": "BE-Busbar_1 is installed in substation PP_Brussels.>",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Brussels",
+    "rel": "installed in",
+    "dst": "N1230992291",
+    "description": "N1230992291 is installed in substation PP_Brussels.>",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Brussels",
+    "rel": "installation_location",
+    "dst": "BE-TR2_2",
+    "description": "Power transformer BE-TR2_2 is installed in substation PP_Brussels.",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Brussels",
+    "rel": "location,voltage level",
+    "dst": "BE-Load_1",
+    "description": "Energy consumer BE-Load_1 is located in voltage level 110.0 of substation PP_Brussels.",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Brussels",
+    "rel": "installation,voltage level",
+    "dst": "BE_S2",
+    "description": "Linear shunt compensator BE_S2 is installed in voltage level 380.0 of substation PP_Brussels.",
+    "weight": 1.0
+  },
+  {
+    "src": "PP_Brussels",
+    "rel": "installation,voltage level",
+    "dst": "BE_S1",
+    "description": "Linear shunt compensator BE_S1 is installed in voltage level 110.0 of substation PP_Brussels.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL-G3 Active Power 150 MW",
+    "rel": "has parameter,injects",
+    "dst": "NL-G3",
+    "description": "Synchronous machine NL-G3 injects an active power of 150 MW into the network in the studied operating case.>",
+    "weight": 1.0
+  },
+  {
+    "src": "NL-G3 Reactive Power 83.296 MVAr",
+    "rel": "has parameter,injects",
+    "dst": "NL-G3",
+    "description": "Synchronous machine NL-G3 injects a reactive power of 83.296 MVAr into the network in the studied operating case.>",
+    "weight": 1.0
+  },
+  {
+    "src": "NL-G2 Active Power 140 MW",
+    "rel": "has parameter,injects",
+    "dst": "NL-G2",
+    "description": "Synchronous machine NL-G2 injects an active power of 140 MW into the network in the studied operating case.>",
+    "weight": 1.0
+  },
+  {
+    "src": "NL-G2 Reactive Power 77.743 MVAr",
+    "rel": "has parameter,injects",
+    "dst": "NL-G2",
+    "description": "Synchronous machine NL-G2 injects a reactive power of 77.743 MVAr into the network in the studied operating case.>",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-G1 Active Power 90 MW",
+    "rel": "has parameter,injects",
+    "dst": "BE-G1",
+    "description": "Synchronous machine BE-G1 injects an active power of 90 MW into the network in the studied operating case.>",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_TR2_2",
+    "rel": "has part",
+    "dst": "Winding 1 Of NL_TR2_2",
+    "description": "NL_TR2_2 includes Winding 1 Of NL_TR2_2 as one of its windings.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_TR2_2",
+    "rel": "has part",
+    "dst": "Winding 2 Of NL_TR2_2",
+    "description": "NL_TR2_2 includes Winding 2 Of NL_TR2_2 as one of its windings.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_TR2_2",
+    "rel": "equipped with",
+    "dst": "NL_TR2_2 Ratio Tap Changer",
+    "description": "NL_TR2_2 is equipped with NL_TR2_2 Ratio Tap Changer on winding 1.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_TR2_2",
+    "rel": "has part,winding",
+    "dst": "Winding 1 of NL_TR2_2",
+    "description": "Power transformer NL_TR2_2 includes Winding 1 of NL_TR2_2 as one of its windings.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_TR2_2",
+    "rel": "has part,winding",
+    "dst": "Winding 2 of NL_TR2_2",
+    "description": "Power transformer NL_TR2_2 includes Winding 2 of NL_TR2_2 as one of its windings.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_TR2_2",
+    "rel": "instance of,type",
+    "dst": "Power Transformer",
+    "description": "NL_TR2_2 is an instance of the Power Transformer concept.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_TR2_3",
+    "rel": "has part",
+    "dst": "Winding 1 Of NL_TR2_3",
+    "description": "NL_TR2_3 includes Winding 1 Of NL_TR2_3 as one of its windings.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_TR2_3",
+    "rel": "has part",
+    "dst": "Winding 2 Of NL_TR2_3",
+    "description": "NL_TR2_3 includes Winding 2 Of NL_TR2_3 as one of its windings.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_TR2_3",
+    "rel": "equipped with",
+    "dst": "NL_TR2_3 Ratio Tap Changer",
+    "description": "NL_TR2_3 is equipped with NL_TR2_3 Ratio Tap Changer on winding 1.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-TR3_1",
+    "rel": "has part",
+    "dst": "Winding 1 Of BE-TR3_1",
+    "description": "BE-TR3_1 includes Winding 1 Of BE-TR3_1 as one of its windings.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-TR3_1",
+    "rel": "has part",
+    "dst": "Winding 2 Of BE-TR3_1",
+    "description": "BE-TR3_1 includes Winding 2 Of BE-TR3_1 as one of its windings.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-TR3_1",
+    "rel": "has part",
+    "dst": "Winding 3 Of BE-TR3_1",
+    "description": "BE-TR3_1 includes Winding 3 Of BE-TR3_1 as one of its windings.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-TR3_1",
+    "rel": "equipped with",
+    "dst": "BE-TR3_1 Ratio Tap Changer",
+    "description": "BE-TR3_1 is equipped with BE-TR3_1 Ratio Tap Changer on winding 2.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-TR2_1",
+    "rel": "component_of,has part",
+    "dst": "Winding 1 Of BE-TR2_1",
+    "description": "BE-TR2_1 includes Winding 1 Of BE-TR2_1 as one of its windings.<SEP>Winding 1 Of BE-TR2_1 is a component of transformer BE-TR2_1.",
+    "weight": 2.0
+  },
+  {
+    "src": "BE-TR2_1",
+    "rel": "component_of,has part",
+    "dst": "Winding 2 Of BE-TR2_1",
+    "description": "BE-TR2_1 includes Winding 2 Of BE-TR2_1 as one of its two windings.<SEP>Winding 2 Of BE-TR2_1 is a component of transformer BE-TR2_1.",
+    "weight": 2.0
+  },
+  {
+    "src": "BE-TR2_1",
+    "rel": "equipped with",
+    "dst": "BE-TR2_1 Ratio Tap Changer",
+    "description": "BE-TR2_1 is associated with BE-TR2_1 Ratio Tap Changer, by analogy with other power transformers in the same description.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-TR2_1",
+    "rel": "component_of,installed_on",
+    "dst": "Phase Tap Changer BE-TR2_1",
+    "description": "Phase Tap Changer BE-TR2_1 is installed on and is a component of transformer BE-TR2_1.",
+    "weight": 1.0
+  },
+  {
+    "src": "Winding 1 Of NL_TR2_3",
+    "rel": "connected to",
+    "dst": "NL-Busbar_2",
+    "description": "Winding 1 Of NL_TR2_3 is connected to topological node NL-Busbar_2.",
+    "weight": 1.0
+  },
+  {
+    "src": "Winding 2 Of NL_TR2_3",
+    "rel": "connected to",
+    "dst": "NL_TR_BUS2",
+    "description": "Winding 2 Of NL_TR2_3 is connected to topological node NL_TR_BUS2.",
+    "weight": 1.0
+  },
+  {
+    "src": "Winding 1 Of BE-TR3_1",
+    "rel": "connected to",
+    "dst": "BE_TR_BUS2",
+    "description": "Winding 1 Of BE-TR3_1 is connected to topological node BE_TR_BUS2.",
+    "weight": 1.0
+  },
+  {
+    "src": "Winding 2 Of BE-TR3_1",
+    "rel": "connected to",
+    "dst": "BE_TR_BUS4",
+    "description": "Winding 2 Of BE-TR3_1 is connected to topological node BE_TR_BUS4.",
+    "weight": 1.0
+  },
+  {
+    "src": "Winding 3 Of BE-TR3_1",
+    "rel": "connected to",
+    "dst": "BE-Busbar_5",
+    "description": "Winding 3 Of BE-TR3_1 is connected to topological node BE-Busbar_5.",
+    "weight": 1.0
+  },
+  {
+    "src": "Winding 1 Of BE-TR2_1",
+    "rel": "electrical_connection",
+    "dst": "BE_TR_BUS2",
+    "description": "Winding 1 Of BE-TR2_1 is electrically connected to topological node BE_TR_BUS2.",
+    "weight": 1.0
+  },
+  {
+    "src": "Winding 1 Of BE-TR2_1",
+    "rel": "associated_with,installed_on",
+    "dst": "Phase Tap Changer BE-TR2_1",
+    "description": "Phase Tap Changer BE-TR2_1 is installed on and associated with Winding 1 Of BE-TR2_1.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_Busbar__4",
+    "rel": "connects_to",
+    "dst": "NL-Line_4",
+    "description": "AC line segment NL-Line_4 connects to topological node NL_Busbar__4.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_Busbar__4",
+    "rel": "connects_to",
+    "dst": "NL-Line_3",
+    "description": "AC line segment NL-Line_3 connects to topological node NL_Busbar__4.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_Busbar__4",
+    "rel": "ac_line_path,connected_to",
+    "dst": "TN_Border_ST23",
+    "description": "Topological node NL_Busbar__4 is electrically connected to topological node TN_Border_ST23 via AC line segment NL-Line_4.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_Busbar__4",
+    "rel": "ac_line_path,connected_to",
+    "dst": "TN_Border_ST24",
+    "description": "Topological node NL_Busbar__4 is electrically connected to topological node TN_Border_ST24 via AC line segment NL-Line_3.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_Busbar__4",
+    "rel": "connection",
+    "dst": "B1",
+    "description": "Breaker B1 connects to topological node NL_Busbar__4.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_Busbar__4",
+    "rel": "connects,transformer winding",
+    "dst": "Winding 1 of NL_TR2_2",
+    "description": "Winding 1 of NL_TR2_2 is connected to topological node NL_Busbar__4.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL-Busbar_2",
+    "rel": "connection",
+    "dst": "NL-Load_3",
+    "description": "Energy consumer NL-Load_3 is connected to topological node NL-Busbar_2.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL-Busbar_2",
+    "rel": "connection",
+    "dst": "B1",
+    "description": "Breaker B1 connects to topological node NL-Busbar_2.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL_TR_BUS2",
+    "rel": "corresponds to",
+    "dst": "NL-Busbar_5",
+    "description": "NL-Busbar_5 corresponds to topological node NL_TR_BUS2.>",
+    "weight": 1.0
+  },
+  {
+    "src": "BE_TR_BUS2",
+    "rel": "connects_to",
+    "dst": "BE-Line_3",
+    "description": "AC line segment BE-Line_3 connects to topological node BE_TR_BUS2.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE_TR_BUS2",
+    "rel": "AC line segment,connects,connects_to",
+    "dst": "BE-Line_5",
+    "description": "BE-Line_5 is an AC line segment that connects to topological node BE_TR_BUS2.<SEP>AC line segment BE-Line_5 connects to topological node BE_TR_BUS2.",
+    "weight": 2.0
+  },
+  {
+    "src": "BE_TR_BUS2",
+    "rel": "ac_line_path,connected_to",
+    "dst": "TN_Border_AL11",
+    "description": "Topological node BE_TR_BUS2 is electrically connected to topological node TN_Border_AL11 via AC line segment BE-Line_3.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE_TR_BUS2",
+    "rel": "ac_line_path,connected_to",
+    "dst": "TN_Border_GY11",
+    "description": "Topological node BE_TR_BUS2 is electrically connected to topological node TN_Border_GY11 via AC line segment BE-Line_5.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE_TR_BUS2",
+    "rel": "corresponds to",
+    "dst": "BE-Busbar_1",
+    "description": "BE-Busbar_1 corresponds to topological node BE_TR_BUS2.>",
+    "weight": 1.0
+  },
+  {
+    "src": "BE_TR_BUS2",
+    "rel": "connection,installation",
+    "dst": "BE_S2",
+    "description": "Linear shunt compensator BE_S2 is installed at topological node BE_TR_BUS2.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE_TR_BUS2",
+    "rel": "AC line segment,connects",
+    "dst": "BE-Line_4",
+    "description": "BE-Line_4 is an AC line segment that connects to topological node BE_TR_BUS2.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE_TR_BUS4",
+    "rel": "corresponds to",
+    "dst": "N1230992288",
+    "description": "N1230992288 corresponds to topological node BE_TR_BUS4.>",
+    "weight": 1.0
+  },
+  {
+    "src": "BE_TR_BUS4",
+    "rel": "corresponds to",
+    "dst": "BE-Busbar_3",
+    "description": "BE-Busbar_3 corresponds to topological node BE_TR_BUS4.>",
+    "weight": 1.0
+  },
+  {
+    "src": "BE_TR_BUS4",
+    "rel": "corresponds to",
+    "dst": "N1230992291",
+    "description": "N1230992291 corresponds to topological node BE_TR_BUS4.>",
+    "weight": 1.0
+  },
+  {
+    "src": "BE_TR_BUS4",
+    "rel": "electrical_connection",
+    "dst": "Winding 1 Of BE-TR2_2",
+    "description": "Winding 1 Of BE-TR2_2 is electrically connected to topological node BE_TR_BUS4.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE_TR_BUS4",
+    "rel": "AC line segment,connects",
+    "dst": "BE-Line_2",
+    "description": "BE-Line_2 is an AC line segment that connects to topological node BE_TR_BUS4.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE_TR_BUS4",
+    "rel": "AC line segment,connects",
+    "dst": "BE-Line_6",
+    "description": "BE-Line_6 is an AC line segment that connects to topological node BE_TR_BUS4.",
+    "weight": 1.0
+  },
+  {
+    "src": "Winding 2 Of BE-TR2_1",
+    "rel": "electrical_connection",
+    "dst": "BE-Busbar_6",
+    "description": "Winding 2 Of BE-TR2_1 is electrically connected to topological node BE-Busbar_6.",
+    "weight": 1.0
+  },
+  {
+    "src": "Machine BE-G1",
+    "rel": "association,membership",
+    "dst": "Generating Unit Gen-1229753060",
+    "description": "Machine BE-G1 belongs to Generating Unit Gen-1229753060.",
+    "weight": 1.0
+  },
+  {
+    "src": "Machine BE-G1",
+    "rel": "power_injection",
+    "dst": "Network",
+    "description": "Machine BE-G1 injects active and reactive power into the Network.",
+    "weight": 1.0
+  },
+  {
+    "src": "Machine BE-G1",
+    "rel": "power_injection",
+    "dst": "Active Power 90 MW (BE-G1)",
+    "description": "Machine BE-G1 injects Active Power 90 MW (BE-G1) into the network in the studied operating case.",
+    "weight": 1.0
+  },
+  {
+    "src": "Machine BE-G1",
+    "rel": "power_injection",
+    "dst": "Reactive Power 100.256 MVAr (BE-G1)",
+    "description": "Machine BE-G1 injects Reactive Power 100.256 MVAr (BE-G1) into the network in the studied operating case.",
+    "weight": 1.0
+  },
+  {
+    "src": "Network",
+    "rel": "power_injection",
+    "dst": "Synchronous Machine BE-G2",
+    "description": "Synchronous Machine BE-G2 injects active and reactive power into the Network.",
+    "weight": 1.0
+  },
+  {
+    "src": "Network",
+    "rel": "power_injection",
+    "dst": "Synchronous Machine NL-G1",
+    "description": "Synchronous Machine NL-G1 injects active and reactive power into the Network.",
+    "weight": 1.0
+  },
+  {
+    "src": "Synchronous Machine BE-G2",
+    "rel": "location,operation_voltage",
+    "dst": "Substation PP_Brussels",
+    "description": "Synchronous Machine BE-G2 operates in Substation PP_Brussels at Voltage Level 21.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Synchronous Machine BE-G2",
+    "rel": "operation_voltage",
+    "dst": "Voltage Level 21.0",
+    "description": "Synchronous Machine BE-G2 operates in Voltage Level 21.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Synchronous Machine BE-G2",
+    "rel": "connection",
+    "dst": "Topological Node BE-Busbar_5",
+    "description": "Synchronous Machine BE-G2 is connected to Topological Node BE-Busbar_5.",
+    "weight": 1.0
+  },
+  {
+    "src": "Synchronous Machine BE-G2",
+    "rel": "association,membership",
+    "dst": "Generating Unit Gen-1229753024",
+    "description": "Synchronous Machine BE-G2 belongs to Generating Unit Gen-1229753024.",
+    "weight": 1.0
+  },
+  {
+    "src": "Synchronous Machine BE-G2",
+    "rel": "power_injection",
+    "dst": "Active Power 118 MW (BE-G2)",
+    "description": "Synchronous Machine BE-G2 injects Active Power 118 MW (BE-G2) into the network in the studied operating case.",
+    "weight": 1.0
+  },
+  {
+    "src": "Synchronous Machine BE-G2",
+    "rel": "power_injection",
+    "dst": "Reactive Power 18.7203 MVAr (BE-G2)",
+    "description": "Synchronous Machine BE-G2 injects Reactive Power 18.7203 MVAr (BE-G2) into the network in the studied operating case.",
+    "weight": 1.0
+  },
+  {
+    "src": "Substation PP_Brussels",
+    "rel": "location,operation_voltage",
+    "dst": "Energy Consumer BE-Load_2",
+    "description": "Energy Consumer BE-Load_2 is located in Substation PP_Brussels at Voltage Level 225.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Synchronous Machine NL-G1",
+    "rel": "location,operation_voltage",
+    "dst": "Substation PP_Amsterdam",
+    "description": "Synchronous Machine NL-G1 operates in Substation PP_Amsterdam at Voltage Level 15.8.",
+    "weight": 1.0
+  },
+  {
+    "src": "Synchronous Machine NL-G1",
+    "rel": "connection",
+    "dst": "Topological Node NL_TR_BUS2",
+    "description": "Synchronous Machine NL-G1 is connected to Topological Node NL_TR_BUS2.",
+    "weight": 1.0
+  },
+  {
+    "src": "Synchronous Machine NL-G1",
+    "rel": "association,membership",
+    "dst": "Generating Unit Gen-12923",
+    "description": "Synchronous Machine NL-G1 belongs to Generating Unit Gen-12923.",
+    "weight": 1.0
+  },
+  {
+    "src": "Synchronous Machine NL-G1",
+    "rel": "power_injection",
+    "dst": "Active Power 600.493 MW (NL-G1)",
+    "description": "Synchronous Machine NL-G1 injects Active Power 600.493 MW (NL-G1) into the network in the studied operating case.",
+    "weight": 1.0
+  },
+  {
+    "src": "Synchronous Machine NL-G1",
+    "rel": "power_injection",
+    "dst": "Reactive Power 386.923 MVAr (NL-G1)",
+    "description": "Synchronous Machine NL-G1 injects Reactive Power 386.923 MVAr (NL-G1) into the network in the studied operating case.",
+    "weight": 1.0
+  },
+  {
+    "src": "Substation PP_Amsterdam",
+    "rel": "location,operation_voltage",
+    "dst": "Energy Consumer NL-Load_2",
+    "description": "Energy Consumer NL-Load_2 is located in Substation PP_Amsterdam at Voltage Level 400.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Substation PP_Amsterdam",
+    "rel": "location,operation_voltage",
+    "dst": "Energy Consumer NL-Load_1",
+    "description": "Energy Consumer NL-Load_1 is located in Substation PP_Amsterdam at Voltage Level 400.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer BE-Load_2",
+    "rel": "operation_voltage",
+    "dst": "Voltage Level 225.0",
+    "description": "Energy Consumer BE-Load_2 operates in Voltage Level 225.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer BE-Load_2",
+    "rel": "connection",
+    "dst": "Topological Node BE_TR_BUS4",
+    "description": "Energy Consumer BE-Load_2 is connected to Topological Node BE_TR_BUS4.",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer BE-Load_2",
+    "rel": "power_consumption",
+    "dst": "Active Power 200 MW (BE-Load_2)",
+    "description": "Energy Consumer BE-Load_2 draws Active Power 200 MW (BE-Load_2).",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer BE-Load_2",
+    "rel": "power_consumption",
+    "dst": "Reactive Power 50 MVAr (BE-Load_2)",
+    "description": "Energy Consumer BE-Load_2 draws Reactive Power 50 MVAr (BE-Load_2).",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer NL-Load_2",
+    "rel": "operation_voltage",
+    "dst": "Voltage Level 400.0",
+    "description": "Energy Consumer NL-Load_2 operates in Voltage Level 400.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer NL-Load_2",
+    "rel": "connection",
+    "dst": "Topological Node N1230992195",
+    "description": "Energy Consumer NL-Load_2 is connected to Topological Node N1230992195.",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer NL-Load_2",
+    "rel": "power_consumption",
+    "dst": "Active Power 10 MW (NL-Load_2)",
+    "description": "Energy Consumer NL-Load_2 draws Active Power 10 MW (NL-Load_2).",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer NL-Load_2",
+    "rel": "power_consumption",
+    "dst": "Reactive Power 10 MVAr (NL-Load_2)",
+    "description": "Energy Consumer NL-Load_2 draws Reactive Power 10 MVAr (NL-Load_2).",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer NL-Load_1",
+    "rel": "operation_voltage",
+    "dst": "Voltage Level 400.0",
+    "description": "Energy Consumer NL-Load_1 operates in Voltage Level 400.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer NL-Load_1",
+    "rel": "connection",
+    "dst": "Topological Node N1230992195",
+    "description": "Energy Consumer NL-Load_1 is connected to Topological Node N1230992195.",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer NL-Load_1",
+    "rel": "power_consumption",
+    "dst": "Active Power 90 MW (NL-Load_1)",
+    "description": "Energy Consumer NL-Load_1 draws Active Power 90 MW (NL-Load_1).",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer NL-Load_1",
+    "rel": "power_consumption",
+    "dst": "Reactive Power 280 MVAr (NL-Load_1)",
+    "description": "Energy Consumer NL-Load_1 draws Reactive Power 280 MVAr (NL-Load_1).",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 400.0",
+    "rel": "installation,voltage level",
+    "dst": "NL-S1",
+    "description": "Linear shunt compensator NL-S1 is installed at voltage level 400.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer L-1230804819",
+    "rel": "location,operation_voltage",
+    "dst": "Substation Anvers",
+    "description": "Energy Consumer L-1230804819 is located in Substation Anvers at Voltage Level 220.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer L-1230804819",
+    "rel": "operation_voltage",
+    "dst": "Voltage Level 220.0",
+    "description": "Energy Consumer L-1230804819 operates in Voltage Level 220.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer L-1230804819",
+    "rel": "power_consumption",
+    "dst": "Active Power 1 MW (L-1230804819)",
+    "description": "Energy Consumer L-1230804819 draws Active Power 1 MW (L-1230804819).",
+    "weight": 1.0
+  },
+  {
+    "src": "Energy Consumer L-1230804819",
+    "rel": "power_consumption",
+    "dst": "Reactive Power 0 MVAr (L-1230804819)",
+    "description": "Energy Consumer L-1230804819 draws Reactive Power 0 MVAr (L-1230804819).",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 220.0",
+    "rel": "installed in,operates at",
+    "dst": "N1230992411",
+    "description": "N1230992411 is installed in voltage level 220.0 and operates at a nominal voltage of 225 kV at this level.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 220.0",
+    "rel": "installed in,operates at",
+    "dst": "N1230992414",
+    "description": "N1230992414 is installed in voltage level 220.0 and operates at a nominal voltage of 225 kV at this level.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 220.0",
+    "rel": "installed in,operates at",
+    "dst": "BE-Busbar_2",
+    "description": "BE-Busbar_2 is installed in voltage level 220.0 and operates at a nominal voltage of 225 kV at this level.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 220.0",
+    "rel": "location,voltage level",
+    "dst": "L-1230804819",
+    "description": "Energy consumer L-1230804819 is located at voltage level 220.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 220.0",
+    "rel": "location,voltage level",
+    "dst": "NL-Load_3",
+    "description": "Energy consumer NL-Load_3 is located at voltage level 220.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 220.0",
+    "rel": "location,voltage level",
+    "dst": "B1",
+    "description": "Breaker B1 is located at voltage level 220.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Substation Anvers",
+    "rel": "located_in",
+    "dst": "Be Region",
+    "description": "Substation Anvers is located in the BE region.",
+    "weight": 1.0
+  },
+  {
+    "src": "Substation Anvers",
+    "rel": "contains,has_voltage_level",
+    "dst": "Voltage Level 220.0 (Anvers)",
+    "description": "Substation Anvers contains voltage level 220.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Entso-E Cgmes Microgrid Test Configuration - Network Operations Description",
+    "rel": "describes,includes",
+    "dst": "Be Region",
+    "description": "The document describes an interconnected transmission network that spans the BE region.",
+    "weight": 1.0
+  },
+  {
+    "src": "Entso-E Cgmes Microgrid Test Configuration - Network Operations Description",
+    "rel": "describes,includes",
+    "dst": "Eu Region",
+    "description": "The document describes an interconnected transmission network that spans the EU region.",
+    "weight": 1.0
+  },
+  {
+    "src": "Entso-E Cgmes Microgrid Test Configuration - Network Operations Description",
+    "rel": "describes,includes",
+    "dst": "Nl Region",
+    "description": "The document describes an interconnected transmission network that spans the NL region.",
+    "weight": 1.0
+  },
+  {
+    "src": "Be Region",
+    "rel": "located_in",
+    "dst": "Substation Pp_Brussels",
+    "description": "Substation PP_Brussels is located in the BE region.",
+    "weight": 1.0
+  },
+  {
+    "src": "Nl Region",
+    "rel": "located_in",
+    "dst": "Substation Pp_Amsterdam",
+    "description": "Substation PP_Amsterdam is located in the NL region.",
+    "weight": 1.0
+  },
+  {
+    "src": "Substation Pp_Brussels",
+    "rel": "contains,has_voltage_level",
+    "dst": "Voltage Level 380.0 (Pp_Brussels)",
+    "description": "Substation PP_Brussels contains voltage level 380.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Substation Pp_Brussels",
+    "rel": "contains,has_voltage_level",
+    "dst": "Voltage Level 225.0 (Pp_Brussels)",
+    "description": "Substation PP_Brussels contains voltage level 225.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Substation Pp_Brussels",
+    "rel": "contains,has_voltage_level",
+    "dst": "Voltage Level 110.0 (Pp_Brussels)",
+    "description": "Substation PP_Brussels contains voltage level 110.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Substation Pp_Brussels",
+    "rel": "contains,has_voltage_level",
+    "dst": "Voltage Level 21.0 (Pp_Brussels)",
+    "description": "Substation PP_Brussels contains voltage level 21.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Substation Pp_Brussels",
+    "rel": "contains,has_voltage_level",
+    "dst": "Voltage Level 10.5 (Pp_Brussels)",
+    "description": "Substation PP_Brussels contains voltage level 10.5.",
+    "weight": 1.0
+  },
+  {
+    "src": "Substation Pp_Amsterdam",
+    "rel": "contains,has_voltage_level",
+    "dst": "Voltage Level 400.0 (Pp_Amsterdam)",
+    "description": "Substation PP_Amsterdam contains voltage level 400.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Substation Pp_Amsterdam",
+    "rel": "contains,has_voltage_level",
+    "dst": "Voltage Level 220.0 (Pp_Amsterdam)",
+    "description": "Substation PP_Amsterdam contains voltage level 220.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Substation Pp_Amsterdam",
+    "rel": "contains,has_voltage_level",
+    "dst": "Voltage Level 15.8 (Pp_Amsterdam)",
+    "description": "Substation PP_Amsterdam contains voltage level 15.8.",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 110.0 (Pp_Brussels)",
+    "rel": "installed_in,operates_at_voltage_level",
+    "dst": "Busbar Section Be-Busbar_6",
+    "description": "Busbar section BE-Busbar_6 is installed in voltage level 110.0 of substation PP_Brussels.",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 220.0 (Pp_Amsterdam)",
+    "rel": "installed_in,operates_at_voltage_level",
+    "dst": "Busbar Section N1230822396",
+    "description": "Busbar section N1230822396 is installed in voltage level 220.0 of substation PP_Amsterdam.",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 220.0 (Pp_Amsterdam)",
+    "rel": "installed_in,operates_at_voltage_level",
+    "dst": "Busbar Section Nl-Busbar_2",
+    "description": "Busbar section NL-Busbar_2 is installed in voltage level 220.0 of substation PP_Amsterdam.",
+    "weight": 1.0
+  },
+  {
+    "src": "Busbar Section N1230822396",
+    "rel": "corresponds_to",
+    "dst": "Topological Node Nl_Busbar__4",
+    "description": "Busbar section N1230822396 corresponds to topological node NL_Busbar__4.",
+    "weight": 1.0
+  },
+  {
+    "src": "Busbar Section Nl-Busbar_2",
+    "rel": "corresponds_to",
+    "dst": "Topological Node Nl-Busbar_2",
+    "description": "Busbar section NL-Busbar_2 corresponds to topological node NL-Busbar_2.",
+    "weight": 1.0
+  },
+  {
+    "src": "Busbar Section Be-Busbar_6",
+    "rel": "corresponds_to",
+    "dst": "Topological Node Be-Busbar_6",
+    "description": "Busbar section BE-Busbar_6 corresponds to topological node BE-Busbar_6.",
+    "weight": 1.0
+  },
+  {
+    "src": "Anvers",
+    "rel": "hosts,installed in,location_of",
+    "dst": "BE-Busbar_2",
+    "description": "BE-Busbar_2 is installed in substation Anvers.><SEP>Station Anvers hosts busbar BE-Busbar_2, which operates there at a nominal voltage of 225 kV.",
+    "weight": 2.0
+  },
+  {
+    "src": "Anvers",
+    "rel": "installed in",
+    "dst": "N1230992411",
+    "description": "N1230992411 is installed in substation Anvers.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Anvers",
+    "rel": "installed in",
+    "dst": "N1230992414",
+    "description": "N1230992414 is installed in substation Anvers.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Anvers",
+    "rel": "location,voltage level",
+    "dst": "L-1230804819",
+    "description": "Energy consumer L-1230804819 is located in voltage level 220.0 of substation Anvers.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_2",
+    "rel": "ac_line_path,connected_to",
+    "dst": "TN_Border_ST23",
+    "description": "Topological node BE-Busbar_2 is electrically connected to topological node TN_Border_ST23 via AC line segment BE-Line_1.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_2",
+    "rel": "ac_line_path,connected_to",
+    "dst": "TN_Border_ST24",
+    "description": "Topological node BE-Busbar_2 is electrically connected to topological node TN_Border_ST24 via AC line segment BE-Line_7.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_2",
+    "rel": "connects_to",
+    "dst": "BE-Line_1",
+    "description": "AC line segment BE-Line_1 connects to topological node BE-Busbar_2.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_2",
+    "rel": "connects_to",
+    "dst": "BE-Line_7",
+    "description": "AC line segment BE-Line_7 connects to topological node BE-Busbar_2.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_2",
+    "rel": "corresponds to",
+    "dst": "N1230992411",
+    "description": "N1230992411 corresponds to topological node BE-Busbar_2.>",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_2",
+    "rel": "corresponds to",
+    "dst": "N1230992414",
+    "description": "N1230992414 corresponds to topological node BE-Busbar_2.>",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_2",
+    "rel": "connection",
+    "dst": "L-1230804819",
+    "description": "Energy consumer L-1230804819 is connected to topological node BE-Busbar_2.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_2",
+    "rel": "AC line segment,connects",
+    "dst": "BE-Line_2",
+    "description": "BE-Line_2 is an AC line segment that connects to topological node BE-Busbar_2.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_2",
+    "rel": "AC line segment,connects",
+    "dst": "BE-Line_6",
+    "description": "BE-Line_6 is an AC line segment that connects to topological node BE-Busbar_2.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_4",
+    "rel": "electrical_connection",
+    "dst": "Winding 2 Of BE-TR2_3",
+    "description": "Winding 2 Of BE-TR2_3 is electrically connected to topological node BE-Busbar_4.",
+    "weight": 1.0
+  },
+  {
+    "src": "TN_Border_ST23",
+    "rel": "connects_to",
+    "dst": "BE-Line_1",
+    "description": "AC line segment BE-Line_1 connects to topological node TN_Border_ST23.",
+    "weight": 1.0
+  },
+  {
+    "src": "TN_Border_ST23",
+    "rel": "connects_to",
+    "dst": "NL-Line_4",
+    "description": "AC line segment NL-Line_4 connects to topological node TN_Border_ST23.",
+    "weight": 1.0
+  },
+  {
+    "src": "TN_Border_AL11",
+    "rel": "connects_to",
+    "dst": "BE-Line_3",
+    "description": "AC line segment BE-Line_3 connects to topological node TN_Border_AL11.",
+    "weight": 1.0
+  },
+  {
+    "src": "TN_Border_AL11",
+    "rel": "connects_to",
+    "dst": "NL-Line_1",
+    "description": "AC line segment NL-Line_1 connects to topological node TN_Border_AL11.",
+    "weight": 1.0
+  },
+  {
+    "src": "TN_Border_ST24",
+    "rel": "connects_to",
+    "dst": "BE-Line_7",
+    "description": "AC line segment BE-Line_7 connects to topological node TN_Border_ST24.",
+    "weight": 1.0
+  },
+  {
+    "src": "TN_Border_ST24",
+    "rel": "connects_to",
+    "dst": "NL-Line_3",
+    "description": "AC line segment NL-Line_3 connects to topological node TN_Border_ST24.",
+    "weight": 1.0
+  },
+  {
+    "src": "TN_Border_GY11",
+    "rel": "AC line segment,connects,connects_to",
+    "dst": "BE-Line_5",
+    "description": "BE-Line_5 is an AC line segment that connects to topological node TN_Border_GY11.<SEP>AC line segment BE-Line_5 connects to topological node TN_Border_GY11.",
+    "weight": 2.0
+  },
+  {
+    "src": "TN_Border_GY11",
+    "rel": "AC line segment,connects",
+    "dst": "NL-Line_5",
+    "description": "NL-Line_5 is an AC line segment that connects to topological node TN_Border_GY11.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Line_5",
+    "rel": "instance of,type",
+    "dst": "AC Line Segment",
+    "description": "BE-Line_5 is an instance of the AC Line Segment concept.",
+    "weight": 1.0
+  },
+  {
+    "src": "Usbar_6",
+    "rel": "corresponds to",
+    "dst": "BE-Busbar_6",
+    "description": "Usbar_6 corresponds to topological node BE-Busbar_6.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Usbar_6",
+    "rel": "installed in,operates at",
+    "dst": "Voltage Level 110.0",
+    "description": "Usbar_6 is installed in voltage level 110.0 and operates at a nominal voltage of 110 kV at this level.>",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_6",
+    "rel": "electrical_connection",
+    "dst": "Winding 2 Of BE-TR2_2",
+    "description": "Winding 2 Of BE-TR2_2 is electrically connected to topological node BE-Busbar_6.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_6",
+    "rel": "electrical_connection",
+    "dst": "Winding 1 Of BE-TR2_3",
+    "description": "Winding 1 Of BE-TR2_3 is electrically connected to topological node BE-Busbar_6.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_6",
+    "rel": "connection",
+    "dst": "BE-Load_1",
+    "description": "Energy consumer BE-Load_1 is connected to topological node BE-Busbar_6.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_6",
+    "rel": "connection,installation",
+    "dst": "BE_S1",
+    "description": "Linear shunt compensator BE_S1 is installed at topological node BE-Busbar_6.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_3",
+    "rel": "installed in,operates at",
+    "dst": "Voltage Level 225.0 (PP_Brussels)",
+    "description": "BE-Busbar_3 is installed in voltage level 225.0 at substation PP_Brussels and operates at a nominal voltage of 225 kV.>",
+    "weight": 1.0
+  },
+  {
+    "src": "N1230992288",
+    "rel": "installed in,operates at",
+    "dst": "Voltage Level 225.0 (PP_Brussels)",
+    "description": "N1230992288 is installed in voltage level 225.0 at substation PP_Brussels and operates at a nominal voltage of 225 kV.>",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Busbar_1",
+    "rel": "installed in,operates at",
+    "dst": "Voltage Level 380.0",
+    "description": "BE-Busbar_1 is installed in voltage level 380.0 and operates at a nominal voltage of 380 kV at this level.>",
+    "weight": 1.0
+  },
+  {
+    "src": "N1230992291",
+    "rel": "installed in,operates at",
+    "dst": "Voltage Level 225.0 (PP_Brussels)",
+    "description": "N1230992291 is installed in voltage level 225.0 at substation PP_Brussels and operates at a nominal voltage of 225 kV.>",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 110.0",
+    "rel": "location,voltage level",
+    "dst": "BE-Load_1",
+    "description": "Energy consumer BE-Load_1 is located at voltage level 110.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 110.0",
+    "rel": "installation,voltage level",
+    "dst": "BE_S1",
+    "description": "Linear shunt compensator BE_S1 is installed at voltage level 110.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "Voltage Level 380.0",
+    "rel": "installation,voltage level",
+    "dst": "BE_S2",
+    "description": "Linear shunt compensator BE_S2 is installed at voltage level 380.0.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-TR2_2",
+    "rel": "component_of",
+    "dst": "Winding 1 Of BE-TR2_2",
+    "description": "Winding 1 Of BE-TR2_2 is a component of transformer BE-TR2_2.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-TR2_2",
+    "rel": "component_of",
+    "dst": "Winding 2 Of BE-TR2_2",
+    "description": "Winding 2 Of BE-TR2_2 is a component of transformer BE-TR2_2.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-TR2_2",
+    "rel": "component_of,installed_on",
+    "dst": "Ratio Tap Changer BE-TR2_2",
+    "description": "Ratio Tap Changer BE-TR2_2 is installed on and is a component of transformer BE-TR2_2.",
+    "weight": 1.0
+  },
+  {
+    "src": "Winding 1 Of BE-TR2_2",
+    "rel": "associated_with,installed_on",
+    "dst": "Ratio Tap Changer BE-TR2_2",
+    "description": "Ratio Tap Changer BE-TR2_2 is installed on and associated with Winding 1 Of BE-TR2_2.",
+    "weight": 1.0
+  },
+  {
+    "src": "Winding 2 Of BE-TR2_3",
+    "rel": "associated_with,installed_on",
+    "dst": "Ratio Tap Changer BE-TR2_3",
+    "description": "Ratio Tap Changer BE-TR2_3 is installed on and associated with Winding 2 Of BE-TR2_3.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Line_2",
+    "rel": "instance of,type",
+    "dst": "AC Line Segment",
+    "description": "BE-Line_2 is an instance of the AC Line Segment concept.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL-Line_2",
+    "rel": "AC line segment,connects",
+    "dst": "TN_Border_MA11",
+    "description": "NL-Line_2 is an AC line segment that connects to topological node TN_Border_MA11.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL-Line_2",
+    "rel": "instance of,type",
+    "dst": "AC Line Segment",
+    "description": "NL-Line_2 is an instance of the AC Line Segment concept.",
+    "weight": 1.0
+  },
+  {
+    "src": "TN_Border_MA11",
+    "rel": "AC line segment,connects",
+    "dst": "BE-Line_4",
+    "description": "BE-Line_4 is an AC line segment that connects to topological node TN_Border_MA11.",
+    "weight": 1.0
+  },
+  {
+    "src": "NL-Line_5",
+    "rel": "instance of,type",
+    "dst": "AC Line Segment",
+    "description": "NL-Line_5 is an instance of the AC Line Segment concept.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Line_4",
+    "rel": "instance of,type",
+    "dst": "AC Line Segment",
+    "description": "BE-Line_4 is an instance of the AC Line Segment concept.",
+    "weight": 1.0
+  },
+  {
+    "src": "BE-Line_6",
+    "rel": "instance of,type",
+    "dst": "AC Line Segment",
+    "description": "BE-Line_6 is an instance of the AC Line Segment concept.",
+    "weight": 1.0
+  },
+  {
+    "src": "Power Transformers",
+    "rel": "generalization,refers to",
+    "dst": "Power Transformer",
+    "description": "Power Transformers is a heading that refers to the general concept of Power Transformer.",
+    "weight": 1.0
+  }
+]

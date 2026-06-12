@@ -1,0 +1,727 @@
+[
+  {
+    "id": "Q01",
+    "question": "What is the length (in km) of AC line segment 82-96?",
+    "gold_answer": "101.782 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 101.782356,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "82-96.Conductor.length"
+  },
+  {
+    "id": "Q02",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment 23-32?",
+    "gold_answer": "5.52341 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 5.523408,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "23-32.ACLineSegment.r"
+  },
+  {
+    "id": "Q03",
+    "question": "What is the length (in km) of AC line segment 103-105?",
+    "gold_answer": "118.117 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 118.117485,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "103-105.Conductor.length"
+  },
+  {
+    "id": "Q04",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment 49-51?",
+    "gold_answer": "8.46806 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 8.468064,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "49-51.ACLineSegment.r"
+  },
+  {
+    "id": "Q05",
+    "question": "What is the length (in km) of AC line segment 9-10?",
+    "gold_answer": "130.187 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 130.187241,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "9-10.Conductor.length"
+  },
+  {
+    "id": "Q06",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment 105-107?",
+    "gold_answer": "9.23472 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 9.23472,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "105-107.ACLineSegment.r"
+  },
+  {
+    "id": "Q07",
+    "question": "What is the length (in km) of AC line segment 8-9?",
+    "gold_answer": "250.267 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 250.2668,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "8-9.Conductor.length"
+  },
+  {
+    "id": "Q08",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment 105-106?",
+    "gold_answer": "2.43936 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 2.43936,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "105-106.ACLineSegment.r"
+  },
+  {
+    "id": "Q09",
+    "question": "What is the length (in km) of AC line segment 28-29?",
+    "gold_answer": "38.3835 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 38.38349,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "28-29.Conductor.length"
+  },
+  {
+    "id": "Q10",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment 45-46?",
+    "gold_answer": "6.9696 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 6.9696,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "45-46.ACLineSegment.r"
+  },
+  {
+    "id": "Q11",
+    "question": "What is the length (in km) of AC line segment 23-25?",
+    "gold_answer": "31.2225 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 31.222496,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "23-25.Conductor.length"
+  },
+  {
+    "id": "Q12",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment 31-32?",
+    "gold_answer": "5.19235 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 5.192352,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "31-32.ACLineSegment.r"
+  },
+  {
+    "id": "Q13",
+    "question": "What is the length (in km) of AC line segment 54-55?",
+    "gold_answer": "32.4472 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 32.4472427,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "54-55.Conductor.length"
+  },
+  {
+    "id": "Q14",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment 71-73?",
+    "gold_answer": "1.50892 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 1.508918,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "71-73.ACLineSegment.r"
+  },
+  {
+    "id": "Q15",
+    "question": "What is the length (in km) of AC line segment 51-52?",
+    "gold_answer": "19.7457 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 19.7457485,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "51-52.Conductor.length"
+  },
+  {
+    "id": "Q16",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment 16-17?",
+    "gold_answer": "7.9105 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 7.910496,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "16-17.ACLineSegment.r"
+  },
+  {
+    "id": "Q17",
+    "question": "What is the length (in km) of AC line segment 32-114?",
+    "gold_answer": "48.1825 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 48.18246,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "32-114.Conductor.length"
+  },
+  {
+    "id": "Q18",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment 62-67?",
+    "gold_answer": "4.49539 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 4.495392,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "62-67.ACLineSegment.r"
+  },
+  {
+    "id": "Q19",
+    "question": "What is the length (in km) of AC line segment 19-20?",
+    "gold_answer": "39.9261 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 39.9260941,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "19-20.Conductor.length"
+  },
+  {
+    "id": "Q20",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment 85-86?",
+    "gold_answer": "6.0984 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 6.0984,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "85-86.ACLineSegment.r"
+  },
+  {
+    "id": "Q21",
+    "question": "What is the length (in km) of AC line segment 12-14?",
+    "gold_answer": "116.546 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 116.546234,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "12-14.Conductor.length"
+  },
+  {
+    "id": "Q22",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment 47-49?",
+    "gold_answer": "3.32798 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 3.327984,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "47-49.ACLineSegment.r"
+  },
+  {
+    "id": "Q23",
+    "question": "What is the length (in km) of AC line segment 56-58?",
+    "gold_answer": "37.4335 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 37.43351,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "56-58.Conductor.length"
+  },
+  {
+    "id": "Q24",
+    "question": "What is the positive-sequence resistance (in ohm) of AC line segment 1-3?",
+    "gold_answer": "2.2477 ohm",
+    "answer_spec": {
+      "type": "number",
+      "value": 2.247696,
+      "unit": "ohm",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "1-3.ACLineSegment.r"
+  },
+  {
+    "id": "Q25",
+    "question": "What is the length (in km) of AC line segment 93-94?",
+    "gold_answer": "35.9685 km",
+    "answer_spec": {
+      "type": "number",
+      "value": 35.9685059,
+      "unit": "km",
+      "tol": 0.01
+    },
+    "stratum": "S1",
+    "hop_count": 1,
+    "evidence": "93-94.Conductor.length"
+  },
+  {
+    "id": "Q26",
+    "question": "Which two topological nodes does AC line segment 82-96 connect?",
+    "gold_answer": "Baileysv and Logan",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Baileysv",
+        "Logan"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "82-96->Terminals->TNs"
+  },
+  {
+    "id": "Q27",
+    "question": "Which two topological nodes does AC line segment 103-105 connect?",
+    "gold_answer": "Claytor and Roanoke",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Claytor",
+        "Roanoke"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "103-105->Terminals->TNs"
+  },
+  {
+    "id": "Q28",
+    "question": "Which two topological nodes does AC line segment 9-10 connect?",
+    "gold_answer": "Breed and X9",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Breed",
+        "X9"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "9-10->Terminals->TNs"
+  },
+  {
+    "id": "Q29",
+    "question": "Which two topological nodes does AC line segment 8-9 connect?",
+    "gold_answer": "Olive1 and X9",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Olive1",
+        "X9"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "8-9->Terminals->TNs"
+  },
+  {
+    "id": "Q30",
+    "question": "Which two topological nodes does AC line segment 28-29 connect?",
+    "gold_answer": "Grant and Mullin",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Grant",
+        "Mullin"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "28-29->Terminals->TNs"
+  },
+  {
+    "id": "Q31",
+    "question": "Which two topological nodes does AC line segment 23-25 connect?",
+    "gold_answer": "CollCrnr and TannrsCk1",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "CollCrnr",
+        "TannrsCk1"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "23-25->Terminals->TNs"
+  },
+  {
+    "id": "Q32",
+    "question": "Which two topological nodes does AC line segment 54-55 connect?",
+    "gold_answer": "Torrey and Wagenhls",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Torrey",
+        "Wagenhls"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "54-55->Terminals->TNs"
+  },
+  {
+    "id": "Q33",
+    "question": "Which two topological nodes does AC line segment 51-52 connect?",
+    "gold_answer": "Newcmrst and SCoshoct",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Newcmrst",
+        "SCoshoct"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "51-52->Terminals->TNs"
+  },
+  {
+    "id": "Q34",
+    "question": "Which two topological nodes does AC line segment 32-114 connect?",
+    "gold_answer": "Delaware and WMedford",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Delaware",
+        "WMedford"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "32-114->Terminals->TNs"
+  },
+  {
+    "id": "Q35",
+    "question": "Which two topological nodes does AC line segment 19-20 connect?",
+    "gold_answer": "Adams and Lincoln",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Adams",
+        "Lincoln"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "19-20->Terminals->TNs"
+  },
+  {
+    "id": "Q36",
+    "question": "Which two topological nodes does AC line segment 12-14 connect?",
+    "gold_answer": "GoshenJt and TwinBrch",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "GoshenJt",
+        "TwinBrch"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "12-14->Terminals->TNs"
+  },
+  {
+    "id": "Q37",
+    "question": "Which two topological nodes does AC line segment 56-58 connect?",
+    "gold_answer": "Sunnysde and WNwPhil2",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Sunnysde",
+        "WNwPhil2"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "56-58->Terminals->TNs"
+  },
+  {
+    "id": "Q38",
+    "question": "Which two topological nodes does AC line segment 93-94 connect?",
+    "gold_answer": "Switchbk and Tazewell",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Switchbk",
+        "Tazewell"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "93-94->Terminals->TNs"
+  },
+  {
+    "id": "Q39",
+    "question": "Which two topological nodes does AC line segment 64-65 connect?",
+    "gold_answer": "Kammer and Muskngum2",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Kammer",
+        "Muskngum2"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "64-65->Terminals->TNs"
+  },
+  {
+    "id": "Q40",
+    "question": "Which two topological nodes does AC line segment 19-34 connect?",
+    "gold_answer": "Lincoln and Rockhill",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Lincoln",
+        "Rockhill"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "19-34->Terminals->TNs"
+  },
+  {
+    "id": "Q41",
+    "question": "Which two topological nodes does AC line segment 46-47 connect?",
+    "gold_answer": "Crooksvl and W.Lancst",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Crooksvl",
+        "W.Lancst"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "46-47->Terminals->TNs"
+  },
+  {
+    "id": "Q42",
+    "question": "Which two topological nodes does AC line segment 59-60 connect?",
+    "gold_answer": "SWKammer and Tidd1",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "SWKammer",
+        "Tidd1"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "59-60->Terminals->TNs"
+  },
+  {
+    "id": "Q43",
+    "question": "Which two topological nodes does AC line segment 92-100 connect?",
+    "gold_answer": "Glen Lyn and Saltvlle",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Glen Lyn",
+        "Saltvlle"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "92-100->Terminals->TNs"
+  },
+  {
+    "id": "Q44",
+    "question": "Which two topological nodes does AC line segment 53-54 connect?",
+    "gold_answer": "Torrey and Wooster",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Torrey",
+        "Wooster"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "53-54->Terminals->TNs"
+  },
+  {
+    "id": "Q45",
+    "question": "Which two topological nodes does AC line segment 24-72 connect?",
+    "gold_answer": "Hillsbro and Trenton",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Hillsbro",
+        "Trenton"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "24-72->Terminals->TNs"
+  },
+  {
+    "id": "Q46",
+    "question": "Which two topological nodes does AC line segment 3-12 connect?",
+    "gold_answer": "HickryCk and TwinBrch",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "HickryCk",
+        "TwinBrch"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "3-12->Terminals->TNs"
+  },
+  {
+    "id": "Q47",
+    "question": "Which two topological nodes does AC line segment 37-39 connect?",
+    "gold_answer": "EastLima1 and NwLibrty",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "EastLima1",
+        "NwLibrty"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "37-39->Terminals->TNs"
+  },
+  {
+    "id": "Q48",
+    "question": "Which two topological nodes does AC line segment 34-36 connect?",
+    "gold_answer": "Rockhill and Sterling",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Rockhill",
+        "Sterling"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "34-36->Terminals->TNs"
+  },
+  {
+    "id": "Q49",
+    "question": "Which two topological nodes does AC line segment 70-75 connect?",
+    "gold_answer": "Portsmth and SthPoint",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Portsmth",
+        "SthPoint"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "70-75->Terminals->TNs"
+  },
+  {
+    "id": "Q50",
+    "question": "Which two topological nodes does AC line segment 76-118 connect?",
+    "gold_answer": "Darrah and WHuntngd",
+    "answer_spec": {
+      "type": "entity_set",
+      "values": [
+        "Darrah",
+        "WHuntngd"
+      ]
+    },
+    "stratum": "S2",
+    "hop_count": 2,
+    "evidence": "76-118->Terminals->TNs"
+  }
+]

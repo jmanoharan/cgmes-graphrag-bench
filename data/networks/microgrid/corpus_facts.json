@@ -1,0 +1,1310 @@
+[
+  {
+    "a": "PP_Brussels",
+    "rel": "CONTAINED_IN",
+    "b": "BE",
+    "sentence": "Substation PP_Brussels is located in the BE region."
+  },
+  {
+    "a": "380.0",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Substation PP_Brussels contains voltage level 380.0 with a nominal voltage of 380 kV."
+  },
+  {
+    "a": "380.0",
+    "rel": "AT_VOLTAGE",
+    "b": "380 kV",
+    "sentence": "Substation PP_Brussels contains voltage level 380.0 with a nominal voltage of 380 kV."
+  },
+  {
+    "a": "225.0",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Substation PP_Brussels contains voltage level 225.0 with a nominal voltage of 225 kV."
+  },
+  {
+    "a": "225.0",
+    "rel": "AT_VOLTAGE",
+    "b": "225 kV",
+    "sentence": "Substation PP_Brussels contains voltage level 225.0 with a nominal voltage of 225 kV."
+  },
+  {
+    "a": "110.0",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Substation PP_Brussels contains voltage level 110.0 with a nominal voltage of 110 kV."
+  },
+  {
+    "a": "110.0",
+    "rel": "AT_VOLTAGE",
+    "b": "110 kV",
+    "sentence": "Substation PP_Brussels contains voltage level 110.0 with a nominal voltage of 110 kV."
+  },
+  {
+    "a": "21.0",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Substation PP_Brussels contains voltage level 21.0 with a nominal voltage of 21 kV."
+  },
+  {
+    "a": "21.0",
+    "rel": "AT_VOLTAGE",
+    "b": "21 kV",
+    "sentence": "Substation PP_Brussels contains voltage level 21.0 with a nominal voltage of 21 kV."
+  },
+  {
+    "a": "10.5",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Substation PP_Brussels contains voltage level 10.5 with a nominal voltage of 10.5 kV."
+  },
+  {
+    "a": "10.5",
+    "rel": "AT_VOLTAGE",
+    "b": "10.5 kV",
+    "sentence": "Substation PP_Brussels contains voltage level 10.5 with a nominal voltage of 10.5 kV."
+  },
+  {
+    "a": "Anvers",
+    "rel": "CONTAINED_IN",
+    "b": "BE",
+    "sentence": "Substation Anvers is located in the BE region."
+  },
+  {
+    "a": "220.0",
+    "rel": "CONTAINED_IN",
+    "b": "Anvers",
+    "sentence": "Substation Anvers contains voltage level 220.0 with a nominal voltage of 225 kV."
+  },
+  {
+    "a": "220.0",
+    "rel": "AT_VOLTAGE",
+    "b": "225 kV",
+    "sentence": "Substation Anvers contains voltage level 220.0 with a nominal voltage of 225 kV."
+  },
+  {
+    "a": "PP_Amsterdam",
+    "rel": "CONTAINED_IN",
+    "b": "NL",
+    "sentence": "Substation PP_Amsterdam is located in the NL region."
+  },
+  {
+    "a": "400.0",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Substation PP_Amsterdam contains voltage level 400.0 with a nominal voltage of 400 kV."
+  },
+  {
+    "a": "400.0",
+    "rel": "AT_VOLTAGE",
+    "b": "400 kV",
+    "sentence": "Substation PP_Amsterdam contains voltage level 400.0 with a nominal voltage of 400 kV."
+  },
+  {
+    "a": "220.0",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Substation PP_Amsterdam contains voltage level 220.0 with a nominal voltage of 220 kV."
+  },
+  {
+    "a": "220.0",
+    "rel": "AT_VOLTAGE",
+    "b": "220 kV",
+    "sentence": "Substation PP_Amsterdam contains voltage level 220.0 with a nominal voltage of 220 kV."
+  },
+  {
+    "a": "15.8",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Substation PP_Amsterdam contains voltage level 15.8 with a nominal voltage of 15.75 kV."
+  },
+  {
+    "a": "15.8",
+    "rel": "AT_VOLTAGE",
+    "b": "15.75 kV",
+    "sentence": "Substation PP_Amsterdam contains voltage level 15.8 with a nominal voltage of 15.75 kV."
+  },
+  {
+    "a": "15.8",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Substation PP_Amsterdam contains voltage level 15.8 with a nominal voltage of 15.75 kV."
+  },
+  {
+    "a": "15.8",
+    "rel": "AT_VOLTAGE",
+    "b": "15.75 kV",
+    "sentence": "Substation PP_Amsterdam contains voltage level 15.8 with a nominal voltage of 15.75 kV."
+  },
+  {
+    "a": "N1230822396",
+    "rel": "CONTAINED_IN",
+    "b": "220.0",
+    "sentence": "Busbar section N1230822396 is installed in voltage level 220.0 of substation PP_Amsterdam and operates at a nominal voltage of 220 kV. It corresponds to topological node NL_Busbar__4."
+  },
+  {
+    "a": "N1230822396",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Busbar section N1230822396 is installed in voltage level 220.0 of substation PP_Amsterdam and operates at a nominal voltage of 220 kV. It corresponds to topological node NL_Busbar__4."
+  },
+  {
+    "a": "N1230822396",
+    "rel": "AT_VOLTAGE",
+    "b": "220 kV",
+    "sentence": "Busbar section N1230822396 is installed in voltage level 220.0 of substation PP_Amsterdam and operates at a nominal voltage of 220 kV. It corresponds to topological node NL_Busbar__4."
+  },
+  {
+    "a": "N1230822396",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "NL_Busbar__4",
+    "sentence": "Busbar section N1230822396 is installed in voltage level 220.0 of substation PP_Amsterdam and operates at a nominal voltage of 220 kV. It corresponds to topological node NL_Busbar__4."
+  },
+  {
+    "a": "NL-Busbar_2",
+    "rel": "CONTAINED_IN",
+    "b": "220.0",
+    "sentence": "Busbar section NL-Busbar_2 is installed in voltage level 220.0 of substation PP_Amsterdam and operates at a nominal voltage of 220 kV. It corresponds to topological node NL-Busbar_2."
+  },
+  {
+    "a": "NL-Busbar_2",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Busbar section NL-Busbar_2 is installed in voltage level 220.0 of substation PP_Amsterdam and operates at a nominal voltage of 220 kV. It corresponds to topological node NL-Busbar_2."
+  },
+  {
+    "a": "NL-Busbar_2",
+    "rel": "AT_VOLTAGE",
+    "b": "220 kV",
+    "sentence": "Busbar section NL-Busbar_2 is installed in voltage level 220.0 of substation PP_Amsterdam and operates at a nominal voltage of 220 kV. It corresponds to topological node NL-Busbar_2."
+  },
+  {
+    "a": "NL-Busbar_2",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "NL-Busbar_2",
+    "sentence": "Busbar section NL-Busbar_2 is installed in voltage level 220.0 of substation PP_Amsterdam and operates at a nominal voltage of 220 kV. It corresponds to topological node NL-Busbar_2."
+  },
+  {
+    "a": "BE-Busbar_6",
+    "rel": "CONTAINED_IN",
+    "b": "110.0",
+    "sentence": "Busbar section BE-Busbar_6 is installed in voltage level 110.0 of substation PP_Brussels and operates at a nominal voltage of 110 kV. It corresponds to topological node BE-Busbar_6."
+  },
+  {
+    "a": "BE-Busbar_6",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Busbar section BE-Busbar_6 is installed in voltage level 110.0 of substation PP_Brussels and operates at a nominal voltage of 110 kV. It corresponds to topological node BE-Busbar_6."
+  },
+  {
+    "a": "BE-Busbar_6",
+    "rel": "AT_VOLTAGE",
+    "b": "110 kV",
+    "sentence": "Busbar section BE-Busbar_6 is installed in voltage level 110.0 of substation PP_Brussels and operates at a nominal voltage of 110 kV. It corresponds to topological node BE-Busbar_6."
+  },
+  {
+    "a": "BE-Busbar_6",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_6",
+    "sentence": "Busbar section BE-Busbar_6 is installed in voltage level 110.0 of substation PP_Brussels and operates at a nominal voltage of 110 kV. It corresponds to topological node BE-Busbar_6."
+  },
+  {
+    "a": "NL-Busbar_3",
+    "rel": "CONTAINED_IN",
+    "b": "15.8",
+    "sentence": "Busbar section NL-Busbar_3 is installed in voltage level 15.8 of substation PP_Amsterdam and operates at a nominal voltage of 15.75 kV. It corresponds to topological node N1230822413."
+  },
+  {
+    "a": "NL-Busbar_3",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Busbar section NL-Busbar_3 is installed in voltage level 15.8 of substation PP_Amsterdam and operates at a nominal voltage of 15.75 kV. It corresponds to topological node N1230822413."
+  },
+  {
+    "a": "NL-Busbar_3",
+    "rel": "AT_VOLTAGE",
+    "b": "15.75 kV",
+    "sentence": "Busbar section NL-Busbar_3 is installed in voltage level 15.8 of substation PP_Amsterdam and operates at a nominal voltage of 15.75 kV. It corresponds to topological node N1230822413."
+  },
+  {
+    "a": "NL-Busbar_3",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "N1230822413",
+    "sentence": "Busbar section NL-Busbar_3 is installed in voltage level 15.8 of substation PP_Amsterdam and operates at a nominal voltage of 15.75 kV. It corresponds to topological node N1230822413."
+  },
+  {
+    "a": "BE-Busbar_3",
+    "rel": "CONTAINED_IN",
+    "b": "225.0",
+    "sentence": "Busbar section BE-Busbar_3 is installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV. It corresponds to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "BE-Busbar_3",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Busbar section BE-Busbar_3 is installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV. It corresponds to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "BE-Busbar_3",
+    "rel": "AT_VOLTAGE",
+    "b": "225 kV",
+    "sentence": "Busbar section BE-Busbar_3 is installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV. It corresponds to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "BE-Busbar_3",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE_TR_BUS4",
+    "sentence": "Busbar section BE-Busbar_3 is installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV. It corresponds to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "N1230992288",
+    "rel": "CONTAINED_IN",
+    "b": "225.0",
+    "sentence": "Busbar section N1230992288 is installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV. It corresponds to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "N1230992288",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Busbar section N1230992288 is installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV. It corresponds to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "N1230992288",
+    "rel": "AT_VOLTAGE",
+    "b": "225 kV",
+    "sentence": "Busbar section N1230992288 is installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV. It corresponds to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "N1230992288",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE_TR_BUS4",
+    "sentence": "Busbar section N1230992288 is installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV. It corresponds to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "BE-Busbar_1",
+    "rel": "CONTAINED_IN",
+    "b": "380.0",
+    "sentence": "Busbar section BE-Busbar_1 is installed in voltage level 380.0 of substation PP_Brussels and operates at a nominal voltage of 380 kV. It corresponds to topological node BE_TR_BUS2."
+  },
+  {
+    "a": "BE-Busbar_1",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Busbar section BE-Busbar_1 is installed in voltage level 380.0 of substation PP_Brussels and operates at a nominal voltage of 380 kV. It corresponds to topological node BE_TR_BUS2."
+  },
+  {
+    "a": "BE-Busbar_1",
+    "rel": "AT_VOLTAGE",
+    "b": "380 kV",
+    "sentence": "Busbar section BE-Busbar_1 is installed in voltage level 380.0 of substation PP_Brussels and operates at a nominal voltage of 380 kV. It corresponds to topological node BE_TR_BUS2."
+  },
+  {
+    "a": "BE-Busbar_1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE_TR_BUS2",
+    "sentence": "Busbar section BE-Busbar_1 is installed in voltage level 380.0 of substation PP_Brussels and operates at a nominal voltage of 380 kV. It corresponds to topological node BE_TR_BUS2."
+  },
+  {
+    "a": "N1230992411",
+    "rel": "CONTAINED_IN",
+    "b": "220.0",
+    "sentence": "Busbar section N1230992411 is installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2."
+  },
+  {
+    "a": "N1230992411",
+    "rel": "CONTAINED_IN",
+    "b": "Anvers",
+    "sentence": "Busbar section N1230992411 is installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2."
+  },
+  {
+    "a": "N1230992411",
+    "rel": "AT_VOLTAGE",
+    "b": "225 kV",
+    "sentence": "Busbar section N1230992411 is installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2."
+  },
+  {
+    "a": "N1230992411",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_2",
+    "sentence": "Busbar section N1230992411 is installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2."
+  },
+  {
+    "a": "N1230992291",
+    "rel": "CONTAINED_IN",
+    "b": "225.0",
+    "sentence": "Busbar section N1230992291 is installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV. It corresponds to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "N1230992291",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Busbar section N1230992291 is installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV. It corresponds to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "N1230992291",
+    "rel": "AT_VOLTAGE",
+    "b": "225 kV",
+    "sentence": "Busbar section N1230992291 is installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV. It corresponds to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "N1230992291",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE_TR_BUS4",
+    "sentence": "Busbar section N1230992291 is installed in voltage level 225.0 of substation PP_Brussels and operates at a nominal voltage of 225 kV. It corresponds to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "N1230992414",
+    "rel": "CONTAINED_IN",
+    "b": "220.0",
+    "sentence": "Busbar section N1230992414 is installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2."
+  },
+  {
+    "a": "N1230992414",
+    "rel": "CONTAINED_IN",
+    "b": "Anvers",
+    "sentence": "Busbar section N1230992414 is installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2."
+  },
+  {
+    "a": "N1230992414",
+    "rel": "AT_VOLTAGE",
+    "b": "225 kV",
+    "sentence": "Busbar section N1230992414 is installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2."
+  },
+  {
+    "a": "N1230992414",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_2",
+    "sentence": "Busbar section N1230992414 is installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2."
+  },
+  {
+    "a": "NL-Busbar_5",
+    "rel": "CONTAINED_IN",
+    "b": "15.8",
+    "sentence": "Busbar section NL-Busbar_5 is installed in voltage level 15.8 of substation PP_Amsterdam and operates at a nominal voltage of 15.75 kV. It corresponds to topological node NL_TR_BUS2."
+  },
+  {
+    "a": "NL-Busbar_5",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Busbar section NL-Busbar_5 is installed in voltage level 15.8 of substation PP_Amsterdam and operates at a nominal voltage of 15.75 kV. It corresponds to topological node NL_TR_BUS2."
+  },
+  {
+    "a": "NL-Busbar_5",
+    "rel": "AT_VOLTAGE",
+    "b": "15.75 kV",
+    "sentence": "Busbar section NL-Busbar_5 is installed in voltage level 15.8 of substation PP_Amsterdam and operates at a nominal voltage of 15.75 kV. It corresponds to topological node NL_TR_BUS2."
+  },
+  {
+    "a": "NL-Busbar_5",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "NL_TR_BUS2",
+    "sentence": "Busbar section NL-Busbar_5 is installed in voltage level 15.8 of substation PP_Amsterdam and operates at a nominal voltage of 15.75 kV. It corresponds to topological node NL_TR_BUS2."
+  },
+  {
+    "a": "BE-Busbar_2",
+    "rel": "CONTAINED_IN",
+    "b": "220.0",
+    "sentence": "Busbar section BE-Busbar_2 is installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2."
+  },
+  {
+    "a": "BE-Busbar_2",
+    "rel": "CONTAINED_IN",
+    "b": "Anvers",
+    "sentence": "Busbar section BE-Busbar_2 is installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2."
+  },
+  {
+    "a": "BE-Busbar_2",
+    "rel": "AT_VOLTAGE",
+    "b": "225 kV",
+    "sentence": "Busbar section BE-Busbar_2 is installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2."
+  },
+  {
+    "a": "BE-Busbar_2",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_2",
+    "sentence": "Busbar section BE-Busbar_2 is installed in voltage level 220.0 of substation Anvers and operates at a nominal voltage of 225 kV. It corresponds to topological node BE-Busbar_2."
+  },
+  {
+    "a": "BE-Busbar_4",
+    "rel": "CONTAINED_IN",
+    "b": "10.5",
+    "sentence": "Busbar section BE-Busbar_4 is installed in voltage level 10.5 of substation PP_Brussels and operates at a nominal voltage of 10.5 kV. It corresponds to topological node BE-Busbar_4."
+  },
+  {
+    "a": "BE-Busbar_4",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Busbar section BE-Busbar_4 is installed in voltage level 10.5 of substation PP_Brussels and operates at a nominal voltage of 10.5 kV. It corresponds to topological node BE-Busbar_4."
+  },
+  {
+    "a": "BE-Busbar_4",
+    "rel": "AT_VOLTAGE",
+    "b": "10.5 kV",
+    "sentence": "Busbar section BE-Busbar_4 is installed in voltage level 10.5 of substation PP_Brussels and operates at a nominal voltage of 10.5 kV. It corresponds to topological node BE-Busbar_4."
+  },
+  {
+    "a": "BE-Busbar_4",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_4",
+    "sentence": "Busbar section BE-Busbar_4 is installed in voltage level 10.5 of substation PP_Brussels and operates at a nominal voltage of 10.5 kV. It corresponds to topological node BE-Busbar_4."
+  },
+  {
+    "a": "BE-Line_1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_2",
+    "sentence": "AC line segment BE-Line_1 connects topological node BE-Busbar_2 to topological node TN_Border_ST23. It has a length of 22 km, a resistance of 2.2 ohm, a reactance of 68.2 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "BE-Line_1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "TN_Border_ST23",
+    "sentence": "AC line segment BE-Line_1 connects topological node BE-Busbar_2 to topological node TN_Border_ST23. It has a length of 22 km, a resistance of 2.2 ohm, a reactance of 68.2 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "BE-Busbar_2",
+    "rel": "ELECTRICALLY_CONNECTED",
+    "b": "TN_Border_ST23",
+    "sentence": "AC line segment BE-Line_1 connects topological node BE-Busbar_2 to topological node TN_Border_ST23. It has a length of 22 km, a resistance of 2.2 ohm, a reactance of 68.2 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "BE-Line_1",
+    "rel": "AT_VOLTAGE",
+    "b": "220 kV",
+    "sentence": "AC line segment BE-Line_1 connects topological node BE-Busbar_2 to topological node TN_Border_ST23. It has a length of 22 km, a resistance of 2.2 ohm, a reactance of 68.2 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "BE-Line_3",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE_TR_BUS2",
+    "sentence": "AC line segment BE-Line_3 connects topological node BE_TR_BUS2 to topological node TN_Border_AL11. It has a length of 30 km, a resistance of 1.05 ohm, a reactance of 12 ohm, and operates at 380 kV."
+  },
+  {
+    "a": "BE-Line_3",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "TN_Border_AL11",
+    "sentence": "AC line segment BE-Line_3 connects topological node BE_TR_BUS2 to topological node TN_Border_AL11. It has a length of 30 km, a resistance of 1.05 ohm, a reactance of 12 ohm, and operates at 380 kV."
+  },
+  {
+    "a": "BE_TR_BUS2",
+    "rel": "ELECTRICALLY_CONNECTED",
+    "b": "TN_Border_AL11",
+    "sentence": "AC line segment BE-Line_3 connects topological node BE_TR_BUS2 to topological node TN_Border_AL11. It has a length of 30 km, a resistance of 1.05 ohm, a reactance of 12 ohm, and operates at 380 kV."
+  },
+  {
+    "a": "BE-Line_3",
+    "rel": "AT_VOLTAGE",
+    "b": "380 kV",
+    "sentence": "AC line segment BE-Line_3 connects topological node BE_TR_BUS2 to topological node TN_Border_AL11. It has a length of 30 km, a resistance of 1.05 ohm, a reactance of 12 ohm, and operates at 380 kV."
+  },
+  {
+    "a": "NL-Line_1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "N1230992195",
+    "sentence": "AC line segment NL-Line_1 connects topological node N1230992195 to topological node TN_Border_AL11. It has a length of 30 km, a resistance of 1.02 ohm, a reactance of 12 ohm, and operates at 400 kV."
+  },
+  {
+    "a": "NL-Line_1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "TN_Border_AL11",
+    "sentence": "AC line segment NL-Line_1 connects topological node N1230992195 to topological node TN_Border_AL11. It has a length of 30 km, a resistance of 1.02 ohm, a reactance of 12 ohm, and operates at 400 kV."
+  },
+  {
+    "a": "N1230992195",
+    "rel": "ELECTRICALLY_CONNECTED",
+    "b": "TN_Border_AL11",
+    "sentence": "AC line segment NL-Line_1 connects topological node N1230992195 to topological node TN_Border_AL11. It has a length of 30 km, a resistance of 1.02 ohm, a reactance of 12 ohm, and operates at 400 kV."
+  },
+  {
+    "a": "NL-Line_1",
+    "rel": "AT_VOLTAGE",
+    "b": "400 kV",
+    "sentence": "AC line segment NL-Line_1 connects topological node N1230992195 to topological node TN_Border_AL11. It has a length of 30 km, a resistance of 1.02 ohm, a reactance of 12 ohm, and operates at 400 kV."
+  },
+  {
+    "a": "NL-Line_4",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "NL_Busbar__4",
+    "sentence": "AC line segment NL-Line_4 connects topological node NL_Busbar__4 to topological node TN_Border_ST23. It has a length of 22 km, a resistance of 2.2 ohm, a reactance of 66 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "NL-Line_4",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "TN_Border_ST23",
+    "sentence": "AC line segment NL-Line_4 connects topological node NL_Busbar__4 to topological node TN_Border_ST23. It has a length of 22 km, a resistance of 2.2 ohm, a reactance of 66 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "NL_Busbar__4",
+    "rel": "ELECTRICALLY_CONNECTED",
+    "b": "TN_Border_ST23",
+    "sentence": "AC line segment NL-Line_4 connects topological node NL_Busbar__4 to topological node TN_Border_ST23. It has a length of 22 km, a resistance of 2.2 ohm, a reactance of 66 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "NL-Line_4",
+    "rel": "AT_VOLTAGE",
+    "b": "220 kV",
+    "sentence": "AC line segment NL-Line_4 connects topological node NL_Busbar__4 to topological node TN_Border_ST23. It has a length of 22 km, a resistance of 2.2 ohm, a reactance of 66 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "BE-Line_7",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_2",
+    "sentence": "AC line segment BE-Line_7 connects topological node BE-Busbar_2 to topological node TN_Border_ST24. It has a length of 23 km, a resistance of 4.6 ohm, a reactance of 69 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "BE-Line_7",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "TN_Border_ST24",
+    "sentence": "AC line segment BE-Line_7 connects topological node BE-Busbar_2 to topological node TN_Border_ST24. It has a length of 23 km, a resistance of 4.6 ohm, a reactance of 69 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "BE-Busbar_2",
+    "rel": "ELECTRICALLY_CONNECTED",
+    "b": "TN_Border_ST24",
+    "sentence": "AC line segment BE-Line_7 connects topological node BE-Busbar_2 to topological node TN_Border_ST24. It has a length of 23 km, a resistance of 4.6 ohm, a reactance of 69 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "BE-Line_7",
+    "rel": "AT_VOLTAGE",
+    "b": "220 kV",
+    "sentence": "AC line segment BE-Line_7 connects topological node BE-Busbar_2 to topological node TN_Border_ST24. It has a length of 23 km, a resistance of 4.6 ohm, a reactance of 69 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "NL-Line_3",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "NL_Busbar__4",
+    "sentence": "AC line segment NL-Line_3 connects topological node NL_Busbar__4 to topological node TN_Border_ST24. It has a length of 23 km, a resistance of 5.06 ohm, a reactance of 69 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "NL-Line_3",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "TN_Border_ST24",
+    "sentence": "AC line segment NL-Line_3 connects topological node NL_Busbar__4 to topological node TN_Border_ST24. It has a length of 23 km, a resistance of 5.06 ohm, a reactance of 69 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "NL_Busbar__4",
+    "rel": "ELECTRICALLY_CONNECTED",
+    "b": "TN_Border_ST24",
+    "sentence": "AC line segment NL-Line_3 connects topological node NL_Busbar__4 to topological node TN_Border_ST24. It has a length of 23 km, a resistance of 5.06 ohm, a reactance of 69 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "NL-Line_3",
+    "rel": "AT_VOLTAGE",
+    "b": "220 kV",
+    "sentence": "AC line segment NL-Line_3 connects topological node NL_Busbar__4 to topological node TN_Border_ST24. It has a length of 23 km, a resistance of 5.06 ohm, a reactance of 69 ohm, and operates at 220 kV."
+  },
+  {
+    "a": "BE-Line_5",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE_TR_BUS2",
+    "sentence": "AC line segment BE-Line_5 connects topological node BE_TR_BUS2 to topological node TN_Border_GY11. It has a length of 35 km, a resistance of 0.42 ohm, a reactance of 6.3 ohm, and operates at 380 kV."
+  },
+  {
+    "a": "BE-Line_5",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "TN_Border_GY11",
+    "sentence": "AC line segment BE-Line_5 connects topological node BE_TR_BUS2 to topological node TN_Border_GY11. It has a length of 35 km, a resistance of 0.42 ohm, a reactance of 6.3 ohm, and operates at 380 kV."
+  },
+  {
+    "a": "BE_TR_BUS2",
+    "rel": "ELECTRICALLY_CONNECTED",
+    "b": "TN_Border_GY11",
+    "sentence": "AC line segment BE-Line_5 connects topological node BE_TR_BUS2 to topological node TN_Border_GY11. It has a length of 35 km, a resistance of 0.42 ohm, a reactance of 6.3 ohm, and operates at 380 kV."
+  },
+  {
+    "a": "BE-Line_5",
+    "rel": "AT_VOLTAGE",
+    "b": "380 kV",
+    "sentence": "AC line segment BE-Line_5 connects topological node BE_TR_BUS2 to topological node TN_Border_GY11. It has a length of 35 km, a resistance of 0.42 ohm, a reactance of 6.3 ohm, and operates at 380 kV."
+  },
+  {
+    "a": "BE-Line_2",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_2",
+    "sentence": "AC line segment BE-Line_2 connects topological node BE-Busbar_2 to topological node BE_TR_BUS4. It has a length of 45 km, a resistance of 1.935 ohm, a reactance of 34.2 ohm, and operates at 225 kV."
+  },
+  {
+    "a": "BE-Line_2",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE_TR_BUS4",
+    "sentence": "AC line segment BE-Line_2 connects topological node BE-Busbar_2 to topological node BE_TR_BUS4. It has a length of 45 km, a resistance of 1.935 ohm, a reactance of 34.2 ohm, and operates at 225 kV."
+  },
+  {
+    "a": "BE-Busbar_2",
+    "rel": "ELECTRICALLY_CONNECTED",
+    "b": "BE_TR_BUS4",
+    "sentence": "AC line segment BE-Line_2 connects topological node BE-Busbar_2 to topological node BE_TR_BUS4. It has a length of 45 km, a resistance of 1.935 ohm, a reactance of 34.2 ohm, and operates at 225 kV."
+  },
+  {
+    "a": "BE-Line_2",
+    "rel": "AT_VOLTAGE",
+    "b": "225 kV",
+    "sentence": "AC line segment BE-Line_2 connects topological node BE-Busbar_2 to topological node BE_TR_BUS4. It has a length of 45 km, a resistance of 1.935 ohm, a reactance of 34.2 ohm, and operates at 225 kV."
+  },
+  {
+    "a": "NL-Line_2",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "N1230992195",
+    "sentence": "AC line segment NL-Line_2 connects topological node N1230992195 to topological node TN_Border_MA11. It has a length of 40 km, a resistance of 2.32 ohm, a reactance of 20.24 ohm, and operates at 400 kV."
+  },
+  {
+    "a": "NL-Line_2",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "TN_Border_MA11",
+    "sentence": "AC line segment NL-Line_2 connects topological node N1230992195 to topological node TN_Border_MA11. It has a length of 40 km, a resistance of 2.32 ohm, a reactance of 20.24 ohm, and operates at 400 kV."
+  },
+  {
+    "a": "N1230992195",
+    "rel": "ELECTRICALLY_CONNECTED",
+    "b": "TN_Border_MA11",
+    "sentence": "AC line segment NL-Line_2 connects topological node N1230992195 to topological node TN_Border_MA11. It has a length of 40 km, a resistance of 2.32 ohm, a reactance of 20.24 ohm, and operates at 400 kV."
+  },
+  {
+    "a": "NL-Line_2",
+    "rel": "AT_VOLTAGE",
+    "b": "400 kV",
+    "sentence": "AC line segment NL-Line_2 connects topological node N1230992195 to topological node TN_Border_MA11. It has a length of 40 km, a resistance of 2.32 ohm, a reactance of 20.24 ohm, and operates at 400 kV."
+  },
+  {
+    "a": "NL-Line_5",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "N1230992195",
+    "sentence": "AC line segment NL-Line_5 connects topological node N1230992195 to topological node TN_Border_GY11. It has a length of 35 km, a resistance of 0.42 ohm, a reactance of 6.3 ohm, and operates at 400 kV."
+  },
+  {
+    "a": "NL-Line_5",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "TN_Border_GY11",
+    "sentence": "AC line segment NL-Line_5 connects topological node N1230992195 to topological node TN_Border_GY11. It has a length of 35 km, a resistance of 0.42 ohm, a reactance of 6.3 ohm, and operates at 400 kV."
+  },
+  {
+    "a": "N1230992195",
+    "rel": "ELECTRICALLY_CONNECTED",
+    "b": "TN_Border_GY11",
+    "sentence": "AC line segment NL-Line_5 connects topological node N1230992195 to topological node TN_Border_GY11. It has a length of 35 km, a resistance of 0.42 ohm, a reactance of 6.3 ohm, and operates at 400 kV."
+  },
+  {
+    "a": "NL-Line_5",
+    "rel": "AT_VOLTAGE",
+    "b": "400 kV",
+    "sentence": "AC line segment NL-Line_5 connects topological node N1230992195 to topological node TN_Border_GY11. It has a length of 35 km, a resistance of 0.42 ohm, a reactance of 6.3 ohm, and operates at 400 kV."
+  },
+  {
+    "a": "BE-Line_4",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE_TR_BUS2",
+    "sentence": "AC line segment BE-Line_4 connects topological node BE_TR_BUS2 to topological node TN_Border_MA11. It has a length of 40 km, a resistance of 0.24 ohm, a reactance of 2 ohm, and operates at 380 kV."
+  },
+  {
+    "a": "BE-Line_4",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "TN_Border_MA11",
+    "sentence": "AC line segment BE-Line_4 connects topological node BE_TR_BUS2 to topological node TN_Border_MA11. It has a length of 40 km, a resistance of 0.24 ohm, a reactance of 2 ohm, and operates at 380 kV."
+  },
+  {
+    "a": "BE_TR_BUS2",
+    "rel": "ELECTRICALLY_CONNECTED",
+    "b": "TN_Border_MA11",
+    "sentence": "AC line segment BE-Line_4 connects topological node BE_TR_BUS2 to topological node TN_Border_MA11. It has a length of 40 km, a resistance of 0.24 ohm, a reactance of 2 ohm, and operates at 380 kV."
+  },
+  {
+    "a": "BE-Line_4",
+    "rel": "AT_VOLTAGE",
+    "b": "380 kV",
+    "sentence": "AC line segment BE-Line_4 connects topological node BE_TR_BUS2 to topological node TN_Border_MA11. It has a length of 40 km, a resistance of 0.24 ohm, a reactance of 2 ohm, and operates at 380 kV."
+  },
+  {
+    "a": "BE-Line_6",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_2",
+    "sentence": "AC line segment BE-Line_6 connects topological node BE-Busbar_2 to topological node BE_TR_BUS4. It has a length of 100 km, a resistance of 5.203 ohm, a reactance of 71 ohm, and operates at 225 kV."
+  },
+  {
+    "a": "BE-Line_6",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE_TR_BUS4",
+    "sentence": "AC line segment BE-Line_6 connects topological node BE-Busbar_2 to topological node BE_TR_BUS4. It has a length of 100 km, a resistance of 5.203 ohm, a reactance of 71 ohm, and operates at 225 kV."
+  },
+  {
+    "a": "BE-Busbar_2",
+    "rel": "ELECTRICALLY_CONNECTED",
+    "b": "BE_TR_BUS4",
+    "sentence": "AC line segment BE-Line_6 connects topological node BE-Busbar_2 to topological node BE_TR_BUS4. It has a length of 100 km, a resistance of 5.203 ohm, a reactance of 71 ohm, and operates at 225 kV."
+  },
+  {
+    "a": "BE-Line_6",
+    "rel": "AT_VOLTAGE",
+    "b": "225 kV",
+    "sentence": "AC line segment BE-Line_6 connects topological node BE-Busbar_2 to topological node BE_TR_BUS4. It has a length of 100 km, a resistance of 5.203 ohm, a reactance of 71 ohm, and operates at 225 kV."
+  },
+  {
+    "a": "NL_TR2_2",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Power transformer NL_TR2_2 is a 2-winding transformer installed in substation PP_Amsterdam."
+  },
+  {
+    "a": "NL_TR2_2",
+    "rel": "HAS_PART",
+    "b": "winding 1",
+    "sentence": "Winding 1 of transformer NL_TR2_2 has a rated voltage of 220 kV and a rated apparent power of 1260 MVA, and is connected to topological node NL_Busbar__4."
+  },
+  {
+    "a": "NL_TR2_2",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "NL_Busbar__4",
+    "sentence": "Winding 1 of transformer NL_TR2_2 has a rated voltage of 220 kV and a rated apparent power of 1260 MVA, and is connected to topological node NL_Busbar__4."
+  },
+  {
+    "a": "NL_TR2_2",
+    "rel": "HAS_PART",
+    "b": "winding 2",
+    "sentence": "Winding 2 of transformer NL_TR2_2 has a rated voltage of 15.75 kV and a rated apparent power of 1260 MVA, and is connected to topological node N1230822413."
+  },
+  {
+    "a": "NL_TR2_2",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "N1230822413",
+    "sentence": "Winding 2 of transformer NL_TR2_2 has a rated voltage of 15.75 kV and a rated apparent power of 1260 MVA, and is connected to topological node N1230822413."
+  },
+  {
+    "a": "NL_TR2_2",
+    "rel": "HAS_PART",
+    "b": "NL_TR2_2",
+    "sentence": "Transformer NL_TR2_2 is equipped with a ratio tap changer named NL_TR2_2 on winding 1, with steps from 0 to 33 and neutral step 17."
+  },
+  {
+    "a": "NL_TR2_3",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Power transformer NL_TR2_3 is a 2-winding transformer installed in substation PP_Amsterdam."
+  },
+  {
+    "a": "NL_TR2_3",
+    "rel": "HAS_PART",
+    "b": "winding 1",
+    "sentence": "Winding 1 of transformer NL_TR2_3 has a rated voltage of 220 kV and a rated apparent power of 1260 MVA, and is connected to topological node NL-Busbar_2."
+  },
+  {
+    "a": "NL_TR2_3",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "NL-Busbar_2",
+    "sentence": "Winding 1 of transformer NL_TR2_3 has a rated voltage of 220 kV and a rated apparent power of 1260 MVA, and is connected to topological node NL-Busbar_2."
+  },
+  {
+    "a": "NL_TR2_3",
+    "rel": "HAS_PART",
+    "b": "winding 2",
+    "sentence": "Winding 2 of transformer NL_TR2_3 has a rated voltage of 15.75 kV and a rated apparent power of 1260 MVA, and is connected to topological node NL_TR_BUS2."
+  },
+  {
+    "a": "NL_TR2_3",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "NL_TR_BUS2",
+    "sentence": "Winding 2 of transformer NL_TR2_3 has a rated voltage of 15.75 kV and a rated apparent power of 1260 MVA, and is connected to topological node NL_TR_BUS2."
+  },
+  {
+    "a": "NL_TR2_3",
+    "rel": "HAS_PART",
+    "b": "NL_TR2_3",
+    "sentence": "Transformer NL_TR2_3 is equipped with a ratio tap changer named NL_TR2_3 on winding 1, with steps from -15 to 15 and neutral step 0."
+  },
+  {
+    "a": "BE-TR3_1",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Power transformer BE-TR3_1 is a 3-winding transformer installed in substation PP_Brussels."
+  },
+  {
+    "a": "BE-TR3_1",
+    "rel": "HAS_PART",
+    "b": "winding 1",
+    "sentence": "Winding 1 of transformer BE-TR3_1 has a rated voltage of 400 kV and a rated apparent power of 650 MVA, and is connected to topological node BE_TR_BUS2."
+  },
+  {
+    "a": "BE-TR3_1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE_TR_BUS2",
+    "sentence": "Winding 1 of transformer BE-TR3_1 has a rated voltage of 400 kV and a rated apparent power of 650 MVA, and is connected to topological node BE_TR_BUS2."
+  },
+  {
+    "a": "BE-TR3_1",
+    "rel": "HAS_PART",
+    "b": "winding 2",
+    "sentence": "Winding 2 of transformer BE-TR3_1 has a rated voltage of 220 kV and a rated apparent power of 650 MVA, and is connected to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "BE-TR3_1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE_TR_BUS4",
+    "sentence": "Winding 2 of transformer BE-TR3_1 has a rated voltage of 220 kV and a rated apparent power of 650 MVA, and is connected to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "BE-TR3_1",
+    "rel": "HAS_PART",
+    "b": "winding 3",
+    "sentence": "Winding 3 of transformer BE-TR3_1 has a rated voltage of 21 kV and a rated apparent power of 650 MVA, and is connected to topological node BE-Busbar_5."
+  },
+  {
+    "a": "BE-TR3_1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_5",
+    "sentence": "Winding 3 of transformer BE-TR3_1 has a rated voltage of 21 kV and a rated apparent power of 650 MVA, and is connected to topological node BE-Busbar_5."
+  },
+  {
+    "a": "BE-TR3_1",
+    "rel": "HAS_PART",
+    "b": "BE-TR3_1",
+    "sentence": "Transformer BE-TR3_1 is equipped with a ratio tap changer named BE-TR3_1 on winding 2, with steps from 1 to 33 and neutral step 17."
+  },
+  {
+    "a": "BE-TR2_1",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Power transformer BE-TR2_1 is a 2-winding transformer installed in substation PP_Brussels."
+  },
+  {
+    "a": "BE-TR2_1",
+    "rel": "HAS_PART",
+    "b": "winding 1",
+    "sentence": "Winding 1 of transformer BE-TR2_1 has a rated voltage of 400 kV and a rated apparent power of 650 MVA, and is connected to topological node BE_TR_BUS2."
+  },
+  {
+    "a": "BE-TR2_1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE_TR_BUS2",
+    "sentence": "Winding 1 of transformer BE-TR2_1 has a rated voltage of 400 kV and a rated apparent power of 650 MVA, and is connected to topological node BE_TR_BUS2."
+  },
+  {
+    "a": "BE-TR2_1",
+    "rel": "HAS_PART",
+    "b": "winding 2",
+    "sentence": "Winding 2 of transformer BE-TR2_1 has a rated voltage of 110 kV and a rated apparent power of 650 MVA, and is connected to topological node BE-Busbar_6."
+  },
+  {
+    "a": "BE-TR2_1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_6",
+    "sentence": "Winding 2 of transformer BE-TR2_1 has a rated voltage of 110 kV and a rated apparent power of 650 MVA, and is connected to topological node BE-Busbar_6."
+  },
+  {
+    "a": "BE-TR2_1",
+    "rel": "HAS_PART",
+    "b": "BE-TR2_1",
+    "sentence": "Transformer BE-TR2_1 is equipped with a asymmetrical phase tap changer named BE-TR2_1 on winding 1, with steps from 1 to 25 and neutral step 13."
+  },
+  {
+    "a": "BE-TR2_2",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Power transformer BE-TR2_2 is a 2-winding transformer installed in substation PP_Brussels."
+  },
+  {
+    "a": "BE-TR2_2",
+    "rel": "HAS_PART",
+    "b": "winding 1",
+    "sentence": "Winding 1 of transformer BE-TR2_2 has a rated voltage of 220 kV and a rated apparent power of 650 MVA, and is connected to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "BE-TR2_2",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE_TR_BUS4",
+    "sentence": "Winding 1 of transformer BE-TR2_2 has a rated voltage of 220 kV and a rated apparent power of 650 MVA, and is connected to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "BE-TR2_2",
+    "rel": "HAS_PART",
+    "b": "winding 2",
+    "sentence": "Winding 2 of transformer BE-TR2_2 has a rated voltage of 110 kV and a rated apparent power of 650 MVA, and is connected to topological node BE-Busbar_6."
+  },
+  {
+    "a": "BE-TR2_2",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_6",
+    "sentence": "Winding 2 of transformer BE-TR2_2 has a rated voltage of 110 kV and a rated apparent power of 650 MVA, and is connected to topological node BE-Busbar_6."
+  },
+  {
+    "a": "BE-TR2_2",
+    "rel": "HAS_PART",
+    "b": "BE-TR2_2",
+    "sentence": "Transformer BE-TR2_2 is equipped with a ratio tap changer named BE-TR2_2 on winding 1, with steps from 1 to 25 and neutral step 13."
+  },
+  {
+    "a": "BE-TR2_3",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Power transformer BE-TR2_3 is a 2-winding transformer installed in substation PP_Brussels."
+  },
+  {
+    "a": "BE-TR2_3",
+    "rel": "HAS_PART",
+    "b": "winding 1",
+    "sentence": "Winding 1 of transformer BE-TR2_3 has a rated voltage of 110.344 kV and a rated apparent power of 250 MVA, and is connected to topological node BE-Busbar_6."
+  },
+  {
+    "a": "BE-TR2_3",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_6",
+    "sentence": "Winding 1 of transformer BE-TR2_3 has a rated voltage of 110.344 kV and a rated apparent power of 250 MVA, and is connected to topological node BE-Busbar_6."
+  },
+  {
+    "a": "BE-TR2_3",
+    "rel": "HAS_PART",
+    "b": "winding 2",
+    "sentence": "Winding 2 of transformer BE-TR2_3 has a rated voltage of 10.5 kV and a rated apparent power of 250 MVA, and is connected to topological node BE-Busbar_4."
+  },
+  {
+    "a": "BE-TR2_3",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_4",
+    "sentence": "Winding 2 of transformer BE-TR2_3 has a rated voltage of 10.5 kV and a rated apparent power of 250 MVA, and is connected to topological node BE-Busbar_4."
+  },
+  {
+    "a": "BE-TR2_3",
+    "rel": "HAS_PART",
+    "b": "BE-TR2_3",
+    "sentence": "Transformer BE-TR2_3 is equipped with a ratio tap changer named BE-TR2_3 on winding 2, with steps from 1 to 33 and neutral step 17."
+  },
+  {
+    "a": "NL-TR2_1",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Power transformer NL-TR2_1 is a 2-winding transformer installed in substation PP_Amsterdam."
+  },
+  {
+    "a": "NL-TR2_1",
+    "rel": "HAS_PART",
+    "b": "winding 1",
+    "sentence": "Winding 1 of transformer NL-TR2_1 has a rated voltage of 400 kV and a rated apparent power of 320 MVA, and is connected to topological node N1230992195."
+  },
+  {
+    "a": "NL-TR2_1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "N1230992195",
+    "sentence": "Winding 1 of transformer NL-TR2_1 has a rated voltage of 400 kV and a rated apparent power of 320 MVA, and is connected to topological node N1230992195."
+  },
+  {
+    "a": "NL-TR2_1",
+    "rel": "HAS_PART",
+    "b": "winding 2",
+    "sentence": "Winding 2 of transformer NL-TR2_1 has a rated voltage of 220 kV and a rated apparent power of 320 MVA, and is connected to topological node NL-Busbar_2."
+  },
+  {
+    "a": "NL-TR2_1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "NL-Busbar_2",
+    "sentence": "Winding 2 of transformer NL-TR2_1 has a rated voltage of 220 kV and a rated apparent power of 320 MVA, and is connected to topological node NL-Busbar_2."
+  },
+  {
+    "a": "NL-TR2_1",
+    "rel": "HAS_PART",
+    "b": "NL-TR2_1",
+    "sentence": "Transformer NL-TR2_1 is equipped with a ratio tap changer named NL-TR2_1 on winding 1, with steps from -20 to 20 and neutral step 0."
+  },
+  {
+    "a": "NL-G3",
+    "rel": "CONTAINED_IN",
+    "b": "15.8",
+    "sentence": "Synchronous machine NL-G3 (rated apparent power 0 MVA) operates in voltage level 15.8 of substation PP_Amsterdam. It is connected to topological node N1230822413."
+  },
+  {
+    "a": "NL-G3",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Synchronous machine NL-G3 (rated apparent power 0 MVA) operates in voltage level 15.8 of substation PP_Amsterdam. It is connected to topological node N1230822413."
+  },
+  {
+    "a": "NL-G3",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "N1230822413",
+    "sentence": "Synchronous machine NL-G3 (rated apparent power 0 MVA) operates in voltage level 15.8 of substation PP_Amsterdam. It is connected to topological node N1230822413."
+  },
+  {
+    "a": "Gen-12908",
+    "rel": "HAS_PART",
+    "b": "NL-G3",
+    "sentence": "Machine NL-G3 belongs to generating unit Gen-12908, which has a maximum operating power of 250 MW and a minimum operating power of 130 MW."
+  },
+  {
+    "a": "NL-G2",
+    "rel": "CONTAINED_IN",
+    "b": "15.8",
+    "sentence": "Synchronous machine NL-G2 (rated apparent power 0 MVA) operates in voltage level 15.8 of substation PP_Amsterdam. It is connected to topological node N1230822413."
+  },
+  {
+    "a": "NL-G2",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Synchronous machine NL-G2 (rated apparent power 0 MVA) operates in voltage level 15.8 of substation PP_Amsterdam. It is connected to topological node N1230822413."
+  },
+  {
+    "a": "NL-G2",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "N1230822413",
+    "sentence": "Synchronous machine NL-G2 (rated apparent power 0 MVA) operates in voltage level 15.8 of substation PP_Amsterdam. It is connected to topological node N1230822413."
+  },
+  {
+    "a": "Gen-12910",
+    "rel": "HAS_PART",
+    "b": "NL-G2",
+    "sentence": "Machine NL-G2 belongs to generating unit Gen-12910, which has a maximum operating power of 250 MW and a minimum operating power of 130 MW."
+  },
+  {
+    "a": "BE-G1",
+    "rel": "CONTAINED_IN",
+    "b": "10.5",
+    "sentence": "Synchronous machine BE-G1 (rated apparent power 0 MVA) operates in voltage level 10.5 of substation PP_Brussels. It is connected to topological node BE-Busbar_4."
+  },
+  {
+    "a": "BE-G1",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Synchronous machine BE-G1 (rated apparent power 0 MVA) operates in voltage level 10.5 of substation PP_Brussels. It is connected to topological node BE-Busbar_4."
+  },
+  {
+    "a": "BE-G1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_4",
+    "sentence": "Synchronous machine BE-G1 (rated apparent power 0 MVA) operates in voltage level 10.5 of substation PP_Brussels. It is connected to topological node BE-Busbar_4."
+  },
+  {
+    "a": "Gen-1229753060",
+    "rel": "HAS_PART",
+    "b": "BE-G1",
+    "sentence": "Machine BE-G1 belongs to generating unit Gen-1229753060, which has a maximum operating power of 200 MW and a minimum operating power of 50 MW."
+  },
+  {
+    "a": "BE-G2",
+    "rel": "CONTAINED_IN",
+    "b": "21.0",
+    "sentence": "Synchronous machine BE-G2 (rated apparent power 0 MVA) operates in voltage level 21.0 of substation PP_Brussels. It is connected to topological node BE-Busbar_5."
+  },
+  {
+    "a": "BE-G2",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Synchronous machine BE-G2 (rated apparent power 0 MVA) operates in voltage level 21.0 of substation PP_Brussels. It is connected to topological node BE-Busbar_5."
+  },
+  {
+    "a": "BE-G2",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_5",
+    "sentence": "Synchronous machine BE-G2 (rated apparent power 0 MVA) operates in voltage level 21.0 of substation PP_Brussels. It is connected to topological node BE-Busbar_5."
+  },
+  {
+    "a": "Gen-1229753024",
+    "rel": "HAS_PART",
+    "b": "BE-G2",
+    "sentence": "Machine BE-G2 belongs to generating unit Gen-1229753024, which has a maximum operating power of 200 MW and a minimum operating power of 50 MW."
+  },
+  {
+    "a": "NL-G1",
+    "rel": "CONTAINED_IN",
+    "b": "15.8",
+    "sentence": "Synchronous machine NL-G1 (rated apparent power 0 MVA) operates in voltage level 15.8 of substation PP_Amsterdam. It is connected to topological node NL_TR_BUS2."
+  },
+  {
+    "a": "NL-G1",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Synchronous machine NL-G1 (rated apparent power 0 MVA) operates in voltage level 15.8 of substation PP_Amsterdam. It is connected to topological node NL_TR_BUS2."
+  },
+  {
+    "a": "NL-G1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "NL_TR_BUS2",
+    "sentence": "Synchronous machine NL-G1 (rated apparent power 0 MVA) operates in voltage level 15.8 of substation PP_Amsterdam. It is connected to topological node NL_TR_BUS2."
+  },
+  {
+    "a": "Gen-12923",
+    "rel": "HAS_PART",
+    "b": "NL-G1",
+    "sentence": "Machine NL-G1 belongs to generating unit Gen-12923, which has a maximum operating power of 1000 MW and a minimum operating power of 300 MW."
+  },
+  {
+    "a": "BE-Load_2",
+    "rel": "CONTAINED_IN",
+    "b": "225.0",
+    "sentence": "Energy consumer BE-Load_2 draws an active power of 200 MW and a reactive power of 50 MVAr. It is located in voltage level 225.0 of substation PP_Brussels, connected to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "BE-Load_2",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Energy consumer BE-Load_2 draws an active power of 200 MW and a reactive power of 50 MVAr. It is located in voltage level 225.0 of substation PP_Brussels, connected to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "BE-Load_2",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE_TR_BUS4",
+    "sentence": "Energy consumer BE-Load_2 draws an active power of 200 MW and a reactive power of 50 MVAr. It is located in voltage level 225.0 of substation PP_Brussels, connected to topological node BE_TR_BUS4."
+  },
+  {
+    "a": "NL-Load_2",
+    "rel": "CONTAINED_IN",
+    "b": "400.0",
+    "sentence": "Energy consumer NL-Load_2 draws an active power of 10 MW and a reactive power of 10 MVAr. It is located in voltage level 400.0 of substation PP_Amsterdam, connected to topological node N1230992195."
+  },
+  {
+    "a": "NL-Load_2",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Energy consumer NL-Load_2 draws an active power of 10 MW and a reactive power of 10 MVAr. It is located in voltage level 400.0 of substation PP_Amsterdam, connected to topological node N1230992195."
+  },
+  {
+    "a": "NL-Load_2",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "N1230992195",
+    "sentence": "Energy consumer NL-Load_2 draws an active power of 10 MW and a reactive power of 10 MVAr. It is located in voltage level 400.0 of substation PP_Amsterdam, connected to topological node N1230992195."
+  },
+  {
+    "a": "NL-Load_1",
+    "rel": "CONTAINED_IN",
+    "b": "400.0",
+    "sentence": "Energy consumer NL-Load_1 draws an active power of 90 MW and a reactive power of 280 MVAr. It is located in voltage level 400.0 of substation PP_Amsterdam, connected to topological node N1230992195."
+  },
+  {
+    "a": "NL-Load_1",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Energy consumer NL-Load_1 draws an active power of 90 MW and a reactive power of 280 MVAr. It is located in voltage level 400.0 of substation PP_Amsterdam, connected to topological node N1230992195."
+  },
+  {
+    "a": "NL-Load_1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "N1230992195",
+    "sentence": "Energy consumer NL-Load_1 draws an active power of 90 MW and a reactive power of 280 MVAr. It is located in voltage level 400.0 of substation PP_Amsterdam, connected to topological node N1230992195."
+  },
+  {
+    "a": "L-1230804819",
+    "rel": "CONTAINED_IN",
+    "b": "220.0",
+    "sentence": "Energy consumer L-1230804819 draws an active power of 1 MW and a reactive power of 0 MVAr. It is located in voltage level 220.0 of substation Anvers, connected to topological node BE-Busbar_2."
+  },
+  {
+    "a": "L-1230804819",
+    "rel": "CONTAINED_IN",
+    "b": "Anvers",
+    "sentence": "Energy consumer L-1230804819 draws an active power of 1 MW and a reactive power of 0 MVAr. It is located in voltage level 220.0 of substation Anvers, connected to topological node BE-Busbar_2."
+  },
+  {
+    "a": "L-1230804819",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_2",
+    "sentence": "Energy consumer L-1230804819 draws an active power of 1 MW and a reactive power of 0 MVAr. It is located in voltage level 220.0 of substation Anvers, connected to topological node BE-Busbar_2."
+  },
+  {
+    "a": "NL-Load_3",
+    "rel": "CONTAINED_IN",
+    "b": "220.0",
+    "sentence": "Energy consumer NL-Load_3 draws an active power of 486 MW and a reactive power of 230 MVAr. It is located in voltage level 220.0 of substation PP_Amsterdam, connected to topological node NL-Busbar_2."
+  },
+  {
+    "a": "NL-Load_3",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Energy consumer NL-Load_3 draws an active power of 486 MW and a reactive power of 230 MVAr. It is located in voltage level 220.0 of substation PP_Amsterdam, connected to topological node NL-Busbar_2."
+  },
+  {
+    "a": "NL-Load_3",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "NL-Busbar_2",
+    "sentence": "Energy consumer NL-Load_3 draws an active power of 486 MW and a reactive power of 230 MVAr. It is located in voltage level 220.0 of substation PP_Amsterdam, connected to topological node NL-Busbar_2."
+  },
+  {
+    "a": "BE-Load_1",
+    "rel": "CONTAINED_IN",
+    "b": "110.0",
+    "sentence": "Energy consumer BE-Load_1 draws an active power of 200 MW and a reactive power of 90 MVAr. It is located in voltage level 110.0 of substation PP_Brussels, connected to topological node BE-Busbar_6."
+  },
+  {
+    "a": "BE-Load_1",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Energy consumer BE-Load_1 draws an active power of 200 MW and a reactive power of 90 MVAr. It is located in voltage level 110.0 of substation PP_Brussels, connected to topological node BE-Busbar_6."
+  },
+  {
+    "a": "BE-Load_1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_6",
+    "sentence": "Energy consumer BE-Load_1 draws an active power of 200 MW and a reactive power of 90 MVAr. It is located in voltage level 110.0 of substation PP_Brussels, connected to topological node BE-Busbar_6."
+  },
+  {
+    "a": "BE_S2",
+    "rel": "CONTAINED_IN",
+    "b": "380.0",
+    "sentence": "Linear shunt compensator BE_S2 is installed in voltage level 380.0 of substation PP_Brussels at topological node BE_TR_BUS2, with a susceptance per section of 0.000346 S and 1 energized sections in the studied case."
+  },
+  {
+    "a": "BE_S2",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Linear shunt compensator BE_S2 is installed in voltage level 380.0 of substation PP_Brussels at topological node BE_TR_BUS2, with a susceptance per section of 0.000346 S and 1 energized sections in the studied case."
+  },
+  {
+    "a": "BE_S2",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE_TR_BUS2",
+    "sentence": "Linear shunt compensator BE_S2 is installed in voltage level 380.0 of substation PP_Brussels at topological node BE_TR_BUS2, with a susceptance per section of 0.000346 S and 1 energized sections in the studied case."
+  },
+  {
+    "a": "BE_S1",
+    "rel": "CONTAINED_IN",
+    "b": "110.0",
+    "sentence": "Linear shunt compensator BE_S1 is installed in voltage level 110.0 of substation PP_Brussels at topological node BE-Busbar_6, with a susceptance per section of 0.024793 S and 1 energized sections in the studied case."
+  },
+  {
+    "a": "BE_S1",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Brussels",
+    "sentence": "Linear shunt compensator BE_S1 is installed in voltage level 110.0 of substation PP_Brussels at topological node BE-Busbar_6, with a susceptance per section of 0.024793 S and 1 energized sections in the studied case."
+  },
+  {
+    "a": "BE_S1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "BE-Busbar_6",
+    "sentence": "Linear shunt compensator BE_S1 is installed in voltage level 110.0 of substation PP_Brussels at topological node BE-Busbar_6, with a susceptance per section of 0.024793 S and 1 energized sections in the studied case."
+  },
+  {
+    "a": "NL-S1",
+    "rel": "CONTAINED_IN",
+    "b": "400.0",
+    "sentence": "Linear shunt compensator NL-S1 is installed in voltage level 400.0 of substation PP_Amsterdam at topological node N1230992195, with a susceptance per section of 0.000313 S and 1 energized sections in the studied case."
+  },
+  {
+    "a": "NL-S1",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Linear shunt compensator NL-S1 is installed in voltage level 400.0 of substation PP_Amsterdam at topological node N1230992195, with a susceptance per section of 0.000313 S and 1 energized sections in the studied case."
+  },
+  {
+    "a": "NL-S1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "N1230992195",
+    "sentence": "Linear shunt compensator NL-S1 is installed in voltage level 400.0 of substation PP_Amsterdam at topological node N1230992195, with a susceptance per section of 0.000313 S and 1 energized sections in the studied case."
+  },
+  {
+    "a": "B1",
+    "rel": "CONTAINED_IN",
+    "b": "220.0",
+    "sentence": "Breaker B1 in voltage level 220.0 of substation PP_Amsterdam is currently closed. It connects topological node NL-Busbar_2 to topological node NL_Busbar__4."
+  },
+  {
+    "a": "B1",
+    "rel": "CONTAINED_IN",
+    "b": "PP_Amsterdam",
+    "sentence": "Breaker B1 in voltage level 220.0 of substation PP_Amsterdam is currently closed. It connects topological node NL-Busbar_2 to topological node NL_Busbar__4."
+  },
+  {
+    "a": "B1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "NL-Busbar_2",
+    "sentence": "Breaker B1 in voltage level 220.0 of substation PP_Amsterdam is currently closed. It connects topological node NL-Busbar_2 to topological node NL_Busbar__4."
+  },
+  {
+    "a": "B1",
+    "rel": "CONNECTS_TO_NODE",
+    "b": "NL_Busbar__4",
+    "sentence": "Breaker B1 in voltage level 220.0 of substation PP_Amsterdam is currently closed. It connects topological node NL-Busbar_2 to topological node NL_Busbar__4."
+  }
+]

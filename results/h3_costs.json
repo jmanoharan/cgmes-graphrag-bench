@@ -1,0 +1,46 @@
+{
+  "microgrid": {
+    "g_llm": {
+      "method": "LightRAG 1.5.1 (Azure gpt-5.1 builder + local MiniLM embeddings)",
+      "wall_sec": 78.24288153648376,
+      "llm_calls": 18,
+      "prompt_tokens": 65256,
+      "completion_tokens": 22706,
+      "total_tokens": 87962,
+      "corpus_words": 2299,
+      "nodes": 149,
+      "edges": 190
+    },
+    "g_std": {
+      "method": "Direct CGMES RDF/XML parse (ENTSO-E MicroGrid BC Assembled, CGMES v2.4.15)",
+      "wall_sec": 0.010031700134277344,
+      "llm_calls": 0,
+      "llm_tokens": 0,
+      "nodes": 233,
+      "edges": 362,
+      "source": "ENTSO-E CGMES Conformity Assessment test configuration (via powsybl-core mirror)"
+    }
+  },
+  "smallgrid": {
+    "g_llm": {
+      "method": "LightRAG 1.5.1 (Azure gpt-5.1 builder + local MiniLM embeddings)",
+      "wall_sec": 643.7117450237274,
+      "llm_calls": 112,
+      "prompt_tokens": 421977,
+      "completion_tokens": 172640,
+      "total_tokens": 594617,
+      "corpus_words": 14224,
+      "nodes": 1179,
+      "edges": 1544
+    },
+    "g_std": {
+      "method": "Direct CGMES RDF/XML parse (ENTSO-E MicroGrid BC Assembled, CGMES v2.4.15)",
+      "wall_sec": 0.0773773193359375,
+      "llm_calls": 0,
+      "llm_tokens": 0,
+      "nodes": 1398,
+      "edges": 2184,
+      "source": "ENTSO-E CGMES Conformity Assessment test configuration (via powsybl-core mirror)"
+    }
+  }
+}
